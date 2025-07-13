@@ -138,28 +138,26 @@ resume_jd_pairs.json
 
 # Jupyter Notebook
 .ipynb_checkpoints
-
-# Environment Variables
-.env
-.env.local
-.env.development.local
-.env.test.local
-.env.production.local
+*.ipynb
 
 # API Keys and Secrets
 config.py
 secrets.json
 credentials.json
 *.key
+api_keys.txt
 
-# IDE
+# IDE and Editors
 .vscode/
 .idea/
 *.swp
 *.swo
 *~
+.spyderproject
+.spyproject
+.ropeproject
 
-# OS
+# Operating System files
 .DS_Store
 .DS_Store?
 ._*
@@ -168,9 +166,10 @@ credentials.json
 ehthumbs.db
 Thumbs.db
 
-# Logs
+# Logs and debugging
 *.log
 logs/
+debug.log
 
 # Temporary files
 *.tmp
@@ -178,42 +177,36 @@ logs/
 temp/
 tmp/
 
-# Output files
+# Output and result files
 output/
 results/
 plots/
 figures/
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.svg
 
-# PDF files (if they contain sensitive data)
-*.pdf
+# PDF files (uncomment if they contain sensitive data)
+# *.pdf
 
+# Web framework specific
 # Streamlit
 .streamlit/
 
 # Flask
-instance/
-.webassets-cache
-
-# PyTorch
-*.pth
-
-# TensorFlow
-*.pb
-*.tflite
+flask_session/
 
 # NLTK Data
 nltk_data/
 
-# Coverage reports
-htmlcov/
-.coverage
-.coverage.*
-coverage.xml
-*.cover
-.hypothesis/
-.pytest_cache/
+# Matplotlib cache
+.matplotlib/
 
-# mypy
-.mypy_cache/
-.dmypy.json
-dmypy.json
+# Project specific
+# Resume matcher specific model
+resume_matcher_model.joblib
+
+# Specific to this project - synthetic data generation
+syntheticResumeGeneration/__pycache__/
