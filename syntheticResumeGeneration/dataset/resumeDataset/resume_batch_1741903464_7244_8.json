@@ -1,0 +1,21 @@
+{
+  "resume_id": "RES008",
+  "resume_text": "NAME: Olivia Anderson\nEMAIL: olivia.anderson@example.com\nPHONE: (555) 654-3210\n\nSUMMARY:\nSecurity Engineer with 6 years of experience in protecting systems and networks from cyber threats.\n\nSKILLS:\nPython, C++, CompTIA Security+, Cisco CCNA\n\nEXPERIENCE:\nCybersecurity LLC - Security Engineer (2018 - Present)\n- Conducted security audits and penetration testing.\n- Developed and implemented security policies.\n\nIT Security - Security Analyst (2017 - 2018)\n- Monitored security systems and responded to incidents.\n- Performed vulnerability assessments.\n\nEDUCATION:\nUniversity of Texas at Austin - Bachelor's in Cybersecurity (2017)\n\nCERTIFICATIONS:\nCompTIA Security+\nCisco CCNA\nCertified Ethical Hacker",
+  "extracted_skills": [
+    "Python",
+    "C++",
+    "CompTIA Security+",
+    "Cisco CCNA"
+  ],
+  "experience_years": 6,
+  "education_level": "Bachelor's",
+  "job_history": [
+    "Security Engineer",
+    "Security Analyst"
+  ],
+  "certifications": [
+    "CompTIA Security+",
+    "Cisco CCNA",
+    "Certified Ethical Hacker"
+  ]
+}

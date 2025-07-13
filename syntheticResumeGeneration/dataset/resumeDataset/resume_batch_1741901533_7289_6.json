@@ -1,0 +1,20 @@
+{
+  "resume_id": "RES006",
+  "resume_text": "NAME: Frank Garcia\nEMAIL: frank.garcia@email.com\nPHONE: 555-795-1234\n\nSUMMARY:\nExperienced Security Engineer with 8+ years of experience in cybersecurity. Proven ability to protect systems and data from threats.\n\nSKILLS:\nC++, Python, AWS, Azure, Security Engineering, Network Security\n\nEXPERIENCE:\nCyberSafe Inc - Security Engineer (2017 - Present)\n- Conducted security assessments and penetration testing to identify vulnerabilities.\n- Implemented security measures to protect systems and data from threats\n\nEDUCATION:\nMIT - PhD in Computer Science (2017)\n\nCERTIFICATIONS:\nCertified Ethical Hacker",
+  "extracted_skills": [
+    "C++",
+    "Python",
+    "AWS",
+    "Azure",
+    "Security Engineering",
+    "Network Security"
+  ],
+  "experience_years": 8,
+  "education_level": "PhD",
+  "job_history": [
+    "Security Engineer"
+  ],
+  "certifications": [
+    "Certified Ethical Hacker"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "job_id": "JD014",
+  "job_title": "AI Research Engineer",
+  "company": "AILabs",
+  "job_description": "Company: AILabs\nPosition: AI Research Engineer\nLocation: Cambridge, MA\nSalary: $170,000 - $250,000\n\nAbout Us:\nAILabs is a world-renowned center for artificial intelligence research. We tackle some of the most challenging problems in AI and publish our findings in top-tier conferences.\n\nJob Description:\nWe seek a highly motivated AI Research Engineer to conduct cutting-edge research in artificial intelligence. The ideal candidate will have a Ph.D. in Computer Science or a related field, with a strong publication record in machine learning or AI.\n\nResponsibilities:\n- Conduct research in machine learning and AI, with a focus on developing novel algorithms and techniques.\n- Publish research findings in top-tier conferences and journals.\n- Collaborate with other researchers and engineers.\n- Develop and implement software prototypes of research ideas.\n\nRequirements:\n- PhD in Computer Science or related field.\n- Strong publication record in machine learning or AI.\n- Proficiency in Python and relevant libraries (e.g., TensorFlow, PyTorch).\n- Experience with deep learning and reinforcement learning.\n\nPreferred Qualifications:\n- Experience with distributed computing and large-scale datasets.\n- Familiarity with cutting-edge AI research topics.\n- Knowledge of theoretical machine learning foundations.\n\nBenefits:\n- Competitive salary and benefits package.\n- Opportunities for research and publication.\n- Collaborative and innovative work environment.",
+  "required_skills": [
+    "Python",
+    "TensorFlow",
+    "PyTorch",
+    "Machine Learning",
+    "Deep Learning",
+    "Algorithm Development"
+  ],
+  "preferred_skills": [
+    "Reinforcement Learning",
+    "Distributed Computing",
+    "Research Publication"
+  ],
+  "min_experience": 0,
+  "education_requirement": "PhD",
+  "job_category": "Data",
+  "location": "Cambridge, MA",
+  "salary_range": "$170,000 - $250,000"
+}

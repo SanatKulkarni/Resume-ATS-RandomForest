@@ -1,0 +1,20 @@
+{
+  "resume_id": "RES010",
+  "resume_text": "NAME: Ashley Davis\nEMAIL: ashley.davis@email.com\nPHONE: 555-567-8901\n\nSUMMARY:\nDetail oriented and enthusiastic recent graduate looking to apply data science and machine learning skills to real world problems.\n\nSKILLS:\nPython, Pandas, NumPy, scikit-learn, TensorFlow, PyTorch, SQL, Power BI\n\nEXPERIENCE:\nInternship at Big Data Analytics (Summer 2023)\n- Assisted in the development of a fraud detection model using scikit-learn\n- Gained experience cleaning and preparing data for machine learning models\n\nEDUCATION:\nUniversity of North Carolina - Master's in Data Science (2024)\n\nCERTIFICATIONS:\nNone",
+  "extracted_skills": [
+    "Python",
+    "Pandas",
+    "NumPy",
+    "scikit-learn",
+    "TensorFlow",
+    "PyTorch",
+    "SQL",
+    "Power BI"
+  ],
+  "experience_years": 0,
+  "education_level": "Master's",
+  "job_history": [
+    "Intern"
+  ],
+  "certifications": []
+}

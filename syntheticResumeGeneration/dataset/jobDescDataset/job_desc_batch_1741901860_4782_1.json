@@ -1,0 +1,24 @@
+{
+  "job_id": "JD001",
+  "job_title": "Software Engineer (Frontend)",
+  "company": "WebFront",
+  "job_description": "Company: WebFront\nPosition: Software Engineer (Frontend)\nLocation: San Francisco, CA or Remote\nSalary: $100,000 - $140,000\n\nAbout Us:\nWebFront is a fast-growing technology company focused on building innovative web applications. We pride ourselves on a collaborative and inclusive work environment where everyone's contributions are valued.\n\nJob Description:\nWe are looking for a talented Frontend Engineer to join our dynamic team. The ideal candidate will have a strong understanding of modern frontend frameworks and a passion for creating engaging user experiences.\n\nResponsibilities:\n- Develop and maintain user-facing features using React.\n- Write clean, well-documented, and testable code.\n- Collaborate with designers and backend engineers to deliver high-quality products.\n- Participate in code reviews and contribute to improving our coding standards.\n\nRequirements:\n- Bachelor's degree in Computer Science or related field.\n- 2+ years of experience in frontend development.\n- Strong proficiency in JavaScript, HTML5, and CSS3.\n- Experience with React.\n\nPreferred Qualifications:\n- Experience with TypeScript.\n- Familiarity with state management libraries like Redux or Zustand.\n- Experience with testing frameworks like Jest or Mocha.\n\nBenefits:\n- Competitive salary and benefits package.\n- Flexible work arrangements.\n- Opportunities for professional growth and development.",
+  "required_skills": [
+    "JavaScript",
+    "HTML5",
+    "CSS3",
+    "React",
+    "Git",
+    "Node.js"
+  ],
+  "preferred_skills": [
+    "TypeScript",
+    "Redux",
+    "Jest"
+  ],
+  "min_experience": 2,
+  "education_requirement": "Bachelor's",
+  "job_category": "Frontend",
+  "location": "San Francisco, CA or Remote",
+  "salary_range": "$100,000 - $140,000"
+}

@@ -1,0 +1,18 @@
+{
+  "resume_id": "RES009",
+  "resume_text": "NAME: Isabella Lopez\nEMAIL: isabella.lopez@email.com\nPHONE: (555) 456-7890\n\nSUMMARY:\nData Engineer with 10 years of experience in building and maintaining data pipelines, data warehouses, and ETL processes.\n\nSKILLS:\nSQL, Python, AWS, Spark, Hadoop, ETL, Data Warehousing, CloudFormation\n\nEXPERIENCE:\nData Platform Inc - Data Engineer (2015 - Present)\n- Designed and implemented scalable data pipelines using AWS services like S3, Lambda, and Glue.\n- Developed ETL processes to transform and load data into data warehouses (Redshift, Snowflake).\nPrior to 2015 - Various contracting roles focused on database administration and warehousing\n\nEDUCATION:\nArizona State University - Bachelor's in Information Systems (2013)\n\nCERTIFICATIONS:\nAWS Certified Solutions Architect",
+  "extracted_skills": [
+    "SQL",
+    "Python",
+    "AWS",
+    "CloudFormation"
+  ],
+  "experience_years": 10,
+  "education_level": "Bachelor's",
+  "job_history": [
+    "Data Engineer"
+  ],
+  "certifications": [
+    "AWS Certified Solutions Architect"
+  ]
+}

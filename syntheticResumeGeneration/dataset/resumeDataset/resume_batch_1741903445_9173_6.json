@@ -1,0 +1,24 @@
+{
+  "resume_id": "R006",
+  "resume_text": "NAME: Frank Miller\nEMAIL: frank.miller@email.com\nPHONE: 555-876-5432\n\nSUMMARY:\nExperienced Cloud Architect with 12 years of experience in designing and implementing cloud solutions. Expertise in AWS, Azure, and GCP.\n\nSKILLS:\nAWS, Azure, GCP, Docker, Kubernetes, Terraform, CloudFormation, Linux\n\nEXPERIENCE:\nCloud Architects Inc. - Principal Architect (2014 - Present)\n- Designed and implemented cloud solutions for large enterprises.\n- Led a team of cloud engineers.\n\nIT Solutions - Systems Architect (2012 - 2014)\n- Designed and implemented IT infrastructure.\n- Troubleshooted system issues.\n\nEDUCATION:\nUniversity of Illinois at Urbana-Champaign - Master's in Computer Science (2012)\n\nCERTIFICATIONS:\nAWS Certified Solutions Architect, Google Cloud Professional",
+  "extracted_skills": [
+    "AWS",
+    "Azure",
+    "GCP",
+    "Docker",
+    "Kubernetes",
+    "Terraform",
+    "CloudFormation",
+    "Linux"
+  ],
+  "experience_years": 12,
+  "education_level": "Master's",
+  "job_history": [
+    "Principal Architect",
+    "Systems Architect"
+  ],
+  "certifications": [
+    "AWS Certified Solutions Architect",
+    "Google Cloud Professional"
+  ]
+}

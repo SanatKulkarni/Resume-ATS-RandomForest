@@ -1,0 +1,23 @@
+{
+  "job_id": "JD008",
+  "job_title": "Data Engineer",
+  "company": "DataFlow",
+  "job_description": "Company: DataFlow\nPosition: Data Engineer\nLocation: Remote\nSalary: $115,000 - $165,000\n\nAbout Us:\nDataFlow is dedicated to providing excellent data engineering and data analytics solutions. Our team is focused on enabling data-driven decision-making.\n\nJob Description:\nWe are seeking a Data Engineer to help us build and maintain our data infrastructure.\n\nResponsibilities:\n- Design, build, and maintain data pipelines.\n- Optimize data storage and processing.\n- Ensure data quality and reliability.\n- Collaborate with data scientists and analysts.\n\nRequirements:\n- Bachelor\u2019s degree in Computer Science or related field.\n- 3+ years of experience in data engineering.\n- Strong proficiency in SQL and Python.\n- Experience with data warehousing technologies such as Snowflake or Redshift.\n\nPreferred Qualifications:\n- Experience with Spark or Hadoop.\n- Experience with cloud data platforms.\n\nBenefits:\n- Competitive salary and benefits.\n- Remote work opportunities.\n- Professional development resources.",
+  "required_skills": [
+    "SQL",
+    "Python",
+    "ETL",
+    "Data Warehousing",
+    "AWS",
+    "Spark"
+  ],
+  "preferred_skills": [
+    "Snowflake",
+    "Hadoop"
+  ],
+  "min_experience": 3,
+  "education_requirement": "Bachelor's",
+  "job_category": "Data",
+  "location": "Remote",
+  "salary_range": "$115,000 - $165,000"
+}

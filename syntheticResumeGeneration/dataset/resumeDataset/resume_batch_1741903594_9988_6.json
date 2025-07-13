@@ -1,0 +1,24 @@
+{
+  "resume_id": "R006",
+  "resume_text": "NAME: Frank Garcia\nEMAIL: frank.garcia@example.com\nPHONE: 555-666-7777\n\nSUMMARY:\nCloud Architect with 10 years of experience in designing and implementing cloud solutions. Proven ability to optimize infrastructure and reduce costs.\n\nSKILLS:\nAWS, Azure, GCP, Docker, Kubernetes, Terraform, CloudFormation, Python\n\nEXPERIENCE:\nCloud Services Inc. - Cloud Architect (2014 - Present)\n- Designed and implemented cloud solutions on AWS, Azure, and GCP.\n- Optimized infrastructure and reduced costs by 30%.\nIT Solutions Ltd. - System Architect (2013 - 2014)\n- Designed and implemented IT infrastructure solutions.\n\nEDUCATION:\nScience University - Master's in Computer Science (2013)\n\nCERTIFICATIONS:\nAWS Certified Solutions Architect, Google Cloud Professional",
+  "extracted_skills": [
+    "AWS",
+    "Azure",
+    "GCP",
+    "Docker",
+    "Kubernetes",
+    "Terraform",
+    "CloudFormation",
+    "Python"
+  ],
+  "experience_years": 10,
+  "education_level": "Master's",
+  "job_history": [
+    "Cloud Architect",
+    "System Architect"
+  ],
+  "certifications": [
+    "AWS Certified Solutions Architect",
+    "Google Cloud Professional"
+  ]
+}

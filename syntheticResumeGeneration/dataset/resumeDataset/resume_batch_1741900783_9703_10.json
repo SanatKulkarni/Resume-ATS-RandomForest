@@ -1,0 +1,20 @@
+{
+  "resume_id": "RES010",
+  "resume_text": "NAME: Jack Wilson\nEMAIL: jack.wilson@email.com\nPHONE: (555) 987-3210\n\nSUMMARY:\nFrontend Developer with 1 year of experience. Specializing in creating responsive and user-friendly web interfaces.\n\nSKILLS:\nHTML5, CSS3, JavaScript, React, Redux, Tailwind CSS, Git\n\nEXPERIENCE:\nFrontend Solutions Ltd. - Frontend Developer (2023 - Present)\n- Developed web interfaces using React and JavaScript.\n- Implemented responsive designs using CSS3 and Bootstrap.\n\nTech Startup - Intern (2022 - 2023)\n- Assisted in developing front-end components.\n- Gained experience with HTML, CSS, and JavaScript.\n\nEDUCATION:\nNew York University - Associate's in Web Development (2023)\n",
+  "extracted_skills": [
+    "HTML5",
+    "CSS3",
+    "JavaScript",
+    "React",
+    "Redux",
+    "Tailwind CSS",
+    "Git"
+  ],
+  "experience_years": 1,
+  "education_level": "Associates",
+  "job_history": [
+    "Frontend Developer",
+    "Intern"
+  ],
+  "certifications": []
+}

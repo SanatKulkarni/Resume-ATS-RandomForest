@@ -1,0 +1,24 @@
+{
+  "job_id": "JD007",
+  "job_title": "Cloud Architect",
+  "company": "CloudScale",
+  "job_description": "Company: CloudScale\nPosition: Cloud Architect\nLocation: Remote\nSalary: $160,000 - $200,000\n\nAbout Us:\nCloudScale helps organizations design and implement scalable and cost-effective cloud solutions. We are experts in cloud architecture, migration, and optimization. We pride ourselves on delivering innovative solutions that meet our clients' unique needs.\n\nJob Description:\nWe are seeking an experienced Cloud Architect to join our team. You will be responsible for designing and implementing cloud solutions for our clients. The ideal candidate will have a deep understanding of cloud platforms, architectural patterns, and DevOps principles.\n\nResponsibilities:\n- Design and implement cloud architectures based on client requirements.\n- Develop and maintain cloud infrastructure as code using Terraform or CloudFormation.\n- Provide technical guidance and mentorship to other team members.\n- Stay up-to-date on the latest cloud technologies and trends.\n\nRequirements:\n- Bachelor's degree in Computer Science or related field.\n- 5+ years of experience in cloud architecture.\n- Deep understanding of cloud platforms (AWS, Azure, GCP).\n- Experience with infrastructure as code (Terraform, CloudFormation).\n\nPreferred Qualifications:\n- Cloud certifications (AWS Certified Solutions Architect, Azure Solutions Architect Expert).\n- Experience with Kubernetes.\n- Experience with serverless technologies.\n\nBenefits:\n- Generous benefits package.\n- Flexible work environment.\n- Opportunities for professional development.",
+  "required_skills": [
+    "AWS",
+    "Azure",
+    "GCP",
+    "Terraform",
+    "CloudFormation",
+    "Kubernetes",
+    "Docker"
+  ],
+  "preferred_skills": [
+    "Serverless",
+    "AWS Certified Solutions Architect"
+  ],
+  "min_experience": 5,
+  "education_requirement": "Bachelor's",
+  "job_category": "DevOps",
+  "location": "Remote",
+  "salary_range": "$160,000 - $200,000"
+}

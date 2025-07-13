@@ -1,0 +1,22 @@
+{
+  "resume_id": "resume_007",
+  "resume_text": "NAME: George Green\nEMAIL: george.green@email.com\nPHONE: (555) 123-0987\n\nSUMMARY:\nBackend Developer with 10 years of experience in building scalable and robust backend systems. Expertise in Node.js, Express.js, and MongoDB.\n\nSKILLS:\nNode.js, Express.js, MongoDB, SQL, AWS, Docker, Git\n\nEXPERIENCE:\nBackend Solutions LLC - Backend Developer (2015 - Present)\n- Designed and developed RESTful APIs using Node.js and Express.js.\n- Managed and maintained MongoDB databases.\n\nSoftware Corp. - Software Engineer (2014 - 2015)\n- Developed and maintained backend systems using Java.\n\nEDUCATION:\nGeorgia Tech - Master's in Computer Science (2014)\n\nCERTIFICATIONS:\nGoogle Cloud Professional",
+  "extracted_skills": [
+    "Node.js",
+    "Express.js",
+    "MongoDB",
+    "SQL",
+    "AWS",
+    "Docker",
+    "Git"
+  ],
+  "experience_years": 10,
+  "education_level": "Master's",
+  "job_history": [
+    "Backend Developer",
+    "Software Engineer"
+  ],
+  "certifications": [
+    "Google Cloud Professional"
+  ]
+}

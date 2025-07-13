@@ -1,0 +1,23 @@
+{
+  "resume_id": "RES007",
+  "resume_text": "NAME: Grace Lee\nEMAIL: grace.lee@example.com\nPHONE: (555) 678-9012\n\nSUMMARY:\nCloud Architect with 10 years of experience designing, implementing, and managing cloud infrastructure. Proven ability to optimize cloud environments for performance and cost-efficiency.\n\nSKILLS:\nAWS, Azure, GCP, Kubernetes, Terraform, CloudFormation, Python, Linux\n\nEXPERIENCE:\nGlobal Cloud Solutions - Principal Cloud Architect (2017 - Present)\n- Architected and implemented cloud solutions for enterprise clients.\n- Led a team of cloud engineers in migrating applications to the cloud.\n\nCloud Consulting Group - Senior Cloud Engineer (2014 - 2017)\n- Designed and deployed cloud infrastructure using AWS and Azure.\n- Provided technical guidance and support to clients.\n\nEDUCATION:\nCarnegie Mellon University - Master's in Cloud Computing (2014)\n\nCERTIFICATIONS:\nAWS Certified Solutions Architect, Google Cloud Professional",
+  "extracted_skills": [
+    "AWS",
+    "Azure",
+    "GCP",
+    "Kubernetes",
+    "Terraform",
+    "CloudFormation",
+    "Python"
+  ],
+  "experience_years": 10,
+  "education_level": "Master's",
+  "job_history": [
+    "Principal Cloud Architect",
+    "Senior Cloud Engineer"
+  ],
+  "certifications": [
+    "AWS Certified Solutions Architect",
+    "Google Cloud Professional"
+  ]
+}

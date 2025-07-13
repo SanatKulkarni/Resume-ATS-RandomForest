@@ -1,0 +1,24 @@
+{
+  "resume_id": "RES008",
+  "resume_text": "NAME: Hannah Black\nEMAIL: hannah.black@email.com\nPHONE: (555) 654-3210\n\nSUMMARY:\nCloud Architect with 12 years of experience designing and implementing cloud solutions. Expertise in AWS, Azure, and GCP.\n\nSKILLS:\nAWS, Azure, GCP, Docker, Kubernetes, Terraform, CloudFormation, Python\n\nEXPERIENCE:\nCloud Architects Inc. - Cloud Architect (2015 - Present)\n- Designed and implemented cloud solutions for various clients.\n- Provided technical guidance and support to development teams.\n\nIT Solutions Co. - Systems Engineer (2012 - 2015)\n- Managed Linux and Windows servers.\n\nEDUCATION:\nUniversity of Texas - Bachelor's in Computer Science (2012)\n\nCERTIFICATIONS:\nAWS Certified Solutions Architect, Google Cloud Professional",
+  "extracted_skills": [
+    "AWS",
+    "Azure",
+    "GCP",
+    "Docker",
+    "Kubernetes",
+    "Terraform",
+    "CloudFormation",
+    "Python"
+  ],
+  "experience_years": 12,
+  "education_level": "Bachelor's",
+  "job_history": [
+    "Cloud Architect",
+    "Systems Engineer"
+  ],
+  "certifications": [
+    "AWS Certified Solutions Architect",
+    "Google Cloud Professional"
+  ]
+}

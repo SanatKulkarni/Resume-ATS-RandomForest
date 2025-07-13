@@ -1,0 +1,24 @@
+{
+  "job_id": "JD008",
+  "job_title": "Software Engineer (Full Stack)",
+  "company": "FullStack Inc",
+  "job_description": "Company: FullStack Inc\nPosition: Software Engineer (Full Stack)\nLocation: Denver, CO\nSalary: $110,000 - $150,000\n\nAbout Us:\nFullStack Inc builds innovative web applications and software solutions. We emphasize collaboration, creativity, and a passion for delivering high-quality products that solve real-world problems.\n\nJob Description:\nWe are seeking a Full Stack Software Engineer to contribute to the development of our web applications. The ideal candidate will be comfortable working on both the frontend and backend of our applications.\n\nResponsibilities:\n- Design, develop, and maintain web applications.\n- Write clean, testable, and efficient code on both the frontend and backend.\n- Collaborate with designers, product managers, and other engineers.\n- Participate in code reviews and contribute to improving our development practices.\n\nRequirements:\n- Bachelor's degree in Computer Science or related field.\n- 2+ years of experience in full stack development.\n- Proficiency in JavaScript, HTML, CSS, and a backend language (e.g., Node.js, Python, Java).\n- Experience with relational databases (e.g., MySQL, PostgreSQL).\n\nPreferred Qualifications:\n- Experience with React or Angular.\n- Familiarity with cloud computing platforms (e.g., AWS, Azure, GCP).\n- Knowledge of DevOps practices and tools.\n\nBenefits:\n- Competitive salary and benefits package.\n- Stock options.\n- Opportunities for professional development.",
+  "required_skills": [
+    "JavaScript",
+    "HTML5",
+    "CSS3",
+    "Node.js",
+    "SQL",
+    "Git"
+  ],
+  "preferred_skills": [
+    "React",
+    "AWS",
+    "Docker"
+  ],
+  "min_experience": 2,
+  "education_requirement": "Bachelor's",
+  "job_category": "Full Stack",
+  "location": "Denver, CO",
+  "salary_range": "$110,000 - $150,000"
+}

@@ -1,0 +1,25 @@
+{
+  "resume_id": "RESUME_010",
+  "resume_text": "NAME: Anya Sharma\nEMAIL: anya.sharma@email.com\nPHONE: (555) 444-5555\n\nSUMMARY:\nHighly adaptable Cloud Architect with extensive experience in designing, deploying, and managing cloud-based solutions. Expertise in AWS, Azure, and GCP, along with a deep understanding of cloud security best practices.\n\nSKILLS:\nAWS, Azure, GCP, Terraform, Kubernetes, Docker, Python, CloudFormation\n\nEXPERIENCE:\nCloud Architects Ltd. - Cloud Architect (2018 - Present)\n- Designed and implemented cloud infrastructure solutions for enterprise clients using AWS, Azure, and GCP.\n- Automated infrastructure provisioning and deployment using Terraform and CloudFormation.\n\nIT Infrastructure Services - Systems Administrator (2016 - 2018)\n- Managed and maintained on-premises servers and infrastructure.\n- Migrated applications to the cloud.\n\nEDUCATION:\nUniversity of Southern California - Master's in Computer Science (2016)\n\nCERTIFICATIONS:\nAWS Certified Solutions Architect, Microsoft Azure Administrator, Google Cloud Professional",
+  "extracted_skills": [
+    "AWS",
+    "Azure",
+    "GCP",
+    "Terraform",
+    "Kubernetes",
+    "Docker",
+    "Python",
+    "CloudFormation"
+  ],
+  "experience_years": 8,
+  "education_level": "Master's",
+  "job_history": [
+    "Cloud Architect",
+    "Systems Administrator"
+  ],
+  "certifications": [
+    "AWS Certified Solutions Architect",
+    "Microsoft Azure Administrator",
+    "Google Cloud Professional"
+  ]
+}

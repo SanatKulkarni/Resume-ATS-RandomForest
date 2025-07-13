@@ -1,0 +1,22 @@
+{
+  "resume_id": "RES007",
+  "resume_text": "NAME: George Ingram\nEMAIL: george.ingram@email.com\nPHONE: (555) 456-7891\n\nSUMMARY:\nA highly adaptable Security Engineer adept at identifying and mitigating security vulnerabilities. Experienced in penetration testing, incident response, and security policy implementation.\n\nSKILLS:\nPython, AWS, Linux, Network Security, Penetration Testing, Incident Response\n\nEXPERIENCE:\nCyberGuard Services - Security Engineer (2017 - Present)\n- Conducted regular penetration tests on web applications and infrastructure.\n- Responded to security incidents and implemented remediation strategies.\n\nIT Support Company - IT Specialist (2015 - 2017)\n- Provided technical support to end-users.\n- Maintained the company's IT infrastructure.\n\nEDUCATION:\nUniversity of Maryland - Master's in Cybersecurity (2015)\n\nCERTIFICATIONS:\nCompTIA Security+\nCertified Ethical Hacker\n",
+  "extracted_skills": [
+    "Python",
+    "AWS",
+    "Linux",
+    "Network Security",
+    "Penetration Testing",
+    "Incident Response"
+  ],
+  "experience_years": 8,
+  "education_level": "Master's",
+  "job_history": [
+    "Security Engineer",
+    "IT Specialist"
+  ],
+  "certifications": [
+    "CompTIA Security+",
+    "Certified Ethical Hacker"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "resume_id": "RES009",
+  "resume_text": "NAME: Isabella Lee\nEMAIL: isabella.lee@email.com\nPHONE: 555-543-2109\n\nSUMMARY:\nMachine Learning Engineer with 1 year of experience developing and deploying machine learning models. Eager to learn and contribute to innovative projects.\n\nSKILLS:\nPython, TensorFlow, PyTorch, scikit-learn, Pandas, NumPy\n\nEXPERIENCE:\nAI Solutions Ltd. - Machine Learning Engineer (2024 - Present)\n- Developed and deployed machine learning models for various applications.\n- Conducted research on new machine learning techniques.\n\nEDUCATION:\nPrinceton University - Master's in Machine Learning (2024)\n",
+  "extracted_skills": [
+    "Python",
+    "TensorFlow",
+    "PyTorch",
+    "scikit-learn",
+    "Pandas",
+    "NumPy"
+  ],
+  "experience_years": 1,
+  "education_level": "Master's",
+  "job_history": [
+    "Machine Learning Engineer"
+  ],
+  "certifications": []
+}

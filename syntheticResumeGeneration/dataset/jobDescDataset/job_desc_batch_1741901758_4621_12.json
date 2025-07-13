@@ -1,0 +1,24 @@
+{
+  "job_id": "JD012",
+  "job_title": "Database Administrator",
+  "company": "DataSystems",
+  "job_description": "Company: DataSystems\nPosition: Database Administrator\nLocation: Chicago, IL (On-site)\nSalary: $90,000 - $140,000\n\nAbout Us:\nDataSystems is a leading provider of data management solutions. We are looking for a DBA to ensure the performance, security, and availability of our databases.\n\nJob Description:\nWe are seeking a skilled Database Administrator to manage and maintain our database infrastructure. The ideal candidate should have direct experience in managing and maintaining SQL and NoSQL databases.\n\nResponsibilities:\n- Install, configure, and maintain database systems.\n- Monitor database performance and troubleshoot issues.\n- Implement security measures to protect data.\n- Backup and recover databases.\n\nRequirements:\n- Bachelor's degree in Computer Science or related field.\n- 2+ years experience as a SQL, NoSQL Database Administrator.\n- Experience with database administration tools.\n- Knowledge of database security best practices.\n\nPreferred Qualifications:\n- Experience with cloud-based database services.\n- Knowledge of database replication and clustering.\n- Familiarity with automation tools.\n\nBenefits:\n- Training opportunities provided.\n- Comprehensive healthcare plan.\n",
+  "required_skills": [
+    "SQL",
+    "MySQL",
+    "PostgreSQL",
+    "Database Security",
+    "Backup & Recovery",
+    "Performance Tuning"
+  ],
+  "preferred_skills": [
+    "Cloud Databases",
+    "Replication",
+    "Automation"
+  ],
+  "min_experience": 2,
+  "education_requirement": "Bachelor's",
+  "job_category": "Backend",
+  "location": "Chicago, IL (On-site)",
+  "salary_range": "$90,000 - $140,000"
+}

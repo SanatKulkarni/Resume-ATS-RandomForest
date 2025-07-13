@@ -1,0 +1,24 @@
+{
+  "resume_id": "R010",
+  "resume_text": "NAME: Jack Chen\nEMAIL: jack.chen@email.com\nPHONE: 555-746-2837\n\nSUMMARY:\nData Engineer with 8 years of experience in designing, building, and maintaining data pipelines. Expertise in ETL processes and data warehousing.\n\nSKILLS:\nPython, SQL, AWS, Azure, Spark, Hadoop, ETL, Data Warehousing\n\nEXPERIENCE:\nData Solutions Inc. - Lead Data Engineer (2019 - Present)\n- Led the development of data pipelines and data warehouses.\n- Optimized data processing performance.\n\nData Analytics Corp. - Data Engineer (2016 - 2019)\n- Designed and implemented ETL processes.\n- Maintained data warehouses.\nPrevious Company - Software Engineer (2015 - 2016)\n- Assisted in software development processes\n\nEDUCATION:\nColumbia University - Master's in Data Science (2016)\n\nCERTIFICATIONS:\nMicrosoft Azure Administrator",
+  "extracted_skills": [
+    "Python",
+    "SQL",
+    "AWS",
+    "Azure",
+    "Spark",
+    "Hadoop",
+    "ETL",
+    "Data Warehousing"
+  ],
+  "experience_years": 8,
+  "education_level": "Master's",
+  "job_history": [
+    "Lead Data Engineer",
+    "Data Engineer",
+    "Software Engineer"
+  ],
+  "certifications": [
+    "Microsoft Azure Administrator"
+  ]
+}

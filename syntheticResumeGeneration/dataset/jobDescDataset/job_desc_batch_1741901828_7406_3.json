@@ -1,0 +1,24 @@
+{
+  "job_id": "JD003",
+  "job_title": "DevOps Engineer",
+  "company": "DevSecOps",
+  "job_description": "Company: DevSecOps\nPosition: DevOps Engineer\nLocation: New York, NY (On-site)\nSalary: $130,000 - $160,000\n\nAbout Us:\nDevSecOps is a leading provider of DevOps and security solutions. We help our clients automate their infrastructure and improve their security posture. Join our team and help us build the future of DevOps.\n\nJob Description:\nWe are looking for a DevOps Engineer to join our team. The ideal candidate will have experience with automating infrastructure, building CI/CD pipelines, and monitoring systems.\n\nResponsibilities:\n- Design, implement, and maintain CI/CD pipelines.\n- Automate infrastructure using tools like Terraform and Ansible.\n- Monitor systems and respond to incidents.\n- Collaborate with development and security teams.\n\nRequirements:\n- Bachelor's degree in Computer Science or related field.\n- 3+ years of experience in DevOps.\n- Experience with Docker and Kubernetes.\n- Proficiency in scripting languages (e.g., Python, Bash).\n\nPreferred Qualifications:\n- Experience with cloud technologies (e.g., AWS, Azure).\n- Experience with security tools (e.g., Nessus, Burp Suite).\n- Knowledge of networking principles.\n\nBenefits:\n- Competitive salary and benefits package.\n- Opportunity to work with cutting-edge technologies.\n- Stock options.",
+  "required_skills": [
+    "Docker",
+    "Kubernetes",
+    "AWS",
+    "Terraform",
+    "Ansible",
+    "Git",
+    "Jenkins"
+  ],
+  "preferred_skills": [
+    "Python",
+    "Security Tools"
+  ],
+  "min_experience": 3,
+  "education_requirement": "Bachelor's",
+  "job_category": "DevOps",
+  "location": "New York, NY (On-site)",
+  "salary_range": "$130,000 - $160,000"
+}

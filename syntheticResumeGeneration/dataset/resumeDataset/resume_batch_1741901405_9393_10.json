@@ -1,0 +1,24 @@
+{
+  "resume_id": "RES010",
+  "resume_text": "NAME: Jack Rodriguez\nEMAIL: jack.rodriguez@email.com\nPHONE: (555) 456-0789\n\nSUMMARY:\nSenior Data Engineer with 10+ years of experience in designing, building, and maintaining data pipelines and data warehouses.\n\nSKILLS:\nSQL, Python, AWS, GCP, Spark, Hadoop, Kafka, ETL, Data Modeling\n\nEXPERIENCE:\nData Solutions Inc - Data Engineer (2015 - Present)\n- Designed and built data pipelines using AWS and GCP.\n- Implemented data warehouses using Snowflake.\n- Optimized data processing performance.\n\nBig Data Co - Data Architect (2013 - 2015)\n- Designed and implemented data architectures.\n\nAnalytics Corp - Database Administrator (2010 - 2013)\n- Managed and maintained databases.\n\nEDUCATION:\nCalifornia Institute of Technology - PhD in Computer Science (2010)",
+  "extracted_skills": [
+    "SQL",
+    "Python",
+    "AWS",
+    "GCP",
+    "Spark",
+    "Hadoop",
+    "Kafka",
+    "ETL"
+  ],
+  "experience_years": 14,
+  "education_level": "PhD",
+  "job_history": [
+    "Data Engineer",
+    "Data Architect",
+    "Database Administrator"
+  ],
+  "certifications": [
+    "Google Cloud Professional"
+  ]
+}

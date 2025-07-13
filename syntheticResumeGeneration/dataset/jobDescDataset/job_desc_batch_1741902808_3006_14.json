@@ -1,0 +1,24 @@
+{
+  "job_id": "JD014",
+  "job_title": "Site Reliability Engineer",
+  "company": "AnalyticsHub",
+  "job_description": "Company: AnalyticsHub\nPosition: Site Reliability Engineer\nLocation: Remote\nSalary: $145,000 - $185,000\n\nAbout Us:\nAnalyticsHub helps clients better understand their business through data. We work with complex systems and strive for maximum uptime and performace.\n\nJob Description:\nWe are looking for a Site Reliability Engineer to ensure the reliability and scalability of our services. The ideal candidate will have experience with monitoring, automation, and incident response.\n\nResponsibilities:\n- Design, implement, and maintain monitoring systems.\n- Automate operational tasks.\n- Respond to incidents and troubleshoot issues.\n- Improve system performance and scalability.\n\nRequirements:\n- 3+ years of experience in SRE or systems administration.\n- Proficiency with Linux, scripting languages (Python, Go), and cloud platforms (AWS, Azure, GCP).\n- Experience with monitoring tools (Prometheus, Grafana).\n- Strong problem-solving skills.\n\nPreferred Qualifications:\n- Experience with Kubernetes.\n- Knowledge of networking protocols.\n- Familiarity with CI/CD pipelines.\n\nBenefits:\n- Flexible work hours.\n- Unlimited paid time off.\n- Stock options.",
+  "required_skills": [
+    "Linux",
+    "Python",
+    "AWS",
+    "Prometheus",
+    "Grafana",
+    "Networking"
+  ],
+  "preferred_skills": [
+    "Kubernetes",
+    "CI/CD",
+    "Go"
+  ],
+  "min_experience": 3,
+  "education_requirement": "Bachelor's",
+  "job_category": "DevOps",
+  "location": "Remote",
+  "salary_range": "$145,000 - $185,000"
+}

@@ -1,0 +1,23 @@
+{
+  "resume_id": "R008",
+  "resume_text": "NAME: Henry Black\nEMAIL: henry.black@email.com\nPHONE: (555) 543-2109\n\nSUMMARY:\nBackend Developer with 6 years of experience in building scalable and reliable APIs and services. Proficient in Java, Spring, and microservices architecture.\n\nSKILLS:\nJava, Spring, REST, MySQL, Docker, Kubernetes, AWS, Git\n\nEXPERIENCE:\nBackend Systems LLC - Senior Backend Developer (2020 - Present)\n- Designed and implemented RESTful APIs using Java and Spring.\n- Deployed and managed microservices on Docker and Kubernetes.\n\nService Solutions Inc. - Backend Developer (2018 - 2020)\n- Developed and maintained backend services using Java and MySQL.\n- Implemented caching and load balancing strategies.\n\nEDUCATION:\nUniversity of Illinois at Urbana-Champaign - Bachelor's in Computer Science (2018)\n\nCERTIFICATIONS:\nOracle Certified Professional, Java SE Programmer",
+  "extracted_skills": [
+    "Java",
+    "Spring",
+    "REST",
+    "MySQL",
+    "Docker",
+    "Kubernetes",
+    "AWS",
+    "Git"
+  ],
+  "experience_years": 6,
+  "education_level": "Bachelor's",
+  "job_history": [
+    "Senior Backend Developer",
+    "Backend Developer"
+  ],
+  "certifications": [
+    "Oracle Certified Professional, Java SE Programmer"
+  ]
+}

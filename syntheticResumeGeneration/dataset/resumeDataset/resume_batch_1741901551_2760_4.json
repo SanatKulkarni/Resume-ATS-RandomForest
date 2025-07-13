@@ -1,0 +1,20 @@
+{
+  "resume_id": "R004",
+  "resume_text": "NAME: Diana Davis\nEMAIL: diana.davis@email.com\nPHONE: (555) 456-7890\n\nSUMMARY:\nResults-oriented Frontend Developer with 7 years of experience in creating engaging and user-friendly web applications. Proficient in modern JavaScript frameworks and responsive design principles.\n\nSKILLS:\nJavaScript, React, Angular, HTML5, CSS3, SASS, jQuery\n\nEXPERIENCE:\nWeb Design Agency - Senior Frontend Developer (2017 - Present)\n- Developed and maintained complex web applications using React and Angular.\n- Led a team of frontend developers in building responsive and accessible user interfaces.\n\nSoftware Development Firm - Frontend Developer (2016 - 2017)\n- Created and maintained web applications using HTML5, CSS3, and JavaScript.\n- Collaborated with designers to implement pixel-perfect designs.\n\nEDUCATION:\nUniversity of Washington - Bachelor's in Web Development (2016)",
+  "extracted_skills": [
+    "JavaScript",
+    "React",
+    "Angular",
+    "HTML5",
+    "CSS3",
+    "SASS",
+    "jQuery"
+  ],
+  "experience_years": 7,
+  "education_level": "Bachelor's",
+  "job_history": [
+    "Senior Frontend Developer",
+    "Frontend Developer"
+  ],
+  "certifications": []
+}

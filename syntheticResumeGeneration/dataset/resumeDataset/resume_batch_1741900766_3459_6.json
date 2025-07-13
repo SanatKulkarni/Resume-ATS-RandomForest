@@ -1,0 +1,20 @@
+{
+  "resume_id": "R1006",
+  "resume_text": "NAME: Fatima Khan\nEMAIL: fatima.khan@example.com\nPHONE: 555-777-8888\n\nSUMMARY:\nMobile Developer with 6 years of experience developing iOS and Android applications. Passionate about creating user-friendly mobile experiences.\n\nSKILLS:\niOS, Android, Swift, Kotlin, React Native, Flutter, Git\n\nEXPERIENCE:\nMobile Solutions Inc. - Mobile Developer (2017 - Present)\n- Developed and maintained iOS applications using Swift and Objective-C.\n- Developed and maintained Android applications using Kotlin and Java.\n\nApps Development - Junior Mobile Developer (2016 - 2017)\n- Assisted in the development of mobile applications using Java.\n\nEDUCATION:\nUniversity of Michigan - Bachelor's in Computer Science (2016)\n\nCERTIFICATIONS:\nNone",
+  "extracted_skills": [
+    "iOS",
+    "Android",
+    "Swift",
+    "Kotlin",
+    "React Native",
+    "Flutter",
+    "Git"
+  ],
+  "experience_years": 6,
+  "education_level": "Bachelor's",
+  "job_history": [
+    "Mobile Developer",
+    "Junior Mobile Developer"
+  ],
+  "certifications": []
+}

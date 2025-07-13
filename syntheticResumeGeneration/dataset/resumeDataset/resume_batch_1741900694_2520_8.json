@@ -1,0 +1,16 @@
+{
+  "resume_id": "RES008",
+  "resume_text": "NAME: Henry Martinez\nEMAIL: henry.martinez@example.com\nPHONE: (555) 135-7913\n\nSUMMARY:\nEntry-level Software Engineer with a strong foundation in programming and software development principles. Eager to contribute to a dynamic team and learn new technologies.\n\nSKILLS:\nPython, Java, Git, SQL, Linux\n\nEXPERIENCE:\nXYZ Company - Software Engineer Intern (2023)\n- Developed and tested software modules using Python.\n- Contributed to code reviews and documentation.\n\nEDUCATION:\nPurdue University - Bachelor's in Software Engineering (2024)",
+  "extracted_skills": [
+    "Python",
+    "Java",
+    "Git",
+    "SQL"
+  ],
+  "experience_years": 0,
+  "education_level": "Bachelor's",
+  "job_history": [
+    "Software Engineer Intern"
+  ],
+  "certifications": []
+}

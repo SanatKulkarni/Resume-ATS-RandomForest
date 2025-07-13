@@ -1,0 +1,20 @@
+{
+  "resume_id": "RESUME_006",
+  "resume_text": "NAME: Frank Garcia\nEMAIL: frank.garcia@example.com\nPHONE: (555) 654-9870\n\nSUMMARY:\nExperienced Security Engineer with 7 years in protecting systems and data. Passionate about threat detection and prevention.\n\nSKILLS:\nPython, AWS, Azure, Network Security, Security Audits, Penetration Testing, Linux\n\nEXPERIENCE:\nCyberGuard - Security Engineer (2018 - Present)\n- Conducted security audits and penetration testing to identify vulnerabilities.\n- Implemented security solutions to protect against cyber threats.\nSecure Systems - Systems Administrator (2016 - 2018)\n- Managed server infrastructure and implemented security protocols.\n\nEDUCATION:\nGeorgia Institute of Technology - Master's in Cybersecurity (2016)\n\nCERTIFICATIONS:\nCompTIA Security+, Certified Ethical Hacker",
+  "extracted_skills": [
+    "Python",
+    "AWS",
+    "Azure",
+    "Network Security"
+  ],
+  "experience_years": 7,
+  "education_level": "Master's",
+  "job_history": [
+    "Security Engineer",
+    "Systems Administrator"
+  ],
+  "certifications": [
+    "CompTIA Security+",
+    "Certified Ethical Hacker"
+  ]
+}

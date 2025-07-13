@@ -1,0 +1,20 @@
+{
+  "resume_id": "RESUME_006",
+  "resume_text": "NAME: Sophia Lee\nEMAIL: sophia.lee@email.com\nPHONE: 555-555-6666\n\nSUMMARY:\nBackend Developer specializing in Java and microservices architecture. Experienced in designing and implementing robust and scalable systems.\n\nSKILLS:\nJava, Spring, REST APIs, Docker, Kubernetes, AWS, SQL\n\nEXPERIENCE:\nCloud Services Inc - Backend Developer (2019 - Present)\n- Designed and developed microservices using Java and Spring.\n- Deployed and managed applications on AWS using Docker and Kubernetes.\n\nSoftware Solutions - Software Engineer (2018 - 2019)\n- Developed and maintained backend systems using Java.\n\nEDUCATION:\nCarnegie Mellon University - Master's in Software Engineering (2018)",
+  "extracted_skills": [
+    "Java",
+    "Spring",
+    "REST APIs",
+    "Docker",
+    "Kubernetes",
+    "AWS",
+    "SQL"
+  ],
+  "experience_years": 6,
+  "education_level": "Master's",
+  "job_history": [
+    "Backend Developer",
+    "Software Engineer"
+  ],
+  "certifications": []
+}

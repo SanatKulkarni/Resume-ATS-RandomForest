@@ -1,0 +1,20 @@
+{
+  "resume_id": "RESUME008",
+  "resume_text": "NAME: Henry Thompson\nEMAIL: henry.thompson@email.com\nPHONE: (555) 222-3333\n\nSUMMARY:\nSecurity Engineer with 4 years of experience in securing web applications and infrastructure. Expertise in penetration testing, vulnerability assessment, and incident response.\n\nSKILLS:\nPython, Linux, Networking, Security Tools, Penetration Testing\n\nEXPERIENCE:\nCyberSec Inc. - Security Engineer (2020 - Present)\n- Conducted penetration testing and vulnerability assessments.\n- Responded to security incidents and implemented security measures.\n\nIT Security Solutions - Junior Security Analyst (2019 - 2020)\n- Monitored network traffic for suspicious activity.\n- Assisted in the development of security policies and procedures.\n\nEDUCATION:\nCarnegie Mellon University - Bachelor's in Cybersecurity (2019)\n\nCERTIFICATIONS:\nCompTIA Security+",
+  "extracted_skills": [
+    "Python",
+    "Linux",
+    "Networking",
+    "Security Tools",
+    "Penetration Testing"
+  ],
+  "experience_years": 4,
+  "education_level": "Bachelor's",
+  "job_history": [
+    "Security Engineer",
+    "Junior Security Analyst"
+  ],
+  "certifications": [
+    "CompTIA Security+"
+  ]
+}

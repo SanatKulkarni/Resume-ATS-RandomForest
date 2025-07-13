@@ -1,0 +1,18 @@
+{
+  "resume_id": "R1010",
+  "resume_text": "NAME: Jack Rodriguez\nEMAIL: jack.rodriguez@email.com\nPHONE: (555) 789-4560\n\nSUMMARY:\nQA Engineer with 1 year of experience in ensuring software quality through testing and automation. Detail-oriented and passionate about delivering high-quality products.\n\nSKILLS:\nSelenium, JUnit, Java, Python, SQL, Git\n\nEXPERIENCE:\nSoftware Testing Ltd. - QA Engineer (2023 - Present)\n- Developed and executed test cases for web and mobile applications.\n- Automated testing processes using Selenium and JUnit.\n\nEDUCATION:\nUniversity of Arizona - Bachelor's in Computer Science (2023)\n\nCERTIFICATIONS:\nNone",
+  "extracted_skills": [
+    "Selenium",
+    "JUnit",
+    "Java",
+    "Python",
+    "SQL",
+    "Git"
+  ],
+  "experience_years": 1,
+  "education_level": "Bachelor's",
+  "job_history": [
+    "QA Engineer"
+  ],
+  "certifications": []
+}

@@ -1,0 +1,16 @@
+{
+  "resume_id": "resume_007",
+  "resume_text": "NAME: Grace Hernandez\nEMAIL: grace.hernandez@example.com\nPHONE: (555) 111-2222\n\nSUMMARY:\nQA Engineer with 2 years of experience in testing software applications and ensuring quality standards. Proficient in manual and automated testing methodologies.\n\nSKILLS:\nSelenium, JUnit, TestNG, SQL\n\nEXPERIENCE:\nQuality Assurance Inc. - QA Engineer (2022 - Present)\n- Performed manual and automated testing of software applications.\n- Wrote test cases and test plans.\n- Used Selenium, JUnit, and TestNG for automated testing.\n\nEDUCATION:\nSan Jose State University - Bachelor's in Software Engineering (2022)\n",
+  "extracted_skills": [
+    "Selenium",
+    "JUnit",
+    "TestNG",
+    "SQL"
+  ],
+  "experience_years": 2,
+  "education_level": "Bachelor's",
+  "job_history": [
+    "QA Engineer"
+  ],
+  "certifications": []
+}

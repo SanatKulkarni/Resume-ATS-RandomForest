@@ -1,0 +1,20 @@
+{
+  "resume_id": "RESUME_002",
+  "resume_text": "NAME: Bob Williams\nEMAIL: bob.williams@email.com\nPHONE: 555-987-6543\n\nSUMMARY:\nFrontend Developer with 3+ years of experience building responsive and user-friendly web applications. Proficient in React, JavaScript, and HTML5.\n\nSKILLS:\nJavaScript, React, HTML5, CSS3, Node.js, Git, Redux\n\nEXPERIENCE:\nGamma Technologies - Frontend Developer (2021 - Present)\n- Developed and maintained user interfaces for web applications using React.\n- Implemented responsive designs and ensured cross-browser compatibility.\n\nStartup X - Web Developer Intern (2020 - 2021)\n- Assisted in the development of website features using HTML5, CSS3, and JavaScript.\n\nEDUCATION:\nStanford University - Bachelor's in Computer Science (2021)",
+  "extracted_skills": [
+    "JavaScript",
+    "React",
+    "HTML5",
+    "CSS3",
+    "Node.js",
+    "Git",
+    "Redux"
+  ],
+  "experience_years": 3,
+  "education_level": "Bachelor's",
+  "job_history": [
+    "Frontend Developer",
+    "Web Developer Intern"
+  ],
+  "certifications": []
+}

@@ -1,0 +1,18 @@
+{
+  "resume_id": "RES009",
+  "resume_text": "NAME: Isabella Rodriguez\nEMAIL: isabella.rodriguez@email.com\nPHONE: 555-963-2587\n\nSUMMARY:\nFrontend Developer with 1 year of experience building responsive and interactive user interfaces. Proficient in React, HTML5, CSS3, and JavaScript.\n\nSKILLS:\nReact, HTML5, CSS3, JavaScript, Git, Bootstrap\n\nEXPERIENCE:\nFrontend Solutions Inc. - Frontend Developer (2023 - Present)\n- Developed and maintained front-end components of web applications.\n- Implemented UI/UX designs using React and CSS3.\n\nEDUCATION:\nUniversity of Southern California - Bachelor's in Computer Science (2023)",
+  "extracted_skills": [
+    "React",
+    "HTML5",
+    "CSS3",
+    "JavaScript",
+    "Git",
+    "Bootstrap"
+  ],
+  "experience_years": 1,
+  "education_level": "Bachelor's",
+  "job_history": [
+    "Frontend Developer"
+  ],
+  "certifications": []
+}

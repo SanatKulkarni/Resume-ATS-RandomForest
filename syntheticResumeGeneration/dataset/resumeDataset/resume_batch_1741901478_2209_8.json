@@ -1,0 +1,19 @@
+{
+  "resume_id": "resume_008",
+  "resume_text": "NAME: Hannah Black\nEMAIL: hannah.black@email.com\nPHONE: (555) 987-3456\n\nSUMMARY:\nQA Engineer with 6 years of experience in testing web and mobile applications. Proficient in manual and automated testing techniques.\n\nSKILLS:\nSelenium, JUnit, TestNG, Git, SQL, JavaScript\n\nEXPERIENCE:\nQuality Assurance Inc. - QA Engineer (2019 - Present)\n- Developed and executed test plans and test cases.\n- Performed manual and automated testing of web and mobile applications.\n\nSoftware Testing LLC - Junior QA Engineer (2018 - 2019)\n- Assisted senior QA engineers in testing software.\n\nEDUCATION:\nSan Jose State University - Bachelor's in Software Engineering (2018)",
+  "extracted_skills": [
+    "Selenium",
+    "JUnit",
+    "TestNG",
+    "Git",
+    "SQL",
+    "JavaScript"
+  ],
+  "experience_years": 6,
+  "education_level": "Bachelor's",
+  "job_history": [
+    "QA Engineer",
+    "Junior QA Engineer"
+  ],
+  "certifications": []
+}

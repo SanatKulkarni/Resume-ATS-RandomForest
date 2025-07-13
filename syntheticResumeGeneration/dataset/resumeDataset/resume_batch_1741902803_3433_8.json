@@ -1,0 +1,22 @@
+{
+  "resume_id": "resume_008",
+  "resume_text": "NAME: Henry Irwin\nEMAIL: henry.irwin@example.com\nPHONE: (555) 444-5555\n\nSUMMARY:\nCloud Architect with 12 years of experience in designing and implementing cloud solutions. Expertise in AWS, Azure, and GCP.\n\nSKILLS:\nAWS, Azure, GCP, Docker, Kubernetes, Terraform, CloudFormation, Python\n\nEXPERIENCE:\nCloud Architects Ltd. - Cloud Architect (2012 - Present)\n- Designed and implemented cloud solutions on AWS, Azure, and GCP.\n- Used Terraform and CloudFormation for infrastructure as code.\n- Managed container orchestration using Docker and Kubernetes.\n\nEDUCATION:\nCarnegie Mellon University - Master's in Computer Science (2012)\n\nCERTIFICATIONS:\nMicrosoft Azure Administrator",
+  "extracted_skills": [
+    "AWS",
+    "Azure",
+    "GCP",
+    "Docker",
+    "Kubernetes",
+    "Terraform",
+    "CloudFormation",
+    "Python"
+  ],
+  "experience_years": 12,
+  "education_level": "Master's",
+  "job_history": [
+    "Cloud Architect"
+  ],
+  "certifications": [
+    "Microsoft Azure Administrator"
+  ]
+}

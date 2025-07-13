@@ -1,0 +1,15 @@
+{
+  "resume_id": "RES010",
+  "resume_text": "NAME: Jack Moore\nEMAIL: jack.moore@email.com\nPHONE: 555-901-2345\n\nSUMMARY:\nProduct Manager with 7 years of experience leading cross-functional teams to deliver successful software products. Strong understanding of agile methodologies and product development lifecycle.\n\nSKILLS:\nSQL, Tableau, Python, Jira, Agile Methodologies\n\nEXPERIENCE:\nProduct Innovations Inc. - Product Manager (2018 - Present)\n- Defined product vision and strategy.\n- Managed product roadmap and prioritized features.\n\nEDUCATION:\nHarvard University - MBA (2018)\n",
+  "extracted_skills": [
+    "SQL",
+    "Tableau",
+    "Python"
+  ],
+  "experience_years": 7,
+  "education_level": "Master's",
+  "job_history": [
+    "Product Manager"
+  ],
+  "certifications": []
+}

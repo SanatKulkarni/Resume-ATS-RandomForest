@@ -1,0 +1,17 @@
+{
+  "resume_id": "RES005",
+  "resume_text": "NAME: Emily Davis\nEMAIL: emily.davis@email.com\nPHONE: 555-318-5792\n\nSUMMARY:\nEntry-level Frontend Developer eager to learn and contribute to innovative web projects.\n\nSKILLS:\nHTML5, CSS3, JavaScript, React, Git\n\nEXPERIENCE:\nWeb Design Studio - Intern (2022 - 2023)\n- Assisted senior developers in building and maintaining web applications.\n- Contributed to the development of user interfaces using HTML5, CSS3, and JavaScript.\n\nEDUCATION:\nUniversity of Washington - Bachelor's in Information Technology (2023)",
+  "extracted_skills": [
+    "HTML5",
+    "CSS3",
+    "JavaScript",
+    "React",
+    "Git"
+  ],
+  "experience_years": 0,
+  "education_level": "Bachelor's",
+  "job_history": [
+    "Intern"
+  ],
+  "certifications": []
+}

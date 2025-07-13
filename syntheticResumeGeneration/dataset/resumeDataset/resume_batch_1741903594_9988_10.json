@@ -1,0 +1,18 @@
+{
+  "resume_id": "R010",
+  "resume_text": "NAME: Jack Wilson\nEMAIL: jack.wilson@example.com\nPHONE: 555-222-3333\n\nSUMMARY:\nMachine Learning Engineer with 1 year of experience in researching and developing machine learning models. Eager to apply machine learning techniques to solve real-world problems.\n\nSKILLS:\nPython, TensorFlow, PyTorch, scikit-learn, Pandas, NumPy\n\nEXPERIENCE:\nAI Innovations Ltd. - Machine Learning Engineer (2023 - Present)\n- Researched and developed machine learning models.\n- Implemented machine learning algorithms using Python.\n\nEDUCATION:\nScience Institute - PhD in Artificial Intelligence (2023)\n\nCERTIFICATIONS:\nNone",
+  "extracted_skills": [
+    "Python",
+    "TensorFlow",
+    "PyTorch",
+    "scikit-learn",
+    "Pandas",
+    "NumPy"
+  ],
+  "experience_years": 1,
+  "education_level": "PhD",
+  "job_history": [
+    "Machine Learning Engineer"
+  ],
+  "certifications": []
+}

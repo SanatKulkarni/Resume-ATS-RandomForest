@@ -1,0 +1,22 @@
+{
+  "job_id": "JD015",
+  "job_title": "Database Administrator",
+  "company": "DataSystems",
+  "job_description": "Company: DataSystems\nPosition: Database Administrator\nLocation: Dallas, TX (Remote)\nSalary: $90,000 - $130,000\n\nAbout Us:\nDataSystems provides premier data management services. We ensure our clients' data is safe, scalable, and readily available. We make sure clients can take data-drive action.\n\nJob Description:\nWe are looking for a Database Administrator to manage our database systems. The ideal candidate will have experience with database administration, performance tuning, and backup/recovery.\n\nResponsibilities:\n- Install, configure, and maintain database systems (e.g., MySQL, PostgreSQL).\n- Monitor database performance and troubleshoot issues.\n- Implement backup and recovery procedures.\n- Ensure data security and integrity.\n\nRequirements:\n- Bachelor's degree in Computer Science or related field.\n- 3+ years of experience in database administration.\n- Proficiency in SQL and database management systems.\n- Experience with backup and recovery tools.\n\nPreferred Qualifications:\n- Database certifications (e.g., Oracle Certified Professional).\n- Knowledge of cloud database services (e.g., AWS RDS, Azure SQL Database).\n- Familiarity with database security best practices.\n\nBenefits:\n- Competitive salary and benefits package.\n- Opportunity to work on critical database systems.\n- Remote work environment.\n- Professional development opportunities.",
+  "required_skills": [
+    "SQL",
+    "MySQL",
+    "PostgreSQL",
+    "Database Administration",
+    "Linux"
+  ],
+  "preferred_skills": [
+    "AWS RDS",
+    "Azure SQL Database"
+  ],
+  "min_experience": 3,
+  "education_requirement": "Bachelor's",
+  "job_category": "Backend",
+  "location": "Dallas, TX (Remote)",
+  "salary_range": "$90,000 - $130,000"
+}

@@ -1,0 +1,19 @@
+{
+  "resume_id": "RES010",
+  "resume_text": "NAME: Jack Thompson\nEMAIL: Jack.Thompson@example.com\nPHONE: (555) 357-0124\n\nSUMMARY:\nSeasoned Security Engineer with over a decade of experience protecting systems and networks from cyber threats. Proficient in penetration testing, incident response, threat analysis, and security audits.\n\nSKILLS:\nSecurity Engineer, Penetration Testing, Incident Response, Threat Analysis, Kali Linux, Network Security, Firewall Management\n\nEXPERIENCE:\nCyber Guard Inc. - Senior Security Engineer (2015-Present)\n- Lead penetration testing activities to identify vulnerabilities.\n- Developed and implemented security incident response plans and procedures.\n\nSecure Tech Solutions - Security Analyst (2013-2015)\n- Assisted in the monitoring and analysis of security alerts and events.\nEDUCATION:\nStanford University - Master's in Cybersecurity (2013)\n\nCertifications:\nCertified Ethical Hacker, CompTIA Security+",
+  "extracted_skills": [
+    "Penetration Testing",
+    "Incident Response",
+    "Threat Analysis"
+  ],
+  "experience_years": 11,
+  "education_level": "Master's",
+  "job_history": [
+    "Senior Security Engineer",
+    "Security Analyst"
+  ],
+  "certifications": [
+    "Certified Ethical Hacker",
+    "CompTIA Security+"
+  ]
+}

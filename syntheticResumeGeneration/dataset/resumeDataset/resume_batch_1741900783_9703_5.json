@@ -1,0 +1,18 @@
+{
+  "resume_id": "RES005",
+  "resume_text": "NAME: Emily Davis\nEMAIL: emily.davis@email.com\nPHONE: (555) 482-7896\n\nSUMMARY:\nMobile Developer with 4 years of experience in iOS development. Focused on creating innovative and user-friendly mobile applications.\n\nSKILLS:\nSwift, iOS, React Native, Xcode, Git\n\nEXPERIENCE:\nMobile Apps Inc. - Mobile Developer (2020 - Present)\n- Developed and maintained iOS applications using Swift.\n- Collaborated with designers to create user-friendly interfaces.\n\nStartup Labs - Junior Developer (2018 - 2020)\n- Assisted in the development of mobile applications using React Native.\n\nEDUCATION:\nUniversity of Michigan - Bachelor's in Computer Engineering (2018)\n",
+  "extracted_skills": [
+    "Swift",
+    "iOS",
+    "React Native",
+    "Xcode",
+    "Git"
+  ],
+  "experience_years": 4,
+  "education_level": "Bachelor's",
+  "job_history": [
+    "Mobile Developer",
+    "Junior Developer"
+  ],
+  "certifications": []
+}

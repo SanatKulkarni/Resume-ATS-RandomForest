@@ -1,0 +1,20 @@
+{
+  "resume_id": "RES007",
+  "resume_text": "NAME: Grace Hernandez\nEMAIL: grace.hernandez@email.com\nPHONE: (555) 234-5678\n\nSUMMARY:\nResults-oriented QA Engineer with 4 years of experience in testing software applications and identifying defects.\n\nSKILLS:\nSelenium, JUnit, TestNG, SQL, Java, Git, Jenkins\n\nEXPERIENCE:\nQuality Assurance Co - QA Engineer (2020 - Present)\n- Developed and executed test plans and test cases.\n- Identified and reported defects.\n- Automated tests using Selenium and JUnit.\n\nTesting Inc - Junior QA Tester (2019-2020)\n- Performed manual testing on web and mobile applications.\n\nEDUCATION:\nArizona State University - Bachelor's in Software Engineering (2019)",
+  "extracted_skills": [
+    "Selenium",
+    "JUnit",
+    "TestNG",
+    "SQL",
+    "Java",
+    "Git",
+    "Jenkins"
+  ],
+  "experience_years": 5,
+  "education_level": "Bachelor's",
+  "job_history": [
+    "QA Engineer",
+    "Junior QA Tester"
+  ],
+  "certifications": []
+}

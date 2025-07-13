@@ -1,0 +1,22 @@
+{
+  "resume_id": "RES006",
+  "resume_text": "NAME: Frank Rodriguez\nEMAIL: frank.rodriguez@email.com\nPHONE: (555) 579-1357\n\nSUMMARY:\nExperienced Security Engineer with 8 years of expertise in protecting computer systems and networks. Skilled in identifying and mitigating security vulnerabilities.\n\nSKILLS:\nPython, AWS, Azure, Linux, Windows, Networking, Cybersecurity\n\nEXPERIENCE:\nCybersecurity Solutions LLC - Security Engineer (2017 - Present)\n- Conducted security assessments and penetration testing to identify vulnerabilities.\n- Implemented security controls and incident response procedures.\n\nNetwork Security Co. - Network Administrator (2015 - 2017)\n- Managed network infrastructure and implemented security policies.\n- Troubleshooted network issues and ensured network security.\n\nEDUCATION:\nGeorgia Institute of Technology - Bachelor's in Computer Engineering (2015)\n\nCERTIFICATIONS:\nCompTIA Security+",
+  "extracted_skills": [
+    "Python",
+    "AWS",
+    "Azure",
+    "Linux",
+    "Windows",
+    "Networking",
+    "Cybersecurity"
+  ],
+  "experience_years": 8,
+  "education_level": "Bachelor's",
+  "job_history": [
+    "Security Engineer",
+    "Network Administrator"
+  ],
+  "certifications": [
+    "CompTIA Security+"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "resume_id": "RES003",
+  "resume_text": "NAME: Carol Davis\nEMAIL: carol.davis@email.com\nPHONE: 555-246-8013\n\nSUMMARY:\nResults-oriented DevOps Engineer with 5 years of experience in automating software deployments and infrastructure management. Proven ability to improve efficiency and reliability of systems.\n\nSKILLS:\nAWS, Docker, Kubernetes, Terraform, Jenkins, Git, Python\n\nEXPERIENCE:\nCloud Solutions Ltd. - DevOps Engineer (2020 - Present)\n- Automated deployments using Docker, Kubernetes, and Terraform.\n- Implemented CI/CD pipelines using Jenkins.\n\nTech Services - System Administrator (2019 - 2020)\n- Managed Linux servers and network infrastructure.\n\nEDUCATION:\nUniversity of Texas at Austin - Bachelor's in Computer Engineering (2019)\n\nCERTIFICATIONS:\nAWS Certified Solutions Architect",
+  "extracted_skills": [
+    "AWS",
+    "Docker",
+    "Kubernetes",
+    "Terraform",
+    "Jenkins",
+    "Git",
+    "Python"
+  ],
+  "experience_years": 5,
+  "education_level": "Bachelor's",
+  "job_history": [
+    "DevOps Engineer",
+    "System Administrator"
+  ],
+  "certifications": [
+    "AWS Certified Solutions Architect"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "resume_id": "R005",
+  "resume_text": "NAME: Emily Davis\nEMAIL: emily.davis@example.com\nPHONE: 555-333-4444\n\nSUMMARY:\nMobile Developer with 4 years of experience in developing iOS and Android applications. Passionate about creating innovative mobile solutions.\n\nSKILLS:\niOS, Android, Swift, Kotlin, React Native, Java\n\nEXPERIENCE:\nApp Development Ltd. - Mobile Developer (2020 - Present)\n- Developed and maintained iOS and Android applications using Swift, Kotlin, and React Native.\n- Implemented user interfaces and backend integrations.\nMobile Solutions Corp. - Junior Mobile Developer (2019 - 2020)\n- Assisted in the development of mobile applications.\n\nEDUCATION:\nTechnology Institute - Bachelor's in Software Engineering (2019)\n\nCERTIFICATIONS:\nNone",
+  "extracted_skills": [
+    "iOS",
+    "Android",
+    "Swift",
+    "Kotlin",
+    "React Native",
+    "Java"
+  ],
+  "experience_years": 4,
+  "education_level": "Bachelor's",
+  "job_history": [
+    "Mobile Developer",
+    "Junior Mobile Developer"
+  ],
+  "certifications": []
+}

@@ -1,0 +1,23 @@
+{
+  "job_id": "JD011",
+  "job_title": "AI Research Engineer",
+  "company": "AILabs",
+  "job_description": "Company: AILabs\nPosition: AI Research Engineer\nLocation: Boston, MA\nSalary: $150,000 - $190,000\n\nAbout Us:\nAILabs is at the forefront of artificial intelligence research. We are developing cutting-edge AI technologies to solve real-world problems.\n\nJob Description:\nWe are seeking an AI Research Engineer to conduct research and develop new AI algorithms and models. The ideal candidate will have a strong background in machine learning and deep learning.\n\nResponsibilities:\n- Conduct research in machine learning and deep learning.\n- Develop and implement new AI algorithms and models.\n- Publish research papers and present at conferences.\n- Collaborate with other researchers and engineers.\n\nRequirements:\n- PhD in Computer Science or related field.\n- 3+ years of experience in AI research.\n- Proficiency in Python and machine learning libraries such as TensorFlow and PyTorch.\n- Strong mathematical and statistical skills.\n\nPreferred Qualifications:\n- Experience with reinforcement learning.\n- Experience with natural language processing.\n\nBenefits:\n- Generous research budget.\n- Opportunity to publish research.\n- Collaborative research environment.",
+  "required_skills": [
+    "Python",
+    "TensorFlow",
+    "PyTorch",
+    "Machine Learning",
+    "Deep Learning",
+    "C++"
+  ],
+  "preferred_skills": [
+    "Reinforcement Learning",
+    "Natural Language Processing"
+  ],
+  "min_experience": 3,
+  "education_requirement": "PhD",
+  "job_category": "Data",
+  "location": "Boston, MA",
+  "salary_range": "$150,000 - $190,000"
+}

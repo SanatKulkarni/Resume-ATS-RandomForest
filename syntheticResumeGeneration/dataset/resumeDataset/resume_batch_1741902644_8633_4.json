@@ -1,0 +1,20 @@
+{
+  "resume_id": "RES004",
+  "resume_text": "NAME: David Lee\nEMAIL: david.lee@email.com\nPHONE: 555-135-7912\n\nSUMMARY:\nFull Stack Developer with 2 years of experience building responsive and user-friendly web applications. Passionate about learning new technologies and solving complex problems.\n\nSKILLS:\nJavaScript, React, Node.js, Express.js, MongoDB, HTML5, CSS3, Git\n\nEXPERIENCE:\nWeb Development Agency - Full Stack Developer (2022 - Present)\n- Developed and maintained front-end and back-end components of web applications.\n- Implemented RESTful APIs using Node.js and Express.js.\n\nEDUCATION:\nUniversity of Washington - Bachelor's in Computer Science (2022)",
+  "extracted_skills": [
+    "JavaScript",
+    "React",
+    "Node.js",
+    "Express.js",
+    "MongoDB",
+    "HTML5",
+    "CSS3",
+    "Git"
+  ],
+  "experience_years": 2,
+  "education_level": "Bachelor's",
+  "job_history": [
+    "Full Stack Developer"
+  ],
+  "certifications": []
+}

@@ -1,0 +1,17 @@
+{
+  "resume_id": "RESUME_010",
+  "resume_text": "NAME: Jack Taylor\nEMAIL: jack.taylor@example.com\nPHONE: (555) 543-2109\n\nSUMMARY:\nData Engineer with 6 years of experience building and maintaining data pipelines and data warehouses. Experienced with ETL processes and big data technologies.\n\nSKILLS:\nSQL, Python, AWS, Spark, Hadoop, ETL process, Data Modeling\n\nEXPERIENCE:\nData Central - Data Engineer (2019 - Present)\n- Desiged and implemented ETL pipelines to extract, transform and load data into the data warehouse.\n- Optimized data warehouse performance for reporting and analytics.\nBeta Analytics - Junior Data Engineer (2017-2019)\n- Built and maintained existing data pipelines.\n\nEDUCATION:\nArizona State University - Bachelor's in Data Analytics (2017)",
+  "extracted_skills": [
+    "SQL",
+    "Python",
+    "AWS",
+    "Spark"
+  ],
+  "experience_years": 6,
+  "education_level": "Bachelor's",
+  "job_history": [
+    "Data Engineer",
+    "Junior Data Engineer"
+  ],
+  "certifications": []
+}

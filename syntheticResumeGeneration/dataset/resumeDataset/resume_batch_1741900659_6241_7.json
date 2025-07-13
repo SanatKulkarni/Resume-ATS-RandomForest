@@ -1,0 +1,18 @@
+{
+  "resume_id": "R1007",
+  "resume_text": "NAME: George Brown\nEMAIL: george.brown@email.com\nPHONE: (555) 789-0123\n\nSUMMARY:\nBackend Developer with 4 years of experience in developing REST APIs using Java, Spring, and MySQL. Proficient in backend development and database design.\n\nSKILLS:\nJava, Spring, MySQL, REST, Git, Docker\n\nEXPERIENCE:\nBackend Solutions Co - Backend Developer (2020 - Present)\n- Developed and maintained REST APIs using Java and Spring.\n- Designed and implemented database schemas.\n\nEDUCATION:\nTech College - Bachelor's in Computer Information Systems (2020)\n",
+  "extracted_skills": [
+    "Java",
+    "Spring",
+    "MySQL",
+    "REST",
+    "Git",
+    "Docker"
+  ],
+  "experience_years": 4,
+  "education_level": "Bachelor's",
+  "job_history": [
+    "Backend Developer"
+  ],
+  "certifications": []
+}

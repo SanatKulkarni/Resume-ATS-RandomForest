@@ -1,0 +1,24 @@
+{
+  "job_id": "JD-011",
+  "job_title": "Cloud Architect",
+  "company": "CloudScale",
+  "job_description": "Company: CloudScale\nPosition: Cloud Architect\nLocation: Atlanta, GA (Remote)\nSalary: $170,000 - $220,000\n\nAbout Us:\nCloudScale helps businesses scale their infrastructure with cloud solutions. We deliver cloud migration, optimization, and security services.\n\nJob Description:\nWe need a Cloud Architect to design and implement cloud infrastructure solutions for our clients. You will be responsible for ensuring solutions are secure, scalable, and cost-effective.\n\nResponsibilities:\n- Design and implement cloud architectures on AWS, Azure, and GCP\n- Develop and enforce cloud security policies\n- Optimize cloud infrastructure for performance and cost\n- Provide technical guidance to clients\n\nRequirements:\n- Bachelor's degree in Computer Science or related field\n- 7+ years of experience in cloud computing\n- Deep understanding of AWS, Azure, and GCP services\n- Experience with infrastructure-as-code tools (e.g., Terraform, CloudFormation)\n\nPreferred Qualifications:\n- Cloud certifications (e.g., AWS Certified Solutions Architect, Azure Solutions Architect Expert)\n- Experience with DevOps practices\n\nBenefits:\n- Competitive salary and benefits package\n- Fully remote work environment\n- Professional development opportunities",
+  "required_skills": [
+    "AWS",
+    "Azure",
+    "GCP",
+    "Terraform",
+    "CloudFormation",
+    "Security",
+    "Networking"
+  ],
+  "preferred_skills": [
+    "AWS Certified Solutions Architect",
+    "Azure Solutions Architect Expert"
+  ],
+  "min_experience": 7,
+  "education_requirement": "Bachelor's",
+  "job_category": "DevOps",
+  "location": "Atlanta, GA (Remote)",
+  "salary_range": "$170,000 - $220,000"
+}

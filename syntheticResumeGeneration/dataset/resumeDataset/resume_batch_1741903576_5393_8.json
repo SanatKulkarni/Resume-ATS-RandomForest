@@ -1,0 +1,20 @@
+{
+  "resume_id": "RESUME_008",
+  "resume_text": "NAME: Henry Irwin\nEMAIL: henry.irwin@email.com\nPHONE: 555-444-1111\n\nSUMMARY:\nExperienced Data Engineer with 9  years of experience building pipelines. Proficient in Python, Spark, and AWS.\n\nSKILLS:\nPython, Spark, AWS, SQL, Data Warehousing, ETL\n\nEXPERIENCE:\nData Pipelines Inc. - Data Engineer (2015 - Present)\n- Developed and maintained data pipelines on AWS.\n- Used Python and Spark for data processing and transformation.\n\nEducation:\nState University - Bachelor's in Engineering (2015)\n\nCERTIFICATIONS:\nMicrosoft Azure Administrator",
+  "extracted_skills": [
+    "Python",
+    "Spark",
+    "AWS",
+    "SQL",
+    "Data Warehousing",
+    "ETL"
+  ],
+  "experience_years": 9,
+  "education_level": "Bachelor's",
+  "job_history": [
+    "Data Engineer"
+  ],
+  "certifications": [
+    "Microsoft Azure Administrator"
+  ]
+}

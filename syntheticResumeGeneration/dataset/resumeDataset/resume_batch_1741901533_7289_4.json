@@ -1,0 +1,19 @@
+{
+  "resume_id": "RES004",
+  "resume_text": "NAME: David Brown\nEMAIL: david.brown@email.com\nPHONE: 555-864-9321\n\nSUMMARY:\nPassionate Mobile Developer with expertise in building iOS and Android applications. Skilled in Swift and Kotlin.\n\nSKILLS:\niOS, Android, Swift, Kotlin, React Native, Git\n\nEXPERIENCE:\nMobilia Apps - Mobile Developer (2021 - Present)\n- Developed iOS and Android applications using Swift and Kotlin.\n- Implemented user interfaces and integrated backend APIs.\n\nApp Innovators - Junior Mobile Developer (2019 - 2021)\n- Assisted in the development of mobile applications using React Native.\n- Worked on bug fixing and performance optimization.\n\nEDUCATION:\nSan Jose State University - Bachelor's in Software Engineering (2019)",
+  "extracted_skills": [
+    "iOS",
+    "Android",
+    "Swift",
+    "Kotlin",
+    "React Native",
+    "Git"
+  ],
+  "experience_years": 4,
+  "education_level": "Bachelor's",
+  "job_history": [
+    "Mobile Developer",
+    "Junior Mobile Developer"
+  ],
+  "certifications": []
+}

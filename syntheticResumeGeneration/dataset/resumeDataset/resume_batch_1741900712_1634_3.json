@@ -1,0 +1,20 @@
+{
+  "resume_id": "RESUME_003",
+  "resume_text": "NAME: Carol Davis\nEMAIL: carol.davis@example.com\nPHONE: (555) 456-7890\n\nSUMMARY:\nData Scientist with a strong background in statistical modeling and machine learning. Seeking a challenging role to apply my analytical skills to solve complex business problems.\n\nSKILLS:\nPython, scikit-learn, TensorFlow, Pandas, NumPy, R, Tableau\n\nEXPERIENCE:\nData Insights Co. - Data Scientist (2020 - Present)\n- Developed machine learning models for customer churn prediction.\n- Performed data analysis and visualization using Tableau.\n\nResearch Institute - Research Assistant (2018 - 2020)\n- Conducted statistical analysis on large datasets.\n- Published research papers in peer-reviewed journals.\n\nEDUCATION:\nUniversity of Science - Master's in Statistics (2018)\n\nCERTIFICATIONS:\nNone",
+  "extracted_skills": [
+    "Python",
+    "scikit-learn",
+    "TensorFlow",
+    "Pandas",
+    "NumPy",
+    "R",
+    "Tableau"
+  ],
+  "experience_years": 5,
+  "education_level": "Master's",
+  "job_history": [
+    "Data Scientist",
+    "Research Assistant"
+  ],
+  "certifications": []
+}

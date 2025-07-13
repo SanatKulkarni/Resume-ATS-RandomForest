@@ -1,0 +1,15 @@
+{
+  "resume_id": "RES009",
+  "resume_text": "NAME: Isabella Rodriguez\nEMAIL: Isabella.Rodriguez@example.com\nPHONE: (555) 246-9014\n\nSUMMARY:\nData Engineer experienced in building and maintaining data pipelines and data warehouses. Possesses strong SQL and Python skills, passionate about ensuring data quality and accessibility.\n\nSKILLS:\nSQL, Python, AWS, Data Engineer, ETL, Data Warehousing, Cloud Databases\n\nEXPERIENCE:\nData Solutions Firm - Data Engineer (2020-Present)\n- Led the design and implementation of automated ETL pipelines.\n- Optimized exisiting data warehouse to accommodate new incoming data.\n\nEDUCATION:\nUniversity of Michigan - Bachelor's in Data Science (2020)",
+  "extracted_skills": [
+    "SQL",
+    "Python",
+    "AWS"
+  ],
+  "experience_years": 4,
+  "education_level": "Bachelor's",
+  "job_history": [
+    "Data Engineer"
+  ],
+  "certifications": []
+}

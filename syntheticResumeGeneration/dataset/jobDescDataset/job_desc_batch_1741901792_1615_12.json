@@ -1,0 +1,23 @@
+{
+  "job_id": "JD-012",
+  "job_title": "AI Research Engineer",
+  "company": "FrontierTech",
+  "job_description": "Company: FrontierTech\nPosition: AI Research Engineer\nLocation: Pittsburgh, PA (On-site)\nSalary: $170,000 - $250,000\n\nAbout Us:\nFrontierTech is dedicated to pushing the boundaries of AI and machine learning. We conduct groundbreaking research to develop innovative technologies.\n\nJob Description:\nWe are seeking an AI Research Engineer to implement and evaluate novel AI algorithms. You will work on challenging research problems and publish your findings.\n\nResponsibilities:\n- Implement and evaluate novel AI algorithms\n- Write research papers and present findings at conferences\n- Collaborate with other researchers\n- Contribute to open-source AI libraries\n\nRequirements:\n- PhD in Computer Science, Mathematics, or a related field\n- Strong programming skills in Python\n- Experience with deep learning frameworks (TensorFlow, PyTorch)\n- Publications in top AI conferences\n\nPreferred Qualifications:\n- Experience with reinforcement learning\n- Experience with natural language processing\n\nBenefits:\n- Competitive salary and benefits package\n- Opportunity to work on cutting-edge research\n- Collaborative and supportive work environment",
+  "required_skills": [
+    "Python",
+    "TensorFlow",
+    "PyTorch",
+    "Machine Learning",
+    "Deep Learning",
+    "Algorithm Development"
+  ],
+  "preferred_skills": [
+    "Reinforcement Learning",
+    "Natural Language Processing"
+  ],
+  "min_experience": 0,
+  "education_requirement": "PhD",
+  "job_category": "Data",
+  "location": "Pittsburgh, PA (On-site)",
+  "salary_range": "$170,000 - $250,000"
+}

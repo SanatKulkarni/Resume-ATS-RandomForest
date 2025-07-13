@@ -1,0 +1,23 @@
+{
+  "resume_id": "RES007",
+  "resume_text": "NAME: David Martinez\nEMAIL: david.martinez@example.com\nPHONE: (555) 876-5432\n\nSUMMARY:\nSeasoned Cloud Architect with 12 years of experience designing and implementing cloud solutions.\n\nSKILLS:\nAWS, Azure, GCP, Terraform, Kubernetes, Python, CloudFormation\n\nEXPERIENCE:\nCloud Solutions Inc - Cloud Architect (2015 - Present)\n- Designed and implemented cloud infrastructure for various clients.\n- Led a team of engineers in migrating on-premise applications to the cloud.\nTech Consulting - Senior Consultant (2011 - 2015)\n- Provided cloud consulting services to clients.\n- Developed cloud migration strategies.\n\nEDUCATION:\nGeorgia Tech - Master's in Computer Science (2011)\n\nCERTIFICATIONS:\nAWS Certified Solutions Architect\nGoogle Cloud Professional",
+  "extracted_skills": [
+    "AWS",
+    "Azure",
+    "GCP",
+    "Terraform",
+    "Kubernetes",
+    "Python",
+    "CloudFormation"
+  ],
+  "experience_years": 12,
+  "education_level": "Master's",
+  "job_history": [
+    "Cloud Architect",
+    "Senior Consultant"
+  ],
+  "certifications": [
+    "AWS Certified Solutions Architect",
+    "Google Cloud Professional"
+  ]
+}

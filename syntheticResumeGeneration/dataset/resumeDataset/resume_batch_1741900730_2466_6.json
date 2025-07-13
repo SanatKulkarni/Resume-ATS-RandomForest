@@ -1,0 +1,21 @@
+{
+  "resume_id": "RES006",
+  "resume_text": "NAME: Frank Brown\nEMAIL: frank.brown@email.com\nPHONE: 555-812-9536\n\nSUMMARY:\nBackend Developer with 6 years of experience designing and implementing scalable and reliable backend systems. Expertise in Java, Spring, and SQL.\n\nSKILLS:\nJava, Spring, SQL, MySQL, RESTful APIs, Git\n\nEXPERIENCE:\nBackend Systems Ltd. - Backend Developer (2019 - Present)\n- Designed and implemented RESTful APIs using Spring Boot.\n- Optimized database queries for improved performance.\n\nSoftware Development Corp. - Java Developer (2017 - 2019)\n- Developed and maintained Java applications using Spring.\n\nEDUCATION:\nGeorgia Institute of Technology - Bachelor's in Computer Science (2017)\n\nCERTIFICATIONS:\nOracle Certified Professional",
+  "extracted_skills": [
+    "Java",
+    "Spring",
+    "SQL",
+    "MySQL",
+    "RESTful APIs",
+    "Git"
+  ],
+  "experience_years": 6,
+  "education_level": "Bachelor's",
+  "job_history": [
+    "Backend Developer",
+    "Java Developer"
+  ],
+  "certifications": [
+    "Oracle Certified Professional"
+  ]
+}

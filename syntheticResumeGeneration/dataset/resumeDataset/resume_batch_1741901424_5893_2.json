@@ -1,0 +1,23 @@
+{
+  "resume_id": "RES002",
+  "resume_text": "NAME: Jane Smith\nEMAIL: jane.smith@email.com\nPHONE: 555-987-6543\n\nSUMMARY:\nHighly motivated Data Scientist with a strong background in machine learning and statistical modeling. Eager to apply my skills to solve complex problems and drive data-driven decisions.\n\nSKILLS:\nPython, scikit-learn, Pandas, NumPy, TensorFlow, R, Tableau, SQL\n\nEXPERIENCE:\nData Insights Inc. - Data Scientist (2020 - Present)\n- Developed machine learning models for predicting customer behavior.\n- Conducted data analysis and visualization to identify trends and patterns.\nAnalytics Solutions - Data Analyst (2018 - 2020)\n- Processed and cleaned large datasets using SQL and Python.\n- Generated reports and dashboards to communicate insights to stakeholders.\n\nEDUCATION:\nStanford University - Master's in Statistics (2018)\n\nCERTIFICATIONS:\nAWS Certified Solutions Architect\n",
+  "extracted_skills": [
+    "Python",
+    "scikit-learn",
+    "Pandas",
+    "NumPy",
+    "TensorFlow",
+    "R",
+    "Tableau",
+    "SQL"
+  ],
+  "experience_years": 4,
+  "education_level": "Master's",
+  "job_history": [
+    "Data Scientist",
+    "Data Analyst"
+  ],
+  "certifications": [
+    "AWS Certified Solutions Architect"
+  ]
+}

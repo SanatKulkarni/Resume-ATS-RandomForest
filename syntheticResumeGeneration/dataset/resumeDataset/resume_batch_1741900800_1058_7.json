@@ -1,0 +1,20 @@
+{
+  "resume_id": "R007",
+  "resume_text": "NAME: Grace Miller\nEMAIL: grace.miller@email.com\nPHONE: (555) 222-3333\n\nSUMMARY:\nBackend Developer with 6 years of experience in developing scalable and robust backend systems. Expertise in designing and implementing RESTful APIs and microservices.\n\nSKILLS:\nJava, Spring, MySQL, Redis, Docker, Kubernetes, AWS\n\nEXPERIENCE:\nBackend Systems Inc. - Senior Backend Developer (2019 - Present)\n- Designed and implemented RESTful APIs using Java and Spring.\n- Developed microservices using Docker and Kubernetes.\n\nSoftware Development Corp. - Backend Developer (2018 - 2019)\n- Contributed to the development of backend systems using Java and Spring.\n\nEDUCATION:\nGeorgia Institute of Technology - Bachelor's in Software Engineering (2018)",
+  "extracted_skills": [
+    "Java",
+    "Spring",
+    "MySQL",
+    "Redis",
+    "Docker",
+    "Kubernetes",
+    "AWS"
+  ],
+  "experience_years": 6,
+  "education_level": "Bachelor's",
+  "job_history": [
+    "Senior Backend Developer",
+    "Backend Developer"
+  ],
+  "certifications": []
+}

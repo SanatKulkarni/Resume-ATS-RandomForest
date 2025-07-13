@@ -1,0 +1,22 @@
+{
+  "resume_id": "RES002",
+  "resume_text": "NAME: Bob Johnson\nEMAIL: bob.johnson@email.com\nPHONE: (555) 987-6543\n\nSUMMARY:\nExperienced Data Scientist with 8+ years of experience in developing and deploying machine learning models for various applications. Proficient in Python and various machine learning libraries.\n\nSKILLS:\nPython, TensorFlow, scikit-learn, Pandas, NumPy, R, SQL\n\nEXPERIENCE:\nData Insights Corp. - Senior Data Scientist (2018 - Present)\n- Led the development and deployment of machine learning models for fraud detection.\n- Mentored junior data scientists and provided technical guidance.\n\nResearch Institute - Data Scientist (2015 - 2018)\n- Conducted research on new machine learning algorithms and techniques.\n- Published research papers in leading conferences.\n\nEDUCATION:\nStanford University - PhD in Statistics (2015)\n\nCERTIFICATIONS:\nAWS Certified Solutions Architect\n",
+  "extracted_skills": [
+    "Python",
+    "TensorFlow",
+    "scikit-learn",
+    "Pandas",
+    "NumPy",
+    "R",
+    "SQL"
+  ],
+  "experience_years": 8,
+  "education_level": "PhD",
+  "job_history": [
+    "Senior Data Scientist",
+    "Data Scientist"
+  ],
+  "certifications": [
+    "AWS Certified Solutions Architect"
+  ]
+}

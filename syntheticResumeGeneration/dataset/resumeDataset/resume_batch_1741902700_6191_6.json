@@ -1,0 +1,21 @@
+{
+  "resume_id": "RES006",
+  "resume_text": "NAME: Fiona Hernandez\nEMAIL: fiona.hernandez@email.com\nPHONE: (555) 345-6789\n\nSUMMARY:\nBackend Developer skilled in crafting robust and scalable server-side solutions using Java and Spring Boot. Dedicated to writing clean, efficient, and well-documented code.\n\nSKILLS:\nJava, Spring, SQL, MySQL, REST APIs, Docker\n\nEXPERIENCE:\nSoftware Solutions Co. - Backend Developer (2020 - Present)\n- Designed and implemented RESTful APIs using Spring Boot.\n- Optimized database queries for improved performance.\n\nDatabase Technologies Inc. - Junior Backend Developer (2018 - 2020)\n- Assisted in the development of backend systems using Java.\n- Wrote unit tests and integration tests.\n\nEDUCATION:\nTexas A&M University - Bachelor's in Computer Engineering (2018)\n\nCERTIFICATIONS:\nOracle Certified Professional\n",
+  "extracted_skills": [
+    "Java",
+    "Spring",
+    "SQL",
+    "MySQL",
+    "REST APIs",
+    "Docker"
+  ],
+  "experience_years": 5,
+  "education_level": "Bachelor's",
+  "job_history": [
+    "Backend Developer",
+    "Junior Backend Developer"
+  ],
+  "certifications": [
+    "Oracle Certified Professional"
+  ]
+}

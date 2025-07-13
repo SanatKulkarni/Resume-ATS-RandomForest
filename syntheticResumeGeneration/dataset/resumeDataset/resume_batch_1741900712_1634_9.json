@@ -1,0 +1,19 @@
+{
+  "resume_id": "RESUME_009",
+  "resume_text": "NAME: Isabella Martinez\nEMAIL: isabella.martinez@example.com\nPHONE: (555) 456-0123\n\nSUMMARY:\nFrontend Developer with a passion for creating beautiful and user-friendly web interfaces.\n\nSKILLS:\nJavaScript, React, Angular, Vue.js, HTML5, CSS3, SASS\n\nEXPERIENCE:\nWeb Design Agency - Frontend Developer (2021 - Present)\n- Developed and maintained web interfaces using React, Angular and Vue.js.\n\nEDUCATION:\nDesign School - High School Diploma (2021)\n\nCERTIFICATIONS:\nNone",
+  "extracted_skills": [
+    "JavaScript",
+    "React",
+    "Angular",
+    "Vue.js",
+    "HTML5",
+    "CSS3",
+    "SASS"
+  ],
+  "experience_years": 2,
+  "education_level": "High School",
+  "job_history": [
+    "Frontend Developer"
+  ],
+  "certifications": []
+}

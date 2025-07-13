@@ -1,0 +1,21 @@
+{
+  "resume_id": "RES009",
+  "resume_text": "NAME: Isaac Indigo\nEMAIL: isaac.indigo@email.com\nPHONE: (555) 888-9999\n\nSUMMARY:\nData Engineer with 6 years of experience in building and maintaining data pipelines and data warehouses. Proficient in SQL, Python, and cloud-based data solutions.\n\nSKILLS:\nPython, SQL, AWS, GCP, Docker, Kubernetes, Spark, Hadoop\n\nEXPERIENCE:\nTau Analytics - Data Engineer (2019 - Present)\n- Designed and implemented data pipelines using Python, Spark, and Hadoop.\n- Managed data warehouses on AWS and GCP.\n\nUpsilon Corp - Data Analyst (2018 - 2019)\n- Collected and analyzed data from various sources.\n- Created reports and dashboards to track key performance indicators.\n\nEDUCATION:\nUniversity of Michigan - Master's in Data Science (2018)",
+  "extracted_skills": [
+    "Python",
+    "SQL",
+    "AWS",
+    "GCP",
+    "Docker",
+    "Kubernetes",
+    "Spark",
+    "Hadoop"
+  ],
+  "experience_years": 6,
+  "education_level": "Master's",
+  "job_history": [
+    "Data Engineer",
+    "Data Analyst"
+  ],
+  "certifications": []
+}

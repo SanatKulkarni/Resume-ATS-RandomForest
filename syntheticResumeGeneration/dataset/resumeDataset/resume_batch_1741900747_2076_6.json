@@ -1,0 +1,19 @@
+{
+  "resume_id": "RESUME006",
+  "resume_text": "NAME: Frank Wilson\nEMAIL: frank.wilson@email.com\nPHONE: (555) 654-3210\n\nSUMMARY:\nMobile Developer with 6 years of experience in developing and deploying iOS and Android applications. Expertise in Swift, Kotlin, and React Native.\n\nSKILLS:\niOS, Android, Swift, Kotlin, React Native, Git\n\nEXPERIENCE:\nMobile Apps Ltd. - Mobile Developer (2018 - Present)\n- Developed and deployed iOS and Android applications.\n- Implemented UI/UX designs.\n\nSoftware Innovations - Junior Mobile Developer (2017 - 2018)\n- Assisted in the development of mobile applications using Swift and Kotlin.\n\nEDUCATION:\nUniversity of Washington - Bachelor's in Mobile Development (2017)\n\nCERTIFICATIONS:\nNone",
+  "extracted_skills": [
+    "iOS",
+    "Android",
+    "Swift",
+    "Kotlin",
+    "React Native",
+    "Git"
+  ],
+  "experience_years": 6,
+  "education_level": "Bachelor's",
+  "job_history": [
+    "Mobile Developer",
+    "Junior Mobile Developer"
+  ],
+  "certifications": []
+}

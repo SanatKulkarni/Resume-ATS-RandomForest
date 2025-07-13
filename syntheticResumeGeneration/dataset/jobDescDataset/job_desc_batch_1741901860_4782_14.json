@@ -1,0 +1,23 @@
+{
+  "job_id": "JD014",
+  "job_title": "Site Reliability Engineer",
+  "company": "CloudNative",
+  "job_description": "Company: CloudNative\nPosition: Site Reliability Engineer\nLocation: San Jose, CA\nSalary: $130,000 - $190,000\n\nAbout Us:\nCloudNative is a cloud-native solutions provider specializing in scalability, reliability, and automation.\n\nJob Description:\nWe are looking for a Site Reliability Engineer to champion reliability and efficiency in our services.\n\nResponsibilities:\n- Automate infrastructure and application deployment.\n- Monitor system performance and identify bottlenecks.\n- Troubleshoot production issues and implement solutions.\n- Develop tools and processes to improve reliability.\n\nRequirements:\n- Bachelor's degree in Computer Science or related field.\n- 2+ years experience as SRE or equivalent experience in DevOps/Systems Engineering roles.\n- Proficiency in one or more programming languages (Python, Go, Java).\n- Knowledge of cloud infrastructure (AWS, GCP, Azure).\n\nPreferred Qualifications:\n- Experience with modern observability tools (Prometheus, Grafana, ELK).\n- Experience with containerization and orchestration (Docker, Kubernetes).\n- Experience with Rust.\n\nBenefits:\n- Competitive salary and benefits.\n- Professional development programs.\n- Collaborative work environment.",
+  "required_skills": [
+    "Python",
+    "Linux",
+    "AWS",
+    "Docker",
+    "Kubernetes",
+    "Monitoring"
+  ],
+  "preferred_skills": [
+    "Prometheus",
+    "Rust"
+  ],
+  "min_experience": 2,
+  "education_requirement": "Bachelor's",
+  "job_category": "DevOps",
+  "location": "San Jose, CA",
+  "salary_range": "$130,000 - $190,000"
+}

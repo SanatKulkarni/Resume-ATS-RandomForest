@@ -1,0 +1,22 @@
+{
+  "job_id": "JD007",
+  "job_title": "Database Administrator",
+  "company": "DataFlow",
+  "job_description": "Company: DataFlow\nPosition: Database Administrator\nLocation: Denver, CO\nSalary: $100,000 - $130,000\n\nAbout Us:\nDataFlow specializes in managing and optimizing large-scale databases. We ensure data is available, secure, and performant. If you love data, this is the place to be!\n\nJob Description:\nWe are seeking a Database Administrator to manage and maintain our databases. The ideal candidate will have experience with SQL, database performance tuning, and backup/recovery strategies.\n\nResponsibilities:\n- Install, configure, and maintain databases.\n- Monitor database performance and troubleshoot issues.\n- Implement backup and recovery strategies.\n- Ensure data security and integrity.\n\nRequirements:\n- Bachelor's degree in Computer Science or related field.\n- 2+ years of experience in database administration.\n- Proficiency in SQL and database administration tools.\n- Experience with MySQL, PostgreSQL, or Oracle.\n\nPreferred Qualifications:\n- Experience with NoSQL databases such as MongoDB.\n- Experience with cloud-based databases.\n\nBenefits:\n- Performance bonuses.\n- Stocked pantry.\n- Company-sponsored events.",
+  "required_skills": [
+    "SQL",
+    "MySQL",
+    "PostgreSQL",
+    "Linux",
+    "Backup/Recovery"
+  ],
+  "preferred_skills": [
+    "MongoDB",
+    "Cloud Databases"
+  ],
+  "min_experience": 2,
+  "education_requirement": "Bachelor's",
+  "job_category": "Data",
+  "location": "Denver, CO",
+  "salary_range": "$100,000 - $130,000"
+}

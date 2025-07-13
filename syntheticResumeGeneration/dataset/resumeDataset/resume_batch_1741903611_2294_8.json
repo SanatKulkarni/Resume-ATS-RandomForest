@@ -1,0 +1,19 @@
+{
+  "resume_id": "RESUME_008",
+  "resume_text": "NAME: Henry Ingram\nEMAIL: henry.ingram@email.com\nPHONE: (555) 751-3641\n\nSUMMARY:\nMachine Learning Engineer with 6 years of experience in developing and deploying machine learning models. Proficient in Python and TensorFlow.\n\nSKILLS:\nPython, TensorFlow, PyTorch, scikit-learn, Pandas, NumPy, SQL\n\nEXPERIENCE:\nLambda Analytics - Machine Learning Engineer (2018 - 2024)\n- Developed and deployed machine learning models for various applications.\n- Optimized model performance using TensorFlow and PyTorch.\n\nEDUCATION:\nUniversity of Michigan - PhD in Computer Science (2018)\n\nCERTIFICATIONS:\nNone",
+  "extracted_skills": [
+    "Python",
+    "TensorFlow",
+    "PyTorch",
+    "scikit-learn",
+    "Pandas",
+    "NumPy",
+    "SQL"
+  ],
+  "experience_years": 6,
+  "education_level": "PhD",
+  "job_history": [
+    "Machine Learning Engineer"
+  ],
+  "certifications": []
+}

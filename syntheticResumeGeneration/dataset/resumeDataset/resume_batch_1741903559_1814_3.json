@@ -1,0 +1,23 @@
+{
+  "resume_id": "R003",
+  "resume_text": "NAME: Charlie Davis\nEMAIL: charlie.davis@email.com\nPHONE: 555-555-5555\n\nSUMMARY:\nResults-oriented DevOps Engineer with 7+ years of experience automating and streamlining software development pipelines. Expertise in cloud infrastructure and automation tools.\n\nSKILLS:\nAWS, Azure, Docker, Kubernetes, Terraform, Ansible, Jenkins, Git, Python, Linux\n\nEXPERIENCE:\nCloudMasters Inc - DevOps Engineer (2017 - Present)\n- Designed and implemented CI/CD pipelines using Jenkins and Docker.\n- Managed and maintained cloud infrastructure on AWS and Azure.\n\nBeta Corp - Systems Administrator (2016 - 2017)\n- Managed and maintained Linux servers.\n- Automated system administration tasks using scripting.\n\nEDUCATION:\nMIT - Bachelor's in Computer Engineering (2016)\n",
+  "extracted_skills": [
+    "AWS",
+    "Azure",
+    "Docker",
+    "Kubernetes",
+    "Terraform",
+    "Ansible",
+    "Jenkins",
+    "Git",
+    "Python",
+    "Linux"
+  ],
+  "experience_years": 7,
+  "education_level": "Bachelor's",
+  "job_history": [
+    "DevOps Engineer",
+    "Systems Administrator"
+  ],
+  "certifications": []
+}

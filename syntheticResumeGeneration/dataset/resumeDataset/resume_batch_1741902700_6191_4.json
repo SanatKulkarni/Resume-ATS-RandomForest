@@ -1,0 +1,20 @@
+{
+  "resume_id": "RES004",
+  "resume_text": "NAME: Diana Davis\nEMAIL: diana.davis@email.com\nPHONE: (555) 789-0123\n\nSUMMARY:\nFull Stack Developer with a strong foundation in both frontend and backend development. Proficient in JavaScript, Node.js, and React.\n\nSKILLS:\nJavaScript, Node.js, React, Express.js, MongoDB, HTML5, CSS3\n\nEXPERIENCE:\nStartup Inc. - Full Stack Developer (2021 - Present)\n- Developed and maintained the company's web application using React and Node.js.\n- Integrated backend APIs with the frontend.\n\nFreelance Developer (2020 - 2021)\n- Built websites and web applications for clients using various technologies.\n\nEDUCATION:\nCommunity College - Associates in Computer Science (2020)\n",
+  "extracted_skills": [
+    "JavaScript",
+    "Node.js",
+    "React",
+    "Express.js",
+    "MongoDB",
+    "HTML5",
+    "CSS3"
+  ],
+  "experience_years": 3,
+  "education_level": "Associates",
+  "job_history": [
+    "Full Stack Developer",
+    "Freelance Developer"
+  ],
+  "certifications": []
+}

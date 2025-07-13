@@ -1,0 +1,19 @@
+{
+  "resume_id": "RES001",
+  "resume_text": "NAME: Alice Smith\nEMAIL: alice.smith@email.com\nPHONE: (555) 123-4567\n\nSUMMARY:\nEnthusiastic and detail-oriented Frontend Developer with 3+ years of experience building responsive and user-friendly web applications. Passionate about creating innovative solutions and staying up-to-date with the latest frontend technologies.\n\nSKILLS:\nReact, JavaScript, HTML5, CSS3, Node.js, Git\n\nEXPERIENCE:\nTech Solutions Inc. - Frontend Developer (2020 - Present)\n- Developed and maintained multiple web applications using React and JavaScript.\n- Collaborated with designers and backend developers to implement new features.\n\nWebDev Agency - Junior Frontend Developer (2018 - 2020)\n- Assisted senior developers in building and testing web applications.\n- Contributed to the development of reusable UI components.\n\nEDUCATION:\nUniversity of California, Berkeley - Bachelor's in Computer Science (2018)\n",
+  "extracted_skills": [
+    "React",
+    "JavaScript",
+    "HTML5",
+    "CSS3",
+    "Node.js",
+    "Git"
+  ],
+  "experience_years": 5,
+  "education_level": "Bachelor's",
+  "job_history": [
+    "Frontend Developer",
+    "Junior Frontend Developer"
+  ],
+  "certifications": []
+}

@@ -1,0 +1,24 @@
+{
+  "job_id": "JD015",
+  "job_title": "AI Research Engineer",
+  "company": "AILabs",
+  "job_description": "Company: AILabs\nPosition: AI Research Engineer\nLocation: Menlo Park, CA\nSalary: $170,000 - $220,000\n\nAbout Us:\nAILabs is a cutting-edge AI research and development company focused on creating transformative technologies. We foster a collaborative and innovative environment where researchers can push the boundaries of what's possible.\n\nJob Description:\nWe are seeking a highly motivated and skilled AI Research Engineer to contribute to our research efforts. The ideal candidate will have a strong background in machine learning, deep learning, and a passion for developing novel AI algorithms and models. This role requires someone comfortable working at the forefront of AI, exploring uncharted territories in neural networks, reinforcement learning, and related fields.\n\nResponsibilities:\n- Conduct research and development in areas of machine learning and deep learning.\n- Design, implement, and evaluate novel AI algorithms and models.\n- Collaborate with other researchers and engineers to publish research papers and develop prototypes.\n- Stay up-to-date with the latest advancements in AI research.\n- Profile and optimize model performance for demanding applications\n\nRequirements:\n- PhD in Computer Science, Machine Learning, or a related field.\n- Extensive experience with deep learning frameworks such as TensorFlow or PyTorch.\n- Strong publication record in top-tier AI conferences and journals.\n- Excellent programming skills in Python and C++.\n- Experience with GPU programming (CUDA) and high-performance computing (HPC).\n\nPreferred Qualifications:\n- Experience with reinforcement learning, generative models, or computer vision.\n- Knowledge of MLOps and deploying models to production.\n- Experience with distributed training and large-scale datasets.\n- Experience optimizing models for mobile deployment using tools like Tensorflow Lite.\n\nBenefits:\n- Competitive salary and benefits package.\n- Opportunity to work on cutting-edge AI research projects.\n- Collaborative and intellectually stimulating work environment.\n- Access to state-of-the-art computing resources.",
+  "required_skills": [
+    "Python",
+    "C++",
+    "TensorFlow",
+    "PyTorch",
+    "CUDA",
+    "Deep Learning"
+  ],
+  "preferred_skills": [
+    "Reinforcement Learning",
+    "MLOps",
+    "Computer Vision"
+  ],
+  "min_experience": 5,
+  "education_requirement": "PhD",
+  "job_category": "Data",
+  "location": "Menlo Park, CA",
+  "salary_range": "$170,000 - $220,000"
+}

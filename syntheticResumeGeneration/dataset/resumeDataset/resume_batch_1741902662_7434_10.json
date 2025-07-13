@@ -1,0 +1,17 @@
+{
+  "resume_id": "RESUME_010",
+  "resume_text": "NAME: Jack Anderson\nEMAIL: jack.anderson@email.com\nPHONE: (555) 987-7890\n\nSUMMARY:\nEntry-level Data Engineer seeking to apply my skills in data processing and analysis to build scalable data pipelines. Eager to learn and contribute to data-driven projects.\n\nSKILLS:\nPython, SQL, Pandas, NumPy, AWS, Docker, Git\n\nEXPERIENCE:\nN/A\n\nEDUCATION:\nPurdue University - Bachelor's in Data Science (2023)",
+  "extracted_skills": [
+    "Python",
+    "SQL",
+    "Pandas",
+    "NumPy",
+    "AWS",
+    "Docker",
+    "Git"
+  ],
+  "experience_years": 0,
+  "education_level": "Bachelor's",
+  "job_history": [],
+  "certifications": []
+}

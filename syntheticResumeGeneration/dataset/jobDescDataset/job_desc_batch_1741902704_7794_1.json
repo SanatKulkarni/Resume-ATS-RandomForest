@@ -1,0 +1,22 @@
+{
+  "job_id": "JD001",
+  "job_title": "Software Engineer (Frontend)",
+  "company": "WebFront",
+  "job_description": "Company: WebFront\nPosition: Software Engineer (Frontend)\nLocation: San Francisco, CA (Hybrid)\nSalary: $110,000 - $140,000\n\nAbout Us:\nWebFront is a dynamic company redefining user experiences. We are a leading provider of innovative front-end solutions. We are committed to building cutting-edge web applications that are both functional and visually appealing.\n\nJob Description:\nWe are looking for a skilled Frontend Software Engineer to join our team. The ideal candidate will have a strong understanding of modern web development practices and a passion for creating exceptional user interfaces.\n\nResponsibilities:\n- Develop and maintain responsive web applications using React, HTML, CSS, and JavaScript.\n- Collaborate with designers and backend developers to implement user-friendly features.\n- Write clean, testable, and well-documented code.\n- Participate in code reviews and contribute to improving our development processes.\n\nRequirements:\n- Bachelor's degree in Computer Science or related field.\n- 2+ years of experience in front-end development.\n- Proficiency in React, HTML, CSS, and JavaScript.\n- Experience with version control systems (e.g., Git).\n\nPreferred Qualifications:\n- Experience with TypeScript.\n- Knowledge of UI/UX design principles.\n- Familiarity with testing frameworks (e.g., Jest, Mocha).\n\nBenefits:\n- Competitive salary and benefits package.\n- Opportunity to work on challenging and impactful projects.\n- Collaborative and supportive work environment.\n- Professional development opportunities.",
+  "required_skills": [
+    "React",
+    "HTML5",
+    "CSS3",
+    "JavaScript",
+    "Git"
+  ],
+  "preferred_skills": [
+    "TypeScript",
+    "Node.js"
+  ],
+  "min_experience": 2,
+  "education_requirement": "Bachelor's",
+  "job_category": "Frontend",
+  "location": "San Francisco, CA (Hybrid)",
+  "salary_range": "$110,000 - $140,000"
+}

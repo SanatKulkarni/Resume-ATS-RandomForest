@@ -1,0 +1,19 @@
+{
+  "resume_id": "R1008",
+  "resume_text": "NAME: Henry Moore\nEMAIL: henry.moore@email.com\nPHONE: (555) 624-0753\n\nSUMMARY:\nBackend Developer specializing in Java and Spring Framework with 2 years of experience building and deploying RESTful APIs.\n\nSKILLS:\nJava, Spring, SQL, MySQL, AWS, Git\n\nEXPERIENCE:\nEnterprise Software Inc. - Backend Developer (2022 - Present)\n- Developed and maintained RESTful APIs using Java and Spring Framework.\n- Implemented database integrations using SQL and MySQL.\nJunior Devs Co. -  Junior Developer (2021 - 2022)\n- Assisted in backend development using Java.\n- Wrote unit tests and documentation.\n\nEDUCATION:\nOhio State University - Bachelor's in Software Development (2021)\n\nCERTIFICATIONS:\nNone",
+  "extracted_skills": [
+    "Java",
+    "Spring",
+    "SQL",
+    "MySQL",
+    "AWS",
+    "Git"
+  ],
+  "experience_years": 2,
+  "education_level": "Bachelor's",
+  "job_history": [
+    "Backend Developer",
+    "Junior Developer"
+  ],
+  "certifications": []
+}

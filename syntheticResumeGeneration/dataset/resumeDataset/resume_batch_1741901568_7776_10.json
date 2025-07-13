@@ -1,0 +1,20 @@
+{
+  "resume_id": "R10",
+  "resume_text": "NAME: Jack Davis\nEMAIL: jack.davis@email.com\nPHONE: (555) 397-4197\n\nSUMMARY:\nMobile developer with proficient understanding of iOS and Android platforms.\n\nSKILLS:\nSwift, Kotlin, iOS, Android, React Native, Flutter, Xamarin, Ionic\n\nEXPERIENCE:\nUniversity Project - Mobile Developer (2020 - 2021)\n- Mobile development lead for a student group.\n- Developed code for iOS and Android platforms.\n\nEDUCATION:\nUniversity of Arizona - Bachelor's in Computer Science (2021)\n\nCERTIFICATIONS:\nNone",
+  "extracted_skills": [
+    "Swift",
+    "Kotlin",
+    "iOS",
+    "Android",
+    "React Native",
+    "Flutter",
+    "Xamarin",
+    "Ionic"
+  ],
+  "experience_years": 3,
+  "education_level": "Bachelor's",
+  "job_history": [
+    "Mobile Developer"
+  ],
+  "certifications": []
+}

@@ -1,0 +1,24 @@
+{
+  "resume_id": "R005",
+  "resume_text": "NAME: Ethan Brown\nEMAIL: ethan.brown@email.com\nPHONE: 555-333-4444\n\nSUMMARY:\nDedicated Security Engineer with 5+ years of experience protecting systems and data from cyber threats. Expertise in network security, vulnerability assessment, and incident response.\n\nSKILLS:\nPython, Linux, Networking, Security Auditing, TCP/IP, Firewalls, Intrusion Detection, AWS\n\nEXPERIENCE:\nCyberSafe Corp - Security Engineer (2019 - Present)\n- Conducted vulnerability assessments and penetration testing.\n- Developed and implemented security policies and procedures.\n\nPrevious Company - Network Administrator (2018 - 2019)\n- Maintained network infrastructure and ensured network security.\n\nEDUCATION:\nUniversity of Texas - Bachelor's in Cybersecurity (2018)\n\nCERTIFICATIONS:\nCompTIA Security+, Certified Ethical Hacker",
+  "extracted_skills": [
+    "Python",
+    "Linux",
+    "Networking",
+    "Security Auditing",
+    "TCP/IP",
+    "Firewalls",
+    "Intrusion Detection",
+    "AWS"
+  ],
+  "experience_years": 5,
+  "education_level": "Bachelor's",
+  "job_history": [
+    "Security Engineer",
+    "Network Administrator"
+  ],
+  "certifications": [
+    "CompTIA Security+",
+    "Certified Ethical Hacker"
+  ]
+}

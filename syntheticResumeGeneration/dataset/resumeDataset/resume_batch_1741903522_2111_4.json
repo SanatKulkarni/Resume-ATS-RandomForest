@@ -1,0 +1,26 @@
+{
+  "resume_id": "R004",
+  "resume_text": "NAME: David Garcia\nEMAIL: david.garcia@example.com\nPHONE: (555) 321-6547\n\nSUMMARY:\nExperienced DevOps Engineer with 8 years of experience automating and streamlining software development pipelines. Adept at using cloud technologies and infrastructure-as-code tools.\n\nSKILLS:\nAWS, Azure, GCP, Docker, Kubernetes, Terraform, Ansible, Jenkins, Git, Python\n\nEXPERIENCE:\nCloud Solutions Corp - Senior DevOps Engineer (2018 - Present)\n- Designed and implemented CI/CD pipelines using Jenkins and Docker.\n- Automated infrastructure provisioning using Terraform and Ansible.\n\nDevOps Inc - DevOps Engineer (2016 - 2018)\n- Managed and maintained cloud infrastructure on AWS and Azure.\n- Implemented monitoring and alerting solutions using Prometheus and Grafana.\n\nEDUCATION:\nMassachusetts Institute of Technology - Master's in Computer Engineering (2016)\n\nCERTIFICATIONS:\nAWS Certified Solutions Architect, Certified Kubernetes Administrator",
+  "extracted_skills": [
+    "AWS",
+    "Azure",
+    "GCP",
+    "Docker",
+    "Kubernetes",
+    "Terraform",
+    "Ansible",
+    "Jenkins",
+    "Git",
+    "Python"
+  ],
+  "experience_years": 8,
+  "education_level": "Master's",
+  "job_history": [
+    "Senior DevOps Engineer",
+    "DevOps Engineer"
+  ],
+  "certifications": [
+    "AWS Certified Solutions Architect",
+    "Certified Kubernetes Administrator"
+  ]
+}

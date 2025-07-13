@@ -1,0 +1,22 @@
+{
+  "resume_id": "R1003",
+  "resume_text": "NAME: Charlie Davis\nEMAIL: charlie.davis@email.com\nPHONE: (555) 345-6789\n\nSUMMARY:\nDedicated DevOps Engineer with 5 years of experience in automating infrastructure and deployment pipelines. Strong knowledge of cloud technologies and DevOps practices.\n\nSKILLS:\nAWS, Docker, Kubernetes, Terraform, Ansible, Jenkins, Git\n\nEXPERIENCE:\nCloud Solutions Inc - DevOps Engineer (2020 - Present)\n- Automated infrastructure provisioning using Terraform.\n- Implemented CI/CD pipelines using Jenkins and Docker.\nTech Startups - System Administrator (2019 - 2020)\n- Managed servers and infrastructure.\n- Deployed and monitored applications.\n\nEDUCATION:\nCommunity College - Associates in IT (2019)\n",
+  "extracted_skills": [
+    "AWS",
+    "Docker",
+    "Kubernetes",
+    "Terraform",
+    "Ansible",
+    "Jenkins",
+    "Git"
+  ],
+  "experience_years": 5,
+  "education_level": "Associates",
+  "job_history": [
+    "DevOps Engineer",
+    "System Administrator"
+  ],
+  "certifications": [
+    "AWS Certified Solutions Architect"
+  ]
+}

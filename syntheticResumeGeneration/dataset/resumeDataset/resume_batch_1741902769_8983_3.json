@@ -1,0 +1,20 @@
+{
+  "resume_id": "RESUME_003",
+  "resume_text": "NAME: Carol Davis\nEMAIL: carol.davis@example.com\nPHONE: (555) 246-8013\n\nSUMMARY:\nData Scientist with 5+ years experience leveraging machine learning and statistical modeling to solve complex business problems.  Passionate about extracting insights and driving data-informed decisions.\n\nSKILLS:\nPython, scikit-learn, Pandas, NumPy, TensorFlow, Tableau, R, SQL\n\nEXPERIENCE:\nData Insights Inc. - Data Scientist (2019 - Present)\n- Developed and deployed machine learning models for customer churn prediction.\n- Performed data analysis and visualization to identify key business trends.\n\nEDUCATION:\nMassachusetts Institute of Technology - PhD in Statistics (2019)",
+  "extracted_skills": [
+    "Python",
+    "scikit-learn",
+    "Pandas",
+    "NumPy",
+    "TensorFlow",
+    "Tableau",
+    "R",
+    "SQL"
+  ],
+  "experience_years": 5,
+  "education_level": "PhD",
+  "job_history": [
+    "Data Scientist"
+  ],
+  "certifications": []
+}

@@ -1,0 +1,21 @@
+{
+  "resume_id": "RES002",
+  "resume_text": "NAME: Bob Johnson\nEMAIL: bob.johnson@email.com\nPHONE: (555) 987-6543\n\nSUMMARY:\nExperienced Data Scientist with 7 years of experience in developing and deploying machine learning models. Expertise in data analysis, feature engineering, and model evaluation.\n\nSKILLS:\nPython, TensorFlow, scikit-learn, Pandas, NumPy, R, Tableau, SQL\n\nEXPERIENCE:\nData Insights Corp. - Data Scientist (2019 - Present)\n- Developed and deployed machine learning models for fraud detection.\n- Performed data analysis and feature engineering to improve model accuracy.\n\nResearch Institute - Research Assistant (2017 - 2019)\n- Conducted research on machine learning algorithms.\n- Published research papers in peer-reviewed journals.\n\nEDUCATION:\nStanford University - Master's in Data Science (2017)\n\nCERTIFICATIONS:\nN/A",
+  "extracted_skills": [
+    "Python",
+    "TensorFlow",
+    "scikit-learn",
+    "Pandas",
+    "NumPy",
+    "R",
+    "Tableau",
+    "SQL"
+  ],
+  "experience_years": 7,
+  "education_level": "Master's",
+  "job_history": [
+    "Data Scientist",
+    "Research Assistant"
+  ],
+  "certifications": []
+}

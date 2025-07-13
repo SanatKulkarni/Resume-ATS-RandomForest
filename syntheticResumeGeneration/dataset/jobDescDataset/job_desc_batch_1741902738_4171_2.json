@@ -1,0 +1,23 @@
+{
+  "job_id": "JD002",
+  "job_title": "Data Scientist",
+  "company": "AnalyticsHub",
+  "job_description": "Company: AnalyticsHub\nPosition: Data Scientist\nLocation: New York, NY\nSalary: $140,000 - $180,000\n\nAbout Us:\nAnalyticsHub empowers businesses with data-driven insights. We specialize in machine learning, predictive analytics, and data visualization. Be a part of a team that is transforming the way decisions are made.\n\nJob Description:\nWe are seeking an experienced Data Scientist to develop and implement machine learning models. The ideal candidate will have a strong background in statistical analysis and machine learning techniques.\n\nResponsibilities:\n- Develop and implement machine learning models for various business applications.\n- Conduct statistical analysis and data mining to identify trends and insights.\n- Communicate findings and recommendations to stakeholders.\n- Stay up-to-date with the latest advancements in machine learning.\n\nRequirements:\n- Master's degree in Statistics, Mathematics, Computer Science, or related field.\n- 3+ years of experience in data science.\n- Proficiency in Python and machine learning libraries such as scikit-learn and TensorFlow.\n- Experience with data visualization tools such as Tableau or Power BI.\n\nPreferred Qualifications:\n- Experience with cloud computing platforms such as AWS or Azure.\n- Experience with deep learning techniques.\n- Experience with natural language processing.\n\nBenefits:\n- Comprehensive health insurance.\n- Generous paid time off policy.\n- Professional development opportunities.",
+  "required_skills": [
+    "Python",
+    "scikit-learn",
+    "TensorFlow",
+    "Pandas",
+    "NumPy"
+  ],
+  "preferred_skills": [
+    "Tableau",
+    "AWS",
+    "PyTorch"
+  ],
+  "min_experience": 3,
+  "education_requirement": "Master's",
+  "job_category": "Data",
+  "location": "New York, NY",
+  "salary_range": "$140,000 - $180,000"
+}

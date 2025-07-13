@@ -1,0 +1,20 @@
+{
+  "resume_id": "RES005",
+  "resume_text": "NAME: Emily Davis\nEMAIL: emily.davis@email.com\nPHONE: (555) 654-3210\n\nSUMMARY:\nExperienced Backend Developer specializing in building scalable and robust APIs. Proficient in Java and Spring framework.\n\nSKILLS:\nJava, Spring, SQL, MySQL, REST, Docker, AWS\n\nEXPERIENCE:\nSoftware Solutions - Backend Developer (2017 - Present)\n- Developed and maintained RESTful APIs using Java and Spring.\n- Designed and implemented database schemas.\n\nTechnology Inc - Software Engineer (2015 - 2017)\n- Worked on backend systems using Java and SQL.\n\nEDUCATION:\nMassachusetts Institute of Technology - Master's in Computer Science (2015)",
+  "extracted_skills": [
+    "Java",
+    "Spring",
+    "SQL",
+    "MySQL",
+    "REST",
+    "Docker",
+    "AWS"
+  ],
+  "experience_years": 9,
+  "education_level": "Master's",
+  "job_history": [
+    "Backend Developer",
+    "Software Engineer"
+  ],
+  "certifications": []
+}

@@ -1,0 +1,23 @@
+{
+  "job_id": "JD013",
+  "job_title": "Product Manager",
+  "company": "FrontierTech",
+  "job_description": "Company: FrontierTech\nPosition: Product Manager\nLocation: Seattle, WA (On-site)\nSalary: $130,000 - $170,000\n\nAbout Us:\nFrontierTech is a technology company focused on developing innovative products for the consumer market. We are passionate about creating products that improve people's lives.\n\nJob Description:\nWe are looking for a Product Manager to lead the development of new products. The ideal candidate will have experience with product strategy, market research, and product development.\n\nResponsibilities:\n- Define product strategy and roadmap.\n- Conduct market research and competitive analysis.\n- Write product requirements and user stories.\n- Collaborate with engineering, design, and marketing teams.\n\nRequirements:\n- Bachelor's degree in Business Administration or related field.\n- 5+ years of experience in product management.\n- Strong understanding of product development methodologies.\n- Excellent communication and interpersonal skills.\n\nPreferred Qualifications:\n- Experience with Agile development.\n- Experience with data analytics.\n- Knowledge of UX/UI design principles.\n\nBenefits:\n- Competitive salary and benefits package.\n- Stock options.\n- Opportunity to work on cutting-edge products.",
+  "required_skills": [
+    "Product Strategy",
+    "Market Research",
+    "Product Development",
+    "Agile",
+    "User Stories",
+    "Communication"
+  ],
+  "preferred_skills": [
+    "Data Analytics",
+    "UX/UI Design"
+  ],
+  "min_experience": 5,
+  "education_requirement": "Bachelor's",
+  "job_category": "Management",
+  "location": "Seattle, WA (On-site)",
+  "salary_range": "$130,000 - $170,000"
+}

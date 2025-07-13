@@ -1,0 +1,20 @@
+{
+  "resume_id": "R1008",
+  "resume_text": "NAME: Hannah Davis\nEMAIL: hannah.davis@example.com\nPHONE: 555-444-5555\n\nSUMMARY:\nQA Engineer with 3 years of experience in testing software applications. Passionate about ensuring quality and reliability.\n\nSKILLS:\nSelenium, JUnit, TestNG, Git, Jira, SQL, Python\n\nEXPERIENCE:\nQuality Assurance Corp. - QA Engineer (2020 - Present)\n- Developed and executed test cases for web and mobile applications.\n- Automated testing using Selenium and JUnit.\n\nSoftware Testing Solutions - Junior Tester (2019 - 2020)\n- Performed manual testing of software applications.\n- Reported bugs and tracked issues using Jira.\n\nEDUCATION:\nUniversity of Washington - Bachelor's in Computer Science (2019)\n\nCERTIFICATIONS:\nNone",
+  "extracted_skills": [
+    "Selenium",
+    "JUnit",
+    "TestNG",
+    "Git",
+    "Jira",
+    "SQL",
+    "Python"
+  ],
+  "experience_years": 3,
+  "education_level": "Bachelor's",
+  "job_history": [
+    "QA Engineer",
+    "Junior Tester"
+  ],
+  "certifications": []
+}

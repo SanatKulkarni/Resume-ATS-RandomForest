@@ -1,0 +1,18 @@
+{
+  "resume_id": "R009",
+  "resume_text": "NAME: Isabella Martinez\nEMAIL: isabella.martinez@email.com\nPHONE: 555-192-8374\n\nSUMMARY:\nFrontend Developer with 1 year of experience building responsive and user-friendly web interfaces. Passionate about creating engaging user experiences.\n\nSKILLS:\nJavaScript, React, HTML5, CSS3, SASS, Git\n\nEXPERIENCE:\nWeb Development Company - Junior Developer (2023 - Present)\n- Implemented user interfaces using React, HTML and CSS\n- Collaborated with designers to deliver high-quality experiences\n\nEducation:\nSan Francisco State University - Bachelor's in Computer Science (2023)\n\nCERTIFICATIONS:\nNone",
+  "extracted_skills": [
+    "JavaScript",
+    "React",
+    "HTML5",
+    "CSS3",
+    "SASS",
+    "Git"
+  ],
+  "experience_years": 1,
+  "education_level": "Bachelor's",
+  "job_history": [
+    "Junior Developer"
+  ],
+  "certifications": []
+}

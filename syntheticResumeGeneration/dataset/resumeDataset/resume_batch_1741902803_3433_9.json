@@ -1,0 +1,19 @@
+{
+  "resume_id": "resume_009",
+  "resume_text": "NAME: Isabella Jones\nEMAIL: isabella.jones@example.com\nPHONE: (555) 777-8888\n\nSUMMARY:\nMachine Learning Engineer with 6 years of experience in developing and deploying machine learning models. Expertise in Python, TensorFlow, and PyTorch.\n\nSKILLS:\nPython, TensorFlow, PyTorch, scikit-learn, Pandas, NumPy, SQL\n\nEXPERIENCE:\nMachine Learning Co. - Machine Learning Engineer (2018 - Present)\n- Developed machine learning models using Python, TensorFlow, and PyTorch.\n- Deployed machine learning models to production.\n- Performed data analysis and feature engineering using Pandas and NumPy.\n\nEDUCATION:\nCalifornia Institute of Technology - PhD in Machine Learning (2018)\n",
+  "extracted_skills": [
+    "Python",
+    "TensorFlow",
+    "PyTorch",
+    "scikit-learn",
+    "Pandas",
+    "NumPy",
+    "SQL"
+  ],
+  "experience_years": 6,
+  "education_level": "PhD",
+  "job_history": [
+    "Machine Learning Engineer"
+  ],
+  "certifications": []
+}

@@ -1,0 +1,20 @@
+{
+  "resume_id": "R1005",
+  "resume_text": "NAME: Ethan Rodriguez\nEMAIL: ethan.rodriguez@example.com\nPHONE: 555-333-4444\n\nSUMMARY:\nFull Stack Developer with 2 years of experience building web applications. Proficient in both frontend and backend technologies.\n\nSKILLS:\nJavaScript, React, Node.js, Express.js, MongoDB, SQL, Git\n\nEXPERIENCE:\nWeb Applications LLC - Full Stack Developer (2021 - Present)\n- Developed and maintained web applications using React, Node.js, and MongoDB.\n- Implemented REST APIs using Express.js.\n\nCode Bootcamp - Junior Web Developer (2020 - 2021)\n- Built web applications using HTML, CSS, and JavaScript.\n\nEDUCATION:\nCoding Dojo - Certificate in Full Stack Web Development (2020)\n\nCERTIFICATIONS:\nNone",
+  "extracted_skills": [
+    "JavaScript",
+    "React",
+    "Node.js",
+    "Express.js",
+    "MongoDB",
+    "SQL",
+    "Git"
+  ],
+  "experience_years": 2,
+  "education_level": "High School",
+  "job_history": [
+    "Full Stack Developer",
+    "Junior Web Developer"
+  ],
+  "certifications": []
+}

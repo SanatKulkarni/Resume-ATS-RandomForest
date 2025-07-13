@@ -1,0 +1,23 @@
+{
+  "job_id": "JD012",
+  "job_title": "QA Engineer",
+  "company": "NextGenSystems",
+  "job_description": "Company: NextGenSystems\nPosition: QA Engineer\nLocation: Toronto, ON (Hybrid)\nSalary: $90,000 - $120,000\n\nAbout Us:\nNextGenSystems develops innovative software solutions for the enterprise market. We are committed to delivering high-quality products that meet our customers' needs.\n\nJob Description:\nWe are looking for a QA Engineer to ensure the quality of our software products. The ideal candidate will have experience with automated testing and manual testing.\n\nResponsibilities:\n- Develop and execute test plans and test cases.\n- Perform automated and manual testing.\n- Report bugs and track their resolution.\n- Collaborate with developers to improve code quality.\n\nRequirements:\n- Bachelor's degree in Computer Science or related field.\n- 2+ years of experience in QA engineering.\n- Experience with automated testing tools (e.g., Selenium, Cypress).\n- Strong understanding of software testing methodologies.\n\nPreferred Qualifications:\n- Experience with performance testing.\n- Experience with security testing.\n- Knowledge of CI/CD pipelines.\n\nBenefits:\n- Competitive salary and benefits package.\n- Flexible work schedule.\n- Professional development opportunities.",
+  "required_skills": [
+    "Selenium",
+    "Cypress",
+    "Test Automation",
+    "Manual Testing",
+    "Test Planning",
+    "Bug Tracking"
+  ],
+  "preferred_skills": [
+    "Performance Testing",
+    "Security Testing"
+  ],
+  "min_experience": 2,
+  "education_requirement": "Bachelor's",
+  "job_category": "QA",
+  "location": "Toronto, ON (Hybrid)",
+  "salary_range": "$90,000 - $120,000"
+}

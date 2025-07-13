@@ -1,0 +1,25 @@
+{
+  "job_id": "JD015",
+  "job_title": "Site Reliability Engineer",
+  "company": "CloudNative",
+  "job_description": "Company: CloudNative\nPosition: Site Reliability Engineer\nLocation: Remote\nSalary: $140,000 - $190,000\n\nAbout Us:\nCloudNative is a next-generation technology consultancy specializing in cloud-native solutions and SRE best practices. We help organizations achieve high availability, scalability, and reliability in their cloud environments.\n\nJob Description:\nWe are looking for a Site Reliability Engineer (SRE) to ensure the reliability, availability, and performance of our systems. The ideal candidate will have experience with cloud infrastructure, automation, and monitoring tools. This position offers work with difficult-to-fill technology requirements in a high-demand technology.\n\nResponsibilities:\n- Monitor system performance and availability.\n- Troubleshoot and resolve incidents.\n- Automate infrastructure provisioning and deployments.\n- Develop and maintain monitoring and alerting systems.\n\nRequirements:\n- Bachelor's degree in Computer Science or related field.\n- 5+ years of experience in SRE or DevOps.\n- Proficiency in Linux, Docker, Kubernetes, and Terraform.\n- Experience with monitoring tools (e.g., Prometheus, Grafana).\n\nPreferred Qualifications:\n- Experience with cloud computing platforms (e.g., AWS, Azure, GCP).\n- Familiarity with programming languages (e.g., Python, Go).\n- Knowledge of incident management and root cause analysis.\n\nBenefits:\n- Remote work opportunities.\n- Competitive salary and benefits package.\n- Opportunities for professional development.",
+  "required_skills": [
+    "Linux",
+    "Docker",
+    "Kubernetes",
+    "Terraform",
+    "Prometheus",
+    "Grafana",
+    "Rust"
+  ],
+  "preferred_skills": [
+    "AWS",
+    "Python",
+    "Incident Management"
+  ],
+  "min_experience": 5,
+  "education_requirement": "Bachelor's",
+  "job_category": "DevOps",
+  "location": "Remote",
+  "salary_range": "$140,000 - $190,000"
+}

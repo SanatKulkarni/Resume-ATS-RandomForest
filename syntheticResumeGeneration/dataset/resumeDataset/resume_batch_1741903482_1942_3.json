@@ -1,0 +1,26 @@
+{
+  "resume_id": "RES003",
+  "resume_text": "NAME: Carol Williams\nEMAIL: carol.williams@email.com\nPHONE: (555) 246-8013\n\nSUMMARY:\nFull Stack Developer with over 10 years of experience creating robust and scalable web applications. Expertise in both frontend and backend technologies.\n\nSKILLS:\nJavaScript, React, Node.js, Express.js, HTML5, CSS3, SQL, MongoDB, Docker, Kubernetes, AWS\n\nEXPERIENCE:\nGlobalTech Solutions - Lead Developer (2016 - Present)\n- Led a team of developers in building and maintaining web applications.\n- Implemented microservices architecture using Docker and Kubernetes.\n\nWebApp Innovations - Senior Developer (2013 - 2016)\n- Developed and maintained web applications using JavaScript, React, and Node.js.\n- Designed and implemented RESTful APIs.\n\nEDUCATION:\nMassachusetts Institute of Technology - Bachelor's in Computer Science (2013)\n\nCERTIFICATIONS:\nCertified Kubernetes Administrator",
+  "extracted_skills": [
+    "JavaScript",
+    "React",
+    "Node.js",
+    "Express.js",
+    "HTML5",
+    "CSS3",
+    "SQL",
+    "MongoDB",
+    "Docker",
+    "Kubernetes",
+    "AWS"
+  ],
+  "experience_years": 11,
+  "education_level": "Bachelor's",
+  "job_history": [
+    "Lead Developer",
+    "Senior Developer"
+  ],
+  "certifications": [
+    "Certified Kubernetes Administrator"
+  ]
+}

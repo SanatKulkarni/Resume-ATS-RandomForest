@@ -1,0 +1,19 @@
+{
+  "resume_id": "resume_010",
+  "resume_text": "NAME: Julia Rose\nEMAIL: julia.rose@email.com\nPHONE: (555) 789-4560\n\nSUMMARY:\nMachine Learning Engineer with 1 year of experience. Eager to apply machine learning techniques to solve real-world problems.\n\nSKILLS:\nPython, scikit-learn, Pandas, NumPy, TensorFlow, PyTorch, SQL\n\nEXPERIENCE:\nAI Startup - Machine Learning Engineer (2023 - Present)\n- Developed and trained machine learning models.\n- Conducted data analysis and feature engineering.\n\nEDUCATION:\nUniversity of Michigan - Master's in Data Science (2023)",
+  "extracted_skills": [
+    "Python",
+    "scikit-learn",
+    "Pandas",
+    "NumPy",
+    "TensorFlow",
+    "PyTorch",
+    "SQL"
+  ],
+  "experience_years": 1,
+  "education_level": "Master's",
+  "job_history": [
+    "Machine Learning Engineer"
+  ],
+  "certifications": []
+}

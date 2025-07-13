@@ -1,0 +1,27 @@
+{
+  "job_id": "JD014",
+  "job_title": "AI Research Engineer",
+  "company": "AILabs",
+  "job_description": "Company: AILabs\nPosition: AI Research Engineer\nLocation: Menlo Park, CA (On-site)\nSalary: $170,000 - $280,000\n\nAbout Us:\nAILabs is an industry-leading research organization pushing the boundaries of artificial intelligence. We strive to develop world-changing technologies and foster a cutting-edge scientific environment.\n\nJob Description:\nWe seek an AI Research Engineer to advance our research and implement novel AI algorithms. The ideal candidate will have a passion for AI, strong mathematical background, and experience in developing and publishing research.\n\nResponsibilities:\n- Conduct original research in areas such as deep learning, reinforcement learning, and natural language processing.\n- Develop and implement innovative AI algorithms and models.\n- Publish research in leading academic conferences and journals.\n- Collaborate with other researchers and engineers to drive progress.\n\nRequirements:\n- Ph.D. in Computer Science, Mathematics, or related field.\n- Strong background in linear algebra, calculus, probability, and statistics.\n- Proficiency in Python and deep learning frameworks (e.g., TensorFlow, PyTorch).\n- Proven track record of publishing research in top-tier AI conferences.\n\nPreferred Qualifications:\n- Experience with distributed training and large-scale datasets.\n- Knowledge of hardware acceleration for AI computations (e.g., GPUs, TPUs).\n- Familiarity with specific AI application domains (e.g., computer vision, NLP).\n\nBenefits:\n- Unparalleled research environment and cutting-edge resources.\n- Opportunity to work with top researchers in the field.\n- Highly competitive salary and benefits package.\n",
+  "required_skills": [
+    "Python",
+    "TensorFlow",
+    "PyTorch",
+    "Deep Learning",
+    "Machine Learning",
+    "Research",
+    "C++",
+    "RUST"
+  ],
+  "preferred_skills": [
+    "CUDA",
+    "TPU",
+    "Computer Vision",
+    "NLP"
+  ],
+  "min_experience": 0,
+  "education_requirement": "PhD",
+  "job_category": "Data",
+  "location": "Menlo Park, CA (On-site)",
+  "salary_range": "$170,000 - $280,000"
+}

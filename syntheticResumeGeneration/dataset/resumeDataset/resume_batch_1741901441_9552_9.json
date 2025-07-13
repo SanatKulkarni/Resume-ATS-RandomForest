@@ -1,0 +1,18 @@
+{
+  "resume_id": "RES009",
+  "resume_text": "NAME: Isabella Garcia\nEMAIL: isabella.garcia@email.com\nPHONE: (555) 333-4444\n\nSUMMARY:\nProduct Manager with a passion for building and launching successful products. Experienced in gathering requirements, prioritizing features, and managing product roadmaps.\n\nSKILLS:\nProduct Management, Agile, Scrum, User Research, Market Analysis\n\nEXPERIENCE:\nTech Company - Product Manager (2020 - Present)\n- Managed the product roadmap and prioritized features based on user feedback.\n- Collaborated with engineering, design, and marketing teams to launch new products.\nAnalyst Company - Business Analyst (2018 - 2020)\n- Gathered requirements and documented user stories.\n\nEDUCATION:\nUniversity of Michigan - Master's in Business Administration (MBA) (2018)\n",
+  "extracted_skills": [
+    "Product Management",
+    "Agile",
+    "Scrum",
+    "User Research",
+    "Market Analysis"
+  ],
+  "experience_years": 5,
+  "education_level": "Master's",
+  "job_history": [
+    "Product Manager",
+    "Business Analyst"
+  ],
+  "certifications": []
+}

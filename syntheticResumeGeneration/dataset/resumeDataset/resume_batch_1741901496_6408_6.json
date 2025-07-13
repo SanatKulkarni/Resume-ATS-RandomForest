@@ -1,0 +1,20 @@
+{
+  "resume_id": "R1006",
+  "resume_text": "NAME: Frank Garcia\nEMAIL: frank.garcia@email.com\nPHONE: (555) 567-8901\n\nSUMMARY:\nFull Stack Developer with 4 years of experience building and deploying web applications from front to back. Comfortable with various technologies and frameworks.\n\nSKILLS:\nJavaScript, React, Node.js, Express.js, MongoDB, HTML5, CSS3\n\nEXPERIENCE:\nStartup Ventures Inc. - Full Stack Developer (2021 - Present)\n- Built and deployed web applications using React, Node.js, and MongoDB.\n- Collaborated with designers and product managers to deliver features.\n\nFreelance Web Developer (2020 - 2021)\n- Developed websites for small businesses using HTML, CSS, and JavaScript.\n\nEDUCATION:\nSan Jose State University - Bachelor's in Software Engineering (2020)\n\nCERTIFICATIONS:\nNone",
+  "extracted_skills": [
+    "JavaScript",
+    "React",
+    "Node.js",
+    "Express.js",
+    "MongoDB",
+    "HTML5",
+    "CSS3"
+  ],
+  "experience_years": 4,
+  "education_level": "Bachelor's",
+  "job_history": [
+    "Full Stack Developer",
+    "Freelance Web Developer"
+  ],
+  "certifications": []
+}

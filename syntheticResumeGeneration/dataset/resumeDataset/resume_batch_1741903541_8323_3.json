@@ -1,0 +1,22 @@
+{
+  "resume_id": "RES003",
+  "resume_text": "NAME: Carol Davis\nEMAIL: carol.davis@email.com\nPHONE: (555) 246-8024\n\nSUMMARY:\nHighly skilled DevOps Engineer with 5 years of experience in automating software deployment and infrastructure management. Proven ability to improve system reliability and efficiency.\n\nSKILLS:\nAWS, Docker, Kubernetes, Terraform, Ansible, Git, Jenkins\n\nEXPERIENCE:\nCloud Operations Inc. - DevOps Engineer (2020 - Present)\n- Automated software deployment pipelines using Docker, Kubernetes, and Terraform.\n- Implemented infrastructure as code to improve system reliability and scalability.\n\nSystem Solutions Co. - System Administrator (2018 - 2020)\n- Maintained and monitored servers and network infrastructure.\n- Troubleshooted system issues and implemented solutions to prevent recurrence.\n\nEDUCATION:\nMassachusetts Institute of Technology - Bachelor's in Computer Engineering (2018)\n\nCERTIFICATIONS:\nCertified Kubernetes Administrator",
+  "extracted_skills": [
+    "AWS",
+    "Docker",
+    "Kubernetes",
+    "Terraform",
+    "Ansible",
+    "Git",
+    "Jenkins"
+  ],
+  "experience_years": 5,
+  "education_level": "Bachelor's",
+  "job_history": [
+    "DevOps Engineer",
+    "System Administrator"
+  ],
+  "certifications": [
+    "Certified Kubernetes Administrator"
+  ]
+}

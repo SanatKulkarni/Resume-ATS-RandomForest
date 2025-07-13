@@ -1,0 +1,20 @@
+{
+  "resume_id": "R1004",
+  "resume_text": "NAME: David Brown\nEMAIL: david.brown@email.com\nPHONE: (555) 135-7912\n\nSUMMARY:\nFull Stack Developer with 8 years of experience in building and maintaining web applications. Proficient in both frontend and backend technologies.\n\nSKILLS:\nJavaScript, React, Node.js, Express.js, MongoDB, HTML5, CSS3\n\nEXPERIENCE:\nWeb Development Group - Full Stack Developer (2017 - Present)\n- Developed and maintained web applications using React, Node.js, and Express.js.\n- Designed and implemented RESTful APIs using Node.js and Express.js.\nSoftware Solutions Inc. - Frontend Developer (2015 - 2017)\n- Developed user interfaces using HTML5, CSS3, and JavaScript.\n- Collaborated with backend developers to integrate frontend and backend systems.\n\nEDUCATION:\nUniversity of Texas, Austin - Bachelor's in Computer Science (2015)\n\nCERTIFICATIONS:\nNone",
+  "extracted_skills": [
+    "JavaScript",
+    "React",
+    "Node.js",
+    "Express.js",
+    "MongoDB",
+    "HTML5",
+    "CSS3"
+  ],
+  "experience_years": 8,
+  "education_level": "Bachelor's",
+  "job_history": [
+    "Full Stack Developer",
+    "Frontend Developer"
+  ],
+  "certifications": []
+}

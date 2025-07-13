@@ -1,0 +1,23 @@
+{
+  "job_id": "JD012",
+  "job_title": "Database Administrator",
+  "company": "AnalyticsHub",
+  "job_description": "Company: AnalyticsHub\nPosition: Database Administrator\nLocation: Denver, CO\nSalary: $90,000 - $130,000\n\nAbout Us:\nAnalyticsHub specializes in providing data analytics and business intelligence solutions. We help companies make data-driven decisions.\n\nJob Description:\nWe are seeking a Database Administrator to manage and maintain our databases.\n\nResponsibilities:\n- Install, configure, and maintain database systems.\n- Monitor database performance and troubleshoot issues.\n- Implement and maintain database security.\n- Perform database backups and recovery.\n\nRequirements:\n- Bachelor\u2019s degree in Computer Science or related field.\n- 2+ years of experience in database administration.\n- Proficiency in SQL and database management systems (MySQL, PostgreSQL).\n\nPreferred Qualifications:\n- Experience with cloud database services (AWS RDS, Azure SQL Database).\n- Experience with database replication and clustering.\n\nBenefits:\n- Competitive salary and benefits.\n- Professional growth opportunities.\n- Flexible work hours.",
+  "required_skills": [
+    "SQL",
+    "MySQL",
+    "PostgreSQL",
+    "Database Management",
+    "Linux",
+    "Bash"
+  ],
+  "preferred_skills": [
+    "AWS RDS",
+    "Azure SQL Database"
+  ],
+  "min_experience": 2,
+  "education_requirement": "Bachelor's",
+  "job_category": "Backend",
+  "location": "Denver, CO",
+  "salary_range": "$90,000 - $130,000"
+}

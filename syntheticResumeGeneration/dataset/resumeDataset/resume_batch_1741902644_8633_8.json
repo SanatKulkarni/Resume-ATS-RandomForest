@@ -1,0 +1,19 @@
+{
+  "resume_id": "RES008",
+  "resume_text": "NAME: Henry Davis\nEMAIL: henry.davis@email.com\nPHONE: 555-741-8529\n\nSUMMARY:\nQA Engineer with 6 years of experience ensuring software quality through automated testing and manual testing. Expertise in test planning, execution, and reporting.\n\nSKILLS:\nSelenium, JUnit, TestNG, REST APIs, SQL, Git\n\nEXPERIENCE:\nQuality Assurance Corp. - QA Engineer (2018 - Present)\n- Developed and executed test plans for various software applications.\n- Implemented automated tests using Selenium and JUnit.\n\nSoftware Testing Ltd. - Junior QA Engineer (2016 - 2018)\n- Performed manual testing and reported bugs.\n- Assisted in developing test cases.\n\nEDUCATION:\nPurdue University - Bachelor's in Computer Science (2016)",
+  "extracted_skills": [
+    "Selenium",
+    "JUnit",
+    "TestNG",
+    "REST APIs",
+    "SQL",
+    "Git"
+  ],
+  "experience_years": 6,
+  "education_level": "Bachelor's",
+  "job_history": [
+    "QA Engineer",
+    "Junior QA Engineer"
+  ],
+  "certifications": []
+}

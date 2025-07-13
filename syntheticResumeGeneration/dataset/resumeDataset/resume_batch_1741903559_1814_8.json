@@ -1,0 +1,21 @@
+{
+  "resume_id": "R008",
+  "resume_text": "NAME: Emily Wilson\nEMAIL: emily.wilson@email.com\nPHONE: 555-666-7777\n\nSUMMARY:\nData Engineer with 4+ years of experience building and maintaining data pipelines. Proficient in SQL, Python, and cloud-based data warehousing solutions.\n\nSKILLS:\nSQL, Python, AWS, Snowflake, ETL, Data Warehousing, Hadoop, Spark\n\nEXPERIENCE:\nData Pipelines Inc - Data Engineer (2020 - Present)\n- Designed and implemented ETL pipelines for loading data into data warehouses.\n- Optimized data pipelines for performance and scalability.\n\nAnalytics Corp - Junior Data Analyst (2019 - 2020)\n- Performed data analysis and reporting.\n\nEDUCATION:\nUniversity of Washington - Bachelor's in Data Analytics (2019)\n",
+  "extracted_skills": [
+    "SQL",
+    "Python",
+    "AWS",
+    "Snowflake",
+    "ETL",
+    "Data Warehousing",
+    "Hadoop",
+    "Spark"
+  ],
+  "experience_years": 4,
+  "education_level": "Bachelor's",
+  "job_history": [
+    "Data Engineer",
+    "Junior Data Analyst"
+  ],
+  "certifications": []
+}

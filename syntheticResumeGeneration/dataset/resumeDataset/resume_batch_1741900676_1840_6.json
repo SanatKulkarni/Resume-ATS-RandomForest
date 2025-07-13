@@ -1,0 +1,18 @@
+{
+  "resume_id": "RES006",
+  "resume_text": "NAME: Frank Wilson\nEMAIL: frank.wilson@email.com\nPHONE: (555) 345-6789\n\nSUMMARY:\nMobile Developer specializing in iOS development with Swift and Objective-C.\n\nSKILLS:\nSwift, iOS, Xcode, Git, RESTful APIs, Firebase\n\nEXPERIENCE:\nMobilia Apps - Mobile Developer (2016 - Present)\n- Developed and maintained iOS applications using Swift.\n- Integrated RESTful APIs.\n\nEDUCATION:\nUniversity of Tech - Bachelor's in Software Engineering (2016)\n",
+  "extracted_skills": [
+    "Swift",
+    "iOS",
+    "Xcode",
+    "Git",
+    "RESTful APIs",
+    "Firebase"
+  ],
+  "experience_years": 7,
+  "education_level": "Bachelor's",
+  "job_history": [
+    "Mobile Developer"
+  ],
+  "certifications": []
+}

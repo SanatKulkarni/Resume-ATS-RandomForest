@@ -1,0 +1,16 @@
+{
+  "resume_id": "R006",
+  "resume_text": "NAME: Sophia Chen\nEMAIL: sophia.chen@email.com\nPHONE: 555-777-8888\n\nSUMMARY:\nJunior Frontend Developer eager to learn and contribute to innovative web applications. Strong foundation in HTML, CSS, and JavaScript.\n\nSKILLS:\nHTML5, CSS3, JavaScript, React, Git, Bootstrap\n\nEXPERIENCE:\nNone (Recent Graduate)\n\nEDUCATION:\nCommunity College - Associate's in Web Development (2024)\n",
+  "extracted_skills": [
+    "HTML5",
+    "CSS3",
+    "JavaScript",
+    "React",
+    "Git",
+    "Bootstrap"
+  ],
+  "experience_years": 0,
+  "education_level": "Associates",
+  "job_history": [],
+  "certifications": []
+}

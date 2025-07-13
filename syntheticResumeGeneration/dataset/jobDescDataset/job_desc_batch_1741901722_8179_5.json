@@ -1,0 +1,25 @@
+{
+  "job_id": "JD005",
+  "job_title": "Security Engineer",
+  "company": "SecurityFirst",
+  "job_description": "Company: SecurityFirst\nPosition: Security Engineer\nLocation: Washington, D.C. (Hybrid)\nSalary: $140,000 - $180,000\n\nAbout Us:\nSecurityFirst is a leading cybersecurity company dedicated to protecting organizations from cyber threats. We offer a range of security services and solutions.\n\nJob Description:\nWe are seeking a detail-oriented Security Engineer to join our team. The ideal candidate will have a strong understanding of security principles and practices and experience with security tools and technologies.\n\nResponsibilities:\n- Conduct security assessments and penetration testing.\n- Develop and implement security policies and procedures.\n- Monitor systems for security vulnerabilities and incidents.\n- Respond to security incidents and investigate breaches.\n\nRequirements:\n- 3+ years of experience in security engineering.\n- Strong understanding of security principles and practices.\n- Experience with security tools like Nessus, Wireshark, and Metasploit.\n- Knowledge of network security protocols and technologies.\n\nPreferred Qualifications:\n- Security certifications like CISSP, CISM, or CEH.\n- Experience with cloud security (AWS, Azure, GCP).\n- Experience with incident response and forensics.\n\nBenefits:\n- Professional development and training opportunities.\n- Generous bonus program.\n- Employee stock purchase plan.",
+  "required_skills": [
+    "Network Security",
+    "Penetration Testing",
+    "Vulnerability Assessment",
+    "Incident Response",
+    "Security Policies",
+    "Linux",
+    "Cloud Security"
+  ],
+  "preferred_skills": [
+    "CISSP",
+    "AWS Security",
+    "Azure Security"
+  ],
+  "min_experience": 3,
+  "education_requirement": "Bachelor's",
+  "job_category": "Security",
+  "location": "Washington, D.C. (Hybrid)",
+  "salary_range": "$140,000 - $180,000"
+}

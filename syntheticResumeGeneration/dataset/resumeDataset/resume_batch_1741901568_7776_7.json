@@ -1,0 +1,23 @@
+{
+  "resume_id": "R7",
+  "resume_text": "NAME: Grace Hernandez\nEMAIL: grace.hernandez@email.com\nPHONE: (555) 135-7912\n\nSUMMARY:\nA Security Engineer skilled in cloud security and penetration testing. Eager to improve system and application security.\n\nSKILLS:\nPython, AWS, Azure, GCP, Docker, Kubernetes, CompTIA Security+, Certified Ethical Hacker\n\nEXPERIENCE:\nCyberSafe Solutions - Security Engineer (2023 - Present)\n- Conducted penetration testing on web applications and infrastructure.\n- Implemented security best practices in cloud environments.\n\nBeta Solutions - Security Analyst (2020 - 2023)\n- Managed security alerts and investigations.\n\nEDUCATION:\nUniversity of Maryland - Bachelor's in Cybersecurity (2020)\n\nCERTIFICATIONS:\nCompTIA Security+\nCertified Ethical Hacker",
+  "extracted_skills": [
+    "Python",
+    "AWS",
+    "Azure",
+    "GCP",
+    "Docker",
+    "Kubernetes",
+    "CompTIA Security+"
+  ],
+  "experience_years": 4,
+  "education_level": "Bachelor's",
+  "job_history": [
+    "Security Engineer",
+    "Security Analyst"
+  ],
+  "certifications": [
+    "CompTIA Security+",
+    "Certified Ethical Hacker"
+  ]
+}

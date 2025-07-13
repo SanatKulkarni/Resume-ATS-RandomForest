@@ -1,0 +1,23 @@
+{
+  "resume_id": "R1001",
+  "resume_text": "NAME: Alice Johnson\nEMAIL: alice.johnson@example.com\nPHONE: 555-123-4567\n\nSUMMARY:\nHighly motivated Software Engineer with 3 years of experience in designing, developing, and testing software applications. Passionate about creating efficient and scalable solutions.\n\nSKILLS:\nPython, Java, SQL, Git, AWS, Docker, Kubernetes\n\nEXPERIENCE:\nTechCorp - Software Engineer (2020 - Present)\n- Developed and maintained REST APIs using Python and Flask.\n- Deployed applications on AWS using Docker and Kubernetes.\n\nCode Solutions - Junior Developer (2019 - 2020)\n- Assisted in the development of Java-based web applications.\n- Contributed to database design and implementation using SQL.\n\nEDUCATION:\nUniversity of California, Berkeley - Bachelor's in Computer Science (2019)\n\nCERTIFICATIONS:\nAWS Certified Solutions Architect",
+  "extracted_skills": [
+    "Python",
+    "Java",
+    "SQL",
+    "Git",
+    "AWS",
+    "Docker",
+    "Kubernetes",
+    "Flask"
+  ],
+  "experience_years": 3,
+  "education_level": "Bachelor's",
+  "job_history": [
+    "Software Engineer",
+    "Junior Developer"
+  ],
+  "certifications": [
+    "AWS Certified Solutions Architect"
+  ]
+}

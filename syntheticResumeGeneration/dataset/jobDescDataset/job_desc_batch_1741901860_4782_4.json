@@ -1,0 +1,23 @@
+{
+  "job_id": "JD004",
+  "job_title": "Software Engineer (Backend)",
+  "company": "DataSystems",
+  "job_description": "Company: DataSystems\nPosition: Software Engineer (Backend)\nLocation: Austin, TX\nSalary: $95,000 - $135,000\n\nAbout Us:\nDataSystems is a rapidly expanding tech firm specializing in data management and analytics solutions. We foster a culture of innovation and continuous learning.\n\nJob Description:\nWe need a proficient Backend Engineer to bolster our development team. You'll be integral in designing, developing, and maintaining our core systems.\n\nResponsibilities:\n- Architect and build scalable backend services.\n- Write well-documented and tested code in Java.\n- Work with databases such as PostgreSQL and Redis.\n- Participate in code reviews and contribute to the team's best practices.\n\nRequirements:\n- Bachelor's degree in Computer Science or a related discipline.\n- 2+ years of backend software development experience.\n- Strong proficiency in Java, Spring framework, and RESTful API design.\n- Experience with relational and NoSQL databases.\n\nPreferred Qualifications:\n- Experience with microservices architecture.\n- Experience with cloud platforms (AWS, Azure, GCP).\n\nBenefits:\n- Comprehensive health benefits.\n- Professional development opportunities.\n- Generous paid time off and holidays.",
+  "required_skills": [
+    "Java",
+    "Spring",
+    "SQL",
+    "PostgreSQL",
+    "REST",
+    "Git"
+  ],
+  "preferred_skills": [
+    "AWS",
+    "Microservices"
+  ],
+  "min_experience": 2,
+  "education_requirement": "Bachelor's",
+  "job_category": "Backend",
+  "location": "Austin, TX",
+  "salary_range": "$95,000 - $135,000"
+}

@@ -1,0 +1,20 @@
+{
+  "resume_id": "RES005",
+  "resume_text": "NAME: Emily Davis\nEMAIL: emily.davis@email.com\nPHONE: (555) 345-6789\n\nSUMMARY:\nFrontend Developer with a passion for creating beautiful and user-friendly web interfaces. Proficient in React, HTML, and CSS.\n\nSKILLS:\nReact, HTML5, CSS3, JavaScript, jQuery, Bootstrap, Git\n\nEXPERIENCE:\nFrontEnd Co. - Frontend Developer (2022 - Present)\n- Developed and maintained responsive web interfaces using React.\n- Collaborated with designers to implement UI/UX designs.\n\nWebDev Solutions - Junior Frontend Developer (2021 - 2022)\n- Assisted in the development of web applications using HTML, CSS, and JavaScript.\n\nEDUCATION:\nArizona State University - Bachelor's in Web Development (2021)",
+  "extracted_skills": [
+    "React",
+    "HTML5",
+    "CSS3",
+    "JavaScript",
+    "jQuery",
+    "Bootstrap",
+    "Git"
+  ],
+  "experience_years": 3,
+  "education_level": "Bachelor's",
+  "job_history": [
+    "Frontend Developer",
+    "Junior Frontend Developer"
+  ],
+  "certifications": []
+}

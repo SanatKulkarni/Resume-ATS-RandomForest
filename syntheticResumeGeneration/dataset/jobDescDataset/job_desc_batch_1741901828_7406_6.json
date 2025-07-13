@@ -1,0 +1,23 @@
+{
+  "job_id": "JD006",
+  "job_title": "Security Engineer",
+  "company": "SecurityFirst",
+  "job_description": "Company: SecurityFirst\nPosition: Security Engineer\nLocation: Remote\nSalary: $140,000 - $180,000\n\nAbout Us:\nSecurityFirst is dedicated to protecting our clients from cyber threats. We provide industry-leading security solutions and services.\n\nJob Description:\nWe are looking for a Security Engineer to protect our systems and data. Key skills include threat modeling, vulnerability assessments, and incident response.\n\nResponsibilities:\n- Conduct security assessments and vulnerability scans.\n- Implement and maintain security tools and technologies.\n- Respond to security incidents.\n- Develop and maintain security policies and procedures.\n\nRequirements:\n- Bachelor's degree in Computer Science or related field.\n- 5+ years of experience in security engineering.\n- Knowledge of security frameworks and standards (e.g., NIST, ISO 27001).\n- Experience with security tools (e.g., SIEM, IDS/IPS).\n\nPreferred Qualifications:\n- Security certifications (e.g., CISSP, CEH).\n- Experience with cloud security.\n- Knowledge of penetration testing methodologies.\n\nBenefits:\n- Remote work opportunity.\n- Comprehensive health insurance.\n- Professional development budget.",
+  "required_skills": [
+    "Security Frameworks",
+    "SIEM",
+    "IDS/IPS",
+    "Vulnerability Assessment",
+    "Incident Response",
+    "Network Security"
+  ],
+  "preferred_skills": [
+    "CISSP",
+    "Cloud Security"
+  ],
+  "min_experience": 5,
+  "education_requirement": "Bachelor's",
+  "job_category": "Security",
+  "location": "Remote",
+  "salary_range": "$140,000 - $180,000"
+}

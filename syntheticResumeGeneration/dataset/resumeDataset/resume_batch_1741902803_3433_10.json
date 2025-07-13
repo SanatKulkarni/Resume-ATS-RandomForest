@@ -1,0 +1,18 @@
+{
+  "resume_id": "resume_010",
+  "resume_text": "NAME: Jack King\nEMAIL: jack.king@example.com\nPHONE: (555) 999-0000\n\nSUMMARY:\nEntry level Software Engineer with 1 year of experience. Eager to learn and contribute to innovative projects.\n\nSKILLS:\nPython, Java, Git, HTML5, CSS3, JavaScript\n\nEXPERIENCE:\nSummer Internship - Web Developer Intern (2023)\n- Assisted in developing frontend features using HTML, CSS, and JavaScript.\n- Contributed to backend development using Python and Java.\n\nEDUCATION:\nUniversity of Texas at Austin - Bachelor's in Computer Science (Expected 2024)\n",
+  "extracted_skills": [
+    "Python",
+    "Java",
+    "Git",
+    "HTML5",
+    "CSS3",
+    "JavaScript"
+  ],
+  "experience_years": 1,
+  "education_level": "Bachelor's",
+  "job_history": [
+    "Web Developer Intern"
+  ],
+  "certifications": []
+}

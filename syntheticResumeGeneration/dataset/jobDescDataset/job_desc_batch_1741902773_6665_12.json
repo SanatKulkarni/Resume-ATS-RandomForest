@@ -1,0 +1,24 @@
+{
+  "job_id": "JD012",
+  "job_title": "Database Administrator",
+  "company": "FrontierTech",
+  "job_description": "Company: FrontierTech\nPosition: Database Administrator\nLocation: Dallas, TX\nSalary: $100,000 - $140,000\n\nAbout Us:\nFrontierTech is dedicated to developing innovative solutions that leverage cutting-edge technologies. We emphasize a culture of continuous learning and growth.\n\nJob Description:\nWe are seeking a Database Administrator to manage, maintain, and optimize our database systems. The ideal candidate will have strong experience with SQL and NoSQL databases.\n\nResponsibilities:\n- Manage and maintain database systems.\n- Optimize database performance.\n- Develop and implement backup and recovery procedures.\n- Ensure data security and integrity.\n\nRequirements:\n- Bachelor's degree in Computer Science or related field.\n- 3+ years of experience in database administration.\n- Proficiency in SQL and NoSQL databases (e.g., MySQL, PostgreSQL, MongoDB).\n- Experience with database monitoring and performance tuning.\n\nPreferred Qualifications:\n- Experience with cloud-based database services (e.g., AWS RDS, Azure SQL Database).\n- Familiarity with database security best practices.\n- Knowledge of database replication and clustering.\n\nBenefits:\n- Competitive salary and benefits package.\n- Paid time off and holidays.\n- Opportunities for professional development.",
+  "required_skills": [
+    "SQL",
+    "MySQL",
+    "PostgreSQL",
+    "MongoDB",
+    "Database Administration",
+    "Performance Tuning"
+  ],
+  "preferred_skills": [
+    "AWS RDS",
+    "Database Security",
+    "Replication"
+  ],
+  "min_experience": 3,
+  "education_requirement": "Bachelor's",
+  "job_category": "Backend",
+  "location": "Dallas, TX",
+  "salary_range": "$100,000 - $140,000"
+}

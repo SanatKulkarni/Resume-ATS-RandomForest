@@ -1,0 +1,21 @@
+{
+  "job_id": "JD009",
+  "job_title": "QA Engineer",
+  "company": "TechStart",
+  "job_description": "Company: TechStart\nPosition: QA Engineer\nLocation: Denver, CO\nSalary: $80,000 - $110,000\n\nAbout Us:\nTechStart is a rapidly growing technology startup. We build innovative software solutions for various industries. We value quality and reliability.\n\nJob Description:\nWe are looking for a QA Engineer to ensure the quality of our software products. The ideal candidate will have experience with manual and automated testing, bug tracking, and test case development.\n\nResponsibilities:\n- Develop and execute test plans and test cases.\n- Perform manual and automated testing of software products.\n- Identify and report bugs and track their resolution.\n- Collaborate with developers to improve software quality.\n\nRequirements:\n- Bachelor's degree in Computer Science or related field (or equivalent experience).\n- 2+ years of experience in QA engineering.\n- Experience with manual and automated testing techniques.\n- Familiarity with bug tracking systems (e.g., Jira).\n\nPreferred Qualifications:\n- Experience with test automation tools (e.g., Selenium, Cypress).\n- Knowledge of software development methodologies.\n- Strong problem-solving skills.\n\nBenefits:\n- Competitive salary and benefits package.\n- Opportunity to work in a fast-paced startup environment.\n- Collaborative and supportive work environment.\n- Professional development opportunities.",
+  "required_skills": [
+    "Testing",
+    "Jira",
+    "Agile",
+    "Git"
+  ],
+  "preferred_skills": [
+    "Selenium",
+    "Cypress"
+  ],
+  "min_experience": 2,
+  "education_requirement": "Bachelor's",
+  "job_category": "QA",
+  "location": "Denver, CO",
+  "salary_range": "$80,000 - $110,000"
+}

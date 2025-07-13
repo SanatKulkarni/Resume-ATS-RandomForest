@@ -1,0 +1,20 @@
+{
+  "resume_id": "RES006",
+  "resume_text": "NAME: Emily Wilson\nEMAIL: emily.wilson@email.com\nPHONE: 555-234-5678\n\nSUMMARY:\nDetail-oriented QA Engineer with experience in testing web and mobile applications. Seeking a challenging role where I can ensure high-quality software releases.\n\nSKILLS:\nSelenium, JUnit, TestNG, Appium, SQL, Java, Python\n\nEXPERIENCE:\nQuality Assurance Inc. - QA Engineer (2022 - Present)\n- Developed and executed test cases for web and mobile applications.\n- Identified and reported bugs and worked with developers to resolve them.\nSoftware Testing Solutions - Junior QA Engineer (2020 - 2022)\n- Assisted senior QA engineers in testing software applications.\n- Wrote test scripts and executed manual tests.\n\nEDUCATION:\nSan Jose State University - Bachelor's in Software Engineering (2020)\n",
+  "extracted_skills": [
+    "Selenium",
+    "JUnit",
+    "TestNG",
+    "Appium",
+    "SQL",
+    "Java",
+    "Python"
+  ],
+  "experience_years": 4,
+  "education_level": "Bachelor's",
+  "job_history": [
+    "QA Engineer",
+    "Junior QA Engineer"
+  ],
+  "certifications": []
+}

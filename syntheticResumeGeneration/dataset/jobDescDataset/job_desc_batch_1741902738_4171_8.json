@@ -1,0 +1,23 @@
+{
+  "job_id": "JD008",
+  "job_title": "Software Engineer (Full Stack)",
+  "company": "FullStack Inc",
+  "job_description": "Company: FullStack Inc\nPosition: Software Engineer (Full Stack)\nLocation: Chicago, IL\nSalary: $115,000 - $145,000\n\nAbout Us:\nFullStack Inc builds comprehensive software solutions from front to back. We are a versatile team tackling complex challenges. Join us to work on a variety of projects.\n\nJob Description:\nWe are seeking a Full Stack Software Engineer to develop and maintain our web applications. The ideal candidate will have experience with both frontend and backend development.\n\nResponsibilities:\n- Develop and maintain web applications using a variety of technologies.\n- Collaborate with designers and other engineers.\n- Write clean, maintainable, and well-documented code.\n- Participate in code reviews.\n\nRequirements:\n- Bachelor's degree in Computer Science or related field.\n- 2+ years of experience in full stack development.\n- Proficiency in JavaScript, HTML, CSS, and a backend language such as Node.js or Python.\n- Experience with relational databases such as MySQL or PostgreSQL.\n\nPreferred Qualifications:\n- Experience with React, Angular, or Vue.js.\n- Experience with cloud computing platforms such as AWS or Azure.\n\nBenefits:\n- Professional development budget.\n- Casual dress code.\n- Team outings.",
+  "required_skills": [
+    "JavaScript",
+    "HTML5",
+    "CSS3",
+    "Node.js",
+    "SQL",
+    "Git"
+  ],
+  "preferred_skills": [
+    "React",
+    "AWS"
+  ],
+  "min_experience": 2,
+  "education_requirement": "Bachelor's",
+  "job_category": "Full Stack",
+  "location": "Chicago, IL",
+  "salary_range": "$115,000 - $145,000"
+}

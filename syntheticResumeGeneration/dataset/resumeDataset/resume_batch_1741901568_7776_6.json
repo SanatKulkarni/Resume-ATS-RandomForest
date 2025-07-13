@@ -1,0 +1,21 @@
+{
+  "resume_id": "R6",
+  "resume_text": "NAME: Frank Garcia\nEMAIL: frank.garcia@email.com\nPHONE: (555) 654-3210\n\nSUMMARY:\nExperienced Backend Developer with 10 years of experience in designing and implementing scalable and efficient server-side applications.  Expertise in Java and Spring Framework.\n\nSKILLS:\nJava, Spring, SQL, MySQL, RESTful APIs, Docker, Kubernetes\n\nEXPERIENCE:\nEnterprise Systems Inc. - Backend Developer (2014 - Present)\n- Designed and implemented RESTful APIs using Java and Spring Framework.\n- Optimized database performance and scalability.\n\nSoftware Development Corp - Java Developer (2012 - 2014)\n- Developed and maintained Java applications.\n\nEDUCATION:\nUniversity of Texas, Austin - Master's in Computer Science (2012)\n\nCERTIFICATIONS:\nOracle Certified Professional",
+  "extracted_skills": [
+    "Java",
+    "Spring",
+    "SQL",
+    "MySQL",
+    "Docker",
+    "Kubernetes"
+  ],
+  "experience_years": 10,
+  "education_level": "Master's",
+  "job_history": [
+    "Backend Developer",
+    "Java Developer"
+  ],
+  "certifications": [
+    "Oracle Certified Professional"
+  ]
+}

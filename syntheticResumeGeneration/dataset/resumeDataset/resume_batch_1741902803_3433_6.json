@@ -1,0 +1,16 @@
+{
+  "resume_id": "resume_006",
+  "resume_text": "NAME: Frank Garcia\nEMAIL: frank.garcia@example.com\nPHONE: (555) 654-3210\n\nSUMMARY:\nBackend Developer with 7 years of experience in designing and implementing scalable and reliable backend systems. Expertise in Java and Spring Framework.\n\nSKILLS:\nJava, Spring, SQL, MySQL, RESTful APIs\n\nEXPERIENCE:\nBackend Systems Co. - Backend Developer (2017 - Present)\n- Developed and maintained backend systems using Java and Spring Framework.\n- Designed and implemented RESTful APIs.\n- Managed databases using SQL and MySQL.\n\nEDUCATION:\nUniversity of Michigan - Bachelor's in Computer Science (2017)\n",
+  "extracted_skills": [
+    "Java",
+    "Spring",
+    "SQL",
+    "MySQL"
+  ],
+  "experience_years": 7,
+  "education_level": "Bachelor's",
+  "job_history": [
+    "Backend Developer"
+  ],
+  "certifications": []
+}

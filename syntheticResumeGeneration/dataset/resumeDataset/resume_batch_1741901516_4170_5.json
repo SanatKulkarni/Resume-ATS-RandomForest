@@ -1,0 +1,23 @@
+{
+  "resume_id": "R005",
+  "resume_text": "NAME: Emily Brown\nEMAIL: emily.brown@email.com\nPHONE: (555) 765-4321\n\nSUMMARY:\nExperienced Security Engineer with 8 years of experience in securing systems and networks. Expertise in vulnerability assessment and penetration testing.\n\nSKILLS:\nPython, AWS, Azure, Linux, Network Security, Penetration Testing, SIEM\n\nEXPERIENCE:\nCyberGuard Solutions - Senior Security Engineer (2018 - Present)\n- Conducted vulnerability assessments and penetration tests on web applications and networks.\n- Developed and implemented security policies and procedures.\n\nSecure Systems Inc. - Security Engineer (2016 - 2018)\n- Monitored security systems and responded to security incidents.\n- Implemented security controls to protect sensitive data.\n\nEDUCATION:\nCarnegie Mellon University - Master's in Information Security (2016)\n\nCERTIFICATIONS:\nCertified Ethical Hacker\nCompTIA Security+",
+  "extracted_skills": [
+    "Python",
+    "AWS",
+    "Azure",
+    "Linux",
+    "Network Security",
+    "Penetration Testing",
+    "SIEM"
+  ],
+  "experience_years": 8,
+  "education_level": "Master's",
+  "job_history": [
+    "Senior Security Engineer",
+    "Security Engineer"
+  ],
+  "certifications": [
+    "Certified Ethical Hacker",
+    "CompTIA Security+"
+  ]
+}

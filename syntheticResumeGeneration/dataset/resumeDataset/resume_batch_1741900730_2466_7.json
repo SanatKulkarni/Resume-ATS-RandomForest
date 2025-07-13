@@ -1,0 +1,23 @@
+{
+  "resume_id": "RES007",
+  "resume_text": "NAME: Grace Wilson\nEMAIL: grace.wilson@email.com\nPHONE: 555-438-1647\n\nSUMMARY:\nCloud Architect with 10+ years of experience designing and implementing cloud-based solutions. Expertise in AWS, Azure, and GCP.\n\nSKILLS:\nAWS, Azure, GCP, Docker, Kubernetes, Terraform, CloudFormation\n\nEXPERIENCE:\nCloud Solutions Group - Cloud Architect (2015 - Present)\n- Designed and implemented cloud-based solutions for enterprise clients.\n- Managed cloud infrastructure and ensured security and compliance.\n\nIT Services Inc. - Senior Systems Engineer (2013 - 2015)\n- Managed Linux servers and network infrastructure.\n\nEDUCATION:\nCarnegie Mellon University - Master's in Computer Science (2013)\n\nCERTIFICATIONS:\nAWS Certified Solutions Architect, Google Cloud Professional",
+  "extracted_skills": [
+    "AWS",
+    "Azure",
+    "GCP",
+    "Docker",
+    "Kubernetes",
+    "Terraform",
+    "CloudFormation"
+  ],
+  "experience_years": 10,
+  "education_level": "Master's",
+  "job_history": [
+    "Cloud Architect",
+    "Senior Systems Engineer"
+  ],
+  "certifications": [
+    "AWS Certified Solutions Architect",
+    "Google Cloud Professional"
+  ]
+}

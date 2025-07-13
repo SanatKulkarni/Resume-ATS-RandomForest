@@ -1,0 +1,23 @@
+{
+  "job_id": "JD002",
+  "job_title": "Software Engineer (Backend)",
+  "company": "DataSystems",
+  "job_description": "Company: DataSystems\nPosition: Backend Software Engineer\nLocation: Remote\nSalary: $110,000 - $140,000\n\nAbout Us:\nDataSystems is a fast-growing company specializing in data analytics and cloud solutions. We are committed to innovation and providing our clients with the best possible service. Join our team and help us revolutionize the way data is used.\n\nJob Description:\nWe are looking for a Backend Software Engineer to join our team. The ideal candidate will have a strong understanding of server-side development and experience with building scalable and reliable APIs.\n\nResponsibilities:\n- Design, develop, and maintain backend services and APIs.\n- Collaborate with frontend engineers to integrate our APIs.\n- Write unit and integration tests to ensure code quality.\n- Participate in code reviews.\n\nRequirements:\n- Bachelor's degree in Computer Science or related field.\n- 2+ years of experience in backend development.\n- Proficiency in Python and Django.\n- Experience with relational databases (e.g., PostgreSQL).\n\nPreferred Qualifications:\n- Experience with cloud technologies (e.g., AWS, Azure).\n- Experience with Docker and Kubernetes.\n- Knowledge of RESTful API design principles.\n\nBenefits:\n- Remote work opportunity.\n- Generous vacation policy.\n- Health, dental, and vision insurance.",
+  "required_skills": [
+    "Python",
+    "Django",
+    "SQL",
+    "REST APIs",
+    "Git"
+  ],
+  "preferred_skills": [
+    "AWS",
+    "Docker",
+    "Kubernetes"
+  ],
+  "min_experience": 2,
+  "education_requirement": "Bachelor's",
+  "job_category": "Backend",
+  "location": "Remote",
+  "salary_range": "$110,000 - $140,000"
+}

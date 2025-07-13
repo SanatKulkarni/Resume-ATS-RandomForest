@@ -1,0 +1,23 @@
+{
+  "resume_id": "R006",
+  "resume_text": "NAME: Frank Wilson\nEMAIL: frank.wilson@example.com\nPHONE: (555) 234-5678\n\nSUMMARY:\nFull Stack Developer with 6 years of experience building and deploying web applications from front to back. Comfortable working with a variety of technologies and frameworks.\n\nSKILLS:\nJavaScript, React, Node.js, Express.js, Python, Django, SQL, MongoDB, Git, AWS\n\nEXPERIENCE:\nTech Solutions Inc - Full Stack Developer (2019 - Present)\n- Developed and maintained web applications using React, Node.js, and Express.js.\n- Designed and implemented RESTful APIs using Python and Django.\n- Managed and maintained databases using SQL and MongoDB.\n\nSoftware Development Corp - Backend Developer (2018 - 2019)\n- Developed and maintained backend systems using Java and Spring.\n\nEDUCATION:\nCarnegie Mellon University - Bachelor's in Computer Science (2018)\n\nCERTIFICATIONS:\nNone",
+  "extracted_skills": [
+    "JavaScript",
+    "React",
+    "Node.js",
+    "Express.js",
+    "Python",
+    "Django",
+    "SQL",
+    "MongoDB",
+    "Git",
+    "AWS"
+  ],
+  "experience_years": 6,
+  "education_level": "Bachelor's",
+  "job_history": [
+    "Full Stack Developer",
+    "Backend Developer"
+  ],
+  "certifications": []
+}

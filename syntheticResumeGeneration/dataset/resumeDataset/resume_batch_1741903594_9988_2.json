@@ -1,0 +1,21 @@
+{
+  "resume_id": "R002",
+  "resume_text": "NAME: Bob Johnson\nEMAIL: bob.johnson@example.com\nPHONE: 555-987-6543\n\nSUMMARY:\nExperienced Data Scientist with 7 years of experience in developing machine learning models and data analysis. Passionate about leveraging data to drive business decisions.\n\nSKILLS:\nPython, TensorFlow, scikit-learn, Pandas, NumPy, R, Tableau, SQL\n\nEXPERIENCE:\nData Insights Corp. - Data Scientist (2017 - Present)\n- Developed and deployed machine learning models for predicting customer behavior.\n- Conducted data analysis and visualization to identify key business trends.\nAnalytics Solutions Ltd. - Data Analyst (2016 - 2017)\n- Performed data cleaning and preprocessing.\n- Assisted in the development of data analysis reports.\n\nEDUCATION:\nState University - Master's in Data Science (2016)\n\nCERTIFICATIONS:\nNone",
+  "extracted_skills": [
+    "Python",
+    "TensorFlow",
+    "scikit-learn",
+    "Pandas",
+    "NumPy",
+    "R",
+    "Tableau",
+    "SQL"
+  ],
+  "experience_years": 7,
+  "education_level": "Master's",
+  "job_history": [
+    "Data Scientist",
+    "Data Analyst"
+  ],
+  "certifications": []
+}

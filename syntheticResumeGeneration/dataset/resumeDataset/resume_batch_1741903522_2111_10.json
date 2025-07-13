@@ -1,0 +1,26 @@
+{
+  "resume_id": "R010",
+  "resume_text": "NAME: Jack Green\nEMAIL: jack.green@example.com\nPHONE: (555) 111-2222\n\nSUMMARY:\nCloud Architect with 12 years of experience designing and implementing cloud-based solutions. Expert in cloud migration, infrastructure architecture, and cost optimization.\n\nSKILLS:\nAWS, Azure, GCP, Docker, Kubernetes, Terraform, CloudFormation, Lambda, Python, Java\n\nEXPERIENCE:\nCloud Consulting Group - Principal Cloud Architect (2012 - Present)\n- Designed and implemented cloud-based solutions for various clients.\n- Led cloud migration projects from on-premise to cloud environments.\n- Optimized cloud infrastructure for cost and performance.\n\nIT Solutions Inc - Senior Cloud Engineer (2010 - 2012)\n- Managed and maintained cloud infrastructure on AWS and Azure.\n\nEDUCATION:\nUniversity of Michigan - Bachelor's in Computer Science (2010)\n\nCERTIFICATIONS:\nAWS Certified Solutions Architect, Google Cloud Professional",
+  "extracted_skills": [
+    "AWS",
+    "Azure",
+    "GCP",
+    "Docker",
+    "Kubernetes",
+    "Terraform",
+    "CloudFormation",
+    "Lambda",
+    "Python",
+    "Java"
+  ],
+  "experience_years": 12,
+  "education_level": "Bachelor's",
+  "job_history": [
+    "Principal Cloud Architect",
+    "Senior Cloud Engineer"
+  ],
+  "certifications": [
+    "AWS Certified Solutions Architect",
+    "Google Cloud Professional"
+  ]
+}

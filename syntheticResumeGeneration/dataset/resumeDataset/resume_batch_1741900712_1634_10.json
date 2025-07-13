@@ -1,0 +1,21 @@
+{
+  "resume_id": "RESUME_010",
+  "resume_text": "NAME: Jack Thompson\nEMAIL: jack.thompson@example.com\nPHONE: (555) 789-4560\n\nSUMMARY:\nQA Engineer with expertise in testing web applications and ensuring high-quality software.\n\nSKILLS:\nSelenium, JUnit, SQL, REST API Testing, Git, Python\n\nEXPERIENCE:\nSoftware Testing Co. - QA Engineer (2018 - Present)\n- Developed and executed test plans and test cases.\n- Automated testing using Selenium.\n\nSoftware Company - Junior Tester (2016 - 2018)\n- Performed manual testing and reported bugs.\n\nEDUCATION:\nTechnical College - Associate's in Software Testing (2016)\n\nCERTIFICATIONS:\nCertified Scrum Master",
+  "extracted_skills": [
+    "Selenium",
+    "JUnit",
+    "SQL",
+    "REST API Testing",
+    "Git",
+    "Python"
+  ],
+  "experience_years": 7,
+  "education_level": "Associates",
+  "job_history": [
+    "QA Engineer",
+    "Junior Tester"
+  ],
+  "certifications": [
+    "Certified Scrum Master"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "resume_id": "R008",
+  "resume_text": "NAME: Hannah Hill\nEMAIL: hannah.hill@email.com\nPHONE: (555) 890-1234\n\nSUMMARY:\nMobile Developer with 2 years of experience developing mobile applications for iOS and Android platforms.\n\nSKILLS:\nSwift, Kotlin, iOS, Android, React Native, Git\n\nEXPERIENCE:\nMobile App Company - Mobile Developer (2021 - Present)\n- Developed and maintained native iOS and Android applications.\n- Implemented user interfaces and features based on design specifications.\n\nEDUCATION:\nUniversity of Texas at Austin - Bachelor's in Computer Science (2021)",
+  "extracted_skills": [
+    "Swift",
+    "Kotlin",
+    "iOS",
+    "Android",
+    "React Native",
+    "Git"
+  ],
+  "experience_years": 2,
+  "education_level": "Bachelor's",
+  "job_history": [
+    "Mobile Developer"
+  ],
+  "certifications": []
+}

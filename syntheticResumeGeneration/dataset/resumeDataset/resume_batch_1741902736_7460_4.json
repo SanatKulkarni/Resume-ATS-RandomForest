@@ -1,0 +1,22 @@
+{
+  "resume_id": "RESUME_004",
+  "resume_text": "NAME: Diana Garcia\nEMAIL: diana.garcia@email.com\nPHONE: 555-111-2222\n\nSUMMARY:\nDevOps Engineer with a strong focus on automation and infrastructure as code. Proficient in AWS, Docker, and Kubernetes.\n\nSKILLS:\nAWS, Docker, Kubernetes, Terraform, Ansible, Git, Jenkins\n\nEXPERIENCE:\nCloud Solutions - DevOps Engineer (2020 - Present)\n- Automated infrastructure provisioning and deployment using Terraform.\n- Managed containerized applications using Docker and Kubernetes on AWS.\n\nIT Services - Systems Administrator (2018 - 2020)\n- Maintained and monitored Linux servers.\n- Implemented automation scripts using Ansible.\n\nEDUCATION:\nUniversity of Texas at Austin - Bachelor's in Computer Engineering (2018)",
+  "extracted_skills": [
+    "AWS",
+    "Docker",
+    "Kubernetes",
+    "Terraform",
+    "Ansible",
+    "Git",
+    "Jenkins"
+  ],
+  "experience_years": 6,
+  "education_level": "Bachelor's",
+  "job_history": [
+    "DevOps Engineer",
+    "Systems Administrator"
+  ],
+  "certifications": [
+    "Certified Kubernetes Administrator"
+  ]
+}

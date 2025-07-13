@@ -1,0 +1,24 @@
+{
+  "job_id": "JD-015",
+  "job_title": "Data Engineer",
+  "company": "AnalyticsHub",
+  "job_description": "Company: AnalyticsHub\nPosition: Data Engineer\nLocation: Remote\nSalary: $130,000 - $170,000\n\nAbout Us:\nAnalyticsHub empowers businesses to harness the power of their data. We provide data warehousing, ETL, and data visualization solutions.\n\nJob Description:\nWe are seeking a Data Engineer to build and maintain our data infrastructure. You will be responsible for designing and implementing ETL pipelines, data warehouses, and data lakes.\n\nResponsibilities:\n- Design and implement ETL pipelines\n- Build and maintain data warehouses and data lakes\n- Optimize data infrastructure for performance and scalability\n- Monitor data quality and troubleshoot issues\n\nRequirements:\n- Bachelor's degree in Computer Science or related field\n- 3+ years of experience in data engineering\n- Experience with ETL tools (e.g., Apache Spark, Apache Airflow)\n- Experience with data warehousing technologies (e.g., Snowflake, Redshift)\n- Experience with cloud platforms (AWS, Azure, GCP)\n\nPreferred Qualifications:\n- Experience with data modeling techniques\n- Experience with data governance principles\n\nBenefits:\n- Competitive salary and benefits package\n- Fully remote work environment\n- Professional development opportunities",
+  "required_skills": [
+    "SQL",
+    "Python",
+    "ETL",
+    "Data Warehousing",
+    "Cloud",
+    "Spark",
+    "Airflow"
+  ],
+  "preferred_skills": [
+    "Snowflake",
+    "Redshift"
+  ],
+  "min_experience": 3,
+  "education_requirement": "Bachelor's",
+  "job_category": "Data",
+  "location": "Remote",
+  "salary_range": "$130,000 - $170,000"
+}

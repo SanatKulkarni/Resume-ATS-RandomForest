@@ -1,0 +1,25 @@
+{
+  "resume_id": "RES008",
+  "resume_text": "NAME: Henry Wilson\nEMAIL: henry.wilson@email.com\nPHONE: (555) 345-6789\n\nSUMMARY:\nCloud Architect with 12 years of experience in designing and implementing cloud-based solutions. Expertise in AWS, Azure, and GCP.\n\nSKILLS:\nAWS, Azure, GCP, Docker, Kubernetes, Terraform, CloudFormation, Python, Git\n\nEXPERIENCE:\nCloud Solutions Inc. - Principal Cloud Architect (2015 - Present)\n- Designed and implemented cloud-based solutions for enterprise clients.\n- Led a team of architects in building a multi-cloud infrastructure.\n\nSystem Integrator Ltd. - Senior Cloud Engineer (2014 - 2015)\n- Migrated on-premise applications to the cloud.\n- Automated infrastructure provisioning using Terraform.\n\nEDUCATION:\nUniversity of Washington - Master's in Computer Science (2012)\n\nCERTIFICATIONS:\nAWS Certified Solutions Architect, Google Cloud Professional",
+  "extracted_skills": [
+    "AWS",
+    "Azure",
+    "GCP",
+    "Docker",
+    "Kubernetes",
+    "Terraform",
+    "CloudFormation",
+    "Python",
+    "Git"
+  ],
+  "experience_years": 12,
+  "education_level": "Master's",
+  "job_history": [
+    "Principal Cloud Architect",
+    "Senior Cloud Engineer"
+  ],
+  "certifications": [
+    "AWS Certified Solutions Architect",
+    "Google Cloud Professional"
+  ]
+}

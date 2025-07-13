@@ -1,0 +1,15 @@
+{
+  "resume_id": "RESUME_010",
+  "resume_text": "NAME: Jack King\nEMAIL: jack.king@email.com\nPHONE: 555-888-0000\n\nSUMMARY:\nJunior Software Engineer eager to begin a career. Looking to utilize knowledge of Python and Javascript in a professional setting.\n\nSKILLS:\nPython, JavaScript, HTML5, CSS3, Git, GitHub\n\nEXPERIENCE:\nNone.\n\nEducation:\nHigh School Diploma (2023)\n\nCERTIFICATIONS:\n",
+  "extracted_skills": [
+    "Python",
+    "JavaScript",
+    "HTML5",
+    "CSS3",
+    "Git"
+  ],
+  "experience_years": 0,
+  "education_level": "High School",
+  "job_history": [],
+  "certifications": []
+}

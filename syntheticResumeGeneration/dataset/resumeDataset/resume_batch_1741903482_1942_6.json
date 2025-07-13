@@ -1,0 +1,19 @@
+{
+  "resume_id": "RES006",
+  "resume_text": "NAME: Frank Garcia\nEMAIL: frank.garcia@email.com\nPHONE: (555) 678-9012\n\nSUMMARY:\nBackend Developer with 5+ years of experience in developing scalable and robust server-side applications. Proficient in Java, Spring, and SQL.\n\nSKILLS:\nJava, Spring, SQL, MySQL, RESTful APIs, Git, Docker\n\nEXPERIENCE:\nBackEnd Corp. - Backend Developer (2020 - Present)\n- Developed and maintained RESTful APIs using Java and Spring.\n- Designed and implemented database schemas using SQL and MySQL.\n\nSoftware Solutions Inc. - Junior Developer (2019 - 2020)\n- Assisted in the development of backend systems using Java.\n\nEDUCATION:\nUniversity of Southern California - Bachelor's in Computer Engineering (2019)",
+  "extracted_skills": [
+    "Java",
+    "Spring",
+    "SQL",
+    "MySQL",
+    "Git",
+    "Docker"
+  ],
+  "experience_years": 5,
+  "education_level": "Bachelor's",
+  "job_history": [
+    "Backend Developer",
+    "Junior Developer"
+  ],
+  "certifications": []
+}

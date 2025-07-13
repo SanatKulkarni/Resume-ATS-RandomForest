@@ -1,0 +1,24 @@
+{
+  "job_id": "JD-003",
+  "job_title": "DevOps Engineer",
+  "company": "CloudNative",
+  "job_description": "Company: CloudNative\nPosition: DevOps Engineer\nLocation: New York, NY (On-site)\nSalary: $140,000 - $170,000\n\nAbout Us:\nCloudNative is a cloud-native solutions provider. We help businesses migrate to the cloud and optimize their cloud infrastructure. Our team is passionate about helping our customers succeed.\n\nJob Description:\nWe are looking for a DevOps Engineer to join our team. You will be responsible for automating our infrastructure and deployment pipelines. The ideal candidate will have experience with Docker, Kubernetes, and AWS.\n\nResponsibilities:\n- Automate infrastructure provisioning and deployment\n- Monitor system performance and troubleshoot issues\n- Improve our CI/CD pipeline\n- Collaborate with development and operations teams\n\nRequirements:\n- Bachelor's degree in Computer Science or related field\n- 3+ years of experience in DevOps\n- Experience with Docker and Kubernetes\n- Experience with AWS\n\nPreferred Qualifications:\n- Experience with Terraform\n- Experience with Ansible\n- Experience with Prometheus\n\nBenefits:\n- Competitive salary and benefits package\n- Stock options\n- Opportunity to work with a talented team",
+  "required_skills": [
+    "Docker",
+    "Kubernetes",
+    "AWS",
+    "Git",
+    "Linux",
+    "CI/CD"
+  ],
+  "preferred_skills": [
+    "Terraform",
+    "Ansible",
+    "Prometheus"
+  ],
+  "min_experience": 3,
+  "education_requirement": "Bachelor's",
+  "job_category": "DevOps",
+  "location": "New York, NY (On-site)",
+  "salary_range": "$140,000 - $170,000"
+}

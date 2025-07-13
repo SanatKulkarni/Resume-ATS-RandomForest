@@ -1,0 +1,23 @@
+{
+  "job_id": "JD011",
+  "job_title": "Technical Project Manager",
+  "company": "TechCorp",
+  "job_description": "Company: TechCorp\nPosition: Technical Project Manager\nLocation: Boston, MA\nSalary: $115,000 - $160,000\n\nAbout Us:\nTechCorp is a global technology company committed to providing innovative solutions to our clients.\n\nJob Description:\nWe are seeking a Technical Project Manager to lead and manage software development projects.\n\nResponsibilities:\n- Plan, execute, and monitor software development projects.\n- Manage project scope, schedule, and budget.\n- Communicate project status to stakeholders.\n- Collaborate with cross-functional teams.\n\nRequirements:\n- Bachelor\u2019s degree in Computer Science or related field.\n- 3+ years of experience in project management.\n- Strong understanding of software development processes.\n- Excellent communication and leadership skills.\n\nPreferred Qualifications:\n- PMP certification.\n- Experience with Agile methodologies.\n\nBenefits:\n- Comprehensive benefits package.\n- Professional development opportunities.\n- Flexible work arrangements.",
+  "required_skills": [
+    "Agile",
+    "Scrum",
+    "Project Management",
+    "Communication",
+    "Leadership",
+    "Jira"
+  ],
+  "preferred_skills": [
+    "PMP",
+    "Confluence"
+  ],
+  "min_experience": 3,
+  "education_requirement": "Bachelor's",
+  "job_category": "Management",
+  "location": "Boston, MA",
+  "salary_range": "$115,000 - $160,000"
+}

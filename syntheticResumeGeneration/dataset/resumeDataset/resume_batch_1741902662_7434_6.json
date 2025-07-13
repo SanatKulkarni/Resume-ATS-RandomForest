@@ -1,0 +1,22 @@
+{
+  "resume_id": "RESUME_006",
+  "resume_text": "NAME: Frank Miller\nEMAIL: frank.miller@email.com\nPHONE: (555) 505-3456\n\nSUMMARY:\nSecurity Engineer with 7 years of experience designing, implementing, and maintaining secure systems. Expertise in vulnerability management, threat detection, and incident response.\n\nSKILLS:\nPython, AWS, Azure, CloudFormation, Terraform, CompTIA Security+, Certified Ethical Hacker\n\nEXPERIENCE:\nSecure Systems Corp. - Senior Security Engineer (2017 - Present)\n- Designed and implemented security solutions for cloud environments.\n- Led incident response efforts and conducted vulnerability assessments.\n\nIT Security Inc. - Security Analyst (2015 - 2017)\n- Monitored security systems and responded to security incidents.\n- Conducted security audits and penetration testing.\n\nEDUCATION:\nGeorgia Institute of Technology - Bachelor's in Cybersecurity (2015)\n\nCERTIFICATIONS:\nCompTIA Security+\nCertified Ethical Hacker",
+  "extracted_skills": [
+    "Python",
+    "AWS",
+    "Azure",
+    "CloudFormation",
+    "Terraform",
+    "CompTIA Security+"
+  ],
+  "experience_years": 7,
+  "education_level": "Bachelor's",
+  "job_history": [
+    "Senior Security Engineer",
+    "Security Analyst"
+  ],
+  "certifications": [
+    "CompTIA Security+",
+    "Certified Ethical Hacker"
+  ]
+}

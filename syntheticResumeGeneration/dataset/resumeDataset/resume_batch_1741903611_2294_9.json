@@ -1,0 +1,16 @@
+{
+  "resume_id": "RESUME_009",
+  "resume_text": "NAME: Isabella Jones\nEMAIL: isabella.jones@email.com\nPHONE: (555) 874-4245\n\nSUMMARY:\nEntry-level Software Engineer with a strong foundation in programming principles. Eager to contribute to a dynamic team and learn new technologies.\n\nSKILLS:\nPython, Java, JavaScript, HTML5, CSS3, Git\n\nEXPERIENCE:\nNone\n\nEDUCATION:\nPurdue University - Bachelor's in Computer Science (2024)\n\nCERTIFICATIONS:\nNone",
+  "extracted_skills": [
+    "Python",
+    "Java",
+    "JavaScript",
+    "HTML5",
+    "CSS3",
+    "Git"
+  ],
+  "experience_years": 0,
+  "education_level": "Bachelor's",
+  "job_history": [],
+  "certifications": []
+}

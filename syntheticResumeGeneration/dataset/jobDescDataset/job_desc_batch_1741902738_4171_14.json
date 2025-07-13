@@ -1,0 +1,21 @@
+{
+  "job_id": "JD014",
+  "job_title": "Product Manager",
+  "company": "NextGenSystems",
+  "job_description": "Company: NextGenSystems\nPosition: Product Manager\nLocation: Mountain View, CA\nSalary: $150,000 - $190,000\n\nAbout Us:\nNextGenSystems is shaping the future of technology with innovative products and services. We foster a culture of creativity and collaboration.\n\nJob Description:\nWe are seeking a Product Manager to lead the development of our next-generation products. The ideal candidate will have a strong understanding of customer needs and market trends.\n\nResponsibilities:\n- Define product vision and strategy.\n- Gather and prioritize product requirements.\n- Work closely with engineering, design, and marketing teams.\n- Launch new products and features.\n\nRequirements:\n- Bachelor's degree in Computer Science, Business, or related field.\n- 3+ years of experience in product management.\n- Strong communication and leadership skills.\n- Ability to analyze market trends and customer needs.\n\nPreferred Qualifications:\n- Experience with Agile development methodologies.\n- Experience with product analytics tools.\n\nBenefits:\n- Company-sponsored wellness programs.\n- On-site childcare facilities.\n- Paid professional development conferences.",
+  "required_skills": [
+    "Product Strategy",
+    "Market Analysis",
+    "Agile",
+    "Communication"
+  ],
+  "preferred_skills": [
+    "Product Analytics",
+    "User Research"
+  ],
+  "min_experience": 3,
+  "education_requirement": "Bachelor's",
+  "job_category": "Management",
+  "location": "Mountain View, CA",
+  "salary_range": "$150,000 - $190,000"
+}

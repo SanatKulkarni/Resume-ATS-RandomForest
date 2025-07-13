@@ -1,0 +1,23 @@
+{
+  "resume_id": "RES003",
+  "resume_text": "NAME: Carol Williams\nEMAIL: carol.williams@example.com\nPHONE: (555) 246-8013\n\nSUMMARY:\nResults-driven DevOps Engineer with 5 years of experience in automating and optimizing infrastructure. Expertise in cloud technologies and CI/CD pipelines.\n\nSKILLS:\nAWS, Docker, Kubernetes, Terraform, Jenkins, Git, Ansible, Python, Linux\n\nEXPERIENCE:\nCloud Solutions - DevOps Engineer (2020 - Present)\n- Automated infrastructure provisioning and deployment using Terraform.\n- Implemented CI/CD pipelines using Jenkins and Docker.\n\nSystem Admin Inc - System Administrator (2018 - 2020)\n- Managed and maintained Linux servers.\n- Troubleshooted system issues and implemented solutions.\n\nEDUCATION:\nMIT - Bachelor's in Computer Engineering (2018)\n\nCERTIFICATIONS:\nCertified Kubernetes Administrator",
+  "extracted_skills": [
+    "AWS",
+    "Docker",
+    "Kubernetes",
+    "Terraform",
+    "Jenkins",
+    "Git",
+    "Ansible",
+    "Python"
+  ],
+  "experience_years": 5,
+  "education_level": "Bachelor's",
+  "job_history": [
+    "DevOps Engineer",
+    "System Administrator"
+  ],
+  "certifications": [
+    "Certified Kubernetes Administrator"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "job_id": "JD002",
+  "job_title": "Data Scientist",
+  "company": "DataSystems",
+  "job_description": "Company: DataSystems\nPosition: Data Scientist\nLocation: Remote\nSalary: $120,000 - $160,000\n\nAbout Us:\nDataSystems empowers businesses with data-driven insights. We are a team of passionate data scientists and engineers dedicated to solving complex problems.\n\nJob Description:\nWe are seeking a skilled Data Scientist to join our growing team. The ideal candidate will have a strong background in statistical modeling, machine learning, and data visualization.\n\nResponsibilities:\n- Develop and implement machine learning models for various business applications.\n- Analyze large datasets to identify trends and insights.\n- Communicate findings and recommendations to stakeholders.\n- Contribute to the development of data science best practices.\n\nRequirements:\n- 3+ years of experience in data science.\n- Proficiency in Python and machine learning libraries (scikit-learn, TensorFlow, PyTorch).\n- Experience with data visualization tools (Tableau, Power BI).\n- Strong analytical and problem-solving skills.\n\nPreferred Qualifications:\n- Master's degree in a related field.\n- Experience with cloud computing platforms (AWS, Azure, GCP).\n- Knowledge of SQL and database technologies.\n\nBenefits:\n- Flexible work environment.\n- Comprehensive health insurance.\n- Opportunities for continuous learning.",
+  "required_skills": [
+    "Python",
+    "scikit-learn",
+    "TensorFlow",
+    "Pandas",
+    "NumPy"
+  ],
+  "preferred_skills": [
+    "Tableau",
+    "SQL",
+    "AWS"
+  ],
+  "min_experience": 3,
+  "education_requirement": "Bachelor's",
+  "job_category": "Data",
+  "location": "Remote",
+  "salary_range": "$120,000 - $160,000"
+}

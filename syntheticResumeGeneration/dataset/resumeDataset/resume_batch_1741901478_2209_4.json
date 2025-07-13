@@ -1,0 +1,20 @@
+{
+  "resume_id": "resume_004",
+  "resume_text": "NAME: Diana Miller\nEMAIL: diana.miller@email.com\nPHONE: (555) 789-0123\n\nSUMMARY:\nFrontend Developer with 2 years of experience in building responsive and user-friendly web interfaces. Proficient in modern JavaScript frameworks and web development technologies.\n\nSKILLS:\nJavaScript, React, HTML5, CSS3, SASS, jQuery, Git\n\nEXPERIENCE:\nFrontend Masters - Frontend Developer (2022 - Present)\n- Developed and maintained web applications using React.\n- Implemented responsive designs using HTML5, CSS3, and SASS.\n\nWeb Design Agency - Junior Frontend Developer (2021 - 2022)\n- Assisted senior developers in building web interfaces.\n- Wrote unit tests and performed code reviews.\n\nEDUCATION:\nUniversity of Washington - Associate's in Web Development (2021)",
+  "extracted_skills": [
+    "JavaScript",
+    "React",
+    "HTML5",
+    "CSS3",
+    "SASS",
+    "jQuery",
+    "Git"
+  ],
+  "experience_years": 2,
+  "education_level": "Associates",
+  "job_history": [
+    "Frontend Developer",
+    "Junior Frontend Developer"
+  ],
+  "certifications": []
+}

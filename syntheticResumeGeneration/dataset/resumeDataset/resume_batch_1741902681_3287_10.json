@@ -1,0 +1,23 @@
+{
+  "resume_id": "R1010",
+  "resume_text": "NAME: Jack Rodriguez\nEMAIL: jack.rodriguez@email.com\nPHONE: (555) 589-4176\n\nSUMMARY:\nSeasoned Software Engineer with 12 years of experience in leading development teams and building scalable applications across various technologies.\n\nSKILLS:\nJava, Python, JavaScript, React, SQL, AWS, Azure, Docker\n\nEXPERIENCE:\nTech Giants Ltd. - Lead Software Engineer (2018 - Present)\n- Lead a team of developers in building and maintaining large-scale applications.\n- Designed and implemented new features and resolved critical issues.\nSoftware Experts Co. - Senior Software Engineer (2012 - 2018)\n- Developed and maintained web applications using Java and JavaScript.\n- Mentored junior developers and provided technical guidance.\n\nEDUCATION:\nTexas A&M University - Master's in Computer Engineering (2012)\n\nCERTIFICATIONS:\nMicrosoft Azure Administrator",
+  "extracted_skills": [
+    "Java",
+    "Python",
+    "JavaScript",
+    "React",
+    "SQL",
+    "AWS",
+    "Azure",
+    "Docker"
+  ],
+  "experience_years": 12,
+  "education_level": "Master's",
+  "job_history": [
+    "Lead Software Engineer",
+    "Senior Software Engineer"
+  ],
+  "certifications": [
+    "Microsoft Azure Administrator"
+  ]
+}

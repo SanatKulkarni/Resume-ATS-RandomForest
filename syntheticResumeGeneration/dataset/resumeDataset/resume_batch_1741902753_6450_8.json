@@ -1,0 +1,17 @@
+{
+  "resume_id": "RES008",
+  "resume_text": "NAME: Henry Kim\nEMAIL: henry.kim@email.com\nPHONE: 555-876-5432\n\nSUMMARY:\nQA Engineer with 4 years of experience ensuring software quality through testing and automation. Detail-oriented and passionate about delivering high-quality products.\n\nSKILLS:\nSelenium, JUnit, TestNG, Python, SQL\n\nEXPERIENCE:\nQuality Assurance Corp - QA Engineer (2021 - Present)\n- Developed and executed test plans and test cases.\n- Automated testing processes using Selenium and JUnit.\n\nEDUCATION:\nUniversity of Washington - Bachelor's in Computer Science (2021)\n",
+  "extracted_skills": [
+    "Selenium",
+    "JUnit",
+    "TestNG",
+    "Python",
+    "SQL"
+  ],
+  "experience_years": 4,
+  "education_level": "Bachelor's",
+  "job_history": [
+    "QA Engineer"
+  ],
+  "certifications": []
+}

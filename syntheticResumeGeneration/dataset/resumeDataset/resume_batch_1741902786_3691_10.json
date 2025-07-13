@@ -1,0 +1,20 @@
+{
+  "resume_id": "resume_010",
+  "resume_text": "NAME: Jack Green\nEMAIL: jack.g@email.com\nPHONE: (555) 789-0124\n\nSUMMARY:\nSecurity Engineer with a strong understanding of cybersecurity principles and practices. Experienced in identifying and mitigating security vulnerabilities.\n\nSKILLS:\nPython, C++, Linux, AWS, CompTIA Security+, Certified Ethical Hacker\n\nEXPERIENCE:\nSecurity Solutions Inc. - Security Engineer (2018 - Present)\n- Conducted security assessments and penetration testing.\n- Implemented security measures to protect systems and data.\nIT Department - System Administrator (2016 - 2018)\n- Managed and maintained Linux servers.\n\nEDUCATION:\nTech Institute - Associate Degree in Cybersecurity (2016)\n\nCERTIFICATIONS:\nCompTIA Security+, Certified Ethical Hacker",
+  "extracted_skills": [
+    "Python",
+    "C++",
+    "Linux",
+    "AWS"
+  ],
+  "experience_years": 7,
+  "education_level": "Associates",
+  "job_history": [
+    "Security Engineer",
+    "System Administrator"
+  ],
+  "certifications": [
+    "CompTIA Security+",
+    "Certified Ethical Hacker"
+  ]
+}

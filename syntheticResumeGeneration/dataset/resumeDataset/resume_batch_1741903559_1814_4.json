@@ -1,0 +1,20 @@
+{
+  "resume_id": "R004",
+  "resume_text": "NAME: Diana Garcia\nEMAIL: diana.garcia@email.com\nPHONE: 555-111-2222\n\nSUMMARY:\nHighly skilled Mobile Developer with 2+ years of experience developing native iOS and Android applications. Proficient in Swift, Kotlin, and React Native.\n\nSKILLS:\niOS, Android, React Native, Swift, Kotlin, Java, Git, REST APIs\n\nEXPERIENCE:\nMobile Apps Inc - Mobile Developer (2022 - Present)\n- Developed and maintained native iOS and Android applications.\n- Implemented UI/UX designs and resolved bugs.\n\nInternship at Tech Startup - Mobile Development Intern (2021 - 2022)\n- Assisted in the development of a mobile application using React Native.\n- Contributed to code reviews and unit testing.\n\nEDUCATION:\nSan Jose State University - Bachelor's in Software Engineering (2022)\n",
+  "extracted_skills": [
+    "iOS",
+    "Android",
+    "React Native",
+    "Swift",
+    "Kotlin",
+    "Java",
+    "Git",
+    "REST APIs"
+  ],
+  "experience_years": 2,
+  "education_level": "Bachelor's",
+  "job_history": [
+    "Mobile Developer"
+  ],
+  "certifications": []
+}

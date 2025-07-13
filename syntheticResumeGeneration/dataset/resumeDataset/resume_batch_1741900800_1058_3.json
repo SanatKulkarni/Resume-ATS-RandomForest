@@ -1,0 +1,20 @@
+{
+  "resume_id": "R003",
+  "resume_text": "NAME: Carol Davis\nEMAIL: carol.davis@email.com\nPHONE: (555) 555-1212\n\nSUMMARY:\nResults-oriented DevOps Engineer with 5 years of experience in automating infrastructure and deployment processes. Proficient in cloud technologies and CI/CD pipelines.\n\nSKILLS:\nAWS, Docker, Kubernetes, Terraform, Git, Jenkins, Python\n\nEXPERIENCE:\nCloud Solutions Inc. - DevOps Engineer (2020 - Present)\n- Automated infrastructure provisioning using Terraform and CloudFormation.\n- Implemented CI/CD pipelines using Jenkins and Git.\n\nDevOps Corp. - Junior DevOps Engineer (2019 - 2020)\n- Assisted in the management of cloud infrastructure on AWS.\n- Contributed to the development of automation scripts using Python.\n\nEDUCATION:\nMassachusetts Institute of Technology - Bachelor's in Computer Engineering (2019)",
+  "extracted_skills": [
+    "AWS",
+    "Docker",
+    "Kubernetes",
+    "Terraform",
+    "Git",
+    "Jenkins",
+    "Python"
+  ],
+  "experience_years": 5,
+  "education_level": "Bachelor's",
+  "job_history": [
+    "DevOps Engineer",
+    "Junior DevOps Engineer"
+  ],
+  "certifications": []
+}

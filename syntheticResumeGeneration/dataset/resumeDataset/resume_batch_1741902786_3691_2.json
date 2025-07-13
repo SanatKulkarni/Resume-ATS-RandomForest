@@ -1,0 +1,19 @@
+{
+  "resume_id": "resume_002",
+  "resume_text": "NAME: Bob Williams\nEMAIL: bob.w@email.com\nPHONE: (555) 987-6543\n\nSUMMARY:\nExperienced Frontend Developer with expertise in building responsive and user-friendly web applications. Proven ability to lead and mentor junior developers.\n\nSKILLS:\nJavaScript, React, HTML5, CSS3, Node.js, Git\n\nEXPERIENCE:\nTech Solutions Inc. - Frontend Developer (2018 - Present)\n- Led the development of a new e-commerce platform, resulting in a 20% increase in sales.\n- Mentored junior developers on best practices.\nWeb Design Co. - Web Developer (2016 - 2018)\n- Developed and maintained websites for a variety of clients.\n\nEDUCATION:\nCommunity College - Associates in Web Development (2016)\n\nCERTIFICATIONS:\nNone",
+  "extracted_skills": [
+    "JavaScript",
+    "React",
+    "HTML5",
+    "CSS3",
+    "Node.js",
+    "Git"
+  ],
+  "experience_years": 7,
+  "education_level": "Associates",
+  "job_history": [
+    "Frontend Developer",
+    "Web Developer"
+  ],
+  "certifications": []
+}

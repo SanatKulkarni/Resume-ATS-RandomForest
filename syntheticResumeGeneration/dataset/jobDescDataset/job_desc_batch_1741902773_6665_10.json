@@ -1,0 +1,24 @@
+{
+  "job_id": "JD010",
+  "job_title": "UI/UX Developer",
+  "company": "NextGenSystems",
+  "job_description": "Company: NextGenSystems\nPosition: UI/UX Developer\nLocation: Chicago, IL\nSalary: $90,000 - $130,000\n\nAbout Us:\nNextGenSystems is a forward-thinking company specializing in innovative software solutions. We emphasize human-centered design to create user-friendly and engaging experiences.\n\nJob Description:\nWe are seeking a UI/UX Developer to create and improve the user interface and user experience of our web and mobile applications. The ideal candidate will have a strong understanding of design principles and user research methodologies.\n\nResponsibilities:\n- Design and develop user interfaces for web and mobile applications.\n- Conduct user research and usability testing.\n- Create wireframes, prototypes, and mockups.\n- Collaborate with developers and product managers.\n\nRequirements:\n- Bachelor's degree in Design, Computer Science, or related field.\n- 2+ years of experience in UI/UX design and development.\n- Proficiency in HTML, CSS, and JavaScript.\n- Experience with design tools (e.g., Figma, Adobe XD).\n\nPreferred Qualifications:\n- Experience with user research methodologies.\n- Familiarity with accessibility best practices.\n- Knowledge of mobile UI/UX design principles.\n\nBenefits:\n- Comprehensive health insurance.\n- Paid time off and holidays.\n- Opportunities for professional development.",
+  "required_skills": [
+    "HTML5",
+    "CSS3",
+    "JavaScript",
+    "UI/UX Design",
+    "Figma",
+    "User Research"
+  ],
+  "preferred_skills": [
+    "React",
+    "Accessibility",
+    "Mobile UI/UX"
+  ],
+  "min_experience": 2,
+  "education_requirement": "Bachelor's",
+  "job_category": "Frontend",
+  "location": "Chicago, IL",
+  "salary_range": "$90,000 - $130,000"
+}

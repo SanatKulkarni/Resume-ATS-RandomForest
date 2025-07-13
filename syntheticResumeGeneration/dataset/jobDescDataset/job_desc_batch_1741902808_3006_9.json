@@ -1,0 +1,25 @@
+{
+  "job_id": "JD009",
+  "job_title": "Cloud Architect",
+  "company": "CloudScale",
+  "job_description": "Company: CloudScale\nPosition: Cloud Architect\nLocation: Remote\nSalary: $150,000 - $200,000\n\nAbout Us:\nCloudScale helps businesses migrate to and manage their cloud infrastructure. We are experts in cloud computing and dedicated to providing our clients with the best possible service.\n\nJob Description:\nWe are looking for a Cloud Architect to help design and implement cloud solutions for our clients. The ideal candidate will have extensive experience with cloud computing platforms and infrastructure-as-code.\n\nResponsibilities:\n- Design and implement cloud solutions for our clients.\n- Develop and maintain infrastructure-as-code templates.\n- Provide technical guidance and support to development teams.\n- Stay up-to-date on the latest cloud technologies.\n\nRequirements:\n- 5+ years of experience in cloud architecture.\n- Extensive experience with AWS, Azure, or GCP.\n- Proficiency with Terraform or CloudFormation.\n- Strong understanding of cloud security best practices.\n\nPreferred Qualifications:\n- Cloud certifications (AWS Certified Solutions Architect, Azure Solutions Architect Expert).\n- Experience with Kubernetes.\n- Knowledge of DevOps principles.\n\nBenefits:\n- Competitive salary and benefits.\n- Remote work options.\n- Opportunity to work on challenging and innovative projects.",
+  "required_skills": [
+    "AWS",
+    "Azure",
+    "GCP",
+    "Terraform",
+    "CloudFormation",
+    "Linux",
+    "Networking"
+  ],
+  "preferred_skills": [
+    "Kubernetes",
+    "DevOps",
+    "Security"
+  ],
+  "min_experience": 5,
+  "education_requirement": "Bachelor's",
+  "job_category": "DevOps",
+  "location": "Remote",
+  "salary_range": "$150,000 - $200,000"
+}

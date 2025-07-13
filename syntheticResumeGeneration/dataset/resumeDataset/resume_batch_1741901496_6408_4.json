@@ -1,0 +1,20 @@
+{
+  "resume_id": "R1004",
+  "resume_text": "NAME: David Brown\nEMAIL: david.brown@email.com\nPHONE: (555) 789-0123\n\nSUMMARY:\nPassionate Frontend Developer with 2 years of experience building interactive and user-friendly web applications. Proficient in React, HTML, and CSS.\n\nSKILLS:\nJavaScript, React, HTML5, CSS3, SASS, Git, jQuery\n\nEXPERIENCE:\nWeb Innovations Inc. - Frontend Developer (2022 - Present)\n- Developed and maintained web applications using React and Redux.\n- Collaborated with designers to implement user interfaces.\n\nCode Academy - Web Development Intern (2021 - 2022)\n- Assisted in the development of websites using HTML, CSS, and JavaScript.\n\nEDUCATION:\nUniversity of Washington - Bachelor's in Web Development (2022)\n\nCERTIFICATIONS:\nNone",
+  "extracted_skills": [
+    "JavaScript",
+    "React",
+    "HTML5",
+    "CSS3",
+    "SASS",
+    "Git",
+    "jQuery"
+  ],
+  "experience_years": 2,
+  "education_level": "Bachelor's",
+  "job_history": [
+    "Frontend Developer",
+    "Web Development Intern"
+  ],
+  "certifications": []
+}

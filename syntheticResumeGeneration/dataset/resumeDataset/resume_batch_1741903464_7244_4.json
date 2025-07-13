@@ -1,0 +1,24 @@
+{
+  "resume_id": "RES004",
+  "resume_text": "NAME: Diana Brown\nEMAIL: diana.brown@example.com\nPHONE: (555) 321-0987\n\nSUMMARY:\nHighly skilled DevOps Engineer with 7 years of experience in automating infrastructure and deployment processes. Expertise in cloud technologies and CI/CD pipelines.\n\nSKILLS:\nAWS, Docker, Kubernetes, Terraform, Jenkins, Ansible, Git, Python\n\nEXPERIENCE:\nCloud Infrastructure Inc - DevOps Engineer (2017 - Present)\n- Automated infrastructure provisioning and deployment using Terraform and Ansible.\n- Implemented CI/CD pipelines using Jenkins and Git.\n\nSystems Automation - Systems Administrator (2016 - 2017)\n- Managed and maintained Linux servers.\n- Implemented monitoring and alerting systems.\n\nEDUCATION:\nCarnegie Mellon University - Bachelor's in Information Systems (2016)\n\nCERTIFICATIONS:\nAWS Certified Solutions Architect\nCertified Kubernetes Administrator",
+  "extracted_skills": [
+    "AWS",
+    "Docker",
+    "Kubernetes",
+    "Terraform",
+    "Jenkins",
+    "Ansible",
+    "Git",
+    "Python"
+  ],
+  "experience_years": 7,
+  "education_level": "Bachelor's",
+  "job_history": [
+    "DevOps Engineer",
+    "Systems Administrator"
+  ],
+  "certifications": [
+    "AWS Certified Solutions Architect",
+    "Certified Kubernetes Administrator"
+  ]
+}

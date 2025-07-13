@@ -1,0 +1,20 @@
+{
+  "resume_id": "RES003",
+  "resume_text": "NAME: Carol Williams\nEMAIL: carol.williams@email.com\nPHONE: (555) 246-8109\n\nSUMMARY:\nData Scientist with 5 years of experience. Specializing in Machine Learning, statistical analysis, and data visualization.\n\nSKILLS:\nPython, scikit-learn, TensorFlow, Pandas, NumPy, R, Tableau\n\nEXPERIENCE:\nData Insights Inc. - Data Scientist (2020 - Present)\n- Developed machine learning models for predicting customer behavior.\n- Performed data analysis and visualization using Tableau.\n\nAnalytics Corp. - Data Analyst (2018 - 2020)\n- Collected and cleaned data from various sources.\n- Created reports and dashboards for business stakeholders.\n\nEDUCATION:\nMassachusetts Institute of Technology - PhD in Statistics (2018)\n",
+  "extracted_skills": [
+    "Python",
+    "scikit-learn",
+    "TensorFlow",
+    "Pandas",
+    "NumPy",
+    "R",
+    "Tableau"
+  ],
+  "experience_years": 5,
+  "education_level": "PhD",
+  "job_history": [
+    "Data Scientist",
+    "Data Analyst"
+  ],
+  "certifications": []
+}

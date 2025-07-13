@@ -1,0 +1,23 @@
+{
+  "resume_id": "RES003",
+  "resume_text": "NAME: Charlie Williams\nEMAIL: charlie.williams@example.com\nPHONE: (555) 456-7890\n\nSUMMARY:\nFull Stack Developer with 5 years of experience in building and maintaining web applications using various technologies.\n\nSKILLS:\nJavaScript, React, Node.js, Express.js, MongoDB, HTML5, CSS3, Git\n\nEXPERIENCE:\nWeb Solutions LLC - Full Stack Developer (2019 - Present)\n- Developed and maintained web applications using React, Node.js, and MongoDB.\n- Implemented RESTful APIs and integrated with third-party services.\n\nSoftware Innovations - Frontend Developer (2018 - 2019)\n- Developed user interfaces using HTML5, CSS3, and JavaScript.\n\nEDUCATION:\nUniversity of Michigan - Bachelor's in Computer Engineering (2018)\n\nCERTIFICATIONS:\nCertified Scrum Master",
+  "extracted_skills": [
+    "JavaScript",
+    "React",
+    "Node.js",
+    "Express.js",
+    "MongoDB",
+    "HTML5",
+    "CSS3",
+    "Git"
+  ],
+  "experience_years": 5,
+  "education_level": "Bachelor's",
+  "job_history": [
+    "Full Stack Developer",
+    "Frontend Developer"
+  ],
+  "certifications": [
+    "Certified Scrum Master"
+  ]
+}

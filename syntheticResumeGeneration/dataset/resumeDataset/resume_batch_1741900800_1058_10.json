@@ -1,0 +1,24 @@
+{
+  "resume_id": "R010",
+  "resume_text": "NAME: Jack Taylor\nEMAIL: jack.taylor@email.com\nPHONE: (555) 888-9999\n\nSUMMARY:\nHighly experienced Security Engineer with 12 years of dedicated experience in ensuring robust and secure IT infrastructures. Expert in threat detection, vulnerability assessment, and incident response.\n\nSKILLS:\nPython, AWS, Azure, GCP, CompTIA Security+, Certified Ethical Hacker, Linux, Networking, Cloud Security\n\nEXPERIENCE:\nCyberSafe Solutions - Sr. Security Engineer (2016 - Present)\n- Lead security incident response and mitigation.\n- Developed and implemented security policies and procedures.\n\nSecureTech, Inc. - Security Engineer (2012 - 2016)\n- Conducted vulnerability assessments and penetration testing.\n- Managed and maintained security infrastructure, including firewalls and intrusion detection systems.\n\nEDUCATION:\nUniversity of Maryland - Bachelor's in Cybersecurity (2012)\n\nCERTIFICATIONS:\nCompTIA Security+\nCertified Ethical Hacker",
+  "extracted_skills": [
+    "Python",
+    "AWS",
+    "Azure",
+    "GCP",
+    "CompTIA Security+",
+    "Certified Ethical Hacker",
+    "Linux",
+    "Cloud Security"
+  ],
+  "experience_years": 12,
+  "education_level": "Bachelor's",
+  "job_history": [
+    "Sr. Security Engineer",
+    "Security Engineer"
+  ],
+  "certifications": [
+    "CompTIA Security+",
+    "Certified Ethical Hacker"
+  ]
+}

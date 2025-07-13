@@ -1,0 +1,24 @@
+{
+  "job_id": "JD008",
+  "job_title": "Data Engineer",
+  "company": "DataFlow",
+  "job_description": "Company: DataFlow\nPosition: Data Engineer\nLocation: Boston, MA (Hybrid)\nSalary: $125,000 - $175,000\n\nAbout Us:\nDataFlow builds cutting-edge data pipelines that feed into critical business decisions. We are committed to enabling data-driven strategies.\n\nJob Description:\nWe are looking for a Data Engineer to design, build, and maintain our data infrastructure. The perfect candidate will have experience with ETL processes and data warehousing technologies.\n\nResponsibilities:\n- Design, build, and maintain data pipelines.\n- Extract, transform, and load (ETL) data from various sources.\n- Develop and maintain data warehouses.\n- Monitor data quality and troubleshoot issues.\n\nRequirements:\n- Bachelor's degree in Computer Science, Data Science, or related field.\n- 3+ years of experience in data engineering.\n- Proficient in SQL and Python.\n- Experience with data warehousing technologies (e.g., Snowflake, Redshift).\n\nPreferred Qualifications:\n- Experience with big data technologies (e.g., Spark, Hadoop).\n- Knowledge of cloud-based data solutions.\n- Familiarity with data governance principles.\n\nBenefits:\n- Comprehensive health benefits.\n- Paid parental leave.\n- Professional development budget.",
+  "required_skills": [
+    "Python",
+    "SQL",
+    "ETL",
+    "Data Warehousing",
+    "AWS",
+    "Data Modeling"
+  ],
+  "preferred_skills": [
+    "Spark",
+    "Hadoop",
+    "Data Governance"
+  ],
+  "min_experience": 3,
+  "education_requirement": "Bachelor's",
+  "job_category": "Data",
+  "location": "Boston, MA (Hybrid)",
+  "salary_range": "$125,000 - $175,000"
+}

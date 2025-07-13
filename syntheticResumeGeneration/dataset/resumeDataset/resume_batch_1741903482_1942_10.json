@@ -1,0 +1,14 @@
+{
+  "resume_id": "RES010",
+  "resume_text": "NAME: Jack Robinson\nEMAIL: jack.robinson@email.com\nPHONE: (555) 123-9012\n\nSUMMARY:\nEntry-level Software Engineer eager to apply skills in software development and problem-solving. Recently graduated with a strong foundation in programming principles.\n\nSKILLS:\nJava, Python, Git, SQL\n\nEXPERIENCE:\n(None - Recent Graduate)\n\nEDUCATION:\nOhio State University - Bachelor's in Computer Science (2024)",
+  "extracted_skills": [
+    "Java",
+    "Python",
+    "Git",
+    "SQL"
+  ],
+  "experience_years": 0,
+  "education_level": "Bachelor's",
+  "job_history": [],
+  "certifications": []
+}

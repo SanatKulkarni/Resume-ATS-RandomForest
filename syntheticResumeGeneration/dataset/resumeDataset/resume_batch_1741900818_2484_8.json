@@ -1,0 +1,20 @@
+{
+  "resume_id": "RES008",
+  "resume_text": "NAME: Henry Irwin\nEMAIL: henry.irwin@example.com\nPHONE: 555-444-5555\n\nSUMMARY:\nA Cloud Architect with extensive experience designing and implementing cloud-based solutions on AWS.\n\nSKILLS:\nAWS, Azure, Terraform, CloudFormation, Python, Linux, Networking, Security\n\nEXPERIENCE:\nCloud Solutions Company - Cloud Architect (2015 - Present)\n - Designed and deployed cloud infrastructure for various clients on AWS.\n - Automated infrastructure provisioning using terraform.\nOld Tech Company - Systems Engineer (2012 - 2015)\n - Managed on-premise server infrastructure\n\nEDUCATION:\nUniversity of Texas - Bachelor's in Information Technology (2012)\n\nCERTIFICATIONS:\nAWS Certified Solutions Architect - Professional",
+  "extracted_skills": [
+    "AWS",
+    "Azure",
+    "Terraform",
+    "CloudFormation",
+    "Python"
+  ],
+  "experience_years": 12,
+  "education_level": "Bachelor's",
+  "job_history": [
+    "Cloud Architect",
+    "Systems Engineer"
+  ],
+  "certifications": [
+    "AWS Certified Solutions Architect"
+  ]
+}

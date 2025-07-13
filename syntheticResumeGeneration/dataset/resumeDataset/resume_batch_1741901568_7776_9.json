@@ -1,0 +1,18 @@
+{
+  "resume_id": "R9",
+  "resume_text": "NAME: Isabella Nguyen\nEMAIL: isabella.nguyen@email.com\nPHONE: (555) 397-4197\n\nSUMMARY:\nQA Engineer with a strong testing foundation. Familiar with automation and manual testing methods.\n\nSKILLS:\nPython, SQL, Selenium, API Testing\n\nEXPERIENCE:\nQA Company - QA Engineer (2022 - Present)\n- Develop test plans and suites.\n- Conduct manual and automation testing.\n\nEDUCATION:\nUniversity of Colorado - Bachelor's in Computer Science (2022)\n\nCERTIFICATIONS:\nCertified Scrum Master",
+  "extracted_skills": [
+    "Python",
+    "SQL",
+    "Selenium",
+    "API Testing"
+  ],
+  "experience_years": 2,
+  "education_level": "Bachelor's",
+  "job_history": [
+    "QA Engineer"
+  ],
+  "certifications": [
+    "Certified Scrum Master"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "resume_id": "RES009",
+  "resume_text": "NAME: Isabella Martinez\nEMAIL: isabella.martinez@email.com\nPHONE: (555) 567-8901\n\nSUMMARY:\nSecurity Engineer with 4+ years of experience in protecting computer systems and networks. Proficient in security tools and protocols.\n\nSKILLS:\nCompTIA Security+, Python, Linux, Networking, Ethical Hacking, AWS\n\nEXPERIENCE:\nSecurity Solutions Inc. - Security Engineer (2021 - Present)\n- Conducted security assessments and penetration testing.\n- Implemented security protocols and tools to protect computer systems and networks.\n\nIT Support Corp. - IT Support Specialist (2020 - 2021)\n- Provided technical support to users.\n\nEDUCATION:\nUniversity of Michigan - Bachelor's in Cybersecurity (2020)\n\nCERTIFICATIONS:\nCompTIA Security+",
+  "extracted_skills": [
+    "CompTIA Security+",
+    "Python",
+    "Linux",
+    "Networking",
+    "Certified Ethical Hacker",
+    "AWS"
+  ],
+  "experience_years": 4,
+  "education_level": "Bachelor's",
+  "job_history": [
+    "Security Engineer",
+    "IT Support Specialist"
+  ],
+  "certifications": [
+    "CompTIA Security+",
+    "Certified Ethical Hacker"
+  ]
+}

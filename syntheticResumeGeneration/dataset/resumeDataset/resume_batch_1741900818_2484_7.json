@@ -1,0 +1,16 @@
+{
+  "resume_id": "RES007",
+  "resume_text": "NAME: Grace Hernandez\nEMAIL: grace.hernandez@example.com\nPHONE: 555-999-0000\n\nSUMMARY:\nMobile Developer specializing in iOS development with a passion for creating engaging and user-friendly mobile applications.\n\nSKILLS:\nSwift, iOS, Xcode, UI Kit, CoreData, REST APIs, Git\n\nEXPERIENCE:\nMobile Apps Inc. - Mobile Developer (2020 - Present)\n- Developed and maintained iOS applications using Swift and Xcode.\n- Implemented user interfaces and features based on design specifications.\n\nEDUCATION:\nCalifornia State University - Bachelor's in Computer Engineering (2020)\n",
+  "extracted_skills": [
+    "Swift",
+    "iOS",
+    "Xcode",
+    "Git"
+  ],
+  "experience_years": 4,
+  "education_level": "Bachelor's",
+  "job_history": [
+    "Mobile Developer"
+  ],
+  "certifications": []
+}

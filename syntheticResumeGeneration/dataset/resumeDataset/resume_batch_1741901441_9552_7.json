@@ -1,0 +1,23 @@
+{
+  "resume_id": "RES007",
+  "resume_text": "NAME: Grace Taylor\nEMAIL: grace.taylor@email.com\nPHONE: (555) 111-2222\n\nSUMMARY:\nSecurity Engineer with a strong understanding of cybersecurity principles and practices. Passionate about protecting systems and data from threats.\n\nSKILLS:\nPython, Linux, Networking, Security, AWS, Azure, GCP\n\nEXPERIENCE:\nCybersecurity Firm - Security Engineer (2018 - Present)\n- Conducted security assessments and penetration testing.\n- Implemented security controls and incident response plans.\nIT Department - System Administrator (2016 - 2018)\n- Maintained system security and monitored for threats.\n\nEDUCATION:\nUniversity of Maryland - Bachelor's in Cybersecurity (2016)\n\nCERTIFICATIONS:\nCompTIA Security+, Certified Ethical Hacker\n",
+  "extracted_skills": [
+    "Python",
+    "Linux",
+    "Networking",
+    "Security",
+    "AWS",
+    "Azure",
+    "GCP"
+  ],
+  "experience_years": 7,
+  "education_level": "Bachelor's",
+  "job_history": [
+    "Security Engineer",
+    "System Administrator"
+  ],
+  "certifications": [
+    "CompTIA Security+",
+    "Certified Ethical Hacker"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "resume_id": "RES001",
+  "resume_text": "NAME: Alice Smith\nEMAIL: alice.smith@email.com\nPHONE: 555-123-4567\n\nSUMMARY:\nHighly motivated Software Engineer with 3 years of experience in developing and maintaining web applications. Seeking a challenging role to leverage my skills in backend development and contribute to innovative projects.\n\nSKILLS:\nJava, Spring, SQL, REST APIs, Git, Docker, AWS\n\nEXPERIENCE:\nTech Solutions Inc. - Software Engineer (2021 - Present)\n- Developed and maintained RESTful APIs using Java and Spring.\n- Implemented database schema and queries using SQL.\n\nWebDev Co. - Junior Developer (2020 - 2021)\n- Assisted in building web applications using Java.\n- Participated in code reviews and testing.\n\nEDUCATION:\nUniversity of California, Berkeley - Bachelor's in Computer Science (2020)",
+  "extracted_skills": [
+    "Java",
+    "Spring",
+    "SQL",
+    "REST APIs",
+    "Git",
+    "Docker",
+    "AWS"
+  ],
+  "experience_years": 3,
+  "education_level": "Bachelor's",
+  "job_history": [
+    "Software Engineer",
+    "Junior Developer"
+  ],
+  "certifications": []
+}

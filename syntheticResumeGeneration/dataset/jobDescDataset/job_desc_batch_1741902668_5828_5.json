@@ -1,0 +1,24 @@
+{
+  "job_id": "JD005",
+  "job_title": "Mobile Developer",
+  "company": "MobilePro",
+  "job_description": "Company: MobilePro\nPosition: Mobile Developer\nLocation: Remote\nSalary: $100,000 - $130,000\n\nAbout Us:\nMobilePro is a mobile-first company focused on developing innovative and engaging mobile applications. We are passionate about creating user-friendly experiences and pushing the boundaries of mobile technology. We offer a dynamic and rewarding work environment.\n\nJob Description:\nWe are seeking a skilled Mobile Developer to join our team. You will be responsible for developing and maintaining our iOS and Android applications. The ideal candidate will have experience with React Native, Flutter, or native mobile development.\n\nResponsibilities:\n- Develop and maintain mobile applications for iOS and Android platforms.\n- Write clean, maintainable, and well-documented code.\n- Collaborate with designers and product managers to implement new features.\n- Participate in code reviews and contribute to improving our development processes.\n\nRequirements:\n- Bachelor's degree in Computer Science or related field.\n- 2+ years of experience in mobile development.\n- Experience with React Native, Flutter, Swift (iOS), or Kotlin (Android).\n- Understanding of mobile UI/UX principles.\n\nPreferred Qualifications:\n- Experience with Firebase or other mobile backend services.\n- Experience with automated testing for mobile apps.\n- Published apps in the App Store or Google Play Store.\n\nBenefits:\n- Opportunity to work on cutting-edge mobile technologies.\n- Flexible work hours.\n- Stock options.",
+  "required_skills": [
+    "React Native",
+    "iOS",
+    "Android",
+    "JavaScript",
+    "Git",
+    "REST APIs"
+  ],
+  "preferred_skills": [
+    "Firebase",
+    "Swift",
+    "Kotlin"
+  ],
+  "min_experience": 2,
+  "education_requirement": "Bachelor's",
+  "job_category": "Mobile",
+  "location": "Remote",
+  "salary_range": "$100,000 - $130,000"
+}

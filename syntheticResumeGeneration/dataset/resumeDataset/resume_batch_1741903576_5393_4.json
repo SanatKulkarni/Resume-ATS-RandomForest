@@ -1,0 +1,19 @@
+{
+  "resume_id": "RESUME_004",
+  "resume_text": "NAME: David Brown\nEMAIL: david.brown@email.com\nPHONE: 555-111-2222\n\nSUMMARY:\nPassionate Frontend Developer with 2 years of experience in creating responsive and user-friendly web interfaces. Proficient in React, HTML5, CSS3, and JavaScript.\n\nSKILLS:\nReact, HTML5, CSS3, JavaScript, TypeScript, Redux, Bootstrap\n\nEXPERIENCE:\nWeb Design Agency - Frontend Developer (2022 - Present)\n- Developed and maintained web interfaces for client projects using React and JavaScript.\n- Implemented responsive designs using HTML5 and CSS3.\n\nEDUCATION:\nCommunity College - Associates in Web Development (2022)\n\nCERTIFICATIONS:\n",
+  "extracted_skills": [
+    "React",
+    "HTML5",
+    "CSS3",
+    "JavaScript",
+    "TypeScript",
+    "Redux",
+    "Bootstrap"
+  ],
+  "experience_years": 2,
+  "education_level": "Associates",
+  "job_history": [
+    "Frontend Developer"
+  ],
+  "certifications": []
+}

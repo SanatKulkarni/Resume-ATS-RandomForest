@@ -1,0 +1,19 @@
+{
+  "resume_id": "R1004",
+  "resume_text": "NAME: Diana Garcia\nEMAIL: diana.garcia@email.com\nPHONE: (555) 456-7890\n\nSUMMARY:\nFull Stack Developer with 2 years of experience in developing web applications using JavaScript, Node.js, and React. Proficient in frontend and backend development.\n\nSKILLS:\nJavaScript, React, Node.js, Express.js, MongoDB, HTML5, CSS3\n\nEXPERIENCE:\nWebDev Co - Full Stack Developer (2022 - Present)\n- Developed and maintained web applications using React and Node.js.\n- Designed and implemented REST APIs.\n\nEDUCATION:\nOnline Bootcamp - Full Stack Web Development Certification (2022)\n",
+  "extracted_skills": [
+    "JavaScript",
+    "React",
+    "Node.js",
+    "Express.js",
+    "MongoDB",
+    "HTML5",
+    "CSS3"
+  ],
+  "experience_years": 2,
+  "education_level": "High School",
+  "job_history": [
+    "Full Stack Developer"
+  ],
+  "certifications": []
+}

@@ -1,0 +1,22 @@
+{
+  "job_id": "JD013",
+  "job_title": "AI Research Engineer",
+  "company": "NextGenSystems",
+  "job_description": "Company: NextGenSystems\nPosition: AI Research Engineer\nLocation: Remote\nSalary: $140,000 - $220,000\n\nAbout Us:\nNextGenSystems is a cutting-edge technology company focused on developing advanced artificial intelligence solutions.\n\nJob Description:\nWe are seeking a highly skilled and innovative AI Research Engineer to join our team. This role will involve designing, implementing, and evaluating new AI algorithms and models.\n\nResponsibilities:\n- Conduct original research in AI and machine learning.\n- Develop and prototype novel AI algorithms and models.\n- Publish research findings in top-tier conferences and journals.\n- Collaborate with other researchers and engineers to integrate research into products.\n\nRequirements:\n- PhD in Computer Science, Machine Learning, or a related field.\n- Strong background in mathematics, statistics, and probability.\n- Proficiency in Python and deep learning frameworks (TensorFlow, PyTorch).\n- Experience with natural language processing (NLP) or computer vision.\n\nPreferred Qualifications:\n- Experience with reinforcement learning.\n- Experience with distributed training and deployment of large-scale models.\n\nBenefits:\n- World-class compensation and benefits package.\n- Opportunity to work on groundbreaking research.\n- Flexible work environment with remote options available.",
+  "required_skills": [
+    "Python",
+    "TensorFlow",
+    "PyTorch",
+    "NLP",
+    "Machine Learning",
+    "C++"
+  ],
+  "preferred_skills": [
+    "Reinforcement Learning"
+  ],
+  "min_experience": 2,
+  "education_requirement": "PhD",
+  "job_category": "Data",
+  "location": "Remote",
+  "salary_range": "$140,000 - $220,000"
+}

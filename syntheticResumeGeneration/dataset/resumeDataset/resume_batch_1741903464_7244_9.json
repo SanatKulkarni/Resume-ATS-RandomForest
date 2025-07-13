@@ -1,0 +1,19 @@
+{
+  "resume_id": "RES009",
+  "resume_text": "NAME: Isabella Thomas\nEMAIL: isabella.thomas@example.com\nPHONE: (555) 901-2345\n\nSUMMARY:\nExperienced QA Engineer with 9 years of experience in testing software and ensuring quality standards.\n\nSKILLS:\nSQL, Selenium, Java, Python, Git, Jira\n\nEXPERIENCE:\nQuality Assurance Co - QA Engineer (2015 - Present)\n- Developed and executed test plans and test cases.\n- Automated testing processes using Selenium.\n\nSoftware Testing Inc - Test Analyst (2014 - 2015)\n- Performed manual testing of software applications.\n\nEDUCATION:\nSan Jose State University - Bachelor's in Software Engineering (2014)\n\nCERTIFICATIONS:\nNone",
+  "extracted_skills": [
+    "SQL",
+    "Selenium",
+    "Java",
+    "Python",
+    "Git",
+    "Jira"
+  ],
+  "experience_years": 9,
+  "education_level": "Bachelor's",
+  "job_history": [
+    "QA Engineer",
+    "Test Analyst"
+  ],
+  "certifications": []
+}

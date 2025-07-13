@@ -1,0 +1,21 @@
+{
+  "resume_id": "R1010",
+  "resume_text": "NAME: Jenny Blue\nEMAIL: jenny.blue@email.com\nPHONE: (555) 012-3456\n\nSUMMARY:\nProduct Manager with 10 years expereince leading software development teams.\n\nSKILLS:\nProduct Strategy, Agile Methodologies, Market Analysis, Roadmap Planning, Jira, Confluence\n\nEXPERIENCE:\nSoftware Prodcuts Co - Product Manager (2014 - Present)\n- Defined product vision and strategy.\n- Managed product roadmap and backlog.\n- Led cross-functional teams to deliver successful products.\nApp Development Co - Business Analyst (2013 - 2014)\n\nEDUCATION:\nBusiness College - Master's of Business Administration (2013)\n",
+  "extracted_skills": [
+    "Product Strategy",
+    "Agile Methodologies",
+    "Market Analysis",
+    "Roadmap Planning",
+    "Jira",
+    "Confluence"
+  ],
+  "experience_years": 10,
+  "education_level": "Master's",
+  "job_history": [
+    "Product Manager",
+    "Business Analyst"
+  ],
+  "certifications": [
+    "Certified Scrum Master"
+  ]
+}

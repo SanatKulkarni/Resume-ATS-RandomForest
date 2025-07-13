@@ -1,0 +1,20 @@
+{
+  "resume_id": "RESUME003",
+  "resume_text": "NAME: Carol Davis\nEMAIL: carol.davis@email.com\nPHONE: (555) 456-7890\n\nSUMMARY:\nFull Stack Developer with 5 years of experience in building web applications using React, Node.js, and MongoDB. Strong problem-solving skills and a passion for learning new technologies.\n\nSKILLS:\nJavaScript, React, Node.js, MongoDB, HTML5, CSS3, Git\n\nEXPERIENCE:\nWebDev Solutions - Full Stack Developer (2019 - Present)\n- Developed and maintained web applications using React and Node.js.\n- Designed and implemented database schemas using MongoDB.\n\nCodeCamp Inc. - Frontend Developer (2018 - 2019)\n- Developed user interfaces using HTML5, CSS3, and JavaScript.\n- Contributed to code reviews and testing.\n\nEDUCATION:\nMassachusetts Institute of Technology - Bachelor's in Computer Science (2018)\n\nCERTIFICATIONS:\nNone",
+  "extracted_skills": [
+    "JavaScript",
+    "React",
+    "Node.js",
+    "MongoDB",
+    "HTML5",
+    "CSS3",
+    "Git"
+  ],
+  "experience_years": 5,
+  "education_level": "Bachelor's",
+  "job_history": [
+    "Full Stack Developer",
+    "Frontend Developer"
+  ],
+  "certifications": []
+}

@@ -1,0 +1,23 @@
+{
+  "resume_id": "R008",
+  "resume_text": "NAME: Harry Rodriguez\nEMAIL: harry.rodriguez@email.com\nPHONE: 555-654-3210\n\nSUMMARY:\nSecurity Engineer with 4 years of experience in protecting systems and data from cyber threats. Proficient in security tools and techniques.\n\nSKILLS:\nPython, Linux, AWS, Azure, CompTIA Security+, Ethical Hacking, Network Security\n\nEXPERIENCE:\nCyber Security Solutions - Security Engineer (2021 - Present)\n- Conducted vulnerability assessments and penetration testing.\n- Implemented security controls.\n\nIT Services - Systems Administrator (2020 - 2021)\n- Managed and maintained Linux servers.\n- Troubleshooted system issues.\n\nEDUCATION:\nUniversity of California, Los Angeles - Bachelor's in Cybersecurity (2020)\n\nCERTIFICATIONS:\nCompTIA Security+, Certified Ethical Hacker",
+  "extracted_skills": [
+    "Python",
+    "Linux",
+    "AWS",
+    "Azure",
+    "CompTIA Security+",
+    "Ethical Hacking",
+    "Network Security"
+  ],
+  "experience_years": 4,
+  "education_level": "Bachelor's",
+  "job_history": [
+    "Security Engineer",
+    "Systems Administrator"
+  ],
+  "certifications": [
+    "CompTIA Security+",
+    "Certified Ethical Hacker"
+  ]
+}

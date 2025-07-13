@@ -1,0 +1,22 @@
+{
+  "job_id": "JD008",
+  "job_title": "Data Engineer",
+  "company": "DataFlow",
+  "job_description": "Company: DataFlow\nPosition: Data Engineer\nLocation: Seattle, WA (Hybrid)\nSalary: $125,000 - $165,000\n\nAbout Us:\nDataFlow builds scalable data pipelines and data warehouses. We enable organizations to collect, store, and analyze data effectively. We are passionate about data.\n\nJob Description:\nWe are looking for a Data Engineer to design and implement data pipelines. The ideal candidate will have experience with ETL processes, data warehousing, and big data technologies.\n\nResponsibilities:\n- Design and implement data pipelines for collecting, transforming, and loading data.\n- Build and maintain data warehouses and data lakes.\n- Optimize data queries and improve data quality.\n- Collaborate with data scientists and business analysts.\n\nRequirements:\n- Bachelor's degree in Computer Science or related field.\n- 3+ years of experience in data engineering.\n- Proficiency in SQL and data warehousing concepts.\n- Experience with ETL tools and technologies.\n\nPreferred Qualifications:\n- Experience with big data technologies (e.g., Spark, Hadoop).\n- Knowledge of cloud computing platforms (e.g., AWS, Azure, GCP).\n- Familiarity with data visualization tools.\n\nBenefits:\n- Competitive salary and benefits package.\n- Opportunity to work on large-scale data projects.\n- Collaborative and supportive work environment.\n- Professional development opportunities.",
+  "required_skills": [
+    "SQL",
+    "Python",
+    "AWS",
+    "Spark",
+    "ETL"
+  ],
+  "preferred_skills": [
+    "Hadoop",
+    "Data Modeling"
+  ],
+  "min_experience": 3,
+  "education_requirement": "Bachelor's",
+  "job_category": "Data",
+  "location": "Seattle, WA (Hybrid)",
+  "salary_range": "$125,000 - $165,000"
+}

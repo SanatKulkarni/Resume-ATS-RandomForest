@@ -1,0 +1,21 @@
+{
+  "resume_id": "RES010",
+  "resume_text": "NAME: Jack Kennedy\nEMAIL: jack.kennedy@email.com\nPHONE: 555-268-0246\n\nSUMMARY:\nCloud Architect with extensive experience in designing and implementing cloud-based solutions.\n\nSKILLS:\nAWS, Azure, GCP, Kubernetes, Terraform, CloudFormation\n\nEXPERIENCE:\nCloud Architect Group - Cloud Architect (2015-Present)\n- Designed and implemented scalable and secure cloud infrastructures using AWS, Azure, and GCP.\n\nEDUCATION:\nGeorgia Tech - Bachelor's in Electrical Engineering (2015)\n\nCERTIFICATIONS:\nAWS Certified Solutions Architect, Google Cloud Professional",
+  "extracted_skills": [
+    "AWS",
+    "Azure",
+    "GCP",
+    "Kubernetes",
+    "Terraform",
+    "CloudFormation"
+  ],
+  "experience_years": 8,
+  "education_level": "Bachelor's",
+  "job_history": [
+    "Cloud Architect"
+  ],
+  "certifications": [
+    "AWS Certified Solutions Architect",
+    "Google Cloud Professional"
+  ]
+}

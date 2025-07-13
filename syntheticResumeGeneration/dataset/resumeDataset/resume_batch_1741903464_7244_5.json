@@ -1,0 +1,19 @@
+{
+  "resume_id": "RES005",
+  "resume_text": "NAME: Ethan Davis\nEMAIL: ethan.davis@example.com\nPHONE: (555) 765-4321\n\nSUMMARY:\nMobile Developer with 4 years of experience in developing iOS and Android applications. Proficient in Swift, Kotlin, and React Native.\n\nSKILLS:\niOS, Android, React Native, Swift, Kotlin, Git\n\nEXPERIENCE:\nMobile Apps Co - Mobile Developer (2020 - Present)\n- Developed and maintained iOS and Android applications using Swift, Kotlin, and React Native.\n- Integrated with third-party APIs and services.\n\nSoftware Solutions - Junior Developer (2019 - 2020)\n- Assisted senior developers in building mobile applications.\n\nEDUCATION:\nMassachusetts Institute of Technology (MIT) - Bachelor's in Computer Science (2019)\n\nCERTIFICATIONS:\nNone",
+  "extracted_skills": [
+    "iOS",
+    "Android",
+    "React Native",
+    "Swift",
+    "Kotlin",
+    "Git"
+  ],
+  "experience_years": 4,
+  "education_level": "Bachelor's",
+  "job_history": [
+    "Mobile Developer",
+    "Junior Developer"
+  ],
+  "certifications": []
+}

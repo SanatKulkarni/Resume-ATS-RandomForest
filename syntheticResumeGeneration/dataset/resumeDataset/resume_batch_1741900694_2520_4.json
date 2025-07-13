@@ -1,0 +1,21 @@
+{
+  "resume_id": "RES004",
+  "resume_text": "NAME: David Brown\nEMAIL: david.brown@example.com\nPHONE: (555) 789-0123\n\nSUMMARY:\nHighly skilled Backend Developer with 7 years of experience in designing and developing scalable and robust server-side applications. Strong expertise in Java and Spring framework.\n\nSKILLS:\nJava, Spring, MySQL, REST APIs, Docker, AWS, Git\n\nEXPERIENCE:\nTech Innovations - Senior Backend Developer (2019 - Present)\n- Designed and developed REST APIs using Java and Spring.\n- Implemented microservices architecture using Docker and Kubernetes.\n\nSoftware Solutions - Backend Developer (2017 - 2019)\n- Developed and maintained server-side applications using Java.\n- Optimized database queries for improved performance.\n\nEDUCATION:\nUniversity of Texas - Bachelor's in Computer Science (2017)\n\nCERTIFICATIONS:\nOracle Certified Professional",
+  "extracted_skills": [
+    "Java",
+    "Spring",
+    "MySQL",
+    "AWS",
+    "Git",
+    "Docker"
+  ],
+  "experience_years": 7,
+  "education_level": "Bachelor's",
+  "job_history": [
+    "Senior Backend Developer",
+    "Backend Developer"
+  ],
+  "certifications": [
+    "Oracle Certified Professional"
+  ]
+}

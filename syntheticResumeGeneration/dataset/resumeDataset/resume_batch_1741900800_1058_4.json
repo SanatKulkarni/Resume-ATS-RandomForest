@@ -1,0 +1,20 @@
+{
+  "resume_id": "R004",
+  "resume_text": "NAME: David Garcia\nEMAIL: david.garcia@email.com\nPHONE: (555) 333-4444\n\nSUMMARY:\nFull Stack Developer with 10 years of experience in building web applications from concept to deployment. Strong expertise in both frontend and backend technologies.\n\nSKILLS:\nJavaScript, React, Node.js, Express.js, MongoDB, SQL, AWS\n\nEXPERIENCE:\nWeb Applications Ltd. - Lead Full Stack Developer (2017 - Present)\n- Led a team of developers in building and maintaining web applications.\n- Designed and implemented RESTful APIs using Node.js and Express.js.\n\nSoftware Solutions Inc. - Full Stack Developer (2014 - 2017)\n- Developed user interfaces using React and JavaScript.\n- Contributed to database design and implementation using MongoDB and SQL.\n\nEDUCATION:\nUniversity of Texas at Austin - Bachelor's in Computer Science (2014)",
+  "extracted_skills": [
+    "JavaScript",
+    "React",
+    "Node.js",
+    "Express.js",
+    "MongoDB",
+    "SQL",
+    "AWS"
+  ],
+  "experience_years": 10,
+  "education_level": "Bachelor's",
+  "job_history": [
+    "Lead Full Stack Developer",
+    "Full Stack Developer"
+  ],
+  "certifications": []
+}

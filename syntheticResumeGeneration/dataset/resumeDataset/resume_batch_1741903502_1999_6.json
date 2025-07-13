@@ -1,0 +1,23 @@
+{
+  "resume_id": "RES006",
+  "resume_text": "NAME: Frank Garcia\nEMAIL: frank.garcia@email.com\nPHONE: (555) 567-8901\n\nSUMMARY:\nBackend Developer with 7 years of experience in designing and implementing scalable APIs. Expertise in Java, Spring, and microservices architecture.\n\nSKILLS:\nJava, Spring, SQL, MySQL, AWS, Docker, Kubernetes, Git\n\nEXPERIENCE:\nAPI Solutions Corp. - Lead Backend Developer (2019 - Present)\n- Designed and developed RESTful APIs using Java and Spring.\n- Led a team of developers in building a microservices architecture.\n\nBackend Services Inc. - Backend Developer (2017 - 2019)\n- Developed and maintained backend systems using Node.js and Express.js.\n- Integrated with third-party APIs and databases.\n\nEDUCATION:\nUniversity of Texas at Austin - Bachelor's in Computer Science (2017)\n\nCERTIFICATIONS:\nOracle Certified Professional",
+  "extracted_skills": [
+    "Java",
+    "Spring",
+    "SQL",
+    "MySQL",
+    "AWS",
+    "Docker",
+    "Kubernetes",
+    "Git"
+  ],
+  "experience_years": 7,
+  "education_level": "Bachelor's",
+  "job_history": [
+    "Lead Backend Developer",
+    "Backend Developer"
+  ],
+  "certifications": [
+    "Oracle Certified Professional"
+  ]
+}

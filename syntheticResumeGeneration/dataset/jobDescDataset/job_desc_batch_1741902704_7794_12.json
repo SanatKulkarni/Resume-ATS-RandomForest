@@ -1,0 +1,23 @@
+{
+  "job_id": "JD012",
+  "job_title": "Site Reliability Engineer",
+  "company": "NextGenSystems",
+  "job_description": "Company: NextGenSystems\nPosition: Site Reliability Engineer\nLocation: Minneapolis, MN\nSalary: $140,000 - $180,000\n\nAbout Us:\nNextGenSystems is building the next generation of reliable and scalable systems. We are dedicated to providing exceptional uptime and performance. We are at the forefront of SRE methodologies.\n\nJob Description:\nWe are seeking a Site Reliability Engineer. The candidate will have experience automating operations, monitoring systems, and responding to incidents. Experience with high availability and uptime SLAs.\n\nResponsibilities:\n- Automate the deployment and management of infrastructure.\n- Monitor system performance and respond to incidents.\n- Improve the reliability and scalability of our systems.\n- Participate in on-call rotations.\n\nRequirements:\n- Bachelor's degree in Computer Science or related field.\n- 3+ years of experience in SRE or related field.\n- Proficiency in scripting languages (e.g., Python, Bash).\n- Experience with monitoring tools (e.g., Prometheus, Grafana).\n\nPreferred Qualifications:\n- Experience with containerization technologies (e.g., Docker, Kubernetes).\n- Knowledge of cloud computing platforms (e.g., AWS, Azure, GCP).\n- Excellent problem-solving and communication skills.\n\nBenefits:\n- Competitive salary and benefits package.\n- Opportunity to work on critical systems.\n- Collaborative and supportive work environment.\n- Professional development opportunities.",
+  "required_skills": [
+    "Python",
+    "Linux",
+    "AWS",
+    "Kubernetes",
+    "Prometheus",
+    "Grafana"
+  ],
+  "preferred_skills": [
+    "Ansible",
+    "Terraform"
+  ],
+  "min_experience": 3,
+  "education_requirement": "Bachelor's",
+  "job_category": "DevOps",
+  "location": "Minneapolis, MN",
+  "salary_range": "$140,000 - $180,000"
+}

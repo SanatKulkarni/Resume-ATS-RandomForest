@@ -1,0 +1,20 @@
+{
+  "resume_id": "RESUME_007",
+  "resume_text": "NAME: Grace Wilson\nEMAIL: grace.wilson@email.com\nPHONE: (555) 628-4567\n\nSUMMARY:\nBackend Developer with 4 years of experience building and maintaining scalable backend systems. Proficient in Node.js, Express.js, and MongoDB.\n\nSKILLS:\nNode.js, Express.js, MongoDB, SQL, JavaScript, AWS, Docker\n\nEXPERIENCE:\nBackend Solutions Inc. - Backend Developer (2020 - Present)\n- Designed and developed RESTful APIs using Node.js and Express.js.\n- Optimized database queries and improved system performance.\n\nWeb Services Ltd. - Junior Backend Developer (2019 - 2020)\n- Assisted in the development of backend systems using Node.js.\n- Wrote unit tests and integration tests.\n\nEDUCATION:\nUniversity of Michigan - Bachelor's in Computer Science (2019)",
+  "extracted_skills": [
+    "Node.js",
+    "Express.js",
+    "MongoDB",
+    "SQL",
+    "JavaScript",
+    "AWS",
+    "Docker"
+  ],
+  "experience_years": 4,
+  "education_level": "Bachelor's",
+  "job_history": [
+    "Backend Developer",
+    "Junior Backend Developer"
+  ],
+  "certifications": []
+}

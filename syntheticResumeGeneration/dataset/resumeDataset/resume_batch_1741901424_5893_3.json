@@ -1,0 +1,21 @@
+{
+  "resume_id": "RES003",
+  "resume_text": "NAME: David Lee\nEMAIL: david.lee@email.com\nPHONE: 555-456-7890\n\nSUMMARY:\nResults-oriented DevOps Engineer with expertise in automating software delivery pipelines and managing cloud infrastructure. Seeking a challenging role where I can optimize system performance and ensure reliability.\n\nSKILLS:\nAWS, Docker, Kubernetes, Terraform, Jenkins, Git, Ansible, Python\n\nEXPERIENCE:\nCloud Solutions Ltd. - DevOps Engineer (2019 - Present)\n- Implemented infrastructure as code using Terraform and CloudFormation.\n- Automated software deployments using Jenkins and Ansible.\nSoftware Systems Corp. - System Administrator (2017 - 2019)\n- Managed Linux servers and network infrastructure.\n- Provided technical support to developers and users.\n\nEDUCATION:\nMassachusetts Institute of Technology - Bachelor's in Computer Engineering (2017)\n",
+  "extracted_skills": [
+    "AWS",
+    "Docker",
+    "Kubernetes",
+    "Terraform",
+    "Jenkins",
+    "Git",
+    "Ansible",
+    "Python"
+  ],
+  "experience_years": 5,
+  "education_level": "Bachelor's",
+  "job_history": [
+    "DevOps Engineer",
+    "System Administrator"
+  ],
+  "certifications": []
+}

@@ -1,0 +1,25 @@
+{
+  "job_id": "JD-010",
+  "job_title": "Full Stack Software Engineer",
+  "company": "FullStack Inc",
+  "job_description": "Company: FullStack Inc\nPosition: Full Stack Software Engineer\nLocation: Remote\nSalary: $120,000 - $160,000\n\nAbout Us:\nFullStack Inc is a dynamic company building next-generation web applications. We value innovation, collaboration, and continuous improvement.\n\nJob Description:\nWe are looking for an enthusiastic Full Stack Software Engineer to help us build scalable web applications. You will contribute to both frontend and backend development.\n\nResponsibilities:\n- Develop and maintain both frontend and backend components\n- Write clean, efficient, and well-documented code\n- Participate in code reviews\n- Collaborate with team members to design and implement new features\n\nRequirements:\n- Bachelor's degree in Computer Science or related field\n- 3+ years of experience in full-stack development\n- Proficient in JavaScript, HTML, and CSS\n- Experience with React and Node.js\n- Experience with SQL databases\n\nPreferred Qualifications:\n- Experience with TypeScript\n- Experience with Docker and Kubernetes\n\nBenefits:\n- Competitive salary and benefits package\n- Fully remote work environment\n- Professional development opportunities",
+  "required_skills": [
+    "JavaScript",
+    "React",
+    "Node.js",
+    "SQL",
+    "HTML5",
+    "CSS3",
+    "Git"
+  ],
+  "preferred_skills": [
+    "TypeScript",
+    "Docker",
+    "Kubernetes"
+  ],
+  "min_experience": 3,
+  "education_requirement": "Bachelor's",
+  "job_category": "Full Stack",
+  "location": "Remote",
+  "salary_range": "$120,000 - $160,000"
+}

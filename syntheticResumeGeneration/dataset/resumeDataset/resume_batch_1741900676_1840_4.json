@@ -1,0 +1,23 @@
+{
+  "resume_id": "RES004",
+  "resume_text": "NAME: David Brown\nEMAIL: david.brown@email.com\nPHONE: (555) 789-0123\n\nSUMMARY:\nExperienced DevOps Engineer focused on automating infrastructure and improving software delivery pipelines.\n\nSKILLS:\nAWS, Azure, Docker, Kubernetes, Terraform, Ansible, Jenkins, Git\n\nEXPERIENCE:\nCloud Solutions Corp - DevOps Engineer (2017 - Present)\n- Implemented infrastructure as code using Terraform.\n- Managed CI/CD pipelines using Jenkins and Git.\n\nServices Inc - System Administrator (2015 - 2017)\n- Maintained Linux servers and network infrastructure.\n\nEDUCATION:\nCommunity College - Associates in Information Technology (2015)\n\nCERTIFICATIONS:\nCertified Kubernetes Administrator\n",
+  "extracted_skills": [
+    "AWS",
+    "Azure",
+    "Docker",
+    "Kubernetes",
+    "Terraform",
+    "Ansible",
+    "Jenkins",
+    "Git"
+  ],
+  "experience_years": 8,
+  "education_level": "Associates",
+  "job_history": [
+    "DevOps Engineer",
+    "System Administrator"
+  ],
+  "certifications": [
+    "Certified Kubernetes Administrator"
+  ]
+}

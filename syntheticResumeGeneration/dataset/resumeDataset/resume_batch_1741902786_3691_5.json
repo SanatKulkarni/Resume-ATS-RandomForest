@@ -1,0 +1,17 @@
+{
+  "resume_id": "resume_005",
+  "resume_text": "NAME: Emily Rodriguez\nEMAIL: emily.r@email.com\nPHONE: (555) 234-5678\n\nSUMMARY:\nMobile Developer specializing in iOS development. Passionate about creating innovative and user-friendly mobile applications.\n\nSKILLS:\nSwift, iOS, React Native, Git\n\nEXPERIENCE:\nMobile Apps Inc. - Mobile Developer (2019 - Present)\n- Developed and maintained several iOS applications.\n- Contributed to the design and architecture of new features.\nStartup Company - Intern (2018 - 2019)\n- Assisted in developing a cross-platform mobile application.\n\nEDUCATION:\nUniversity of Computing - Bachelor's in Computer Science (2019)\n\nCERTIFICATIONS:\nNone",
+  "extracted_skills": [
+    "Swift",
+    "iOS",
+    "React Native",
+    "Git"
+  ],
+  "experience_years": 6,
+  "education_level": "Bachelor's",
+  "job_history": [
+    "Mobile Developer",
+    "Intern"
+  ],
+  "certifications": []
+}

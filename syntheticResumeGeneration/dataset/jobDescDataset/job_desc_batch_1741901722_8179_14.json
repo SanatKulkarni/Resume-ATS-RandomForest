@@ -1,0 +1,25 @@
+{
+  "job_id": "JD014",
+  "job_title": "Database Administrator",
+  "company": "TechStart",
+  "job_description": "Company: TechStart\nPosition: Database Administrator\nLocation: Atlanta, GA (Hybrid)\nSalary: $90,000 - $120,000\n\nAbout Us:\nTechStart is a fast-growing technology startup focused on developing innovative software solutions. We are committed to creating a dynamic and rewarding work environment.\n\nJob Description:\nWe are seeking a Database Administrator to manage and maintain our databases. The ideal candidate will have experience with database administration and optimization.\n\nResponsibilities:\n- Install, configure, and maintain databases.\n- Monitor database performance and troubleshoot issues.\n- Implement database security measures.\n- Perform database backups and recovery.\n\nRequirements:\n- 1+ years of experience in database administration.\n- Knowledge of relational databases like MySQL or PostgreSQL.\n- Experience with database security and optimization.\n- Strong problem-solving skills.\n\nPreferred Qualifications:\n- Experience with cloud-based databases like AWS RDS or Azure SQL Database.\n- Experience with NoSQL databases like MongoDB.\n- Database certifications.\n\nBenefits:\n- Health, dental, and vision insurance.\n- Paid time off.\n- Professional development opportunities.",
+  "required_skills": [
+    "SQL",
+    "MySQL",
+    "PostgreSQL",
+    "Database Administration",
+    "Database Security",
+    "Database Optimization",
+    "Linux"
+  ],
+  "preferred_skills": [
+    "AWS RDS",
+    "Azure SQL Database",
+    "MongoDB"
+  ],
+  "min_experience": 1,
+  "education_requirement": "Bachelor's",
+  "job_category": "Backend",
+  "location": "Atlanta, GA (Hybrid)",
+  "salary_range": "$90,000 - $120,000"
+}

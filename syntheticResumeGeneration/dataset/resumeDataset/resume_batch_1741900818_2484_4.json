@@ -1,0 +1,21 @@
+{
+  "resume_id": "RES004",
+  "resume_text": "NAME: David Brown\nEMAIL: david.brown@example.com\nPHONE: 555-111-2222\n\nSUMMARY:\nPassionate Full Stack Developer with experience building web applications from front to back. Proficient in both frontend and backend technologies. Eager to learn and contribute to dynamic projects.\n\nSKILLS:\nJavaScript, React, Node.js, Express.js, MongoDB, SQL, HTML5, CSS3, Git\n\nEXPERIENCE:\nWeb Development Co. - Full Stack Developer (2020 - Present)\n- Developed and maintained web applications using React, Node.js, and MongoDB.\n- Collaborated with designers and product managers to implement new features.\n\nEDUCATION:\nUniversity of Washington - Bachelor's in Computer Science (2020)\n",
+  "extracted_skills": [
+    "JavaScript",
+    "React",
+    "Node.js",
+    "Express.js",
+    "MongoDB",
+    "SQL",
+    "HTML5",
+    "CSS3",
+    "Git"
+  ],
+  "experience_years": 4,
+  "education_level": "Bachelor's",
+  "job_history": [
+    "Full Stack Developer"
+  ],
+  "certifications": []
+}

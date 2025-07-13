@@ -1,0 +1,24 @@
+{
+  "job_id": "JD010",
+  "job_title": "Software Engineer (Full Stack)",
+  "company": "FullStack Inc",
+  "job_description": "Company: FullStack Inc\nPosition: Full Stack Software Engineer\nLocation: Denver, CO (Hybrid)\nSalary: $120,000 - $160,000\n\nAbout Us:\nFullStack Inc is a software development company specializing in building modern web applications. We're passionate about clean code and user-centric design.\n\nJob Description:\nWe are looking for a Full Stack Software Engineer to build and maintain web applications. Skills in React, Node.js, and SQL are a must.\n\nResponsibilities:\n- Develop and maintain both front-end and back-end code.\n- Collaborate with designers and product managers to implement new features.\n- Write unit and integration tests.\n- participate in code reviews.\n\nRequirements:\n- Bachelor's degree in Computer Science or related field.\n- 3+ years of experience in full stack development.\n- Proficiency in JavaScript, React, and Node.js.\n- Experience with SQL databases.\n\nPreferred Qualifications:\n- Experience with TypeScript.\n- Experience with Docker and Kubernetes.\n- Knowledge of web security best practices.\n\nBenefits:\n- Competitive salary and benefits package.\n- Flexible work schedule.\n- Stock options.",
+  "required_skills": [
+    "JavaScript",
+    "React",
+    "Node.js",
+    "SQL",
+    "HTML5",
+    "CSS3"
+  ],
+  "preferred_skills": [
+    "TypeScript",
+    "Docker",
+    "Kubernetes"
+  ],
+  "min_experience": 3,
+  "education_requirement": "Bachelor's",
+  "job_category": "Full Stack",
+  "location": "Denver, CO (Hybrid)",
+  "salary_range": "$120,000 - $160,000"
+}

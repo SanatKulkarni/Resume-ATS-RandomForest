@@ -1,0 +1,21 @@
+{
+  "resume_id": "RES004",
+  "resume_text": "NAME: David Wilson\nEMAIL: david.wilson@email.com\nPHONE: (555) 135-7913\n\nSUMMARY:\nFull Stack Developer with 9 years of experience in designing and developing web applications. Expertise in both frontend and backend technologies, with a focus on delivering high-quality and scalable solutions.\n\nSKILLS:\nJavaScript, React, Node.js, Python, Django, SQL, HTML5, CSS3\n\nEXPERIENCE:\nWeb Applications LLC - Full Stack Developer (2016 - Present)\n- Designed and developed web applications using React, Node.js, and Django.\n- Implemented RESTful APIs and integrated with various databases.\n\nSoftware Development Co. - Software Engineer (2014 - 2016)\n- Developed and maintained software applications using Java and SQL.\n- Participated in code reviews and testing.\n\nEDUCATION:\nCarnegie Mellon University - Bachelor's in Software Engineering (2014)\n\nCERTIFICATIONS:\nNone",
+  "extracted_skills": [
+    "JavaScript",
+    "React",
+    "Node.js",
+    "Python",
+    "Django",
+    "SQL",
+    "HTML5",
+    "CSS3"
+  ],
+  "experience_years": 9,
+  "education_level": "Bachelor's",
+  "job_history": [
+    "Full Stack Developer",
+    "Software Engineer"
+  ],
+  "certifications": []
+}

@@ -1,0 +1,26 @@
+{
+  "resume_id": "R010",
+  "resume_text": "NAME: Jack Blue\nEMAIL: jack.blue@email.com\nPHONE: (555) 345-6789\n\nSUMMARY:\nCloud Architect with 12 years of experience in designing and implementing cloud solutions. Deep understanding of AWS, Azure, and GCP platforms.\n\nSKILLS:\nAWS, Azure, GCP, CloudFormation, Terraform, Kubernetes, Docker, Python\n\nEXPERIENCE:\nCloud Architects Inc. - Principal Cloud Architect (2017 - Present)\n- Led the design and implementation of cloud solutions for various clients.\n- Developed and maintained cloud infrastructure using Terraform and CloudFormation.\n\nArchitect Solutions LLC - Senior Cloud Architect (2014 - 2017)\n- Designed and implemented cloud solutions on AWS and Azure.\n- Provided technical guidance and mentorship to junior architects.\n\nIT Solutions Inc. - Cloud Architect (2012 - 2014)\n- Migrated on-premise applications to the cloud.\n\nEDUCATION:\nYork University - PhD in Computer Science (2012)\n\nCERTIFICATIONS:\nAWS Certified Solutions Architect - Professional\nMicrosoft Azure Solutions Architect Expert\nGoogle Cloud Professional Cloud Architect",
+  "extracted_skills": [
+    "AWS",
+    "Azure",
+    "GCP",
+    "CloudFormation",
+    "Terraform",
+    "Kubernetes",
+    "Docker",
+    "Python"
+  ],
+  "experience_years": 12,
+  "education_level": "PhD",
+  "job_history": [
+    "Principal Cloud Architect",
+    "Senior Cloud Architect",
+    "Cloud Architect"
+  ],
+  "certifications": [
+    "AWS Certified Solutions Architect - Professional",
+    "Microsoft Azure Solutions Architect Expert",
+    "Google Cloud Professional Cloud Architect"
+  ]
+}

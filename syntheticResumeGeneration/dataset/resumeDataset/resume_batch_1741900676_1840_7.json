@@ -1,0 +1,24 @@
+{
+  "resume_id": "RES007",
+  "resume_text": "NAME: Grace Moore\nEMAIL: grace.moore@email.com\nPHONE: (555) 678-9012\n\nSUMMARY:\nCloud Architect with extensive experience in designing and implementing cloud solutions on AWS and Azure.\n\nSKILLS:\nAWS, Azure, GCP, Docker, Kubernetes, Terraform, CloudFormation, Lambda\n\nEXPERIENCE:\nCloud Experts Co - Cloud Architect (2015 - Present)\n- Designed and implemented cloud infrastructure on AWS and Azure.\n- Automated deployments using Terraform and CloudFormation.\n\nPrevious Company - System Engineer (2013 - 2015)\n- Managed Windows and Linux servers.\n\nEDUCATION:\nState Tech College - Bachelor's in Information Systems (2013)\n\nCERTIFICATIONS:\nAWS Certified Solutions Architect, Microsoft Azure Administrator\n",
+  "extracted_skills": [
+    "AWS",
+    "Azure",
+    "GCP",
+    "Docker",
+    "Kubernetes",
+    "Terraform",
+    "CloudFormation",
+    "Lambda"
+  ],
+  "experience_years": 10,
+  "education_level": "Bachelor's",
+  "job_history": [
+    "Cloud Architect",
+    "System Engineer"
+  ],
+  "certifications": [
+    "AWS Certified Solutions Architect",
+    "Microsoft Azure Administrator"
+  ]
+}

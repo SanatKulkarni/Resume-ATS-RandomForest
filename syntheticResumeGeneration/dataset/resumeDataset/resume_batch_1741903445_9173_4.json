@@ -1,0 +1,21 @@
+{
+  "resume_id": "R004",
+  "resume_text": "NAME: David Brown\nEMAIL: david.brown@email.com\nPHONE: 555-789-1234\n\nSUMMARY:\nFull Stack Developer with 10 years of experience in developing web applications using various technologies. Expertise in both frontend and backend development.\n\nSKILLS:\nJava, JavaScript, React, Node.js, Spring, MySQL, HTML5, CSS3\n\nEXPERIENCE:\nSoftware Innovations - Senior Developer (2016 - Present)\n- Led a team of developers in building web applications.\n- Designed and implemented RESTful APIs.\n\nWeb Development Corp. - Software Engineer (2014 - 2016)\n- Developed and maintained web applications.\n- Wrote unit tests and performed code reviews.\n\nEDUCATION:\nMassachusetts Institute of Technology - Bachelor's in Computer Science (2014)\n\nCERTIFICATIONS:\nNone",
+  "extracted_skills": [
+    "Java",
+    "JavaScript",
+    "React",
+    "Node.js",
+    "Spring",
+    "MySQL",
+    "HTML5",
+    "CSS3"
+  ],
+  "experience_years": 10,
+  "education_level": "Bachelor's",
+  "job_history": [
+    "Senior Developer",
+    "Software Engineer"
+  ],
+  "certifications": []
+}

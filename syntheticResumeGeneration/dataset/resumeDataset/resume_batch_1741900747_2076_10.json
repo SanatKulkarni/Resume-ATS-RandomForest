@@ -1,0 +1,21 @@
+{
+  "resume_id": "RESUME010",
+  "resume_text": "NAME: Jack Brown\nEMAIL: jack.brown@email.com\nPHONE: (555) 444-5555\n\nSUMMARY:\nBackend Developer with 9 years of experience building robust and scalable server-side applications.  Expert in Java, Spring Boot, and microservices architecture.\n\nSKILLS:\nJava, Spring, Spring Boot, Microservices, Docker, Kubernetes, SQL, REST APIs\n\nEXPERIENCE:\nServerSide Solutions Inc. - Senior Backend Developer (2016 - Present)\n- Designed and implemented microservices architecture using Spring Boot.\n- Deployed and managed applications using Docker and Kubernetes.\n\nEnterprise Software Ltd. - Backend Developer (2014 - 2016)\n- Developed and maintained server-side applications using Java and SQL.\n\nEDUCATION:\nUniversity of Michigan - Bachelor's in Computer Science (2014)\n\nCERTIFICATIONS:\nNone",
+  "extracted_skills": [
+    "Java",
+    "Spring",
+    "Spring Boot",
+    "Microservices",
+    "Docker",
+    "Kubernetes",
+    "SQL",
+    "REST APIs"
+  ],
+  "experience_years": 9,
+  "education_level": "Bachelor's",
+  "job_history": [
+    "Senior Backend Developer",
+    "Backend Developer"
+  ],
+  "certifications": []
+}

@@ -1,0 +1,20 @@
+{
+  "resume_id": "RES009",
+  "resume_text": "NAME: Isabella Lopez\nEMAIL: isabella.lopez@email.com\nPHONE: (555) 123-9876\n\nSUMMARY:\nEntry-level Site Reliability Engineer eager to apply skills in automating infrastructure and improving system reliability.\n\nSKILLS:\nLinux, Git, Python, AWS, Docker, Kubernetes\n\nEXPERIENCE:\nUniversity Project - System Administrator (2022 - 2023)\n- Managed Linux servers and network infrastructure.\n- Wrote scripts to automate tasks.\n\nEDUCATION:\nCarnegie Mellon University - Bachelor's in Computer Engineering (2023)\nCERTIFICATIONS: \nCompTIA Security+",
+  "extracted_skills": [
+    "Linux",
+    "Git",
+    "Python",
+    "AWS",
+    "Docker",
+    "Kubernetes"
+  ],
+  "experience_years": 1,
+  "education_level": "Bachelor's",
+  "job_history": [
+    "System Administrator"
+  ],
+  "certifications": [
+    "CompTIA Security+"
+  ]
+}

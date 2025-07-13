@@ -1,0 +1,21 @@
+{
+  "resume_id": "resume_009",
+  "resume_text": "NAME: Isabella White\nEMAIL: isabella.w@email.com\nPHONE: (555) 456-7891\n\nSUMMARY:\nMachine Learning Engineer with a focus on developing and deploying machine learning models in production. Strong analytical and problem-solving skills.\n\nSKILLS:\nPython, TensorFlow, PyTorch, scikit-learn, Pandas, NumPy, SQL, AWS\n\nEXPERIENCE:\nAI Research Lab - Machine Learning Engineer (2019 - Present)\n- Developed and deployed machine learning models for various applications.\n- Conducted research on new machine learning algorithms.\nUniversity - Research Assistant (2017 - 2019)\n- Assisted in research projects related to machine learning.\n\nEDUCATION:\nScience University - PhD in Computer Science (2017)\n\nCERTIFICATIONS:\nNone",
+  "extracted_skills": [
+    "Python",
+    "TensorFlow",
+    "PyTorch",
+    "scikit-learn",
+    "Pandas",
+    "NumPy",
+    "SQL",
+    "AWS"
+  ],
+  "experience_years": 6,
+  "education_level": "PhD",
+  "job_history": [
+    "Machine Learning Engineer",
+    "Research Assistant"
+  ],
+  "certifications": []
+}

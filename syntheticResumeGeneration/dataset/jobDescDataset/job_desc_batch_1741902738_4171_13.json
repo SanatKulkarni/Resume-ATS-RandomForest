@@ -1,0 +1,24 @@
+{
+  "job_id": "JD013",
+  "job_title": "Site Reliability Engineer",
+  "company": "CloudNative",
+  "job_description": "Company: CloudNative\nPosition: Site Reliability Engineer\nLocation: Remote\nSalary: $140,000 - $170,000\n\nAbout Us:\nCloudNative helps organizations build and operate reliable and scalable cloud-native applications. We focus on automation, monitoring, and incident response.\n\nJob Description:\nWe are seeking a Site Reliability Engineer to ensure the reliability and performance of our systems. The ideal candidate will have experience with monitoring, alerting, and incident response.\n\nResponsibilities:\n- Monitor system performance and availability.\n- Develop and implement alerting and monitoring systems.\n- Respond to incidents and troubleshoot issues.\n- Automate repetitive tasks.\n\nRequirements:\n- Bachelor's degree in Computer Science or related field.\n- 3+ years of experience in SRE or related role.\n- Experience with monitoring tools such as Prometheus or Grafana.\n- Experience with scripting languages such as Python or Go.\n\nPreferred Qualifications:\n- Experience with Kubernetes.\n- Experience with cloud computing platforms.\n\nBenefits:\n- Flexible work hours.\n- Unlimited sick days.\n- Comprehensive health insurance.",
+  "required_skills": [
+    "Linux",
+    "Python",
+    "Monitoring",
+    "Alerting",
+    "Kubernetes",
+    "AWS"
+  ],
+  "preferred_skills": [
+    "Go",
+    "Prometheus",
+    "Grafana"
+  ],
+  "min_experience": 3,
+  "education_requirement": "Bachelor's",
+  "job_category": "DevOps",
+  "location": "Remote",
+  "salary_range": "$140,000 - $170,000"
+}

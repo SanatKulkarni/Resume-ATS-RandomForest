@@ -1,0 +1,18 @@
+{
+  "resume_id": "RESUME_005",
+  "resume_text": "NAME: Eve Davis\nEMAIL: eve.davis@email.com\nPHONE: (555) 482-2345\n\nSUMMARY:\nPassionate Mobile Developer with 2 years of experience in developing iOS and Android applications. Eager to learn new technologies and contribute to mobile app development projects.\n\nSKILLS:\nSwift, Kotlin, React Native, iOS, Android, Git\n\nEXPERIENCE:\nMobile Apps Ltd. - Mobile Developer (2022 - Present)\n- Developed and maintained iOS and Android applications using React Native.\n- Implemented user interfaces and integrated APIs.\n\nEDUCATION:\nUniversity of Texas at Austin - Bachelor's in Computer Science (2022)",
+  "extracted_skills": [
+    "Swift",
+    "Kotlin",
+    "React Native",
+    "iOS",
+    "Android",
+    "Git"
+  ],
+  "experience_years": 2,
+  "education_level": "Bachelor's",
+  "job_history": [
+    "Mobile Developer"
+  ],
+  "certifications": []
+}

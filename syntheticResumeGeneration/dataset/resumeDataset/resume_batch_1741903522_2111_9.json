@@ -1,0 +1,24 @@
+{
+  "resume_id": "R009",
+  "resume_text": "NAME: Isabella Brown\nEMAIL: isabella.brown@example.com\nPHONE: (555) 654-3210\n\nSUMMARY:\nSecurity Engineer with 9 years of experience protecting computer systems and networks from cyber threats. Expert in security protocols, vulnerability assessment, and incident response.\n\nSKILLS:\nSecurity Protocols, Vulnerability Assessment, Incident Response, Network Security, AWS, Azure, GCP, Python\n\nEXPERIENCE:\nCybersecurity Solutions Inc - Senior Security Engineer (2015 - Present)\n- Conducted vulnerability assessments and penetration testing to identify security weaknesses.\n- Developed and implemented security policies and procedures.\n- Responded to security incidents and breaches.\n\nIT Security Corp - Security Engineer (2013 - 2015)\n- Managed and maintained security systems such as firewalls and intrusion detection systems.\n\nEDUCATION:\nGeorge Washington University - Master's in Cybersecurity (2013)\n\nCERTIFICATIONS:\nCompTIA Security+, Certified Ethical Hacker",
+  "extracted_skills": [
+    "Security Protocols",
+    "Vulnerability Assessment",
+    "Incident Response",
+    "Network Security",
+    "AWS",
+    "Azure",
+    "GCP",
+    "Python"
+  ],
+  "experience_years": 9,
+  "education_level": "Master's",
+  "job_history": [
+    "Senior Security Engineer",
+    "Security Engineer"
+  ],
+  "certifications": [
+    "CompTIA Security+",
+    "Certified Ethical Hacker"
+  ]
+}

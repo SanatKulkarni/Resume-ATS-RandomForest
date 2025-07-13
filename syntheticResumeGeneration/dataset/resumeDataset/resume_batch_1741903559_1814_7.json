@@ -1,0 +1,26 @@
+{
+  "resume_id": "R007",
+  "resume_text": "NAME: David Lee\nEMAIL: david.lee@email.com\nPHONE: 555-999-0000\n\nSUMMARY:\nExperienced Cloud Architect with 10+ years of experience designing and implementing cloud-based solutions. Expertise in AWS, Azure, and GCP.\n\nSKILLS:\nAWS, Azure, GCP, Kubernetes, Terraform, CloudFormation, Python, Java, Docker, Networking\n\nEXPERIENCE:\nGlobal Cloud Solutions - Cloud Architect (2014 - Present)\n- Designed and implemented cloud-based solutions for various clients.\n- Provided technical leadership and guidance to development teams.\n\nLegacy Systems Inc - Systems Engineer (2010 - 2014)\n- Managed and maintained on-premise infrastructure.\n\nEDUCATION:\nCarnegie Mellon University - Master's in Information Technology (2010)\n\nCERTIFICATIONS:\nAWS Certified Solutions Architect, Google Cloud Professional",
+  "extracted_skills": [
+    "AWS",
+    "Azure",
+    "GCP",
+    "Kubernetes",
+    "Terraform",
+    "CloudFormation",
+    "Python",
+    "Java",
+    "Docker",
+    "Networking"
+  ],
+  "experience_years": 14,
+  "education_level": "Master's",
+  "job_history": [
+    "Cloud Architect",
+    "Systems Engineer"
+  ],
+  "certifications": [
+    "AWS Certified Solutions Architect",
+    "Google Cloud Professional"
+  ]
+}

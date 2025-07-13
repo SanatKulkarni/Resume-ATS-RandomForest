@@ -1,0 +1,20 @@
+{
+  "resume_id": "RES007",
+  "resume_text": "NAME: Grace Lee\nEMAIL: grace.lee@email.com\nPHONE: (555) 890-1234\n\nSUMMARY:\nFrontend Developer with 4 years of experience building user-friendly web interfaces. Proficient in React, HTML5, CSS3, and JavaScript.\n\nSKILLS:\nReact, HTML5, CSS3, JavaScript, TypeScript, Git, Bootstrap\n\nEXPERIENCE:\nUI/UX Design Ltd. - Frontend Developer (2020 - Present)\n- Developed and maintained web interfaces using React and JavaScript.\n- Implemented UI/UX designs and ensured cross-browser compatibility.\n\nWeb Design Intern (2019 - 2020)\n- Assisted in the development of web pages using HTML5 and CSS3.\n- Performed website testing and debugging.\n\nEDUCATION:\nNew York University - Bachelor's in Web Design (2020)\n\nCERTIFICATIONS:\nNone",
+  "extracted_skills": [
+    "React",
+    "HTML5",
+    "CSS3",
+    "JavaScript",
+    "TypeScript",
+    "Git",
+    "Bootstrap"
+  ],
+  "experience_years": 4,
+  "education_level": "Bachelor's",
+  "job_history": [
+    "Frontend Developer",
+    "Web Design Intern"
+  ],
+  "certifications": []
+}

@@ -1,0 +1,19 @@
+{
+  "resume_id": "R1010",
+  "resume_text": "NAME: Jack Chen\nEMAIL: jack.chen@example.com\nPHONE: 555-222-3333\n\nSUMMARY:\nEntry-Level Security Engineer eager to learn and contribute to cybersecurity efforts. Quick learner with a strong foundation in networking and security principles.\n\nSKILLS:\nPython, Linux, Networking, Security, Git, Wireshark, Bash\n\nEXPERIENCE:\nNone (Recent Graduate)\n\nEDUCATION:\nUniversity of Texas at Austin - Bachelor's in Cybersecurity (2023)\n\nCERTIFICATIONS:\nCompTIA Security+",
+  "extracted_skills": [
+    "Python",
+    "Linux",
+    "Networking",
+    "Security",
+    "Git",
+    "Wireshark",
+    "Bash"
+  ],
+  "experience_years": 0,
+  "education_level": "Bachelor's",
+  "job_history": [],
+  "certifications": [
+    "CompTIA Security+"
+  ]
+}

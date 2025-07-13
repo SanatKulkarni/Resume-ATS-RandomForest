@@ -1,0 +1,23 @@
+{
+  "job_id": "JD-013",
+  "job_title": "QA Engineer",
+  "company": "TechCorp",
+  "job_description": "Company: TechCorp\nPosition: QA Engineer\nLocation: San Jose, CA (Hybrid)\nSalary: $90,000 - $120,000\n\nAbout Us:\nTechCorp is a large technology company with a global presence. We are committed to innovation and providing our customers with the highest quality products.\n\nJob Description:\nWe are seeking a QA Engineer to test our software products and ensure they meet our quality standards. You will be responsible for writing test plans and test cases, executing tests, and reporting defects.\n\nResponsibilities:\n- Develop and execute test plans and test cases\n- Report and track defects\n- Work with developers to resolve defects\n- Participate in code reviews\n\nRequirements:\n- Bachelor's degree in Computer Science or related field\n- 2+ years of experience in software testing\n- Experience with test automation tools (e.g., Selenium, JUnit)\n- Strong analytical and problem-solving skills\n\nPreferred Qualifications:\n- Experience with Agile development methodologies\n- Experience with performance testing\n\nBenefits:\n- Competitive salary and benefits package\n- Opportunity to work on a variety of projects\n- Collaborative and supportive work environment",
+  "required_skills": [
+    "Software Testing",
+    "Test Automation",
+    "Selenium",
+    "JUnit",
+    "Agile",
+    "Defect Tracking"
+  ],
+  "preferred_skills": [
+    "Performance Testing",
+    "Jira"
+  ],
+  "min_experience": 2,
+  "education_requirement": "Bachelor's",
+  "job_category": "Backend",
+  "location": "San Jose, CA (Hybrid)",
+  "salary_range": "$90,000 - $120,000"
+}

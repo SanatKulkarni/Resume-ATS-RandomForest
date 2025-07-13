@@ -1,0 +1,22 @@
+{
+  "resume_id": "RESUME_005",
+  "resume_text": "NAME: Emily Davis\nEMAIL: emily.davis@email.com\nPHONE: 555-333-4444\n\nSUMMARY:\nFull Stack Developer with 7 years of experience in designing, developing, and deploying web applications. Expertise in Java, Spring, React, and MySQL.\n\nSKILLS:\nJava, Spring, React, MySQL, JavaScript, HTML5, CSS3, Git\n\nEXPERIENCE:\nSoftware Company X - Full Stack Developer (2017 - Present)\n- Developed and maintained web applications using Java, Spring, and React.\n- Designed and implemented RESTful APIs.\n\nEDUCATION:\nUniversity of Texas - Bachelor's in Software Engineering (2017)\n\nCERTIFICATIONS:\nOracle Certified Professional",
+  "extracted_skills": [
+    "Java",
+    "Spring",
+    "React",
+    "MySQL",
+    "JavaScript",
+    "HTML5",
+    "CSS3",
+    "Git"
+  ],
+  "experience_years": 7,
+  "education_level": "Bachelor's",
+  "job_history": [
+    "Full Stack Developer"
+  ],
+  "certifications": [
+    "Oracle Certified Professional"
+  ]
+}

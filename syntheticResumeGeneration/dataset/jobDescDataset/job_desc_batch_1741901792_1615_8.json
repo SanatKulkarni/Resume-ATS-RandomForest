@@ -1,0 +1,23 @@
+{
+  "job_id": "JD-008",
+  "job_title": "Machine Learning Engineer",
+  "company": "AILabs",
+  "job_description": "Company: AILabs\nPosition: Machine Learning Engineer\nLocation: Boston, MA (Hybrid)\nSalary: $160,000 - $200,000\n\nAbout Us:\nAILabs is a leading artificial intelligence research and development company. We are committed to pushing the boundaries of AI and developing innovative solutions to real-world problems.\n\nJob Description:\nWe are seeking a Machine Learning Engineer to build and deploy cutting-edge ML models at scale. You will work on challenging problems and contribute to our AI-driven products.\n\nResponsibilities:\n- Design, develop, and deploy machine learning models\n- Implement and maintain ML pipelines\n- Optimize models for performance and scalability\n- Collaborate with researchers and engineers to translate research into production-ready solutions\n\nRequirements:\n- Master's or PhD in Computer Science, Statistics, or a related field\n- 3+ years of experience in machine learning engineering\n- Strong programming skills in Python\n- Experience with deep learning frameworks (TensorFlow, PyTorch)\n- Experience with cloud platforms (AWS, Azure, GCP)\n\nPreferred Qualifications:\n- Experience with MLOps tools (e.g., Kubeflow, MLflow)\n- Experience with deploying models to production\n\nBenefits:\n- Competitive salary and benefits package\n- Opportunity to work on cutting-edge research\n- Collaborative and supportive work environment",
+  "required_skills": [
+    "Python",
+    "TensorFlow",
+    "PyTorch",
+    "MLOps",
+    "Cloud",
+    "Kubernetes"
+  ],
+  "preferred_skills": [
+    "Kubeflow",
+    "MLflow"
+  ],
+  "min_experience": 3,
+  "education_requirement": "Master's",
+  "job_category": "Data",
+  "location": "Boston, MA (Hybrid)",
+  "salary_range": "$160,000 - $200,000"
+}

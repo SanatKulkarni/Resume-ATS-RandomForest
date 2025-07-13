@@ -1,0 +1,23 @@
+{
+  "resume_id": "RES010",
+  "resume_text": "NAME: Jack Anderson\nEMAIL: jack.anderson@email.com\nPHONE: (555) 901-2345\n\nSUMMARY:\nMachine Learning Engineer with 1 year of experience in developing and deploying machine learning models. Eager to learn and contribute to cutting-edge research.\n\nSKILLS:\nPython, TensorFlow, PyTorch, scikit-learn, Pandas, NumPy, SQL, Git\n\nEXPERIENCE:\nAI Innovations Corp. - Machine Learning Engineer (2023 - Present)\n- Developed and deployed machine learning models for image recognition.\n- Conducted research on new machine learning algorithms.\n\nResearch Assistant (2022 - 2023)\n- Assisted in the development of a deep learning model for natural language processing.\n- Wrote code and performed experiments.\n\nEDUCATION:\nUniversity of Illinois at Urbana-Champaign - Master's in Computer Science (2023)\n\nCERTIFICATIONS:\nMicrosoft Azure Administrator",
+  "extracted_skills": [
+    "Python",
+    "TensorFlow",
+    "PyTorch",
+    "scikit-learn",
+    "Pandas",
+    "NumPy",
+    "SQL",
+    "Git"
+  ],
+  "experience_years": 1,
+  "education_level": "Master's",
+  "job_history": [
+    "Machine Learning Engineer",
+    "Research Assistant"
+  ],
+  "certifications": [
+    "Microsoft Azure Administrator"
+  ]
+}

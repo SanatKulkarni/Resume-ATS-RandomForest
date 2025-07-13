@@ -1,0 +1,21 @@
+{
+  "resume_id": "RES001",
+  "resume_text": "NAME: John Doe\nEMAIL: john.doe@email.com\nPHONE: 555-123-4567\n\nSUMMARY:\nExperienced Full Stack Developer with a passion for building scalable and user-friendly web applications. Seeking a challenging role where I can leverage my skills to contribute to innovative projects.\n\nSKILLS:\nJavaScript, React, Node.js, Express.js, MongoDB, HTML5, CSS3, Git\n\nEXPERIENCE:\nAcme Corp - Full Stack Developer (2018 - Present)\n- Developed and maintained web applications using React, Node.js, and MongoDB.\n- Implemented RESTful APIs for data retrieval and manipulation.\nBeta Solutions - Frontend Developer (2016 - 2018)\n- Built responsive user interfaces using HTML5, CSS3, and JavaScript.\n- Collaborated with backend developers to integrate frontend and backend systems.\n\nEDUCATION:\nUniversity of California, Berkeley - Bachelor's in Computer Science (2016)\n",
+  "extracted_skills": [
+    "JavaScript",
+    "React",
+    "Node.js",
+    "Express.js",
+    "MongoDB",
+    "HTML5",
+    "CSS3",
+    "Git"
+  ],
+  "experience_years": 6,
+  "education_level": "Bachelor's",
+  "job_history": [
+    "Full Stack Developer",
+    "Frontend Developer"
+  ],
+  "certifications": []
+}

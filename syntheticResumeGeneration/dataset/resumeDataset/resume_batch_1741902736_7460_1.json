@@ -1,0 +1,23 @@
+{
+  "resume_id": "RESUME_001",
+  "resume_text": "NAME: Alice Johnson\nEMAIL: alice.johnson@email.com\nPHONE: 555-123-4567\n\nSUMMARY:\nHighly motivated Software Engineer with a passion for developing efficient and scalable applications. Seeking a challenging role where I can leverage my skills to contribute to innovative projects.\n\nSKILLS:\nJava, Spring, SQL, MySQL, Git, Docker, AWS, REST APIs\n\nEXPERIENCE:\nAcme Corp - Software Engineer (2020 - 2023)\n- Developed and maintained RESTful APIs using Java and Spring.\n- Implemented microservices architecture using Docker and AWS.\n\nBeta Solutions - Junior Developer (2018 - 2020)\n- Assisted in the development of web applications using Java.\n- Wrote SQL queries to interact with MySQL databases.\n\nEDUCATION:\nUniversity of California, Berkeley - Bachelor's in Computer Science (2018)\n\nCERTIFICATIONS:\nAWS Certified Solutions Architect",
+  "extracted_skills": [
+    "Java",
+    "Spring",
+    "SQL",
+    "MySQL",
+    "Git",
+    "Docker",
+    "AWS",
+    "REST APIs"
+  ],
+  "experience_years": 5,
+  "education_level": "Bachelor's",
+  "job_history": [
+    "Software Engineer",
+    "Junior Developer"
+  ],
+  "certifications": [
+    "AWS Certified Solutions Architect"
+  ]
+}

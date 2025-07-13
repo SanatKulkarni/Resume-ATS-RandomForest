@@ -1,0 +1,23 @@
+{
+  "resume_id": "R1007",
+  "resume_text": "NAME: Grace Taylor\nEMAIL: grace.taylor@email.com\nPHONE: (555) 408-9631\n\nSUMMARY:\nSecurity Engineer with 6 years of experience in securing systems and networks. Expertise in vulnerability assessment and penetration testing.\n\nSKILLS:\nPython, Linux, Networking, Security, Penetration Testing, AWS, Azure\n\nEXPERIENCE:\nCyberSecure Solutions - Security Engineer (2019 - Present)\n- Conducted vulnerability assessments and penetration testing on systems and networks.\n- Implemented security controls and incident response procedures.\nSystems Administration Ltd. - Systems Administrator (2017 - 2019)\n- Maintained and secured systems infrastructure.\n- Implemented security policies and procedures.\n\nEDUCATION:\nUniversity of Michigan - Bachelor's in Information Security (2017)\n\nCERTIFICATIONS:\nCompTIA Security+, Certified Ethical Hacker",
+  "extracted_skills": [
+    "Python",
+    "Linux",
+    "Networking",
+    "Security",
+    "Penetration Testing",
+    "AWS",
+    "Azure"
+  ],
+  "experience_years": 6,
+  "education_level": "Bachelor's",
+  "job_history": [
+    "Security Engineer",
+    "Systems Administrator"
+  ],
+  "certifications": [
+    "CompTIA Security+",
+    "Certified Ethical Hacker"
+  ]
+}

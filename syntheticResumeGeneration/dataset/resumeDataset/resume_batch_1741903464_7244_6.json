@@ -1,0 +1,17 @@
+{
+  "resume_id": "RES006",
+  "resume_text": "NAME: Sophia Garcia\nEMAIL: sophia.garcia@example.com\nPHONE: (555) 234-5678\n\nSUMMARY:\nEntry level software engineer excited to join a company that has a dynamic team and fosters growth and development.\n\nSKILLS:\nJava, JavaScript, HTML5, CSS3, Git\n\nEXPERIENCE:\nUniversity Project - Project Contributor (2022-2023)\n-Developed an application using Java and SQL.\n-Worked with members of various skill levels.\n\nEDUCATION:\nBoston University - Bachelor's of Computer Science (2023)\n\nCERTIFICATIONS:\nNone",
+  "extracted_skills": [
+    "Java",
+    "JavaScript",
+    "HTML5",
+    "CSS3",
+    "Git"
+  ],
+  "experience_years": 0,
+  "education_level": "Bachelor's",
+  "job_history": [
+    "Project Contributor"
+  ],
+  "certifications": []
+}

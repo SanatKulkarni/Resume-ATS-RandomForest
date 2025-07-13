@@ -1,0 +1,19 @@
+{
+  "resume_id": "R009",
+  "resume_text": "NAME: Isabella Gray\nEMAIL: isabella.gray@email.com\nPHONE: (555) 678-9012\n\nSUMMARY:\nQA Engineer with 4 years of experience in testing web and mobile applications. Expertise in creating test plans and executing test cases.\n\nSKILLS:\nSelenium, JUnit, TestNG, Jira, Python, Git\n\nEXPERIENCE:\nQuality Assurance Corp - QA Engineer (2020 - Present)\n- Developed and executed test plans and test cases for web and mobile applications.\n- Automated testing using Selenium, JUnit, and TestNG.\n\nTesting Solutions LLC - Junior QA Engineer (2019 - 2020)\n- Performed manual testing of web applications.\n- Reported bugs and tracked issues using Jira.\n\nEDUCATION:\nSan Jose State University - Bachelor's in Software Engineering (2019)\n\nCERTIFICATIONS:",
+  "extracted_skills": [
+    "Selenium",
+    "JUnit",
+    "TestNG",
+    "Jira",
+    "Python",
+    "Git"
+  ],
+  "experience_years": 4,
+  "education_level": "Bachelor's",
+  "job_history": [
+    "QA Engineer",
+    "Junior QA Engineer"
+  ],
+  "certifications": []
+}

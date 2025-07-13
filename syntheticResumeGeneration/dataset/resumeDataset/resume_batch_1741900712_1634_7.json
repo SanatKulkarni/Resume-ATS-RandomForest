@@ -1,0 +1,24 @@
+{
+  "resume_id": "RESUME_007",
+  "resume_text": "NAME: Grace Brown\nEMAIL: grace.brown@example.com\nPHONE: (555) 890-1234\n\nSUMMARY:\nCloud Architect with 10+ years of experience in designing and implementing cloud solutions. Deep understanding of AWS, Azure, and GCP.\n\nSKILLS:\nAWS, Azure, GCP, Docker, Kubernetes, Terraform, CloudFormation, Python\n\nEXPERIENCE:\nCloud Architects Inc. - Cloud Architect (2015 - Present)\n- Designed and implemented cloud solutions for various clients.\n- Led cloud migration projects.\n\nIT Consulting - Senior Consultant (2013 - 2015)\n- Provided consulting services on cloud technologies.\n\nEDUCATION:\nTech University - Master's in Computer Engineering (2013)\n\nCERTIFICATIONS:\nAWS Certified Solutions Architect, Google Cloud Professional",
+  "extracted_skills": [
+    "AWS",
+    "Azure",
+    "GCP",
+    "Docker",
+    "Kubernetes",
+    "Terraform",
+    "CloudFormation",
+    "Python"
+  ],
+  "experience_years": 10,
+  "education_level": "Master's",
+  "job_history": [
+    "Cloud Architect",
+    "Senior Consultant"
+  ],
+  "certifications": [
+    "AWS Certified Solutions Architect",
+    "Google Cloud Professional"
+  ]
+}

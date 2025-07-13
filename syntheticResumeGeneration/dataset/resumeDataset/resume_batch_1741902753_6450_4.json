@@ -1,0 +1,16 @@
+{
+  "resume_id": "RES004",
+  "resume_text": "NAME: David Brown\nEMAIL: david.brown@email.com\nPHONE: 555-369-1258\n\nSUMMARY:\nMobile Developer with 2 years of experience building native iOS applications. Passionate about creating engaging and user-friendly mobile experiences.\n\nSKILLS:\nSwift, iOS, React Native, Git\n\nEXPERIENCE:\nMobile Apps Inc. - Mobile Developer (2023 - Present)\n- Developed and maintained native iOS applications using Swift.\n- Implemented UI/UX designs and ensured optimal performance.\n\nEDUCATION:\nSan Jose State University - Bachelor's in Software Engineering (2023)\n",
+  "extracted_skills": [
+    "Swift",
+    "iOS",
+    "React Native",
+    "Git"
+  ],
+  "experience_years": 2,
+  "education_level": "Bachelor's",
+  "job_history": [
+    "Mobile Developer"
+  ],
+  "certifications": []
+}

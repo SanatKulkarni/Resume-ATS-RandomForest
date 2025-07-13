@@ -1,0 +1,24 @@
+{
+  "resume_id": "RES010",
+  "resume_text": "NAME: Jasmine Violet\nEMAIL: jasmine.violet@email.com\nPHONE: (555) 222-3333\n\nSUMMARY:\nSecurity Engineer specializing in application and network security. 4 years of experience creating and implementing security policies and procedures.\n\nSKILLS:\nPython, AWS, Azure, Linux, CompTIA Security+, Certified Ethical Hacker, C++, C#\n\nEXPERIENCE:\nPhi Security - Security Engineer (2020 - Present)\n- Conducted vulnerability assessments and penetration testing.\n- Developed and implemented security policies and procedures.\n\nChi Corp - IT Support Specialist (2019 - 2020)\n- Provided technical support to end-users.\n- Assisted in the implementation of security measures.\n\nEDUCATION:\nPurdue University - Bachelor's in Cybersecurity (2019)\n\nCERTIFICATIONS:\nCompTIA Security+\nCertified Ethical Hacker",
+  "extracted_skills": [
+    "Python",
+    "AWS",
+    "Azure",
+    "Linux",
+    "CompTIA Security+",
+    "Certified Ethical Hacker",
+    "C++",
+    "C#"
+  ],
+  "experience_years": 4,
+  "education_level": "Bachelor's",
+  "job_history": [
+    "Security Engineer",
+    "IT Support Specialist"
+  ],
+  "certifications": [
+    "CompTIA Security+",
+    "Certified Ethical Hacker"
+  ]
+}

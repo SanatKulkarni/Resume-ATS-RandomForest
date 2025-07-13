@@ -1,0 +1,24 @@
+{
+  "job_id": "JD005",
+  "job_title": "Mobile Developer",
+  "company": "MobilePro",
+  "job_description": "Company: MobilePro\nPosition: Mobile Developer\nLocation: Los Angeles, CA (Hybrid)\nSalary: $115,000 - $165,000\n\nAbout Us:\nMobilePro is dedicated to creating innovative and engaging mobile applications. We thrive on delivering exceptional user experiences on mobile devices.\n\nJob Description:\nWe are looking for a Mobile Developer to join our team. The perfect candidate will have experience developing applications for iOS and/or Android platforms.\n\nResponsibilities:\n- Develop and maintain mobile applications for iOS and/or Android platforms.\n- Collaborate with designers to implement user interfaces.\n- Write clean, maintainable code.\n- Participate in code reviews and testing.\n\nRequirements:\n- Bachelor's degree in Computer Science or related field.\n- 2+ years of experience in mobile app development.\n- Proficiency in Swift/Kotlin or React Native/Flutter.\n- Experience with mobile UI/UX best practices.\n\nPreferred Qualifications:\n- Experience with cross-platform mobile development.\n- Knowledge of mobile app testing frameworks.\n- Familiarity with CI/CD pipelines for mobile apps.\n\nBenefits:\n- Competitive pay and benefits.\n- Opportunity to work on exciting mobile projects.\n- Collaborative and innovative work environment.",
+  "required_skills": [
+    "iOS",
+    "Android",
+    "Swift",
+    "Kotlin",
+    "React Native",
+    "Git"
+  ],
+  "preferred_skills": [
+    "Flutter",
+    "Mobile UI/UX",
+    "CI/CD"
+  ],
+  "min_experience": 2,
+  "education_requirement": "Bachelor's",
+  "job_category": "Mobile",
+  "location": "Los Angeles, CA (Hybrid)",
+  "salary_range": "$115,000 - $165,000"
+}

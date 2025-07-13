@@ -1,0 +1,25 @@
+{
+  "resume_id": "resume_009",
+  "resume_text": "NAME: Ian Gray\nEMAIL: ian.gray@email.com\nPHONE: (555) 456-0123\n\nSUMMARY:\nCloud Architect with 12 years of experience in designing and implementing cloud solutions. Expertise in AWS, Azure, and GCP.\n\nSKILLS:\nAWS, Azure, GCP, Docker, Kubernetes, Terraform, CloudFormation, Python\n\nEXPERIENCE:\nCloud Architects LLC - Cloud Architect (2013 - Present)\n- Designed and implemented cloud solutions for various clients.\n- Managed and maintained cloud infrastructure.\n\nIT Solutions Corp. - System Administrator (2012 - 2013)\n- Managed and maintained Linux servers.\n\nEDUCATION:\nUniversity of Toronto - PhD in Computer Science (2012)\n\nCERTIFICATIONS:\nAWS Certified Solutions Architect, Microsoft Azure Administrator, Certified Kubernetes Administrator",
+  "extracted_skills": [
+    "AWS",
+    "Azure",
+    "GCP",
+    "Docker",
+    "Kubernetes",
+    "Terraform",
+    "CloudFormation",
+    "Python"
+  ],
+  "experience_years": 12,
+  "education_level": "PhD",
+  "job_history": [
+    "Cloud Architect",
+    "System Administrator"
+  ],
+  "certifications": [
+    "AWS Certified Solutions Architect",
+    "Microsoft Azure Administrator",
+    "Certified Kubernetes Administrator"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "resume_id": "RESUME_007",
+  "resume_text": "NAME: David Chen\nEMAIL: david.chen@email.com\nPHONE: 555-777-8888\n\nSUMMARY:\nMobile Developer with 5+ years of experience creating native iOS and Android applications. Proficient in Swift, Kotlin, and React Native.\n\nSKILLS:\niOS, Android, Swift, Kotlin, React Native, Git, REST APIs\n\nEXPERIENCE:\nMobile Apps Co - Mobile Developer (2019 - Present)\n- Developed and maintained native iOS and Android applications.\n- Implemented REST APIs to interact with backend services.\n\nSoftware Development Corp - Junior Mobile Developer (2018 - 2019)\n- Assisted in the development of mobile applications using Swift and Kotlin.\n\nEDUCATION:\nUniversity of Michigan - Bachelor's in Computer Science (2018)",
+  "extracted_skills": [
+    "iOS",
+    "Android",
+    "Swift",
+    "Kotlin",
+    "React Native",
+    "Git",
+    "REST APIs"
+  ],
+  "experience_years": 6,
+  "education_level": "Bachelor's",
+  "job_history": [
+    "Mobile Developer",
+    "Junior Mobile Developer"
+  ],
+  "certifications": []
+}

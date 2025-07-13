@@ -1,0 +1,24 @@
+{
+  "job_id": "JD001",
+  "job_title": "Software Engineer (Frontend)",
+  "company": "WebFront",
+  "job_description": "Company: WebFront\nPosition: Software Engineer (Frontend)\nLocation: San Francisco, CA (Hybrid)\nSalary: $120,000 - $150,000\n\nAbout Us:\nWebFront is a leading provider of user-centric web applications. We are passionate about creating intuitive and engaging experiences for our users. We foster a collaborative and innovative work environment.\n\nJob Description:\nWe are seeking a talented Software Engineer to join our Frontend team. You will be responsible for developing and maintaining high-quality user interfaces for our web applications. The ideal candidate will have a strong understanding of modern frontend frameworks and a passion for creating beautiful and functional designs.\n\nResponsibilities:\n- Develop and maintain frontend components using React.\n- Write clean, well-documented, and testable code.\n- Collaborate with designers and product managers to implement user stories.\n- Participate in code reviews and contribute to improving our development processes.\n\nRequirements:\n- Bachelor's degree in Computer Science or related field.\n- 3+ years of experience in frontend development.\n- Strong proficiency in React, HTML5, CSS3, and JavaScript.\n- Experience with state management libraries like Redux or Context.\n\nPreferred Qualifications:\n- Experience with TypeScript.\n- Experience with Jest or other testing frameworks.\n- Experience with build tools like Webpack or Parcel.\n\nBenefits:\n- Competitive salary and benefits package.\n- Opportunities for professional growth and development.\n- Collaborative and supportive work environment.",
+  "required_skills": [
+    "React",
+    "HTML5",
+    "CSS3",
+    "JavaScript",
+    "Git",
+    "REST APIs"
+  ],
+  "preferred_skills": [
+    "TypeScript",
+    "Redux",
+    "Webpack"
+  ],
+  "min_experience": 3,
+  "education_requirement": "Bachelor's",
+  "job_category": "Frontend",
+  "location": "San Francisco, CA (Hybrid)",
+  "salary_range": "$120,000 - $150,000"
+}

@@ -1,0 +1,23 @@
+{
+  "job_id": "JD007",
+  "job_title": "Database Administrator",
+  "company": "DataFlow",
+  "job_description": "Company: DataFlow\nPosition: Database Administrator\nLocation: Austin, TX (On-site)\nSalary: $115,000 - $145,000\n\nAbout Us:\nDataFlow manages and optimizes critical database systems for businesses of all sizes.\n\nJob Description:\nWe seek a skilled Database Administrator to ensure the performance, integrity, and security of our databases. Experience with MySQL and PostgreSQL is a must.\n\nResponsibilities:\n- Install, configure, and maintain database servers.\n- Monitor database performance and troubleshoot issues.\n- Implement and maintain database security measures.\n- Perform database backups and recovery.\n\nRequirements:\n- Bachelor's degree in Computer Science or related field.\n- 3+ years of experience in database administration.\n- Proficiency in SQL, MySQL, and PostgreSQL.\n- Experience with database replication and clustering.\n\nPreferred Qualifications:\n- Experience with cloud databases (e.g., AWS RDS, Azure SQL Database).\n- Experience with NoSQL databases (e.g., MongoDB).\n- Knowledge of database performance tuning techniques.\n\nBenefits:\n- Competitive salary and benefits package.\n- Paid time off.\n- Opportunities for advancement.",
+  "required_skills": [
+    "SQL",
+    "MySQL",
+    "PostgreSQL",
+    "Database Administration",
+    "Database Security",
+    "Backup/Recovery"
+  ],
+  "preferred_skills": [
+    "AWS RDS",
+    "MongoDB"
+  ],
+  "min_experience": 3,
+  "education_requirement": "Bachelor's",
+  "job_category": "Data",
+  "location": "Austin, TX (On-site)",
+  "salary_range": "$115,000 - $145,000"
+}

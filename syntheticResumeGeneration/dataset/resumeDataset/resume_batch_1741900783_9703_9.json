@@ -1,0 +1,20 @@
+{
+  "resume_id": "RES009",
+  "resume_text": "NAME: Isabella Martinez\nEMAIL: isabella.martinez@email.com\nPHONE: (555) 864-0916\n\nSUMMARY:\nMachine Learning Engineer with 6 years of experience in building and deploying machine learning models. Experience with NLP and Computer Vision.\n\nSKILLS:\nPython, TensorFlow, PyTorch, scikit-learn, Pandas, NumPy, AWS\n\nEXPERIENCE:\nAI Innovations Inc. - Machine Learning Engineer (2019 - Present)\n- Developed machine learning models for NLP and Computer Vision applications.\n- Deployed models on AWS infrastructure.\n\nData Science Corp. - Data Scientist (2017-2019)\n- Conducted research and analysis on large datasets.\n\nEDUCATION:\nUniversity of California, Los Angeles - PhD in Computer Science (2017)\n",
+  "extracted_skills": [
+    "Python",
+    "TensorFlow",
+    "PyTorch",
+    "scikit-learn",
+    "Pandas",
+    "NumPy",
+    "AWS"
+  ],
+  "experience_years": 6,
+  "education_level": "PhD",
+  "job_history": [
+    "Machine Learning Engineer",
+    "Data Scientist"
+  ],
+  "certifications": []
+}

@@ -1,0 +1,22 @@
+{
+  "resume_id": "RES002",
+  "resume_text": "NAME: Bob Johnson\nEMAIL: bob.johnson@email.com\nPHONE: (555) 987-6543\n\nSUMMARY:\nExperienced Backend Developer specializing in Java, Spring, and RESTful APIs.\n\nSKILLS:\nJava, Spring, SQL, MySQL, Docker, Kubernetes, AWS\n\nEXPERIENCE:\nCloud Services Corp - Backend Developer (2018 - Present)\n- Designed and implemented RESTful APIs using Java and Spring.\n- Managed containerized deployments using Docker and Kubernetes on AWS.\n\nPreviousTech - Software Engineer (2016 - 2018)\n- Contributed to backend Java development.\n\nEDUCATION:\nState University - Master's in Computer Engineering (2016)\n\nCERTIFICATIONS:\nAWS Certified Solutions Architect\n",
+  "extracted_skills": [
+    "Java",
+    "Spring",
+    "SQL",
+    "MySQL",
+    "Docker",
+    "Kubernetes",
+    "AWS"
+  ],
+  "experience_years": 7,
+  "education_level": "Master's",
+  "job_history": [
+    "Backend Developer",
+    "Software Engineer"
+  ],
+  "certifications": [
+    "AWS Certified Solutions Architect"
+  ]
+}

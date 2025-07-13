@@ -1,0 +1,23 @@
+{
+  "resume_id": "resume_008",
+  "resume_text": "NAME: Henry Brown\nEMAIL: henry.b@email.com\nPHONE: (555) 123-4560\n\nSUMMARY:\nCloud Architect with expertise in designing and implementing cloud solutions. Proven ability to improve system scalability and reliability.\n\nSKILLS:\nAWS, Azure, GCP, Docker, Kubernetes, Terraform, CloudFormation\n\nEXPERIENCE:\nCloud Consulting Group - Cloud Architect (2013 - Present)\n- Designed and implemented cloud solutions for various clients.\n- Provided technical guidance and support.\nIT Company - System Engineer (2010 - 2013)\n- Managed and maintained servers and networks.\n\nEDUCATION:\nTechnology University - Bachelor's in Computer Engineering (2010)\n\nCERTIFICATIONS:\nAWS Certified Solutions Architect, Google Cloud Professional",
+  "extracted_skills": [
+    "AWS",
+    "Azure",
+    "GCP",
+    "Docker",
+    "Kubernetes",
+    "Terraform",
+    "CloudFormation"
+  ],
+  "experience_years": 12,
+  "education_level": "Bachelor's",
+  "job_history": [
+    "Cloud Architect",
+    "System Engineer"
+  ],
+  "certifications": [
+    "AWS Certified Solutions Architect",
+    "Google Cloud Professional"
+  ]
+}

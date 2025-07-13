@@ -1,0 +1,16 @@
+{
+  "resume_id": "RESUME_004",
+  "resume_text": "NAME: David Brown\nEMAIL: david.brown@email.com\nPHONE: (555) 369-1215\n\nSUMMARY:\nMobile Developer with 2 years of experience in developing native iOS applications. Passionate about creating engaging and user-friendly mobile experiences.\n\nSKILLS:\nSwift, iOS, React Native, Git\n\nEXPERIENCE:\nZeta Apps - Mobile Developer (2022 - 2024)\n- Developed and maintained native iOS applications using Swift.\n- Integrated third-party APIs and libraries.\n\nEDUCATION:\nUniversity of Washington - Bachelor's in Computer Science (2022)\n\nCERTIFICATIONS:\nNone",
+  "extracted_skills": [
+    "Swift",
+    "iOS",
+    "React Native",
+    "Git"
+  ],
+  "experience_years": 2,
+  "education_level": "Bachelor's",
+  "job_history": [
+    "Mobile Developer"
+  ],
+  "certifications": []
+}

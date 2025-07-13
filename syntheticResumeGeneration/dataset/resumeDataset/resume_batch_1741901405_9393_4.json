@@ -1,0 +1,20 @@
+{
+  "resume_id": "RES004",
+  "resume_text": "NAME: David Brown\nEMAIL: david.brown@email.com\nPHONE: (555) 321-0987\n\nSUMMARY:\nPassionate Frontend Developer with a focus on creating engaging and user-friendly web experiences. Proficient in modern JavaScript frameworks.\n\nSKILLS:\nJavaScript, React, HTML5, CSS3, SASS, Node.js, Git\n\nEXPERIENCE:\nWeb Design Co - Frontend Developer (2020 - Present)\n- Developed and maintained responsive web applications using React.\n- Collaborated with designers to implement user interfaces.\n\nInternship Co - Web Developer Intern (2019 - 2020)\n- Assisted in the development of websites using HTML, CSS, and JavaScript.\n\nEDUCATION:\nSan Jose State University - Bachelor's in Computer Engineering (2020)",
+  "extracted_skills": [
+    "JavaScript",
+    "React",
+    "HTML5",
+    "CSS3",
+    "SASS",
+    "Node.js",
+    "Git"
+  ],
+  "experience_years": 4,
+  "education_level": "Bachelor's",
+  "job_history": [
+    "Frontend Developer",
+    "Web Developer Intern"
+  ],
+  "certifications": []
+}

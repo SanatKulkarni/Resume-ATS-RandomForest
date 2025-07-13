@@ -1,0 +1,23 @@
+{
+  "job_id": "JD012",
+  "job_title": "Data Engineer",
+  "company": "DataFlow",
+  "job_description": "Company: DataFlow\nPosition: Data Engineer\nLocation: Atlanta, GA\nSalary: $130,000 - $160,000\n\nAbout Us:\nDataFlow transforms raw data into actionable insights, empowering businesses to make smarter decisions. Our team of experts builds and maintains robust data pipelines.\n\nJob Description:\nWe are looking for a Data Engineer to build and maintain our data infrastructure. The ideal candidate will have experience with data warehousing, ETL processes, and big data technologies.\n\nResponsibilities:\n- Design, build, and maintain data pipelines.\n- Develop and implement ETL processes.\n- Optimize data storage and retrieval.\n- Ensure data quality and consistency.\n\nRequirements:\n- Bachelor's degree in Computer Science or related field.\n- 3+ years of experience in data engineering.\n- Proficiency in SQL and Python.\n- Experience with data warehousing technologies such as Snowflake or BigQuery.\n\nPreferred Qualifications:\n- Experience with Apache Spark or Hadoop.\n- Experience with cloud-based data platforms.\n\nBenefits:\n- Catered meals daily.\n- Company happy hours.\n- Generous employee referral bonus.",
+  "required_skills": [
+    "SQL",
+    "Python",
+    "ETL",
+    "Data Warehousing",
+    "Cloud Storage"
+  ],
+  "preferred_skills": [
+    "Spark",
+    "Hadoop",
+    "BigQuery"
+  ],
+  "min_experience": 3,
+  "education_requirement": "Bachelor's",
+  "job_category": "Data",
+  "location": "Atlanta, GA",
+  "salary_range": "$130,000 - $160,000"
+}

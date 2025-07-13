@@ -1,0 +1,18 @@
+{
+  "resume_id": "RES008",
+  "resume_text": "NAME: Henry Martinez\nEMAIL: henry.martinez@email.com\nPHONE: (555) 789-3456\n\nSUMMARY:\nProduct Manager with 6 years experience in driving product vision, strategy, and execution within agile software development environments.\n\nSKILLS:\nAgile, Scrum, Product Roadmapping, Market Analysis, User Research, Data Analysis\n\nEXPERIENCE:\nTech Products Corp - Product Manager (2019 - Present)\n- Define and execute product roadmap based on market research and user feedback.\n- Lead cross-functional teams to deliver high-quality products on time and within budget.\n\nSoftware Solutions Inc - Business Analyst (2017 - 2019)\n- Gathered and documented business requirements for software development projects.\n- Conducted user research and market analysis to inform product decisions.\n\nEDUCATION:\nUniversity of Michigan - MBA (2017)\n\nCERTIFICATIONS:\nCertified Scrum Master",
+  "extracted_skills": [
+    "Agile",
+    "Scrum",
+    "Data Analysis"
+  ],
+  "experience_years": 6,
+  "education_level": "Master's",
+  "job_history": [
+    "Product Manager",
+    "Business Analyst"
+  ],
+  "certifications": [
+    "Certified Scrum Master"
+  ]
+}

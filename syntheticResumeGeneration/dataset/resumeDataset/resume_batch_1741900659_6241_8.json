@@ -1,0 +1,19 @@
+{
+  "resume_id": "R1008",
+  "resume_text": "NAME: Hannah White\nEMAIL: hannah.white@email.com\nPHONE: (555) 890-1234\n\nSUMMARY:\nQA Engineer with 8 years of experience in testing web and mobile applications. Proficient in manual and automated testing.\n\nSKILLS:\nSelenium, JUnit, TestNG, Python, Java, Git\n\nEXPERIENCE:\nQuality Assurance Inc - QA Engineer (2016 - Present)\n- Developed and executed test plans and test cases.\n- Performed manual and automated testing.\nTest Solutions Ltd - Junior Tester (2015 - 2016)\n- Assisted in testing web applications.\n\nEDUCATION:\nCollege of Testing - Bachelor's in Software Testing (2016)\n",
+  "extracted_skills": [
+    "Selenium",
+    "JUnit",
+    "TestNG",
+    "Python",
+    "Java",
+    "Git"
+  ],
+  "experience_years": 8,
+  "education_level": "Bachelor's",
+  "job_history": [
+    "QA Engineer",
+    "Junior Tester"
+  ],
+  "certifications": []
+}

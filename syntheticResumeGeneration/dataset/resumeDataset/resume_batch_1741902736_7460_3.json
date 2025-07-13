@@ -1,0 +1,20 @@
+{
+  "resume_id": "RESUME_003",
+  "resume_text": "NAME: Charlie Brown\nEMAIL: charlie.brown@email.com\nPHONE: 555-555-5555\n\nSUMMARY:\nExperienced Data Scientist with a proven track record of developing and deploying machine learning models. Expertise in Python, scikit-learn, and TensorFlow.\n\nSKILLS:\nPython, scikit-learn, TensorFlow, Pandas, NumPy, SQL, Tableau\n\nEXPERIENCE:\nData Inc - Data Scientist (2018 - Present)\n- Developed machine learning models for fraud detection and risk assessment.\n- Conducted data analysis and visualization using Tableau.\n\nAnalytics Corp - Data Analyst (2016 - 2018)\n- Analyzed large datasets and generated insights for business decision-making.\n- Developed SQL queries to extract and transform data.\n\nEDUCATION:\nMassachusetts Institute of Technology - Master's in Data Science (2016)",
+  "extracted_skills": [
+    "Python",
+    "scikit-learn",
+    "TensorFlow",
+    "Pandas",
+    "NumPy",
+    "SQL",
+    "Tableau"
+  ],
+  "experience_years": 8,
+  "education_level": "Master's",
+  "job_history": [
+    "Data Scientist",
+    "Data Analyst"
+  ],
+  "certifications": []
+}

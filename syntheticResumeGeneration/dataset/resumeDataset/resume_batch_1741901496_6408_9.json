@@ -1,0 +1,21 @@
+{
+  "resume_id": "R1009",
+  "resume_text": "NAME: Isabella Martinez\nEMAIL: isabella.martinez@email.com\nPHONE: (555) 456-0123\n\nSUMMARY:\nSecurity Engineer with 2 years of experience in securing systems and networks. Proficient in vulnerability assessment and penetration testing.\n\nSKILLS:\nPython, C++, CompTIA Security+,  Linux, bash scripting, AWS\n\nEXPERIENCE:\nCybersecurity Solutions Inc. - Security Engineer (2022 - Present)\n- Conducted vulnerability assessments and penetration testing.\n- Implemented security controls and policies.\n\nSecurity Intern (2021-2022)\n- Assisted with threat hunting and incident response.\n\nEDUCATION:\nMiami Dade College - Associates Degree in Cybersecurity (2022)\n\nCERTIFICATIONS:\nCompTIA Security+",
+  "extracted_skills": [
+    "Python",
+    "C++",
+    "CompTIA Security+",
+    "Linux",
+    "bash scripting",
+    "AWS"
+  ],
+  "experience_years": 2,
+  "education_level": "Associates",
+  "job_history": [
+    "Security Engineer",
+    "Security Intern"
+  ],
+  "certifications": [
+    "CompTIA Security+"
+  ]
+}

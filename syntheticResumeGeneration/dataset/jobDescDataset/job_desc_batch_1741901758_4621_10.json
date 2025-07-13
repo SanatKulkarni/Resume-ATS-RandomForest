@@ -1,0 +1,24 @@
+{
+  "job_id": "JD010",
+  "job_title": "QA Engineer",
+  "company": "NextGenSystems",
+  "job_description": "Company: NextGenSystems\nPosition: QA Engineer\nLocation: Atlanta, GA (On-site)\nSalary: $80,000 - $110,000\n\nAbout Us:\nNextGenSystems creates the next wave of innovative technology solutions for enterprise needs. We uphold rigorous standards to ensure product quality.\n\nJob Description:\nWe are looking for a QA Engineer to ensure the quality of our software products. The individual we need will have experience in creating and executing test plans and cases.\n\nResponsibilities:\n- Develop and execute test plans and test cases.\n- Identify and report software defects.\n- Collaborate with developers to resolve issues.\n- Participate in code reviews.\n\nRequirements:\n- Bachelor's degree in Computer Science or related field.\n- 1+ years of experience in software quality assurance.\n- Experience with testing methodologies and tools.\n- Strong attention to detail.\n\nPreferred Qualifications:\n- Experience with automated testing frameworks.\n- Knowledge of performance testing.\n- Familiarity with Agile development processes.\n\nBenefits:\n- Competitive salary and benefits.\n- Opportunities for growth.\n- Supportive team environment.",
+  "required_skills": [
+    "Test Planning",
+    "Test Execution",
+    "Bug Reporting",
+    "SQL",
+    "Manual Testing",
+    "Automation Testing"
+  ],
+  "preferred_skills": [
+    "Selenium",
+    "JUnit",
+    "Performance Testing"
+  ],
+  "min_experience": 1,
+  "education_requirement": "Bachelor's",
+  "job_category": "Backend",
+  "location": "Atlanta, GA (On-site)",
+  "salary_range": "$80,000 - $110,000"
+}

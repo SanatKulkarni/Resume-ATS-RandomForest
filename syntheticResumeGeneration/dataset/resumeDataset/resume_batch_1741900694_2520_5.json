@@ -1,0 +1,20 @@
+{
+  "resume_id": "RES005",
+  "resume_text": "NAME: Emily Davis\nEMAIL: emily.davis@example.com\nPHONE: (555) 345-6789\n\nSUMMARY:\nCreative and detail-oriented Frontend Developer with 2 years of experience building responsive and user-friendly web interfaces. Proficient in React and modern JavaScript frameworks.\n\nSKILLS:\nJavaScript, React, HTML5, CSS3, SASS, Git, Bootstrap\n\nEXPERIENCE:\nWeb Designs Ltd - Frontend Developer (2022 - Present)\n- Developed and maintained web components using React.\n- Implemented responsive designs using HTML5 and CSS3.\n\nFreelance Web Developer (2021 - 2022)\n- Designed and developed websites for small businesses.\n- Gained experience in various frontend technologies.\n\nEDUCATION:\nSan Francisco State University - Associate's in Web Development (2021)",
+  "extracted_skills": [
+    "JavaScript",
+    "React",
+    "HTML5",
+    "CSS3",
+    "SASS",
+    "Git",
+    "Bootstrap"
+  ],
+  "experience_years": 2,
+  "education_level": "Associates",
+  "job_history": [
+    "Frontend Developer",
+    "Freelance Web Developer"
+  ],
+  "certifications": []
+}

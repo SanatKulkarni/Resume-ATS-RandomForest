@@ -1,0 +1,21 @@
+{
+  "resume_id": "RESUME_004",
+  "resume_text": "NAME: David Wilson\nEMAIL: david.wilson@example.com\nPHONE: (555) 789-0123\n\nSUMMARY:\nFull Stack Developer with 8+ years of experience in building web applications. Expertise in both frontend and backend technologies.\n\nSKILLS:\nJavaScript, React, Node.js, Express.js, MongoDB, SQL, HTML5, CSS3\n\nEXPERIENCE:\nWeb Solutions Ltd. - Senior Developer (2017 - Present)\n- Led the development of several web applications using React and Node.js.\n- Mentored junior developers.\n\nSoftware House - Web Developer (2015 - 2017)\n- Developed and maintained web applications using JavaScript and PHP.\n\nEDUCATION:\nCommunity College - Bachelor's in Computer Programming (2015)\n\nCERTIFICATIONS:\nNone",
+  "extracted_skills": [
+    "JavaScript",
+    "React",
+    "Node.js",
+    "Express.js",
+    "MongoDB",
+    "SQL",
+    "HTML5",
+    "CSS3"
+  ],
+  "experience_years": 8,
+  "education_level": "Bachelor's",
+  "job_history": [
+    "Senior Developer",
+    "Web Developer"
+  ],
+  "certifications": []
+}

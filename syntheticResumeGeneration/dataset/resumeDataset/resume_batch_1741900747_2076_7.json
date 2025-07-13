@@ -1,0 +1,24 @@
+{
+  "resume_id": "RESUME007",
+  "resume_text": "NAME: Grace Martinez\nEMAIL: grace.martinez@email.com\nPHONE: (555) 111-2222\n\nSUMMARY:\nCloud Architect with 10 years of experience in designing and implementing cloud-based solutions. Expertise in AWS, Azure, and GCP.\n\nSKILLS:\nAWS, Azure, GCP, Docker, Kubernetes, Terraform, CloudFormation\n\nEXPERIENCE:\nCloud Solutions Group - Cloud Architect (2015 - Present)\n- Designed and implemented cloud-based solutions using AWS, Azure, and GCP.\n- Provided technical leadership and guidance to development teams.\n\nSystems Integration - Senior Systems Engineer (2013 - 2015)\n- Managed and maintained Linux and Windows servers.\n- Implemented virtualization solutions using VMware.\n\nEDUCATION:\nCalifornia Institute of Technology - Master's in Computer Science (2013)\n\nCERTIFICATIONS:\nAWS Certified Solutions Architect, Google Cloud Professional, Microsoft Azure Administrator",
+  "extracted_skills": [
+    "AWS",
+    "Azure",
+    "GCP",
+    "Docker",
+    "Kubernetes",
+    "Terraform",
+    "CloudFormation"
+  ],
+  "experience_years": 10,
+  "education_level": "Master's",
+  "job_history": [
+    "Cloud Architect",
+    "Senior Systems Engineer"
+  ],
+  "certifications": [
+    "AWS Certified Solutions Architect",
+    "Google Cloud Professional",
+    "Microsoft Azure Administrator"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "resume_id": "RES010",
+  "resume_text": "NAME: Mia Hall\nEMAIL: mia.hall@example.com\nPHONE: (555) 345-6789\n\nSUMMARY:\nPassionate data engineer ready to help maintain and improve data architecture for a global company.\n\nSKILLS:\nSQL, Python, AWS, Docker, Kubernetes, Spark\n\nEXPERIENCE:\nData Science Corp - Intern (2021 - 2022)\n- Developed data pipelines using Python and SQL.\n- Helped with automating the data process.\n\nTech High School - Data Science Program (2020 - 2021)\n- Helped teach others about data science.\n- Built multiple applications using Python.\n\nEDUCATION:\nStanford University - Associate's of Science in Computer Science (2023)\n\nCERTIFICATIONS:\nNone",
+  "extracted_skills": [
+    "SQL",
+    "Python",
+    "AWS",
+    "Docker",
+    "Kubernetes",
+    "Spark"
+  ],
+  "experience_years": 1,
+  "education_level": "Associates",
+  "job_history": [
+    "Intern",
+    "Volunteer"
+  ],
+  "certifications": []
+}

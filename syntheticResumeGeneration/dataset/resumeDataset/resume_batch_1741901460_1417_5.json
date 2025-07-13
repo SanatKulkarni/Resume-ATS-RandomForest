@@ -1,0 +1,22 @@
+{
+  "resume_id": "RES005",
+  "resume_text": "NAME: Ethan White\nEMAIL: ethan.white@email.com\nPHONE: (555) 333-4444\n\nSUMMARY:\nFull Stack Developer with 2 years of experience in building web applications using both frontend and backend technologies. Passionate about creating innovative solutions to complex problems.\n\nSKILLS:\nJavaScript, React, Node.js, Express.js, MongoDB, SQL, Git, HTML5, CSS3\n\nEXPERIENCE:\nIota Software - Full Stack Developer (2022 - Present)\n- Developed and maintained web applications using React, Node.js, and MongoDB.\n- Implemented RESTful APIs using Express.js.\n\nLambda Inc - Intern (2021 - 2022)\n- Assisted in the development of web applications using JavaScript and HTML/CSS.\n- Learned backend development concepts using Node.js.\n\nEDUCATION:\nGeorgia Institute of Technology - Bachelor's in Computer Science (2022)",
+  "extracted_skills": [
+    "JavaScript",
+    "React",
+    "Node.js",
+    "Express.js",
+    "MongoDB",
+    "SQL",
+    "Git",
+    "HTML5",
+    "CSS3"
+  ],
+  "experience_years": 2,
+  "education_level": "Bachelor's",
+  "job_history": [
+    "Full Stack Developer",
+    "Intern"
+  ],
+  "certifications": []
+}

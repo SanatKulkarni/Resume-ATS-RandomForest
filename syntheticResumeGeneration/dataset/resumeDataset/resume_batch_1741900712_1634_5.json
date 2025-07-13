@@ -1,0 +1,18 @@
+{
+  "resume_id": "RESUME_005",
+  "resume_text": "NAME: Emily Garcia\nEMAIL: emily.garcia@example.com\nPHONE: (555) 234-5678\n\nSUMMARY:\nMobile Developer with 4+ years of experience in developing mobile applications for iOS and Android platforms.\n\nSKILLS:\niOS, Swift, Android, Java, React Native, Git\n\nEXPERIENCE:\nMobile Apps Inc. - Mobile Developer (2019 - Present)\n- Developed and maintained mobile applications for iOS and Android.\n- Collaborated with designers and product managers.\n\nEDUCATION:\nTechnical Institute - Bachelor's in Software Engineering (2019)\n\nCERTIFICATIONS:\nNone",
+  "extracted_skills": [
+    "iOS",
+    "Swift",
+    "Android",
+    "Java",
+    "React Native",
+    "Git"
+  ],
+  "experience_years": 4,
+  "education_level": "Bachelor's",
+  "job_history": [
+    "Mobile Developer"
+  ],
+  "certifications": []
+}

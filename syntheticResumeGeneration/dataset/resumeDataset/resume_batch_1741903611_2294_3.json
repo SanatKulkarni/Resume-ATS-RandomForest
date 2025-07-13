@@ -1,0 +1,20 @@
+{
+  "resume_id": "RESUME_003",
+  "resume_text": "NAME: Carol Williams\nEMAIL: carol.williams@email.com\nPHONE: (555) 246-8013\n\nSUMMARY:\nData Scientist with 5 years of experience in developing and deploying machine learning models. Proficient in data analysis, model building, and visualization.\n\nSKILLS:\nPython, scikit-learn, TensorFlow, Pandas, NumPy, R, Tableau, SQL\n\nEXPERIENCE:\nEpsilon Analytics - Data Scientist (2019 - 2024)\n- Developed machine learning models for predicting customer churn.\n- Performed data analysis and visualization to identify trends and patterns.\n\nEDUCATION:\nMassachusetts Institute of Technology - PhD in Statistics (2019)\n\nCERTIFICATIONS:\nNone",
+  "extracted_skills": [
+    "Python",
+    "scikit-learn",
+    "TensorFlow",
+    "Pandas",
+    "NumPy",
+    "R",
+    "Tableau",
+    "SQL"
+  ],
+  "experience_years": 5,
+  "education_level": "PhD",
+  "job_history": [
+    "Data Scientist"
+  ],
+  "certifications": []
+}

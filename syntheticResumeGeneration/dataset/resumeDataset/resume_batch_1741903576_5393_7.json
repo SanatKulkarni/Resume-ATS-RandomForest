@@ -1,0 +1,18 @@
+{
+  "resume_id": "RESUME_007",
+  "resume_text": "NAME: Grace Hill\nEMAIL: grace.hill@email.com\nPHONE: 555-222-9999\n\nSUMMARY:\nDedicated Mobile Developer with 6 years experience building applications for both Android and iOS.\n\nSKILLS:\nKotlin, Swift, React Native, iOS, Android, Git\n\nEXPERIENCE:\nMobile First Co. - Mobile Developer (2018 - Present)\n- Developed and maintained various mobile applications.\n- Implemented features using Kotlin and Swift.\n\nEducation:\nTech Institute - Masters in Mobile Device Programming (2018)\n\nCERTIFICATIONS:\n",
+  "extracted_skills": [
+    "Kotlin",
+    "Swift",
+    "React Native",
+    "iOS",
+    "Android",
+    "Git"
+  ],
+  "experience_years": 6,
+  "education_level": "Master's",
+  "job_history": [
+    "Mobile Developer"
+  ],
+  "certifications": []
+}

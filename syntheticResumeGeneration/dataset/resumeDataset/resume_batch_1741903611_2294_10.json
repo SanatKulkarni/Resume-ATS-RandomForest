@@ -1,0 +1,24 @@
+{
+  "resume_id": "RESUME_010",
+  "resume_text": "NAME: Jack King\nEMAIL: jack.king@email.com\nPHONE: (555) 997-4849\n\nSUMMARY:\nData Engineer with 9 years of experience in building and maintaining data pipelines. Proficient in SQL, Python, and cloud-based data warehousing solutions.\n\nSKILLS:\nSQL, Python, AWS, GCP, Dataflow, Spark, Airflow, Snowflake, Redshift\n\nEXPERIENCE:\nMu Data Solutions - Data Engineer (2015 - 2019)\n- Designed and implemented data pipelines using SQL and Python.\n- Optimized data warehouse performance on AWS.\n\nNu Analytics - Data Engineer (2019 - 2024)\n- Built and maintained data pipelines using GCP Dataflow and Spark.\n- Implemented data governance policies.\n\nEDUCATION:\nUniversity of Illinois at Urbana-Champaign - Master's in Data Science (2015)\n\nCERTIFICATIONS:\nGoogle Cloud Professional",
+  "extracted_skills": [
+    "SQL",
+    "Python",
+    "AWS",
+    "GCP",
+    "Dataflow",
+    "Spark",
+    "Airflow",
+    "Snowflake",
+    "Redshift"
+  ],
+  "experience_years": 9,
+  "education_level": "Master's",
+  "job_history": [
+    "Data Engineer",
+    "Data Engineer"
+  ],
+  "certifications": [
+    "Google Cloud Professional"
+  ]
+}

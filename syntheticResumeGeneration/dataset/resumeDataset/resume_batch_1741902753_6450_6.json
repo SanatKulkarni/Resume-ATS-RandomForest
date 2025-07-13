@@ -1,0 +1,22 @@
+{
+  "resume_id": "RES006",
+  "resume_text": "NAME: Frank Garcia\nEMAIL: frank.garcia@email.com\nPHONE: 555-432-1098\n\nSUMMARY:\nCloud Architect with 12 years of experience designing and implementing cloud-based solutions. Expertise in AWS, Azure, and GCP.\n\nSKILLS:\nAWS, Azure, GCP, Kubernetes, Terraform, CloudFormation, Lambda\n\nEXPERIENCE:\nCloud Experts Inc. - Cloud Architect (2013 - Present)\n- Designed and implemented cloud-based solutions for enterprise clients.\n- Managed AWS, Azure, and GCP environments.\n\nEDUCATION:\nCarnegie Mellon University - PhD in Computer Science (2013)\n\nCERTIFICATIONS:\nAWS Certified Solutions Architect, Google Cloud Professional\n",
+  "extracted_skills": [
+    "AWS",
+    "Azure",
+    "GCP",
+    "Kubernetes",
+    "Terraform",
+    "CloudFormation",
+    "Lambda"
+  ],
+  "experience_years": 12,
+  "education_level": "PhD",
+  "job_history": [
+    "Cloud Architect"
+  ],
+  "certifications": [
+    "AWS Certified Solutions Architect",
+    "Google Cloud Professional"
+  ]
+}

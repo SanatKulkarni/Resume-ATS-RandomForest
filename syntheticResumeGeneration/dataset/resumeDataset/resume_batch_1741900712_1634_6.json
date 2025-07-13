@@ -1,0 +1,21 @@
+{
+  "resume_id": "RESUME_006",
+  "resume_text": "NAME: Frank Rodriguez\nEMAIL: frank.rodriguez@example.com\nPHONE: (555) 567-8901\n\nSUMMARY:\nSecurity Engineer with expertise in identifying and mitigating security vulnerabilities in web applications and infrastructure.\n\nSKILLS:\nPython, AWS, Linux, Networking, Security Auditing, Penetration Testing\n\nEXPERIENCE:\nCyberSec Solutions - Security Engineer (2017 - Present)\n- Conducted security audits and penetration tests.\n- Implemented security best practices.\n\nIT Department - Systems Administrator (2015 - 2017)\n- Managed Linux servers and network infrastructure.\n\nEDUCATION:\nCity University - Bachelor's in Computer Science (2015)\n\nCERTIFICATIONS:\nCompTIA Security+",
+  "extracted_skills": [
+    "Python",
+    "AWS",
+    "Linux",
+    "Networking",
+    "Security Auditing",
+    "Penetration Testing"
+  ],
+  "experience_years": 8,
+  "education_level": "Bachelor's",
+  "job_history": [
+    "Security Engineer",
+    "Systems Administrator"
+  ],
+  "certifications": [
+    "CompTIA Security+"
+  ]
+}

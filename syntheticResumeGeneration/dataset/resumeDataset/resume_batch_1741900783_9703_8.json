@@ -1,0 +1,22 @@
+{
+  "resume_id": "RES008",
+  "resume_text": "NAME: Henry Lee\nEMAIL: henry.lee@email.com\nPHONE: (555) 741-3407\n\nSUMMARY:\nCloud Architect with 12 years of experience designing and implementing cloud solutions. Expert in AWS and Azure.\n\nSKILLS:\nAWS, Azure, Docker, Kubernetes, Terraform, CloudFormation, Python\n\nEXPERIENCE:\nCloud Architects Ltd. - Cloud Architect (2012 - Present)\n- Designed and implemented cloud solutions for enterprise clients.\n- Led cloud migration projects.\n\nNetwork Solutions Corp. - System Administrator (2010 - 2012)\n- Managed network infrastructure and servers.\n\nEDUCATION:\nGeorgia Institute of Technology - Master's in Computer Science (2010)\n\nCERTIFICATIONS:\nMicrosoft Azure Administrator",
+  "extracted_skills": [
+    "AWS",
+    "Azure",
+    "Docker",
+    "Kubernetes",
+    "Terraform",
+    "CloudFormation",
+    "Python"
+  ],
+  "experience_years": 12,
+  "education_level": "Master's",
+  "job_history": [
+    "Cloud Architect",
+    "System Administrator"
+  ],
+  "certifications": [
+    "Microsoft Azure Administrator"
+  ]
+}

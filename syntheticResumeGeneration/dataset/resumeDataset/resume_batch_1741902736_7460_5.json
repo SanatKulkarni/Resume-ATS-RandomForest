@@ -1,0 +1,20 @@
+{
+  "resume_id": "RESUME_005",
+  "resume_text": "NAME: Ethan Martinez\nEMAIL: ethan.martinez@email.com\nPHONE: 555-333-4444\n\nSUMMARY:\nFull Stack Developer with experience in both frontend and backend technologies. Passionate about building scalable and maintainable web applications.\n\nSKILLS:\nJavaScript, React, Node.js, Express.js, MongoDB, PostgreSQL, Git\n\nEXPERIENCE:\nWeb Development Co - Full Stack Developer (2021 - Present)\n- Developed and maintained web applications using React, Node.js, and MongoDB.\n- Implemented RESTful APIs using Express.js.\n\nTech Startup - Web Developer (2019 - 2021)\n- Assisted in the development of web applications using JavaScript and HTML.\n\nEDUCATION:\nCalifornia Institute of Technology - Bachelor's in Computer Science (2019)",
+  "extracted_skills": [
+    "JavaScript",
+    "React",
+    "Node.js",
+    "Express.js",
+    "MongoDB",
+    "PostgreSQL",
+    "Git"
+  ],
+  "experience_years": 5,
+  "education_level": "Bachelor's",
+  "job_history": [
+    "Full Stack Developer",
+    "Web Developer"
+  ],
+  "certifications": []
+}

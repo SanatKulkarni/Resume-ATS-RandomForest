@@ -1,0 +1,21 @@
+{
+  "resume_id": "resume_007",
+  "resume_text": "NAME: Grace Miller\nEMAIL: grace.m@email.com\nPHONE: (555) 890-1234\n\nSUMMARY:\nFull Stack Developer with experience in both frontend and backend technologies. Adept at building complete web applications from start to finish.\n\nSKILLS:\nJavaScript, React, Node.js, HTML5, CSS3, SQL, MongoDB, Git\n\nEXPERIENCE:\nWeb Development Agency - Full Stack Developer (2016 - Present)\n- Developed and maintained web applications for various clients.\n- Worked on both frontend and backend development.\nFreelance Developer (2014 - 2016)\n- Developed websites and web applications for small businesses.\n\nEDUCATION:\nOnline University - Bachelor's in Computer Science (2014)\n\nCERTIFICATIONS:\nNone",
+  "extracted_skills": [
+    "JavaScript",
+    "React",
+    "Node.js",
+    "HTML5",
+    "CSS3",
+    "SQL",
+    "MongoDB",
+    "Git"
+  ],
+  "experience_years": 9,
+  "education_level": "Bachelor's",
+  "job_history": [
+    "Full Stack Developer",
+    "Freelance Developer"
+  ],
+  "certifications": []
+}

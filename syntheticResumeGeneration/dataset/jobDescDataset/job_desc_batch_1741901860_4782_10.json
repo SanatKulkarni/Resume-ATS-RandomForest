@@ -1,0 +1,23 @@
+{
+  "job_id": "JD010",
+  "job_title": "Machine Learning Engineer",
+  "company": "AILabs",
+  "job_description": "Company: AILabs\nPosition: Machine Learning Engineer\nLocation: Mountain View, CA\nSalary: $130,000 - $180,000\n\nAbout Us:\nAILabs is a leading artificial intelligence research and development company. We are dedicated to pushing the boundaries of what's possible with AI and machine learning.\n\nJob Description:\nWe are looking for a skilled Machine Learning Engineer to join our research team.\n\nResponsibilities:\n- Develop and implement machine learning models.\n- Optimize and deploy models to production.\n- Monitor model performance and retrain as needed.\n- Collaborate with data scientists and engineers.\n\nRequirements:\n- Master\u2019s degree in Computer Science or related field.\n- 3+ years of experience in machine learning.\n- Strong proficiency in Python and machine learning libraries (TensorFlow, PyTorch, scikit-learn).\n- Experience with cloud computing platforms (AWS, Azure, GCP).\n\nPreferred Qualifications:\n- PhD in related field.\n- Experience with MLOps.\n\nBenefits:\n- Competitive salary and benefits package.\n- Opportunity to work on cutting-edge research.\n- Collaborative and innovative work environment.",
+  "required_skills": [
+    "Python",
+    "TensorFlow",
+    "PyTorch",
+    "scikit-learn",
+    "AWS",
+    "GCP",
+    "SQL"
+  ],
+  "preferred_skills": [
+    "MLOps"
+  ],
+  "min_experience": 3,
+  "education_requirement": "Master's",
+  "job_category": "Data",
+  "location": "Mountain View, CA",
+  "salary_range": "$130,000 - $180,000"
+}

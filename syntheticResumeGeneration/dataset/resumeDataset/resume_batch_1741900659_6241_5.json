@@ -1,0 +1,18 @@
+{
+  "resume_id": "R1005",
+  "resume_text": "NAME: Ethan Rodriguez\nEMAIL: ethan.rodriguez@email.com\nPHONE: (555) 567-8901\n\nSUMMARY:\nMobile Developer with 6 years of experience in developing iOS and Android applications. Proficient in Swift, Kotlin, and React Native.\n\nSKILLS:\niOS, Android, Swift, Kotlin, React Native, Git\n\nEXPERIENCE:\nMobile Apps Inc - Mobile Developer (2018 - Present)\n- Developed and maintained iOS and Android applications.\n- Implemented UI and backend functionalities.\n\nEDUCATION:\nTech Institute - Bachelor's in Software Engineering (2018)\n",
+  "extracted_skills": [
+    "iOS",
+    "Android",
+    "Swift",
+    "Kotlin",
+    "React Native",
+    "Git"
+  ],
+  "experience_years": 6,
+  "education_level": "Bachelor's",
+  "job_history": [
+    "Mobile Developer"
+  ],
+  "certifications": []
+}

@@ -1,0 +1,22 @@
+{
+  "resume_id": "RES008",
+  "resume_text": "NAME: Linda Martinez\nEMAIL: linda.martinez@email.com\nPHONE: 555-654-3210\n\nSUMMARY:\nCreative Frontend Developer with a passion for building beautiful and user-friendly web interfaces. Seeking a challenging role where I can leverage my skills to create engaging user experiences.\n\nSKILLS:\nHTML5, CSS3, JavaScript, React, Angular, Vue.js, jQuery, Bootstrap, Tailwind CSS\n\nEXPERIENCE:\nWeb Design Agency - Frontend Developer (2021 - Present)\n- Developed and maintained responsive web interfaces using React and Angular.\n- Collaborated with designers to implement user interfaces according to design specifications.\nFreelance Web Developer (2019 - 2021)\n- Designed and developed websites for small businesses and individuals.\n- Implemented SEO best practices to improve website visibility.\n\nEDUCATION:\nCalifornia State University, Los Angeles - Bachelor's in Graphic Design (2019)\n",
+  "extracted_skills": [
+    "HTML5",
+    "CSS3",
+    "JavaScript",
+    "React",
+    "Angular",
+    "Vue.js",
+    "jQuery",
+    "Bootstrap",
+    "Tailwind CSS"
+  ],
+  "experience_years": 5,
+  "education_level": "Bachelor's",
+  "job_history": [
+    "Frontend Developer",
+    "Freelance Web Developer"
+  ],
+  "certifications": []
+}

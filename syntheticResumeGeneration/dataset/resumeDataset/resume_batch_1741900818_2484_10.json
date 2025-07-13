@@ -1,0 +1,17 @@
+{
+  "resume_id": "RES010",
+  "resume_text": "NAME: Jake Kim\nEMAIL: jake.kim@example.com\nPHONE: 555-777-9999\n\nSUMMARY:\nA Data Engineer passionate about building robust and scalable data pipelines.\n\nSKILLS:\nPython, Spark, Hadoop, AWS, SQL, Kafka\n\nEXPERIENCE:\nData Firm - Data Engineer (2019 - Present)\n - Built and maintained data pipelines using Python, Spark, and Hadoop.\n - Deployed data pipelines to AWS.\n\nEDUCATION:\nUniversity of Michigan - Master's in Data Science (2019)",
+  "extracted_skills": [
+    "Python",
+    "Spark",
+    "Hadoop",
+    "AWS",
+    "SQL"
+  ],
+  "experience_years": 5,
+  "education_level": "Master's",
+  "job_history": [
+    "Data Engineer"
+  ],
+  "certifications": []
+}

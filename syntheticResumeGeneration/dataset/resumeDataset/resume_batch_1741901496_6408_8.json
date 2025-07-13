@@ -1,0 +1,23 @@
+{
+  "resume_id": "R1008",
+  "resume_text": "NAME: Henry Lee\nEMAIL: henry.lee@email.com\nPHONE: (555) 123-7890\n\nSUMMARY:\nCloud Architect with 8 years of experience designing and implementing cloud-based solutions. Expertise in AWS, Azure, and GCP cloud platforms.\n\nSKILLS:\nAWS, Azure, GCP, Docker, Kubernetes, Terraform, CloudFormation, Python\n\nEXPERIENCE:\nCloud Architects Inc. - Cloud Architect (2018 - Present)\n- Designed and implemented cloud-based solutions on AWS, Azure, and GCP.\n- Automated infrastructure provisioning using Terraform and CloudFormation.\n\nSystems Integrators Ltd. - Systems Engineer (2016 - 2018)\n- Managed and maintained on-premises infrastructure.\n\nEDUCATION:\nUniversity of Texas at Austin - Bachelor's in Electrical Engineering (2016)\n\nCERTIFICATIONS:\nGoogle Cloud Professional",
+  "extracted_skills": [
+    "AWS",
+    "Azure",
+    "GCP",
+    "Docker",
+    "Kubernetes",
+    "Terraform",
+    "CloudFormation",
+    "Python"
+  ],
+  "experience_years": 8,
+  "education_level": "Bachelor's",
+  "job_history": [
+    "Cloud Architect",
+    "Systems Engineer"
+  ],
+  "certifications": [
+    "Google Cloud Professional"
+  ]
+}

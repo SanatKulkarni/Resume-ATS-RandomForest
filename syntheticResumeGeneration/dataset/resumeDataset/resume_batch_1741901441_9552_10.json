@@ -1,0 +1,19 @@
+{
+  "resume_id": "RES010",
+  "resume_text": "NAME: Jack Rodriguez\nEMAIL: jack.rodriguez@email.com\nPHONE: (555) 888-9999\n\nSUMMARY:\nBackend Developer specializing in building scalable and reliable APIs. Experienced in Java and Spring Framework.\n\nSKILLS:\nJava, Spring, SQL, MySQL, REST APIs, Git, Docker\n\nEXPERIENCE:\nSoftware Company - Backend Developer (2019 - Present)\n- Developed and maintained REST APIs using Java and Spring Framework.\n- Integrated with databases such as MySQL and PostgreSQL.\n\nEducation:\nArizona State University - Bachelor's in Computer Science (2019)",
+  "extracted_skills": [
+    "Java",
+    "Spring",
+    "SQL",
+    "MySQL",
+    "REST APIs",
+    "Git",
+    "Docker"
+  ],
+  "experience_years": 4,
+  "education_level": "Bachelor's",
+  "job_history": [
+    "Backend Developer"
+  ],
+  "certifications": []
+}

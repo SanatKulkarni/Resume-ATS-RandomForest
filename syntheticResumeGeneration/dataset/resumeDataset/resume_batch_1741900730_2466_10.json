@@ -1,0 +1,20 @@
+{
+  "resume_id": "RES010",
+  "resume_text": "NAME: Jack Anderson\nEMAIL: jack.anderson@email.com\nPHONE: 555-549-9170\n\nSUMMARY:\nData Engineer with 9 years of experience building and maintaining data pipelines and data warehouses. Expertise in SQL, Python, and cloud data platforms.\n\nSKILLS:\nSQL, Python, AWS, GCP, Data Warehousing, ETL, Git\n\nEXPERIENCE:\nData Systems Ltd. - Data Engineer (2016 - Present)\n- Designed and implemented data pipelines using AWS and GCP.\n- Built and maintained data warehouses and data lakes.\n\nData Analytics Corp. - Database Administrator (2015 - 2016)\n- Managed and maintained relational databases.\n\nEDUCATION:\nUniversity of Michigan - Master's in Data Engineering (2015)\n\nCERTIFICATIONS:\n",
+  "extracted_skills": [
+    "SQL",
+    "Python",
+    "AWS",
+    "GCP",
+    "Data Warehousing",
+    "ETL",
+    "Git"
+  ],
+  "experience_years": 9,
+  "education_level": "Master's",
+  "job_history": [
+    "Data Engineer",
+    "Database Administrator"
+  ],
+  "certifications": []
+}

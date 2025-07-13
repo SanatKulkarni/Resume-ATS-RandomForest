@@ -1,0 +1,20 @@
+{
+  "resume_id": "RES008",
+  "resume_text": "NAME: Henry Moore\nEMAIL: henry.moore@email.com\nPHONE: 555-791-3758\n\nSUMMARY:\nSecurity Engineer with 2 years of experience in cybersecurity. Passionate about securing systems and networks against threats.\n\nSKILLS:\nPython, C++, Linux, Networking, Security Audits, Git\n\nEXPERIENCE:\nSecurity Firm - Security Engineer (2022 - Present)\n- Conducted security audits and penetration testing.\n- Developed security policies and procedures.\n\nEDUCATION:\nUniversity of Maryland - Bachelor's in Cybersecurity (2022)\n\nCERTIFICATIONS:\nCompTIA Security+",
+  "extracted_skills": [
+    "Python",
+    "C++",
+    "Linux",
+    "Networking",
+    "Security Audits",
+    "Git"
+  ],
+  "experience_years": 2,
+  "education_level": "Bachelor's",
+  "job_history": [
+    "Security Engineer"
+  ],
+  "certifications": [
+    "CompTIA Security+"
+  ]
+}

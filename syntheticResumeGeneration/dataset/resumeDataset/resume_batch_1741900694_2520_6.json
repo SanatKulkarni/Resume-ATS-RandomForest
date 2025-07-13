@@ -1,0 +1,18 @@
+{
+  "resume_id": "RES006",
+  "resume_text": "NAME: Frank Wilson\nEMAIL: frank.wilson@example.com\nPHONE: (555) 456-7890\n\nSUMMARY:\nVersatile Mobile Developer with 4 years of experience in building native and cross-platform mobile applications. Expertise in iOS and React Native.\n\nSKILLS:\niOS, React Native, Swift, JavaScript, Git, REST APIs\n\nEXPERIENCE:\nMobile Apps Inc - Mobile Developer (2020 - Present)\n- Developed and maintained iOS and React Native applications.\n- Integrated REST APIs for data retrieval and storage.\n\nStart-up Co - Mobile Developer Intern (2019 - 2020)\n- Assisted in the development of a mobile application using React Native.\n- Gained experience in mobile development best practices.\n\nEDUCATION:\nUniversity of Washington - Bachelor's in Mobile Development (2020)",
+  "extracted_skills": [
+    "iOS",
+    "React Native",
+    "Swift",
+    "JavaScript",
+    "Git"
+  ],
+  "experience_years": 4,
+  "education_level": "Bachelor's",
+  "job_history": [
+    "Mobile Developer",
+    "Mobile Developer Intern"
+  ],
+  "certifications": []
+}

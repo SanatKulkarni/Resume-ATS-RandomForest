@@ -1,0 +1,24 @@
+{
+  "resume_id": "RES010",
+  "resume_text": "NAME: Jasmine Lee\nEMAIL: jasmine.lee@email.com\nPHONE: (555) 789-0124\n\nSUMMARY:\nCloud Architect with extensive experience in designing, implementing, and managing cloud-based solutions. Proficient in AWS, Azure, and GCP. Committed to optimizing cloud infrastructure for performance, security, and cost-effectiveness.\n\nSKILLS:\nAWS, Azure, GCP, Kubernetes, Terraform, Docker, Python\n\nEXPERIENCE:\nCloud Consulting Firm - Cloud Architect (2016 - Present)\n- Designed and implemented cloud solutions for clients in various industries.\n- Provided technical guidance and support to cloud engineers.\n\nSystem Integration Company - Senior System Administrator (2012 - 2016)\n- Managed and maintained the company's IT infrastructure.\n- Migrated on-premises workloads to the cloud.\n\nEDUCATION:\nCalifornia Institute of Technology - Master's in Information Systems (2012)\n\nCERTIFICATIONS:\nAWS Certified Solutions Architect\nMicrosoft Azure Administrator\nGoogle Cloud Professional\n",
+  "extracted_skills": [
+    "AWS",
+    "Azure",
+    "GCP",
+    "Kubernetes",
+    "Terraform",
+    "Docker",
+    "Python"
+  ],
+  "experience_years": 11,
+  "education_level": "Master's",
+  "job_history": [
+    "Cloud Architect",
+    "Senior System Administrator"
+  ],
+  "certifications": [
+    "AWS Certified Solutions Architect",
+    "Microsoft Azure Administrator",
+    "Google Cloud Professional"
+  ]
+}

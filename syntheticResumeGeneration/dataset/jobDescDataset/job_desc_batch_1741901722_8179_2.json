@@ -1,0 +1,24 @@
+{
+  "job_id": "JD002",
+  "job_title": "Data Scientist",
+  "company": "AnalyticsHub",
+  "job_description": "Company: AnalyticsHub\nPosition: Data Scientist\nLocation: Remote\nSalary: $130,000 - $170,000\n\nAbout Us:\nAnalyticsHub is a data-driven company that helps businesses make better decisions. We are committed to innovation and providing actionable insights.\n\nJob Description:\nWe are seeking a talented Data Scientist to join our growing team. You will be responsible for developing and implementing machine learning models to solve complex business problems.\n\nResponsibilities:\n- Develop and implement machine learning models using Python and scikit-learn.\n- Analyze large datasets to identify trends and patterns.\n- Communicate findings to stakeholders through clear and concise visualizations.\n- Collaborate with engineers to deploy models into production.\n\nRequirements:\n- 3+ years of experience in data science.\n- Strong proficiency in Python, scikit-learn, and Pandas.\n- Experience with machine learning algorithms such as regression, classification, and clustering.\n- Excellent communication and problem-solving skills.\n\nPreferred Qualifications:\n- Experience with deep learning frameworks like TensorFlow or PyTorch.\n- Experience with cloud platforms like AWS or Azure.\n- Experience with A/B testing.\n\nBenefits:\n- Fully remote work environment.\n- Generous vacation policy.\n- Professional development opportunities.",
+  "required_skills": [
+    "Python",
+    "scikit-learn",
+    "Pandas",
+    "SQL",
+    "Data Visualization",
+    "Machine Learning"
+  ],
+  "preferred_skills": [
+    "TensorFlow",
+    "PyTorch",
+    "AWS"
+  ],
+  "min_experience": 3,
+  "education_requirement": "Master's",
+  "job_category": "Data",
+  "location": "Remote",
+  "salary_range": "$130,000 - $170,000"
+}

@@ -1,0 +1,15 @@
+{
+  "resume_id": "RES007",
+  "resume_text": "NAME: George White\nEMAIL: george.white@email.com\nPHONE: (555) 789-0123\n\nSUMMARY:\nEntry-level Frontend Developer with a passion for creating beautiful and responsive user interfaces. Eager to learn and contribute to a dynamic team.\n\nSKILLS:\nHTML5, CSS3, JavaScript, React, Git\n\nEXPERIENCE:\nN/A\n\nEDUCATION:\nCommunity College - Associates in Web Development (2024)\n\nCERTIFICATIONS:\nN/A",
+  "extracted_skills": [
+    "HTML5",
+    "CSS3",
+    "JavaScript",
+    "React",
+    "Git"
+  ],
+  "experience_years": 0,
+  "education_level": "Associates",
+  "job_history": [],
+  "certifications": []
+}

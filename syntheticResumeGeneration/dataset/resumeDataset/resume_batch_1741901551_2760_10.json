@@ -1,0 +1,15 @@
+{
+  "resume_id": "R010",
+  "resume_text": "NAME: Jessica Jones\nEMAIL: jessica.jones@email.com\nPHONE: (555) 012-3456\n\nSUMMARY:\nEntry-level Data Engineer passionate about data warehousing and ETL processes. Eager to learn and contribute to a data-driven organization.\n\nSKILLS:\nSQL, Python, Pandas, AWS, MySQL, ETL\n\nEXPERIENCE:\nNo Previous Experience\n\nEDUCATION:\nUniversity of North Carolina - Bachelor's in Data Science (2023)",
+  "extracted_skills": [
+    "SQL",
+    "Python",
+    "Pandas",
+    "AWS",
+    "MySQL"
+  ],
+  "experience_years": 0,
+  "education_level": "Bachelor's",
+  "job_history": [],
+  "certifications": []
+}

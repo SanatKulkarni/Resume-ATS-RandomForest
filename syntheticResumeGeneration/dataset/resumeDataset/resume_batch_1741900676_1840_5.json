@@ -1,0 +1,21 @@
+{
+  "resume_id": "RES005",
+  "resume_text": "NAME: Eve Davis\nEMAIL: eve.davis@email.com\nPHONE: (555) 012-3456\n\nSUMMARY:\nFull Stack Developer proficient in JavaScript, React, Node.js, and database technologies.\n\nSKILLS:\nJavaScript, React, Node.js, Express.js, MongoDB, HTML5, CSS3, Git\n\nEXPERIENCE:\nWeb Solutions Ltd - Full Stack Developer (2020 - Present)\n- Developed and maintained web applications using React and Node.js.\n- Designed and implemented APIs using Express.js.\n\nStartup Co - Frontend Developer (2018 - 2020)\n- Built user interfaces with React.\n\nEDUCATION:\nOnline Bootcamp - Full Stack Web Development (2018)\n",
+  "extracted_skills": [
+    "JavaScript",
+    "React",
+    "Node.js",
+    "Express.js",
+    "MongoDB",
+    "HTML5",
+    "CSS3",
+    "Git"
+  ],
+  "experience_years": 5,
+  "education_level": "High School",
+  "job_history": [
+    "Full Stack Developer",
+    "Frontend Developer"
+  ],
+  "certifications": []
+}

@@ -1,0 +1,18 @@
+{
+  "resume_id": "RES009",
+  "resume_text": "NAME: Ian Gray\nEMAIL: ian.gray@email.com\nPHONE: (555) 111-2222\n\nSUMMARY:\nBackend Developer with 2 years of experience in building and maintaining server-side applications. Proficient in Java and Spring.\n\nSKILLS:\nJava, Spring, SQL, MySQL, Git\n\nEXPERIENCE:\nBackend Systems Co. - Backend Developer (2022 - Present)\n- Developed and maintained backend services using Java and Spring.\n- Implemented RESTful APIs.\n\nInternship - Software Development Intern (2021-2022)\n- Worked on bug fixes and smaller module development\n\nEDUCATION:\nUniversity of Illinois - Bachelor's in Computer Engineering (2022)\n\nCERTIFICATIONS:\nN/A",
+  "extracted_skills": [
+    "Java",
+    "Spring",
+    "SQL",
+    "MySQL",
+    "Git"
+  ],
+  "experience_years": 2,
+  "education_level": "Bachelor's",
+  "job_history": [
+    "Backend Developer",
+    "Software Development Intern"
+  ],
+  "certifications": []
+}

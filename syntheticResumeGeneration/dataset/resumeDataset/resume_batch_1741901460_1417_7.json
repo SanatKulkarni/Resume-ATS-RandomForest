@@ -1,0 +1,25 @@
+{
+  "resume_id": "RES007",
+  "resume_text": "NAME: George Black\nEMAIL: george.black@email.com\nPHONE: (555) 444-5555\n\nSUMMARY:\nCloud Architect with 10+ years of experience designing and implementing cloud solutions on AWS, Azure, and GCP. Expertise in cloud migration, security, and cost optimization.\n\nSKILLS:\nAWS, Azure, GCP, Docker, Kubernetes, Terraform, CloudFormation, Python, Linux\n\nEXPERIENCE:\nNuage Solutions - Cloud Architect (2015 - Present)\n- Designed and implemented cloud solutions on AWS, Azure, and GCP.\n- Led cloud migration projects and ensured security compliance.\n\nOmicron Corp - Senior System Engineer (2013 - 2015)\n- Managed enterprise systems and network infrastructure.\n- Implemented security measures to protect sensitive data.\n\nEDUCATION:\nUniversity of Illinois at Urbana-Champaign - Master's in Computer Engineering (2013)\n\nCERTIFICATIONS:\nAWS Certified Solutions Architect\nGoogle Cloud Professional",
+  "extracted_skills": [
+    "AWS",
+    "Azure",
+    "GCP",
+    "Docker",
+    "Kubernetes",
+    "Terraform",
+    "CloudFormation",
+    "Python",
+    "Linux"
+  ],
+  "experience_years": 11,
+  "education_level": "Master's",
+  "job_history": [
+    "Cloud Architect",
+    "Senior System Engineer"
+  ],
+  "certifications": [
+    "AWS Certified Solutions Architect",
+    "Google Cloud Professional"
+  ]
+}

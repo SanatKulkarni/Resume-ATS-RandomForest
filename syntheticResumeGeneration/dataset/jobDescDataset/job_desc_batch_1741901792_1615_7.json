@@ -1,0 +1,23 @@
+{
+  "job_id": "JD-007",
+  "job_title": "Database Administrator",
+  "company": "DataFlow",
+  "job_description": "Company: DataFlow\nPosition: Database Administrator\nLocation: Chicago, IL (On-site)\nSalary: $120,000 - $150,000\n\nAbout Us:\nDataFlow is a data management company that specializes in providing database solutions for businesses of all sizes. We help our clients manage their data efficiently and securely.\n\nJob Description:\nWe are looking for a Database Administrator to join our team. You will be responsible for maintaining and administering our databases. The ideal candidate will have experience with MySQL or PostgreSQL.\n\nResponsibilities:\n- Install, configure, and maintain databases\n- Monitor database performance and troubleshoot issues\n- Develop and implement backup and recovery procedures\n- Ensure data security and integrity\n\nRequirements:\n- Bachelor's degree in Computer Science or related field\n- 3+ years of experience in database administration\n- Experience with MySQL or PostgreSQL\n- Strong understanding of database principles and concepts\n\nPreferred Qualifications:\n- Experience with cloud databases (e.g., AWS RDS, Azure SQL Database)\n- Experience with database replication and clustering\n\nBenefits:\n- Competitive salary and benefits package\n- Opportunity to work on a variety of databases\n- Collaborative and supportive work environment",
+  "required_skills": [
+    "SQL",
+    "MySQL",
+    "PostgreSQL",
+    "Database Administration",
+    "Linux",
+    "Backup and Recovery"
+  ],
+  "preferred_skills": [
+    "AWS RDS",
+    "Azure SQL Database"
+  ],
+  "min_experience": 3,
+  "education_requirement": "Bachelor's",
+  "job_category": "Backend",
+  "location": "Chicago, IL (On-site)",
+  "salary_range": "$120,000 - $150,000"
+}

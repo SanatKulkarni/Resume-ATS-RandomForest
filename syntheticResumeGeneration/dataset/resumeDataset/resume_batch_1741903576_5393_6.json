@@ -1,0 +1,18 @@
+{
+  "resume_id": "RESUME_006",
+  "resume_text": "NAME: Frank Garcia\nEMAIL: frank.garcia@email.com\nPHONE: 555-777-8888\n\nSUMMARY:\nHighly skilled Backend Developer with 4 years of experience. Specializing in Node.js, Express.js and DynamoDB.\n\nSKILLS:\nNode.js, Express.js, DynamoDB, AWS Lambda, JavaScript, Git\n\nEXPERIENCE:\nAPI Solutions Inc. - Backend Developer (2020 - Present)\n- Designed and implemented RESTful APIs using Node.js and Express.js.\n- Worked with DynamoDB for data storage and retrieval.\n\nEducation:\nState College - Bachelors in Software Development (2020)\n\nCERTIFICATIONS:\n",
+  "extracted_skills": [
+    "Node.js",
+    "Express.js",
+    "DynamoDB",
+    "AWS Lambda",
+    "JavaScript",
+    "Git"
+  ],
+  "experience_years": 4,
+  "education_level": "Bachelor's",
+  "job_history": [
+    "Backend Developer"
+  ],
+  "certifications": []
+}

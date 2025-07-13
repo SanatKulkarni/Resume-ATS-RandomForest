@@ -1,0 +1,21 @@
+{
+  "resume_id": "R004",
+  "resume_text": "NAME: David Wilson\nEMAIL: david.wilson@email.com\nPHONE: (555) 321-0987\n\nSUMMARY:\nFull Stack Developer proficient in building scalable and maintainable web applications using modern technologies. Passionate about creating clean and efficient code.\n\nSKILLS:\nJavaScript, React, Node.js, Express.js, MongoDB, HTML5, CSS3, Git\n\nEXPERIENCE:\nWebDev Innovations - Full Stack Developer (2021 - Present)\n- Developed and maintained various web applications using React, Node.js, and MongoDB.\n- Implemented RESTful APIs and integrated with third-party services.\n\nCodeCrafters LLC - Frontend Developer Intern (2020 - 2021)\n- Assisted in the development of user interfaces using HTML5, CSS3, and JavaScript.\n- Collaborated with designers to create responsive web pages.\n\nEDUCATION:\nUniversity of Texas at Austin - Bachelor's in Computer Science (2021)\n\nCERTIFICATIONS:",
+  "extracted_skills": [
+    "JavaScript",
+    "React",
+    "Node.js",
+    "Express.js",
+    "MongoDB",
+    "HTML5",
+    "CSS3",
+    "Git"
+  ],
+  "experience_years": 3,
+  "education_level": "Bachelor's",
+  "job_history": [
+    "Full Stack Developer",
+    "Frontend Developer Intern"
+  ],
+  "certifications": []
+}

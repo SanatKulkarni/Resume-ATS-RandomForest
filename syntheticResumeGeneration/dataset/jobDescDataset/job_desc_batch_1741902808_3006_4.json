@@ -1,0 +1,23 @@
+{
+  "job_id": "JD004",
+  "job_title": "Software Engineer (Backend)",
+  "company": "CloudNative",
+  "job_description": "Company: CloudNative\nPosition: Software Engineer (Backend)\nLocation: New York, NY\nSalary: $125,000 - $155,000\n\nAbout Us:\nCloudNative is a leading provider of cloud-native solutions for enterprise customers. We specialize in building scalable and resilient applications.\n\nJob Description:\nWe are seeking a Backend Software Engineer to join our growing team. The ideal candidate will have experience building and maintaining scalable APIs and microservices.\n\nResponsibilities:\n- Design, develop, and maintain backend services using Node.js and Express.js.\n- Implement RESTful APIs and integrate with databases.\n- Write unit and integration tests.\n- Participate in code reviews and contribute to architectural discussions.\n\nRequirements:\n- 3+ years of experience in backend development.\n- Strong proficiency in Node.js, JavaScript, and Express.js.\n- Experience with relational databases (PostgreSQL, MySQL).\n- Familiarity with cloud computing platforms (AWS, Azure, GCP).\n\nPreferred Qualifications:\n- Experience with microservices architecture.\n- Knowledge of Docker and Kubernetes.\n- Familiarity with message queues (RabbitMQ, Kafka).\n\nBenefits:\n- Catered lunches.\n- Generous parental leave.\n- Professional development opportunities.",
+  "required_skills": [
+    "Node.js",
+    "JavaScript",
+    "Express.js",
+    "SQL",
+    "Git"
+  ],
+  "preferred_skills": [
+    "Docker",
+    "Kubernetes",
+    "AWS"
+  ],
+  "min_experience": 3,
+  "education_requirement": "Bachelor's",
+  "job_category": "Backend",
+  "location": "New York, NY",
+  "salary_range": "$125,000 - $155,000"
+}

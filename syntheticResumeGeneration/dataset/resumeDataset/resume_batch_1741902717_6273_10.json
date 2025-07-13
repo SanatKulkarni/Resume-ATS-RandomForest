@@ -1,0 +1,24 @@
+{
+  "resume_id": "RES010",
+  "resume_text": "NAME: Jack Purple\nEMAIL: jack.purple@email.com\nPHONE: (555) 444-5555\n\nSUMMARY:\nMachine Learning Engineer with 8 years experience in developing and deploying innovative ML solutions. Strong understanding of data pipelines and model optimization.\n\nSKILLS:\nPython, TensorFlow, PyTorch, scikit-learn, Pandas, SQL, AWS, Docker\n\nEXPERIENCE:\nAI Innovations - Machine Learning Engineer (2018 - Present)\n- Led the development and deployment of several successful machine learning products.\n- Mentored junior engineers.\n\nData Analytics Corp - Data Scientist (2016 - 2018)\n- Built predictive models for customer churn and fraud detection.\n\nResearch Fellow - University of Michigan (2015 - 2016)\n- Published research on novel approaches to deep learning.\n\nEDUCATION:\nUniversity of Michigan - PhD in Computer Science (2015)\n\nCERTIFICATIONS:\nGoogle Cloud Professional",
+  "extracted_skills": [
+    "Python",
+    "TensorFlow",
+    "PyTorch",
+    "scikit-learn",
+    "Pandas",
+    "SQL",
+    "AWS",
+    "Docker"
+  ],
+  "experience_years": 8,
+  "education_level": "PhD",
+  "job_history": [
+    "Machine Learning Engineer",
+    "Data Scientist",
+    "Research Fellow"
+  ],
+  "certifications": [
+    "Google Cloud Professional"
+  ]
+}

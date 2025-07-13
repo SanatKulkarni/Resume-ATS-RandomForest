@@ -1,0 +1,24 @@
+{
+  "job_id": "JD013",
+  "job_title": "UI/UX Developer",
+  "company": "WebFront",
+  "job_description": "Company: WebFront\nPosition: UI/UX Developer\nLocation: Remote\nSalary: $90,000 - $130,000\n\nAbout Us:\nWebFront is a leading provider of innovative web solutions. We prioritize user-centric design and strive to create intuitive and impactful digital experiences.\n\nJob Description:\nWe are seeking a talented UI/UX Developer to create engaging and accessible user interfaces. The candidate should be experienced in design thinking and user-centered development and be able to work fully remotely.\n\nResponsibilities:\n- Design and develop user interfaces for web applications.\n- Conduct user research and usability testing.\n- Create wireframes, prototypes, and mockups.\n- Collaborate with developers to implement designs.\n\nRequirements:\n- Bachelor's degree in Design, Computer Science, or related field.\n- 3+ years of experience in UI/UX development.\n- Proficient in HTML, CSS, and JavaScript.\n- Experience with design tools (e.g., Figma, Adobe XD).\n\nPreferred Qualifications:\n- Knowledge of accessibility standards (WCAG).\n- Experience with user research methodologies.\n- Familiarity with frontend frameworks (e.g., React, Angular, Vue.js).\n\nBenefits:\n- Flexible remote work schedule.\n- Health and wellness benefits.\n",
+  "required_skills": [
+    "HTML5",
+    "CSS3",
+    "JavaScript",
+    "Figma",
+    "Adobe XD",
+    "UI/UX Design"
+  ],
+  "preferred_skills": [
+    "React",
+    "User Research",
+    "Accessibility"
+  ],
+  "min_experience": 3,
+  "education_requirement": "Bachelor's",
+  "job_category": "Frontend",
+  "location": "Remote",
+  "salary_range": "$90,000 - $130,000"
+}

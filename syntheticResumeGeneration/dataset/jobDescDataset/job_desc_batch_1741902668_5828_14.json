@@ -1,0 +1,23 @@
+{
+  "job_id": "JD014",
+  "job_title": "QA Engineer",
+  "company": "FrontierTech",
+  "job_description": "Company: FrontierTech\nPosition: QA Engineer\nLocation: Remote\nSalary: $90,000 - $120,000\n\nAbout Us:\nFrontierTech is dedicated to delivering high-quality software products and services. We strive for excellence through rigorous testing and continuous improvement. We value collaboration, innovation and a passion for quality.\n\nJob Description:\nWe are seeking a detail-oriented QA Engineer to join our team. You will be responsible for testing our software applications and ensuring they meet our quality standards. The ideal candidate will have a strong understanding of testing methodologies, test automation, and defect tracking.\n\nResponsibilities:\n- Develop and execute test plans and test cases.\n- Identify, document, and track software defects.\n- Perform manual and automated testing.\n- Collaborate with developers to resolve defects.\n\nRequirements:\n- Bachelor's degree in Computer Science or related field.\n- 2+ years of experience in software quality assurance.\n- Understanding of testing methodologies and best practices.\n- Experience with test automation tools (Selenium, JUnit).\n\nPreferred Qualifications:\n- Experience with performance testing.\n- Experience with security testing.\n- Experience with Agile development methodologies.\n\nBenefits:\n- Competitive salary and benefits package.\n- Flexible work environment.\n- Opportunities for professional development.",
+  "required_skills": [
+    "Test Automation",
+    "Selenium",
+    "JUnit",
+    "QA Methodologies",
+    "Test Planning",
+    "Defect Tracking"
+  ],
+  "preferred_skills": [
+    "Performance Testing",
+    "Security Testing"
+  ],
+  "min_experience": 2,
+  "education_requirement": "Bachelor's",
+  "job_category": "Backend",
+  "location": "Remote",
+  "salary_range": "$90,000 - $120,000"
+}

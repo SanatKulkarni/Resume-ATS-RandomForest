@@ -1,0 +1,19 @@
+{
+  "resume_id": "RES007",
+  "resume_text": "NAME: Grace Hernandez\nEMAIL: grace.hernandez@email.com\nPHONE: (555) 628-1029\n\nSUMMARY:\nQA Engineer with 2 years of experience in testing web and mobile applications. Proficient in automated testing and test case design.\n\nSKILLS:\nSelenium, JUnit, TestNG, Python, JavaScript, Git\n\nEXPERIENCE:\nTesting Solutions Inc. - QA Engineer (2022 - Present)\n- Developed and executed automated test scripts using Selenium.\n- Performed manual testing and regression testing.\n\nQuality Assurance Corp. - Junior Tester (2021 - 2022)\n- Assisted in the testing of web applications.\n- Wrote test cases and bug reports.\n\nEDUCATION:\nSan Jose State University - Bachelor's in Software Engineering (2021)\n",
+  "extracted_skills": [
+    "Selenium",
+    "JUnit",
+    "TestNG",
+    "Python",
+    "JavaScript",
+    "Git"
+  ],
+  "experience_years": 2,
+  "education_level": "Bachelor's",
+  "job_history": [
+    "QA Engineer",
+    "Junior Tester"
+  ],
+  "certifications": []
+}

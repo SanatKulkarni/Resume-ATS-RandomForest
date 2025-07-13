@@ -1,0 +1,21 @@
+{
+  "resume_id": "RESUME_008",
+  "resume_text": "NAME: Henry Brown\nEMAIL: henry.brown@example.com\nPHONE: (555) 432-1098\n\nSUMMARY:\nCloud Architect with 12 years of comprehensive experience in designing, building, and managing cloud infrastructure.  Expertise in AWS, Azure, and GCP.\n\nSKILLS:\nAWS, Azure, GCP, Terraform, Kubernetes, CloudFormation, Python, Linux\n\nEXPERIENCE:\nCloudMasters - Cloud Architect (2013 - Present)\n- Designed and implemented cloud solutions for enterprise clients.\n- Provided technical leadership and mentorship to junior engineers.\nInfrastructure Solutions - Systems Engineer (2011 - 2013)\n- Managed server infrastructure and implemented automation scripts.\n\nEDUCATION:\nUniversity of Illinois at Urbana-Champaign - Master's in Electrical Engineering (2011)\n\nCERTIFICATIONS:\nAWS Certified Solutions Architect, Google Cloud Professional",
+  "extracted_skills": [
+    "AWS",
+    "Azure",
+    "GCP",
+    "Terraform",
+    "Kubernetes"
+  ],
+  "experience_years": 12,
+  "education_level": "Master's",
+  "job_history": [
+    "Cloud Architect",
+    "Systems Engineer"
+  ],
+  "certifications": [
+    "AWS Certified Solutions Architect",
+    "Google Cloud Professional"
+  ]
+}

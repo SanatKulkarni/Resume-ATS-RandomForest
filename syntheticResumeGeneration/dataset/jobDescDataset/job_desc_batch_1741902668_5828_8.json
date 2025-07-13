@@ -1,0 +1,25 @@
+{
+  "job_id": "JD008",
+  "job_title": "Software Engineer (Full Stack)",
+  "company": "FullStack Inc",
+  "job_description": "Company: FullStack Inc\nPosition: Software Engineer (Full Stack)\nLocation: Denver, CO\nSalary: $125,000 - $160,000\n\nAbout Us:\nFullStack Inc is a fast-growing company specializing in full-stack web development solutions. We are committed to building innovative and user-friendly applications. Our team is passionate, collaborative, and dedicated to excellence.\n\nJob Description:\nWe are looking for a talented Full Stack Software Engineer to join our team. You will be responsible for developing and maintaining both the frontend and backend components of our web applications. The ideal candidate will have a broad range of skills and a passion for building high-quality software.\n\nResponsibilities:\n- Develop and maintain both frontend and backend components.\n- Write clean, well-documented, and testable code.\n- Collaborate with designers, product managers, and other engineers.\n- Participate in code reviews and contribute to improving our development processes.\n\nRequirements:\n- Bachelor's degree in Computer Science or related field.\n- 3+ years of experience in full-stack development.\n- Strong proficiency in JavaScript, HTML5, CSS3, and a modern frontend framework (React, Angular, or Vue.js).\n- Experience with a backend framework (Node.js, Django, or Ruby on Rails).\n\nPreferred Qualifications:\n- Experience with database technologies (PostgreSQL, MySQL, or MongoDB).\n- Experience with cloud platforms (AWS, Azure, or GCP).\n- Experience with Docker and Kubernetes.\n\nBenefits:\n- Health, dental, and vision insurance.\n- Paid time off and holidays.\n- Opportunities for professional growth.",
+  "required_skills": [
+    "JavaScript",
+    "HTML5",
+    "CSS3",
+    "React",
+    "Node.js",
+    "SQL",
+    "Git"
+  ],
+  "preferred_skills": [
+    "AWS",
+    "Docker",
+    "Kubernetes"
+  ],
+  "min_experience": 3,
+  "education_requirement": "Bachelor's",
+  "job_category": "Full Stack",
+  "location": "Denver, CO",
+  "salary_range": "$125,000 - $160,000"
+}

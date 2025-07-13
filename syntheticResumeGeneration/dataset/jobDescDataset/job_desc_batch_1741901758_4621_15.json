@@ -1,0 +1,24 @@
+{
+  "job_id": "JD015",
+  "job_title": "Technical Project Manager",
+  "company": "CloudNative",
+  "job_description": "Company: CloudNative\nPosition: Technical Project Manager\nLocation: Seattle, WA (Hybrid)\nSalary: $110,000 - $160,000\n\nAbout Us:\nCloudNative helps businesses modernize their IT infrastructure through innovative Cloud solutions. We foster a fast-paced, agile environment focused on impactful project delivery.\n\nJob Description:\nCloudNative is seeking a Technical Project Manager to lead and manage complex software development projects. The ideal candidate should be organized, experienced in Agile methodologies, and possess excellent leadership and communication skills.\n\nResponsibilities:\n- Manage and coordinate technical projects from initiation to completion.\n- Develop project plans, timelines, budgets, and resource allocations.\n- Track project progress and milestones to ensure on-time delivery.\n- Communicate project status, risks, and issues to stakeholders.\n\nRequirements:\n- Bachelor's degree in Computer Science, Engineering, or related field.\n- Proven experience as a Technical Project Manager in a software development environment. (3+ years)\n- Strong understanding of Agile development methodologies. (SCRUM, Kanban..)\n- Excellent communication and interpersonal skills.\n\nPreferred Qualifications:\n- Project Management Professional (PMP) certification.\n- Experience with cloud technologies (e.g., AWS, Azure, GCP).\n- Familiarity with project management software (e.g., Jira, Asana).\n\nBenefits:\n- Stock options.\n- Paid parental leave.\n- Comprehensive healthcare.\n",
+  "required_skills": [
+    "Project Management",
+    "Agile",
+    "SCRUM",
+    "Jira",
+    "Communication",
+    "Risk Management"
+  ],
+  "preferred_skills": [
+    "PMP",
+    "AWS",
+    "Confluence"
+  ],
+  "min_experience": 3,
+  "education_requirement": "Bachelor's",
+  "job_category": "Management",
+  "location": "Seattle, WA (Hybrid)",
+  "salary_range": "$110,000 - $160,000"
+}

@@ -1,0 +1,20 @@
+{
+  "resume_id": "RESUME_007",
+  "resume_text": "NAME: Grace Hernandez\nEMAIL: grace.hernandez@email.com\nPHONE: (555) 628-3037\n\nSUMMARY:\nQA Engineer with 4 years of experience in testing software applications. Dedicated to ensuring high-quality software releases.\n\nSKILLS:\nSelenium, JUnit, TestNG, SQL, Git, Python\n\nEXPERIENCE:\nKappa Systems - QA Engineer (2020 - 2024)\n- Developed and executed test cases for web and mobile applications.\n- Automated testing using Selenium and JUnit.\n\nEDUCATION:\nArizona State University - Bachelor's in Software Engineering (2020)\n\nCERTIFICATIONS:\nCertified Scrum Master",
+  "extracted_skills": [
+    "Selenium",
+    "JUnit",
+    "TestNG",
+    "SQL",
+    "Git",
+    "Python"
+  ],
+  "experience_years": 4,
+  "education_level": "Bachelor's",
+  "job_history": [
+    "QA Engineer"
+  ],
+  "certifications": [
+    "Certified Scrum Master"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "resume_id": "RESUME_009",
+  "resume_text": "NAME: Liam Garcia\nEMAIL: liam.garcia@email.com\nPHONE: (555) 222-3333\n\nSUMMARY:\nEnthusiastic and detail-oriented QA Engineer with a solid understanding of software testing methodologies and a passion for ensuring high-quality software products. Proficient in creating test plans, executing test cases, and identifying defects.\n\nSKILLS:\nSelenium, JUnit, TestNG, SQL, Python, Java, Git\n\nEXPERIENCE:\nQuality Assurance Inc. - QA Engineer (2021 - Present)\n- Developed and executed test plans, test cases, and test scripts for web and mobile applications.\n- Identified, documented, and tracked defects using Jira.\n\nTech Solutions - Software Tester (Intern) (2020 - 2021)\n- Performed manual testing on web applications and documented test results.\n- Assisted in creating test cases based on requirements.\n\nEDUCATION:\nSan Jose State University - Bachelor's in Software Engineering (2021)",
+  "extracted_skills": [
+    "Selenium",
+    "JUnit",
+    "TestNG",
+    "SQL",
+    "Python",
+    "Java",
+    "Git"
+  ],
+  "experience_years": 3,
+  "education_level": "Bachelor's",
+  "job_history": [
+    "QA Engineer",
+    "Software Tester"
+  ],
+  "certifications": [
+    "Certified Scrum Master"
+  ]
+}

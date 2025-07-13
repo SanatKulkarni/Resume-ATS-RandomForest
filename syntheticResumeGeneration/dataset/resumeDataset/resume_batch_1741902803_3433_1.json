@@ -1,0 +1,20 @@
+{
+  "resume_id": "resume_001",
+  "resume_text": "NAME: Alice Smith\nEMAIL: alice.smith@example.com\nPHONE: (555) 123-4567\n\nSUMMARY:\nHighly motivated Software Engineer with 3 years of experience in developing and maintaining web applications. Passionate about creating efficient and user-friendly solutions.\n\nSKILLS:\nPython, Java, JavaScript, SQL, React, Node.js, Git\n\nEXPERIENCE:\nAcme Corp - Software Engineer (2021 - Present)\n- Developed and maintained RESTful APIs using Node.js and Express.\n- Implemented user interfaces using React and JavaScript.\n\nBeta Solutions - Junior Developer (2020 - 2021)\n- Assisted in the development of web applications using Java and Spring.\n- Wrote SQL queries to interact with the database.\n\nEDUCATION:\nUniversity of California, Berkeley - Bachelor's in Computer Science (2020)\n",
+  "extracted_skills": [
+    "Python",
+    "Java",
+    "JavaScript",
+    "SQL",
+    "React",
+    "Node.js",
+    "Git"
+  ],
+  "experience_years": 3,
+  "education_level": "Bachelor's",
+  "job_history": [
+    "Software Engineer",
+    "Junior Developer"
+  ],
+  "certifications": []
+}

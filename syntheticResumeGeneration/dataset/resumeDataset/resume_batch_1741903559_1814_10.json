@@ -1,0 +1,25 @@
+{
+  "resume_id": "R010",
+  "resume_text": "NAME: Grace White\nEMAIL: grace.white@email.com\nPHONE: 555-222-3333\n\nSUMMARY:\nExperienced Site Reliability Engineer (SRE) with a proven track record of improving system reliability and performance. Expertise in automation, monitoring, and incident response.\n\nSKILLS:\nPython, Go, Linux, Docker, Kubernetes, Prometheus, Grafana, AWS, GCP, Terraform\n\nEXPERIENCE:\nReliability Solutions Inc - Site Reliability Engineer (2018 - Present)\n- Implemented monitoring and alerting systems to detect and resolve incidents.\n- Automated system administration tasks and improved system reliability.\n\nSystems Automation LLC - Systems Administrator (2015 - 2018)\n- Managed and maintained Linux servers and infrastructure.\n\nEDUCATION:\nArizona State University - Bachelor's in Computer Science (2015)\n\nCERTIFICATIONS:\nCertified Kubernetes Administrator",
+  "extracted_skills": [
+    "Python",
+    "Go",
+    "Linux",
+    "Docker",
+    "Kubernetes",
+    "Prometheus",
+    "Grafana",
+    "AWS",
+    "GCP",
+    "Terraform"
+  ],
+  "experience_years": 9,
+  "education_level": "Bachelor's",
+  "job_history": [
+    "Site Reliability Engineer",
+    "Systems Administrator"
+  ],
+  "certifications": [
+    "Certified Kubernetes Administrator"
+  ]
+}

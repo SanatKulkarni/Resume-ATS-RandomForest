@@ -1,0 +1,24 @@
+{
+  "job_id": "JD003",
+  "job_title": "DevOps Engineer",
+  "company": "DevSecOps",
+  "job_description": "Company: DevSecOps\nPosition: DevOps Engineer\nLocation: Austin, TX (On-site)\nSalary: $110,000 - $150,000\n\nAbout Us:\nDevSecOps is committed to providing secure and reliable software deployment solutions. We foster a collaborative environment with a focus on automation.\n\nJob Description:\nWe are seeking a DevOps Engineer to help automate and streamline our software development and deployment processes. The ideal candidate will have experience with cloud infrastructure and automation tools.\n\nResponsibilities:\n- Automate software builds, testing, and deployment.\n- Manage and maintain cloud infrastructure.\n- Monitor system performance and troubleshoot issues.\n- Collaborate with development and security teams.\n\nRequirements:\n- Bachelor's degree in Computer Science or related field.\n- 2+ years of experience in DevOps.\n- Experience with cloud platforms (e.g., AWS, Azure, GCP).\n- Proficient in scripting languages (e.g., Python, Bash).\n\nPreferred Qualifications:\n- Experience with containerization technologies (e.g., Docker, Kubernetes).\n- Knowledge of configuration management tools (e.g., Ansible, Chef).\n- Familiarity with CI/CD pipelines.\n\nBenefits:\n- Generous paid time off.\n- Stock options.\n- Professional development opportunities.",
+  "required_skills": [
+    "AWS",
+    "Docker",
+    "Kubernetes",
+    "Terraform",
+    "Jenkins",
+    "Python"
+  ],
+  "preferred_skills": [
+    "Ansible",
+    "Chef",
+    "Prometheus"
+  ],
+  "min_experience": 2,
+  "education_requirement": "Bachelor's",
+  "job_category": "DevOps",
+  "location": "Austin, TX (On-site)",
+  "salary_range": "$110,000 - $150,000"
+}

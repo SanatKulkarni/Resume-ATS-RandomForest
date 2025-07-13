@@ -1,0 +1,19 @@
+{
+  "resume_id": "RESUME_005",
+  "resume_text": "NAME: Emily Davis\nEMAIL: emily.davis@email.com\nPHONE: (555) 482-1819\n\nSUMMARY:\nBackend Developer with 7 years of experience in designing and implementing scalable and robust backend systems. Proficient in Java and Spring framework.\n\nSKILLS:\nJava, Spring, SQL, MySQL, RESTful APIs, Git\n\nEXPERIENCE:\nEta Systems - Backend Developer (2017 - 2024)\n- Designed and implemented RESTful APIs using Java and Spring.\n- Optimized database performance using MySQL.\n\nEDUCATION:\nCarnegie Mellon University - Master's in Software Engineering (2017)\n\nCERTIFICATIONS:\nOracle Certified Professional",
+  "extracted_skills": [
+    "Java",
+    "Spring",
+    "SQL",
+    "MySQL",
+    "Git"
+  ],
+  "experience_years": 7,
+  "education_level": "Master's",
+  "job_history": [
+    "Backend Developer"
+  ],
+  "certifications": [
+    "Oracle Certified Professional"
+  ]
+}

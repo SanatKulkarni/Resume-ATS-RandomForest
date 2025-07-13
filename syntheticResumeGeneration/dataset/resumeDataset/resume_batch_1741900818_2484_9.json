@@ -1,0 +1,17 @@
+{
+  "resume_id": "RES009",
+  "resume_text": "NAME: Isabella Jones\nEMAIL: isabella.jones@example.com\nPHONE: 555-666-7777\n\nSUMMARY:\nA Junior QA Engineer looking to develop their skills in software quality assurance.\n\nSKILLS:\nSelenium, Java, Python, SQL, Git\n\nEXPERIENCE:\nSoftware Testing Company - QA Engineer (2022 - Present)\n - Wrote and executed test cases for web applications.\n - Reported bugs and worked with developers to resolve issues.\n\nEDUCATION:\nCommunity College - Associates in Computer Science (2022)",
+  "extracted_skills": [
+    "Selenium",
+    "Java",
+    "Python",
+    "SQL",
+    "Git"
+  ],
+  "experience_years": 2,
+  "education_level": "Associates",
+  "job_history": [
+    "QA Engineer"
+  ],
+  "certifications": []
+}

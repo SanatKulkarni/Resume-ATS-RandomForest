@@ -1,0 +1,25 @@
+{
+  "job_id": "JD004",
+  "job_title": "Software Engineer (Backend)",
+  "company": "DataSystems",
+  "job_description": "Company: DataSystems\nPosition: Software Engineer (Backend)\nLocation: New York, NY (Hybrid)\nSalary: $125,000 - $170,000\n\nAbout Us:\nDataSystems is a leading provider of data management solutions. We are dedicated to building scalable and robust backend systems.\n\nJob Description:\nWe are seeking a skilled Backend Software Engineer to join our team. The ideal candidate will have a strong understanding of backend technologies and experience in building high-performance APIs.\n\nResponsibilities:\n- Design, develop, and maintain backend systems.\n- Write clean and efficient code.\n- Collaborate with frontend engineers to integrate APIs.\n- Participate in code reviews and testing.\n\nRequirements:\n- Bachelor's degree in Computer Science or related field.\n- 3+ years of experience in backend development.\n- Proficient in Java or Python.\n- Experience with relational databases (e.g., MySQL, PostgreSQL).\n\nPreferred Qualifications:\n- Experience with microservices architecture.\n- Knowledge of cloud platforms (e.g., AWS, Azure, GCP).\n- Familiarity with message queues (e.g., Kafka, RabbitMQ).\n\nBenefits:\n- Competitive salary and benefits.\n- Opportunities for advancement.\n- Collaborative team environment.",
+  "required_skills": [
+    "Java",
+    "Spring",
+    "SQL",
+    "REST APIs",
+    "Git",
+    "Docker",
+    "AWS"
+  ],
+  "preferred_skills": [
+    "Kafka",
+    "Microservices",
+    "Kubernetes"
+  ],
+  "min_experience": 3,
+  "education_requirement": "Bachelor's",
+  "job_category": "Backend",
+  "location": "New York, NY (Hybrid)",
+  "salary_range": "$125,000 - $170,000"
+}

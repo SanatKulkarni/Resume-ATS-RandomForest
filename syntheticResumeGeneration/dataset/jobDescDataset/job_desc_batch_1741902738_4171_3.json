@@ -1,0 +1,24 @@
+{
+  "job_id": "JD003",
+  "job_title": "DevOps Engineer",
+  "company": "DevSecOps",
+  "job_description": "Company: DevSecOps\nPosition: DevOps Engineer\nLocation: Remote\nSalary: $130,000 - $160,000\n\nAbout Us:\nDevSecOps is a leader in providing secure and automated software delivery pipelines. We help organizations build and deploy software faster and more securely.  Join us to be at the forefront of DevOps innovation.\n\nJob Description:\nWe are looking for a skilled DevOps Engineer to automate and improve our software development and deployment processes. The ideal candidate will have experience with cloud infrastructure, automation tools, and continuous integration/continuous deployment (CI/CD) pipelines.\n\nResponsibilities:\n- Design, implement, and maintain CI/CD pipelines.\n- Automate infrastructure provisioning and configuration.\n- Monitor system performance and troubleshoot issues.\n- Collaborate with development and operations teams to improve processes.\n\nRequirements:\n- Bachelor's degree in Computer Science or related field.\n- 3+ years of experience in DevOps or related role.\n- Experience with AWS, Azure, or GCP.\n- Proficiency with automation tools such as Ansible, Chef, or Puppet.\n\nPreferred Qualifications:\n- Experience with Kubernetes.\n- Experience with Terraform.\n- Experience with security tools and practices.\n\nBenefits:\n- Flexible work environment.\n- Stock options.\n- Paid parental leave.",
+  "required_skills": [
+    "AWS",
+    "Docker",
+    "Kubernetes",
+    "Terraform",
+    "Git",
+    "Jenkins"
+  ],
+  "preferred_skills": [
+    "Ansible",
+    "Chef",
+    "Prometheus"
+  ],
+  "min_experience": 3,
+  "education_requirement": "Bachelor's",
+  "job_category": "DevOps",
+  "location": "Remote",
+  "salary_range": "$130,000 - $160,000"
+}

@@ -1,0 +1,21 @@
+{
+  "resume_id": "R009",
+  "resume_text": "NAME: Frank Green\nEMAIL: frank.green@email.com\nPHONE: 555-444-5555\n\nSUMMARY:\nFull Stack Developer with a passion for creating innovative and user-friendly web applications.  Expertise in JavaScript, Python, and various frontend and backend technologies.\n\nSKILLS:\nJavaScript, React, Node.js, Python, Django, SQL, HTML5, CSS3, Git\n\nEXPERIENCE:\nWeb Solutions LLC - Full Stack Developer (2021 - Present)\n- Developed and maintained full-stack web applications using React, Node.js, and Python/Django.\n- Implemented RESTful APIs and database integrations.\n\nFreelance Web Developer (2019 - 2021)\n- Developed websites and web applications for clients.\n\nEDUCATION:\nOnline Course - Completed several online courses in web development.\nHigh School Diploma (2018)",
+  "extracted_skills": [
+    "JavaScript",
+    "React",
+    "Node.js",
+    "Python",
+    "Django",
+    "SQL",
+    "HTML5",
+    "CSS3",
+    "Git"
+  ],
+  "experience_years": 3,
+  "education_level": "High School",
+  "job_history": [
+    "Full Stack Developer"
+  ],
+  "certifications": []
+}

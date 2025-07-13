@@ -1,0 +1,21 @@
+{
+  "resume_id": "RES009",
+  "resume_text": "NAME: Christopher Rodriguez\nEMAIL: christopher.rodriguez@email.com\nPHONE: 555-012-3456\n\nSUMMARY:\nExperienced Backend Developer with expertise in building scalable and reliable server-side applications. Seeking a challenging role where I can leverage my skills to contribute to innovative projects.\n\nSKILLS:\nJava, Spring, Node.js, Express.js, SQL, MySQL, PostgreSQL, REST APIs\n\nEXPERIENCE:\nBackend Solutions Inc. - Backend Developer (2019 - Present)\n- Developed and maintained server-side applications using Java and Spring.\n- Implemented RESTful APIs for data retrieval and manipulation.\nSoftware Development Corp. - Junior Backend Developer (2017 - 2019)\n- Assisted senior developers in building backend systems using Node.js and Express.js.\n- Wrote unit tests and fixed bugs.\n\nEDUCATION:\nUniversity of Michigan - Bachelor's in Computer Science (2017)\n",
+  "extracted_skills": [
+    "Java",
+    "Spring",
+    "Node.js",
+    "Express.js",
+    "SQL",
+    "MySQL",
+    "PostgreSQL",
+    "REST APIs"
+  ],
+  "experience_years": 7,
+  "education_level": "Bachelor's",
+  "job_history": [
+    "Backend Developer",
+    "Junior Backend Developer"
+  ],
+  "certifications": []
+}

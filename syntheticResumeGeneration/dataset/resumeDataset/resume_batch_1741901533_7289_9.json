@@ -1,0 +1,22 @@
+{
+  "resume_id": "RES009",
+  "resume_text": "NAME: Isabella Jensen\nEMAIL: isabella.jensen@email.com\nPHONE: 555-135-7900\n\nSUMMARY:\nFull Stack Developer/Product Manager with 10+ years of experience driving technical projects and managing product roadmaps.\n\nSKILLS:\nPython, JavaScript, React, Node.js, SQL, AWS, Product Management\n\nEXPERIENCE:\nTech Launchpad - Product Manager (2018-Present)\n- Managed product roadmaps, prioritized features, and collaborated with engineering teams.\n\nSoftware Giants - Full Stack Developer (2013-2018)\n- Designed and developed web applications using current technologies.\n\nEDUCATION:\nCarnegie Mellon University - Master's in Software Engineering (2013)\n\nCERTIFICATIONS:\nCertified Scrum Master",
+  "extracted_skills": [
+    "Python",
+    "JavaScript",
+    "React",
+    "Node.js",
+    "SQL",
+    "AWS",
+    "Product Management"
+  ],
+  "experience_years": 10,
+  "education_level": "Master's",
+  "job_history": [
+    "Product Manager",
+    "Full Stack Developer"
+  ],
+  "certifications": [
+    "Certified Scrum Master"
+  ]
+}

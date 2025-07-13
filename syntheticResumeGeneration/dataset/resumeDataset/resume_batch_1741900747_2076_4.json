@@ -1,0 +1,23 @@
+{
+  "resume_id": "RESUME004",
+  "resume_text": "NAME: David Garcia\nEMAIL: david.garcia@email.com\nPHONE: (555) 789-0123\n\nSUMMARY:\nExperienced DevOps Engineer with 8+ years in automating and streamlining software development processes. Expertise in AWS, Docker, and Kubernetes.\n\nSKILLS:\nAWS, Docker, Kubernetes, Terraform, Jenkins, Git, Python\n\nEXPERIENCE:\nCloudOps Ltd. - DevOps Engineer (2017 - Present)\n- Automated software deployment using Docker and Kubernetes.\n- Managed AWS infrastructure using Terraform.\n\nSystems Integration - Systems Administrator (2015 - 2017)\n- Maintained and monitored Linux servers.\n- Implemented automation tools using Python.\n\nEDUCATION:\nUniversity of Texas - Bachelor's in Computer Engineering (2015)\n\nCERTIFICATIONS:\nAWS Certified Solutions Architect, Certified Kubernetes Administrator",
+  "extracted_skills": [
+    "AWS",
+    "Docker",
+    "Kubernetes",
+    "Terraform",
+    "Jenkins",
+    "Git",
+    "Python"
+  ],
+  "experience_years": 8,
+  "education_level": "Bachelor's",
+  "job_history": [
+    "DevOps Engineer",
+    "Systems Administrator"
+  ],
+  "certifications": [
+    "AWS Certified Solutions Architect",
+    "Certified Kubernetes Administrator"
+  ]
+}

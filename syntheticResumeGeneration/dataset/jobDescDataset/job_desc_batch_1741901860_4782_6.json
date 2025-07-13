@@ -1,0 +1,22 @@
+{
+  "job_id": "JD006",
+  "job_title": "Security Engineer",
+  "company": "SecurityFirst",
+  "job_description": "Company: SecurityFirst\nPosition: Security Engineer\nLocation: Washington, D.C.\nSalary: $125,000 - $175,000\n\nAbout Us:\nSecurityFirst is dedicated to protecting organizations from cyber threats. We offer state-of-the-art security solutions and consulting services.\n\nJob Description:\nWe are looking for a Security Engineer to safeguard our systems and data.\n\nResponsibilities:\n- Conduct security assessments and penetration testing.\n- Implement and manage security tools and technologies.\n- Develop and maintain security policies and procedures.\n- Respond to security incidents and vulnerabilities.\n\nRequirements:\n- Bachelor\u2019s degree in Computer Science or related field.\n- 3+ years of experience in security engineering.\n- Strong understanding of security principles and practices.\n- Experience with security tools such as SIEM, vulnerability scanners, and firewalls.\n\nPreferred Qualifications:\n- Security certifications such as CISSP or CEH.\n- Experience with cloud security.\n\nBenefits:\n- Comprehensive benefits package.\n- Professional development opportunities.\n- Flexible work schedule.",
+  "required_skills": [
+    "Security",
+    "SIEM",
+    "Networking",
+    "Linux",
+    "Python"
+  ],
+  "preferred_skills": [
+    "CISSP",
+    "Cloud Security"
+  ],
+  "min_experience": 3,
+  "education_requirement": "Bachelor's",
+  "job_category": "Security",
+  "location": "Washington, D.C.",
+  "salary_range": "$125,000 - $175,000"
+}

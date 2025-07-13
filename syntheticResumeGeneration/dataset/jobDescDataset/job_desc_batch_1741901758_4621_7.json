@@ -1,0 +1,25 @@
+{
+  "job_id": "JD007",
+  "job_title": "Software Engineer (Full Stack)",
+  "company": "FullStack Inc",
+  "job_description": "Company: FullStack Inc\nPosition: Software Engineer (Full Stack)\nLocation: Denver, CO (Remote)\nSalary: $120,000 - $175,000\n\nAbout Us:\nFullStack Inc is a leading provider of comprehensive web solutions. We value collaboration and continuous learning.\n\nJob Description:\nWe are hiring a Full Stack Software Engineer to help us build and scale our web applications. The ideal candidate will be comfortable working on both the frontend and backend.\n\nResponsibilities:\n- Develop and maintain full-stack web applications.\n- Write clean, testable, and efficient code.\n- Collaborate with other engineers, designers, and product managers.\n- Participate in code reviews and contribute to architectural decisions.\n\nRequirements:\n- Bachelor's degree in Computer Science or equivalent.\n- 3+ years of full-stack development experience.\n- Strong proficiency in JavaScript, React, Node.js, and SQL.\n- Experience with Git and CI/CD pipelines.\n\nPreferred Qualifications:\n- Experience with cloud platforms (e.g., AWS, Azure, GCP).\n- Knowledge of containerization and orchestration technologies (e.g., Docker, Kubernetes).\n- Familiarity with Agile development methodologies.\n\nBenefits:\n- Competitive salary and benefits package.\n- Fully remote work environment.\n- Opportunities for professional growth and development.",
+  "required_skills": [
+    "JavaScript",
+    "React",
+    "Node.js",
+    "SQL",
+    "HTML5",
+    "CSS3",
+    "Git"
+  ],
+  "preferred_skills": [
+    "AWS",
+    "Docker",
+    "Kubernetes"
+  ],
+  "min_experience": 3,
+  "education_requirement": "Bachelor's",
+  "job_category": "Full Stack",
+  "location": "Denver, CO (Remote)",
+  "salary_range": "$120,000 - $175,000"
+}

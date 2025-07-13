@@ -1,0 +1,19 @@
+{
+  "resume_id": "RES005",
+  "resume_text": "NAME: Emily Davis\nEMAIL: emily.davis@example.com\nPHONE: 555-333-4444\n\nSUMMARY:\nSoftware Engineer specializing in backend development with a focus on Java and Spring. Experienced in designing and implementing scalable and robust APIs.\n\nSKILLS:\nJava, Spring, SQL, MySQL, REST APIs, Microservices, Docker, Kubernetes\n\nEXPERIENCE:\nSoftware Innovations Inc. - Software Engineer (2018 - Present)\n- Designed and developed RESTful APIs using Java and Spring.\n- Implemented microservices architecture and deployed applications using Docker and Kubernetes.\n\nTechnology Solutions Ltd. - Junior Software Engineer (2016 - 2018)\n- Assisted in the development of backend systems using Java and SQL Server.\n\nEDUCATION:\nCarnegie Mellon University - Master's in Software Engineering (2016)\n",
+  "extracted_skills": [
+    "Java",
+    "Spring",
+    "SQL",
+    "MySQL",
+    "Docker",
+    "Kubernetes"
+  ],
+  "experience_years": 6,
+  "education_level": "Master's",
+  "job_history": [
+    "Software Engineer",
+    "Junior Software Engineer"
+  ],
+  "certifications": []
+}

@@ -1,0 +1,21 @@
+{
+  "resume_id": "RESUME_001",
+  "resume_text": "NAME: Alice Smith\nEMAIL: alice.smith@email.com\nPHONE: (555) 123-4567\n\nSUMMARY:\nHighly motivated and detail-oriented Full Stack Developer with 3 years of experience in building scalable web applications. Passionate about learning new technologies and contributing to innovative projects.\n\nSKILLS:\nJavaScript, React, Node.js, Express.js, MongoDB, HTML5, CSS3, Git\n\nEXPERIENCE:\nAcme Corp - Frontend Developer (2021 - Present)\n- Developed and maintained user interfaces for web applications using React.\n- Collaborated with backend developers to integrate APIs.\n\nBeta Solutions - Junior Web Developer (2020 - 2021)\n- Assisted in the development of web applications using JavaScript and HTML.\n- Resolved minor bugs and implemented UI enhancements.\n\nEDUCATION:\nUniversity of California, Berkeley - Bachelor's in Computer Science (2020)",
+  "extracted_skills": [
+    "JavaScript",
+    "React",
+    "Node.js",
+    "Express.js",
+    "MongoDB",
+    "HTML5",
+    "CSS3",
+    "Git"
+  ],
+  "experience_years": 3,
+  "education_level": "Bachelor's",
+  "job_history": [
+    "Frontend Developer",
+    "Junior Web Developer"
+  ],
+  "certifications": []
+}

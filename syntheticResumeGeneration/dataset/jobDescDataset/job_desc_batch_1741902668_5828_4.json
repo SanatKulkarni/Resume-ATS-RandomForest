@@ -1,0 +1,23 @@
+{
+  "job_id": "JD004",
+  "job_title": "Software Engineer (Backend)",
+  "company": "CloudNative",
+  "job_description": "Company: CloudNative\nPosition: Software Engineer (Backend)\nLocation: Austin, TX\nSalary: $110,000 - $140,000\n\nAbout Us:\nCloudNative specializes in building scalable and resilient cloud applications. We are committed to using the latest technologies and best practices to deliver high-quality software. We value creativity, collaboration, and a willingness to learn.\n\nJob Description:\nWe are seeking a talented Backend Software Engineer to join our team. You will be responsible for designing, developing, and maintaining the backend services that power our applications. The ideal candidate will have a strong understanding of backend architectures, API design, and database technologies.\n\nResponsibilities:\n- Design and develop RESTful APIs using Node.js and Express.js.\n- Write clean, well-documented, and testable code.\n- Collaborate with frontend developers to integrate backend services.\n- Optimize database queries and improve system performance.\n\nRequirements:\n- Bachelor's degree in Computer Science or related field.\n- 2+ years of experience in backend development.\n- Strong proficiency in Node.js, Express.js, and JavaScript.\n- Experience with relational databases (PostgreSQL, MySQL).\n\nPreferred Qualifications:\n- Experience with NoSQL databases (MongoDB, Redis).\n- Experience with Docker and Kubernetes.\n- Experience with AWS Lambda or other serverless technologies.\n\nBenefits:\n- Unlimited vacation policy.\n- Company-sponsored events.\n- Professional development budget.",
+  "required_skills": [
+    "Node.js",
+    "Express.js",
+    "JavaScript",
+    "SQL",
+    "REST APIs",
+    "Git"
+  ],
+  "preferred_skills": [
+    "MongoDB",
+    "Docker"
+  ],
+  "min_experience": 2,
+  "education_requirement": "Bachelor's",
+  "job_category": "Backend",
+  "location": "Austin, TX",
+  "salary_range": "$110,000 - $140,000"
+}

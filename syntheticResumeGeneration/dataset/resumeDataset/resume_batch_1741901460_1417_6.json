@@ -1,0 +1,20 @@
+{
+  "resume_id": "RES006",
+  "resume_text": "NAME: Fiona Green\nEMAIL: fiona.green@email.com\nPHONE: (555) 777-8888\n\nSUMMARY:\nExperienced Mobile Developer with 7 years of experience in building iOS and Android applications. Proficient in Swift, Kotlin, and React Native.\n\nSKILLS:\niOS, Android, React Native, Swift, Kotlin, Java, Git\n\nEXPERIENCE:\nKappa Apps - Mobile Developer (2018 - Present)\n- Developed and maintained iOS and Android applications using Swift and Kotlin.\n- Implemented cross-platform applications using React Native.\n\nMu Corp - Junior Mobile Developer (2017 - 2018)\n- Assisted in the development of Android applications using Java.\n- Learned iOS development concepts using Swift.\n\nEDUCATION:\nCarnegie Mellon University - Bachelor's in Software Engineering (2017)",
+  "extracted_skills": [
+    "iOS",
+    "Android",
+    "React Native",
+    "Swift",
+    "Kotlin",
+    "Java",
+    "Git"
+  ],
+  "experience_years": 7,
+  "education_level": "Bachelor's",
+  "job_history": [
+    "Mobile Developer",
+    "Junior Mobile Developer"
+  ],
+  "certifications": []
+}

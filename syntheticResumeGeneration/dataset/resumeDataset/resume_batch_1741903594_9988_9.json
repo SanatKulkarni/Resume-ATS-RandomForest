@@ -1,0 +1,21 @@
+{
+  "resume_id": "R009",
+  "resume_text": "NAME: Isabella Taylor\nEMAIL: isabella.taylor@example.com\nPHONE: 555-888-9999\n\nSUMMARY:\nBackend Developer with 9 years of experience in designing and implementing backend systems. Expert in Java and Spring Framework.\n\nSKILLS:\nJava, Spring, SQL, MySQL, REST APIs, Microservices\n\nEXPERIENCE:\nBackend Solutions Corp. - Backend Developer (2015 - Present)\n- Designed and implemented backend systems using Java and Spring Framework.\n- Developed REST APIs and microservices.\nSoftware Development Inc. - Java Developer (2014 - 2015)\n- Developed Java applications.\n\nEDUCATION:\nTechnology University - Master's in Software Engineering (2014)\n\nCERTIFICATIONS:\nOracle Certified Professional",
+  "extracted_skills": [
+    "Java",
+    "Spring",
+    "SQL",
+    "MySQL",
+    "REST APIs",
+    "Microservices"
+  ],
+  "experience_years": 9,
+  "education_level": "Master's",
+  "job_history": [
+    "Backend Developer",
+    "Java Developer"
+  ],
+  "certifications": [
+    "Oracle Certified Professional"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "resume_id": "R1006",
+  "resume_text": "NAME: Frank Wilson\nEMAIL: frank.wilson@email.com\nPHONE: (555) 741-8529\n\nSUMMARY:\nCloud Architect with 10 years of experience in designing and implementing cloud solutions. Expertise in AWS, Azure, and GCP.\n\nSKILLS:\nAWS, Azure, GCP, Terraform, CloudFormation, Docker, Kubernetes, Python\n\nEXPERIENCE:\nCloud Solutions Inc. - Cloud Architect (2015 - Present)\n- Designed and implemented cloud solutions using AWS, Azure, and GCP.\n- Managed cloud infrastructure using Terraform and CloudFormation.\nSystems Integration Ltd. - Systems Engineer (2013 - 2015)\n- Maintained and supported systems infrastructure.\n- Automated system administration tasks using Python scripts.\n\nEDUCATION:\nGeorgia Institute of Technology - Master's in Computer Science (2013)\n\nCERTIFICATIONS:\nAWS Certified Solutions Architect, Google Cloud Professional",
+  "extracted_skills": [
+    "AWS",
+    "Azure",
+    "GCP",
+    "Terraform",
+    "CloudFormation",
+    "Docker",
+    "Kubernetes",
+    "Python"
+  ],
+  "experience_years": 10,
+  "education_level": "Master's",
+  "job_history": [
+    "Cloud Architect",
+    "Systems Engineer"
+  ],
+  "certifications": [
+    "AWS Certified Solutions Architect",
+    "Google Cloud Professional"
+  ]
+}

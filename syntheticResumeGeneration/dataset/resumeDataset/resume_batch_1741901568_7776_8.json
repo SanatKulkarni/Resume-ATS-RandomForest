@@ -1,0 +1,22 @@
+{
+  "resume_id": "R8",
+  "resume_text": "NAME: Henry Lee\nEMAIL: henry.lee@email.com\nPHONE: (555) 864-2086\n\nSUMMARY:\nRecent graduate with a strong foundation in machine learning and data analysis. Looking for a Data Engineer role.\n\nSKILLS:\nPython, SQL, AWS, Docker, Kubernetes, TensorFlow, PyTorch, scikit-learn, Pandas, NumPy\n\nEXPERIENCE:\nUniversity Project - AI Researcher (2023)\n- Developed a machine learning research.\n- Optimized database performance and scalability.\n\nEDUCATION:\nUniversity of Michigan - Bachelor's in Data Science (2024)\n\nCERTIFICATIONS:\nNone",
+  "extracted_skills": [
+    "Python",
+    "SQL",
+    "AWS",
+    "Docker",
+    "Kubernetes",
+    "TensorFlow",
+    "PyTorch",
+    "scikit-learn",
+    "Pandas",
+    "NumPy"
+  ],
+  "experience_years": 1,
+  "education_level": "Bachelor's",
+  "job_history": [
+    "AI Researcher"
+  ],
+  "certifications": []
+}

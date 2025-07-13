@@ -1,0 +1,19 @@
+{
+  "resume_id": "R008",
+  "resume_text": "NAME: Henry Moore\nEMAIL: henry.moore@example.com\nPHONE: 555-444-5555\n\nSUMMARY:\nQA Engineer with 2 years of experience in testing software applications and ensuring quality. Detail-oriented and dedicated to delivering high-quality products.\n\nSKILLS:\nJava, Selenium, JUnit, TestNG, SQL, Git\n\nEXPERIENCE:\nQuality Assurance Inc. - QA Engineer (2022 - Present)\n- Tested software applications using Selenium, JUnit, and TestNG.\n- Developed and maintained test cases.\nTesting Solutions Ltd. - Junior Tester (2021 - 2022)\n- Assisted in the testing of software applications.\n\nEDUCATION:\nState College - Associate's in Computer Science (2021)\n\nCERTIFICATIONS:\nNone",
+  "extracted_skills": [
+    "Java",
+    "Selenium",
+    "JUnit",
+    "TestNG",
+    "SQL",
+    "Git"
+  ],
+  "experience_years": 2,
+  "education_level": "Associates",
+  "job_history": [
+    "QA Engineer",
+    "Junior Tester"
+  ],
+  "certifications": []
+}

@@ -1,0 +1,22 @@
+{
+  "resume_id": "R003",
+  "resume_text": "NAME: Charlie Brown\nEMAIL: charlie.brown@email.com\nPHONE: (555) 345-6789\n\nSUMMARY:\nPassionate DevOps engineer with 5 years of experience in automating software deployment and infrastructure management. Skilled in using DevOps tools and practices to improve software delivery pipelines.\n\nSKILLS:\nAWS, Docker, Kubernetes, Terraform, Jenkins, Git, Linux\n\nEXPERIENCE:\nCloud Solutions Inc - DevOps Engineer (2019 - Present)\n- Automated software deployment and infrastructure management using Docker, Kubernetes, and Terraform.\n- Implemented continuous integration and continuous delivery (CI/CD) pipelines using Jenkins and Git.\n\nIT Services Corp - System Administrator (2018 - 2019)\n- Managed and maintained Linux servers.\n- Troubleshooted system issues and implemented solutions.\n\nEDUCATION:\nArizona State University - Bachelor's in Computer Engineering (2018)\n\nCERTIFICATIONS:\nCertified Kubernetes Administrator",
+  "extracted_skills": [
+    "AWS",
+    "Docker",
+    "Kubernetes",
+    "Terraform",
+    "Jenkins",
+    "Git",
+    "Linux"
+  ],
+  "experience_years": 5,
+  "education_level": "Bachelor's",
+  "job_history": [
+    "DevOps Engineer",
+    "System Administrator"
+  ],
+  "certifications": [
+    "Certified Kubernetes Administrator"
+  ]
+}

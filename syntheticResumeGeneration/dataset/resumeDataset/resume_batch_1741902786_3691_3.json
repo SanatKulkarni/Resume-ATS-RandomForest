@@ -1,0 +1,20 @@
+{
+  "resume_id": "resume_003",
+  "resume_text": "NAME: Carol Davis\nEMAIL: carol.d@email.com\nPHONE: (555) 456-7890\n\nSUMMARY:\nData Scientist with a strong background in statistical modeling and machine learning. Passionate about using data to solve complex business problems.\n\nSKILLS:\nPython, R, TensorFlow, scikit-learn, SQL, Tableau, Power BI\n\nEXPERIENCE:\nData Insights Corp. - Data Scientist (2020 - Present)\n- Developed machine learning models to predict customer churn, resulting in a 15% reduction in churn rate.\n- Created dashboards to visualize key business metrics.\nUniversity Lab - Research Assistant (2018 - 2020)\n- Conducted research on machine learning algorithms.\n\nEDUCATION:\nState University - Master's in Statistics (2020)\n\nCERTIFICATIONS:\nNone",
+  "extracted_skills": [
+    "Python",
+    "R",
+    "TensorFlow",
+    "scikit-learn",
+    "SQL",
+    "Tableau",
+    "Power BI"
+  ],
+  "experience_years": 5,
+  "education_level": "Master's",
+  "job_history": [
+    "Data Scientist",
+    "Research Assistant"
+  ],
+  "certifications": []
+}

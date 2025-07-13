@@ -1,0 +1,23 @@
+{
+  "resume_id": "R008",
+  "resume_text": "NAME: Henry Taylor\nEMAIL: henry.taylor@example.com\nPHONE: (555) 543-2109\n\nSUMMARY:\nMachine Learning Engineer with 4 years of experience developing and deploying machine learning models for various applications. Strong background in statistical modeling and data analysis.\n\nSKILLS:\nPython, TensorFlow, PyTorch, scikit-learn, Pandas, NumPy, R, SQL, AWS, Docker\n\nEXPERIENCE:\nAI Innovations Inc - Machine Learning Engineer (2020 - Present)\n- Developed and deployed machine learning models for image recognition and natural language processing.\n- Built data pipelines using AWS services and Docker.\n\nResearch Lab - Research Assistant (2019 - 2020)\n- Conducted research on machine learning algorithms and techniques.\n\nEDUCATION:\nCalifornia Institute of Technology - PhD in Machine Learning (2019)\n\nCERTIFICATIONS:\nNone",
+  "extracted_skills": [
+    "Python",
+    "TensorFlow",
+    "PyTorch",
+    "scikit-learn",
+    "Pandas",
+    "NumPy",
+    "R",
+    "SQL",
+    "AWS",
+    "Docker"
+  ],
+  "experience_years": 4,
+  "education_level": "PhD",
+  "job_history": [
+    "Machine Learning Engineer",
+    "Research Assistant"
+  ],
+  "certifications": []
+}

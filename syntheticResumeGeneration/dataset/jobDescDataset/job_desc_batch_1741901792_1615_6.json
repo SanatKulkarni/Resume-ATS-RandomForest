@@ -1,0 +1,23 @@
+{
+  "job_id": "JD-006",
+  "job_title": "Security Engineer",
+  "company": "SecurityFirst",
+  "job_description": "Company: SecurityFirst\nPosition: Security Engineer\nLocation: Seattle, WA (Hybrid)\nSalary: $150,000 - $190,000\n\nAbout Us:\nSecurityFirst is a cybersecurity company dedicated to protecting businesses from cyber threats. We provide comprehensive security solutions and expert consulting services.\n\nJob Description:\nWe are looking for a Security Engineer to join our team. You will be responsible for identifying and mitigating security vulnerabilities. The ideal candidate will have experience with penetration testing and vulnerability scanning.\n\nResponsibilities:\n- Conduct penetration testing and vulnerability scanning\n- Develop and implement security policies and procedures\n- Monitor security systems and respond to incidents\n- Stay up-to-date on the latest security threats and vulnerabilities\n\nRequirements:\n- Bachelor's degree in Computer Science or related field\n- 5+ years of experience in security engineering\n- Strong understanding of security principles and technologies\n- Experience with penetration testing and vulnerability scanning\n\nPreferred Qualifications:\n- Security certifications (e.g., CISSP, CISM)\n- Experience with cloud security\n\nBenefits:\n- Competitive salary and benefits package\n- Opportunity to work on challenging and rewarding projects\n- Collaborative and supportive work environment",
+  "required_skills": [
+    "Penetration Testing",
+    "Vulnerability Scanning",
+    "Network Security",
+    "Security Audits",
+    "Incident Response",
+    "Linux"
+  ],
+  "preferred_skills": [
+    "CISSP",
+    "Cloud Security"
+  ],
+  "min_experience": 5,
+  "education_requirement": "Bachelor's",
+  "job_category": "Security",
+  "location": "Seattle, WA (Hybrid)",
+  "salary_range": "$150,000 - $190,000"
+}

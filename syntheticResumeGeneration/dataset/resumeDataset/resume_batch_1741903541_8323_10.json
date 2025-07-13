@@ -1,0 +1,15 @@
+{
+  "resume_id": "RES010",
+  "resume_text": "NAME: John Martinez\nEMAIL: john.martinez@email.com\nPHONE: (555) 111-2222\n\nSUMMARY:\nJunior Software Engineer with 1 year of experience. Eager to learn and contribute to software development projects.\n\nSKILLS:\nJava, Python, Git\n\nEXPERIENCE:\nSoftware Company - Junior Software Engineer (2023 - Present)\n- Assisted in the development and maintenance of software applications.\n- Participated in code reviews.\n\nEDUCATION:\nCommunity College - Associate's in Computer Science (2023)\n\nCERTIFICATIONS:\nNone",
+  "extracted_skills": [
+    "Java",
+    "Python",
+    "Git"
+  ],
+  "experience_years": 1,
+  "education_level": "Associates",
+  "job_history": [
+    "Junior Software Engineer"
+  ],
+  "certifications": []
+}

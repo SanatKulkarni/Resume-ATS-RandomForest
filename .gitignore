@@ -128,12 +128,8 @@ venv.bak/
 !requirements.json
 !package.json
 !config.json
-syntheticResumeGeneration/dataset/
 data/
-datasets/
 
-# Large JSON files (but keep important config files)
-resume_jd_pairs.json
 # Uncomment the line above if you want to track your training data
 
 # Jupyter Notebook

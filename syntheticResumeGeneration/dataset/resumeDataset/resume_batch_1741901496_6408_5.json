@@ -1,0 +1,22 @@
+{
+  "resume_id": "R1005",
+  "resume_text": "NAME: Emily Davis\nEMAIL: emily.davis@email.com\nPHONE: (555) 234-5678\n\nSUMMARY:\nSenior Backend Developer with 10 years of experience designing and implementing scalable and reliable backend systems. Expertise in Java, Spring, and SQL databases.\n\nSKILLS:\nJava, Spring, SQL, MySQL, REST APIs, Docker, Kubernetes\n\nEXPERIENCE:\nEnterprise Solutions Corp. - Senior Backend Developer (2016 - Present)\n- Designed and implemented REST APIs using Java and Spring.\n- Managed and optimized SQL databases for high performance.\n- Mentored junior developers and provided technical guidance.\n\nLegacy Systems Inc. - Backend Developer (2014 - 2016)\n- Developed and maintained legacy systems using Java and SQL.\n\nEDUCATION:\nCarnegie Mellon University - Master's in Computer Science (2014)\n\nCERTIFICATIONS:\nOracle Certified Professional",
+  "extracted_skills": [
+    "Java",
+    "Spring",
+    "SQL",
+    "MySQL",
+    "Docker",
+    "Kubernetes",
+    "REST APIs"
+  ],
+  "experience_years": 10,
+  "education_level": "Master's",
+  "job_history": [
+    "Senior Backend Developer",
+    "Backend Developer"
+  ],
+  "certifications": [
+    "Oracle Certified Professional"
+  ]
+}

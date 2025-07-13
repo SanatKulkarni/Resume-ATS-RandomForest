@@ -1,0 +1,24 @@
+{
+  "resume_id": "R009",
+  "resume_text": "NAME: Isaac Ingram\nEMAIL: isaac.ingram@email.com\nPHONE: (555) 901-2345\n\nSUMMARY:\nCloud Architect with 12 years of experience designing and implementing cloud solutions.  Expert in AWS and Azure.\n\nSKILLS:\nAWS, Azure, GCP, Docker, Kubernetes, Terraform, CloudFormation, Python, Linux\n\nEXPERIENCE:\nCloud Consulting Firm - Principal Architect (2011 - Present)\n- Designed and implemented cloud solutions for enterprise clients using AWS and Azure.\n- Led a team of cloud engineers in building and migrating applications to the cloud.\n\nEDUCATION:\nGeorgia Institute of Technology - PhD in Computer Science (2011)\n\nCERTIFICATIONS:\nAWS Certified Solutions Architect, Microsoft Azure Administrator",
+  "extracted_skills": [
+    "AWS",
+    "Azure",
+    "GCP",
+    "Docker",
+    "Kubernetes",
+    "Terraform",
+    "CloudFormation",
+    "Python",
+    "Linux"
+  ],
+  "experience_years": 12,
+  "education_level": "PhD",
+  "job_history": [
+    "Principal Architect"
+  ],
+  "certifications": [
+    "AWS Certified Solutions Architect",
+    "Microsoft Azure Administrator"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "job_id": "JD011",
+  "job_title": "Machine Learning Engineer",
+  "company": "AILabs",
+  "job_description": "Company: AILabs\nPosition: Machine Learning Engineer\nLocation: Palo Alto, CA\nSalary: $160,000 - $220,000\n\nAbout Us:\nAILabs is at the forefront of artificial intelligence research and development. We are building cutting-edge AI solutions to transform industries and solve complex problems.\n\nJob Description:\nWe are searching for a talented Machine Learning Engineer to develop, deploy, and maintain machine learning models. We seek an expert who can implement state-of-the-art algorithms and have experience with deep learning frameworks.\n\nResponsibilities:\n- Develop and deploy machine learning models for various applications.\n- Optimize model performance and scalability.\n- Build and maintain machine learning pipelines.\n- Collaborate with data scientists and engineers.\n\nRequirements:\n- Master's or PhD in Computer Science, Statistics, or related field.\n- 3+ years of experience in machine learning engineering.\n- Proficiency in Python and relevant libraries (e.g., TensorFlow, PyTorch, scikit-learn).\n- Experience with cloud computing platforms (e.g., AWS, Azure, GCP).\n\nPreferred Qualifications:\n- Experience with MLOps tools and practices.\n- Familiarity with deep learning architectures.\n- Knowledge of distributed computing frameworks.\n\nBenefits:\n- Competitive salary and benefits package.\n- Opportunities for research and publication.\n- Collaborative and innovative work environment.",
+  "required_skills": [
+    "Python",
+    "TensorFlow",
+    "PyTorch",
+    "scikit-learn",
+    "AWS",
+    "MLOps"
+  ],
+  "preferred_skills": [
+    "Kubernetes",
+    "Docker",
+    "Deep Learning"
+  ],
+  "min_experience": 3,
+  "education_requirement": "Master's",
+  "job_category": "Data",
+  "location": "Palo Alto, CA",
+  "salary_range": "$160,000 - $220,000"
+}

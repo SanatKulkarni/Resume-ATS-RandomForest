@@ -1,0 +1,23 @@
+{
+  "job_id": "JD013",
+  "job_title": "Technical Project Manager",
+  "company": "FrontierTech",
+  "job_description": "Company: FrontierTech\nPosition: Technical Project Manager\nLocation: Atlanta, GA\nSalary: $120,000 - $150,000\n\nAbout Us:\nFrontierTech is a company that pushes the boundaries of technology. We tackle challenging projects with passion and determination.\n\nJob Description:\nWe are seeking a Technical Project Manager to lead and coordinate software development projects. The ideal candidate will have experience in Agile methodologies and a strong technical background.\n\nResponsibilities:\n- Manage software development projects from start to finish.\n- Coordinate cross-functional teams.\n- Track project progress and ensure deadlines are met.\n- Communicate project status to stakeholders.\n\nRequirements:\n- 3+ years of experience in project management.\n- Strong understanding of software development processes.\n- Experience with Agile methodologies.\n- Excellent communication and organizational skills.\n\nPreferred Qualifications:\n- Project Management Professional (PMP) certification.\n- Experience with Jira and Confluence.\n- Technical background in software engineering.\n\nBenefits:\n- Paid parental leave.\n- Flexible spending accounts.\n- Team-building activities.",
+  "required_skills": [
+    "Project Management",
+    "Agile",
+    "Scrum",
+    "Communication",
+    "Coordination"
+  ],
+  "preferred_skills": [
+    "PMP",
+    "Jira",
+    "Confluence"
+  ],
+  "min_experience": 3,
+  "education_requirement": "Bachelor's",
+  "job_category": "Management",
+  "location": "Atlanta, GA",
+  "salary_range": "$120,000 - $150,000"
+}

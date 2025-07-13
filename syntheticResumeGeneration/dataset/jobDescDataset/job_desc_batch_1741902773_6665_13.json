@@ -1,0 +1,24 @@
+{
+  "job_id": "JD013",
+  "job_title": "Technical Project Manager",
+  "company": "TechCorp",
+  "job_description": "Company: TechCorp\nPosition: Technical Project Manager\nLocation: Atlanta, GA\nSalary: $115,000 - $155,000\n\nAbout Us:\nTechCorp is a leading technology company focused on delivering high-quality software solutions. We pride ourselves on our collaborative environment and commitment to innovation.\n\nJob Description:\nWe are seeking a Technical Project Manager to lead and manage software development projects. The ideal candidate will have experience in project management methodologies, risk management, and stakeholder communication.\n\nResponsibilities:\n- Plan, execute, and monitor software development projects.\n- Manage project scope, schedule, and budget.\n- Identify and mitigate project risks.\n- Communicate with stakeholders and manage expectations.\n\nRequirements:\n- Bachelor's degree in Computer Science or related field.\n- 3+ years of experience in technical project management.\n- Knowledge of software development methodologies (e.g., Agile, Waterfall).\n- Strong communication and leadership skills.\n\nPreferred Qualifications:\n- Project Management Professional (PMP) certification.\n- Experience with project management tools (e.g., Jira, Asana).\n- Familiarity with cloud computing and DevOps practices.\n\nBenefits:\n- Competitive salary and benefits package.\n- Paid time off and holidays.\n- Opportunities for professional development.",
+  "required_skills": [
+    "Project Management",
+    "Agile",
+    "Scrum",
+    "Communication",
+    "Risk Management",
+    "Stakeholder Management"
+  ],
+  "preferred_skills": [
+    "PMP",
+    "Jira",
+    "Cloud Computing"
+  ],
+  "min_experience": 3,
+  "education_requirement": "Bachelor's",
+  "job_category": "Management",
+  "location": "Atlanta, GA",
+  "salary_range": "$115,000 - $155,000"
+}

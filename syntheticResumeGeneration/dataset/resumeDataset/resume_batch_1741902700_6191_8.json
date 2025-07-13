@@ -1,0 +1,19 @@
+{
+  "resume_id": "RES008",
+  "resume_text": "NAME: Hannah Jackson\nEMAIL: hannah.jackson@email.com\nPHONE: (555) 567-8912\n\nSUMMARY:\nData Engineer specializing in building and maintaining data pipelines. Proficient in ETL processes, data warehousing, and big data technologies. Dedicated to ensuring data quality and accessibility.\n\nSKILLS:\nSQL, Python, Apache Kafka, AWS, Spark, Hadoop\n\nEXPERIENCE:\nData Solutions Group - Data Engineer (2020 - Present)\n- Designed and implemented data pipelines using Apache Kafka and Spark.\n- Built and maintained data warehouses on AWS.\n\nAnalytics Firm - Data Analyst (2018 - 2020)\n- Analyzed large datasets to identify trends and insights.\n- Created reports and dashboards to communicate findings.\n\nEDUCATION:\nCarnegie Mellon University - Bachelor's in Data Science (2018)\n",
+  "extracted_skills": [
+    "SQL",
+    "Python",
+    "Apache Kafka",
+    "AWS",
+    "Spark",
+    "Hadoop"
+  ],
+  "experience_years": 5,
+  "education_level": "Bachelor's",
+  "job_history": [
+    "Data Engineer",
+    "Data Analyst"
+  ],
+  "certifications": []
+}

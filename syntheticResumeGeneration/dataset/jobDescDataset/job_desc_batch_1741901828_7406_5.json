@@ -1,0 +1,23 @@
+{
+  "job_id": "JD005",
+  "job_title": "Mobile Developer",
+  "company": "MobilePro",
+  "job_description": "Company: MobilePro\nPosition: Mobile Developer (iOS)\nLocation: Los Angeles, CA (On-site)\nSalary: $125,000 - $155,000\n\nAbout Us:\nMobilePro is a mobile app development company focused on creating innovative and user-friendly applications. We are passionate about pushing the boundaries of mobile technology.\n\nJob Description:\nWe're seeking a skilled iOS Mobile Developer to join our team. The ideal candidate will possess a deep understanding of Swift and the iOS ecosystem.\n\nResponsibilities:\n- Develop and maintain iOS applications using Swift.\n- Collaborate with designers and backend developers to create seamless user experiences\n- Write unit and UI tests.\n- Participate in code reviews and contribute to improving our codebase.\n\nRequirements:\n- Bachelor's degree in Computer Science or related field.\n- 3+ years of experience in iOS development with Swift.\n- Strong understanding of iOS SDK and frameworks.\n- Experience with SwiftUI and UIKit.\n\nPreferred Qualifications:\n- Experience with React Native or Flutter.\n- Experience with CI/CD pipelines for mobile apps.\n- Knowledge of mobile UI/UX best practices.\n\nBenefits:\n- Competitive salary and benefits package.\n- Opportunity to work on cutting-edge mobile technologies.\n- Collaborative and supportive work environment.",
+  "required_skills": [
+    "Swift",
+    "iOS",
+    "UIKit",
+    "REST APIs",
+    "Git",
+    "XCode"
+  ],
+  "preferred_skills": [
+    "SwiftUI",
+    "React Native"
+  ],
+  "min_experience": 3,
+  "education_requirement": "Bachelor's",
+  "job_category": "Mobile",
+  "location": "Los Angeles, CA (On-site)",
+  "salary_range": "$125,000 - $155,000"
+}

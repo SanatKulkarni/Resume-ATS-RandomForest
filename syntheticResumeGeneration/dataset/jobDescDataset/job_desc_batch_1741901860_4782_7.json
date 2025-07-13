@@ -1,0 +1,23 @@
+{
+  "job_id": "JD007",
+  "job_title": "Cloud Architect",
+  "company": "CloudScale",
+  "job_description": "Company: CloudScale\nPosition: Cloud Architect\nLocation: Seattle, WA\nSalary: $140,000 - $200,000\n\nAbout Us:\nCloudScale is a leading provider of cloud solutions. We help companies migrate to and manage their cloud infrastructure.\n\nJob Description:\nWe are seeking an experienced Cloud Architect to design and implement cloud solutions for our clients.\n\nResponsibilities:\n- Design and implement cloud architectures for various applications.\n- Develop and maintain cloud infrastructure as code.\n- Provide technical guidance and support to development teams.\n- Ensure cloud solutions are secure, scalable, and cost-effective.\n\nRequirements:\n- Bachelor's degree in Computer Science or related field.\n- 5+ years of experience in cloud architecture.\n- Deep understanding of AWS, Azure, or GCP.\n- Proficiency with infrastructure as code tools such as Terraform or CloudFormation.\n\nPreferred Qualifications:\n- Cloud certifications such as AWS Certified Solutions Architect or Azure Solutions Architect Expert.\n- Experience with Kubernetes and containerization.\n\nBenefits:\n- Excellent benefits package.\n- Stock options plan.\n- Remote work options available.",
+  "required_skills": [
+    "AWS",
+    "Azure",
+    "GCP",
+    "Terraform",
+    "Kubernetes",
+    "Docker",
+    "CloudFormation"
+  ],
+  "preferred_skills": [
+    "Cloud Certifications"
+  ],
+  "min_experience": 5,
+  "education_requirement": "Bachelor's",
+  "job_category": "DevOps",
+  "location": "Seattle, WA",
+  "salary_range": "$140,000 - $200,000"
+}

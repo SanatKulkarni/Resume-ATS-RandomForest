@@ -1,0 +1,20 @@
+{
+  "resume_id": "RESUME_009",
+  "resume_text": "NAME: Isabella Jones\nEMAIL: isabella.jones@email.com\nPHONE: 555-666-3333\n\nSUMMARY:\nVersatile QA Engineer with 10 years of experience in software testing. Proficient in various testing methodologies and tools.\n\nSKILLS:\nQA Testing, Selenium, Jenkins, Test Automation, Python, SQL\n\nEXPERIENCE:\nQuality Assurance Co. - QA Engineer (2014 - Present)\n- Performed manual and automated testing of web applications.\n- Developed test scripts using Selenium and Python.\n\nEducation:\nTech College - Associates in Quality Assurance (2014)\n\nCERTIFICATIONS:\nCertified Scrum Master",
+  "extracted_skills": [
+    "QA Testing",
+    "Selenium",
+    "Jenkins",
+    "Test Automation",
+    "Python",
+    "SQL"
+  ],
+  "experience_years": 10,
+  "education_level": "Associates",
+  "job_history": [
+    "QA Engineer"
+  ],
+  "certifications": [
+    "Certified Scrum Master"
+  ]
+}

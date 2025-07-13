@@ -1,0 +1,19 @@
+{
+  "resume_id": "RES009",
+  "resume_text": "NAME: Isabella Taylor\nEMAIL: isabella.taylor@email.com\nPHONE: 555-327-5869\n\nSUMMARY:\nQA Engineer with 5 years of experience in software testing. Expertise in test automation and quality assurance methodologies.\n\nSKILLS:\nSelenium, JUnit, TestNG, Java, Python, Git\n\nEXPERIENCE:\nQA Solutions Inc. - QA Engineer (2020 - Present)\n- Developed and executed test plans and test cases.\n- Automated testing using Selenium, JUnit, and TestNG.\n\nSoftware Testing Corp. - Junior QA Tester (2019 - 2020)\n- Performed manual testing and identified defects.\n\nEDUCATION:\nSan Jose State University - Bachelor's in Computer Science (2019)\n\nCERTIFICATIONS:\n",
+  "extracted_skills": [
+    "Selenium",
+    "JUnit",
+    "TestNG",
+    "Java",
+    "Python",
+    "Git"
+  ],
+  "experience_years": 5,
+  "education_level": "Bachelor's",
+  "job_history": [
+    "QA Engineer",
+    "Junior QA Tester"
+  ],
+  "certifications": []
+}

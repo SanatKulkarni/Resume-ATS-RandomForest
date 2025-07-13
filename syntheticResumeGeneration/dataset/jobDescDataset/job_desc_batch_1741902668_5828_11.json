@@ -1,0 +1,24 @@
+{
+  "job_id": "JD011",
+  "job_title": "AI Research Engineer",
+  "company": "AILabs",
+  "job_description": "Company: AILabs\nPosition: AI Research Engineer\nLocation: Pittsburgh, PA\nSalary: $150,000 - $200,000\n\nAbout Us:\nAILabs is a leading research and development company focused on artificial intelligence. We are pushing the boundaries of AI technology and creating innovative solutions for various industries. We offer a stimulating and collaborative research environment.\n\nJob Description:\nWe are seeking a highly motivated AI Research Engineer to join our team. You will be responsible for conducting cutting-edge research in artificial intelligence and developing novel algorithms and models. The ideal candidate will have a strong background in machine learning, deep learning, and computer vision.\n\nResponsibilities:\n- Conduct research in areas such as machine learning, deep learning, and computer vision.\n- Develop and implement novel algorithms and models.\n- Publish research findings in top conferences and journals.\n- Collaborate with other researchers and engineers.\n\nRequirements:\n- PhD in Computer Science or related field.\n- Strong background in machine learning, deep learning, and computer vision.\n- Proficiency in Python and machine learning libraries (TensorFlow, PyTorch).\n- Excellent research and communication skills.\n\nPreferred Qualifications:\n- Experience with reinforcement learning.\n- Experience with natural language processing.\n- Publications in top AI conferences and journals.\n\nBenefits:\n- Competitive salary and benefits package.\n- Opportunity to work on cutting-edge AI research.\n- Collaborative and supportive research environment.",
+  "required_skills": [
+    "Python",
+    "TensorFlow",
+    "PyTorch",
+    "Machine Learning",
+    "Deep Learning",
+    "Computer Vision",
+    "Research"
+  ],
+  "preferred_skills": [
+    "Reinforcement Learning",
+    "Natural Language Processing"
+  ],
+  "min_experience": 0,
+  "education_requirement": "PhD",
+  "job_category": "Data",
+  "location": "Pittsburgh, PA",
+  "salary_range": "$150,000 - $200,000"
+}

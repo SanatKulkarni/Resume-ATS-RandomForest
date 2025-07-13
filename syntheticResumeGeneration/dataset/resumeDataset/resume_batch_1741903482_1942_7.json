@@ -1,0 +1,19 @@
+{
+  "resume_id": "RES007",
+  "resume_text": "NAME: Grace Hernandez\nEMAIL: grace.hernandez@email.com\nPHONE: (555) 456-7890\n\nSUMMARY:\nMobile Developer with 2+ years of experience in developing iOS and Android applications. Proficient in Swift, Kotlin, and React Native.\n\nSKILLS:\niOS, Android, Swift, Kotlin, React Native, Git\n\nEXPERIENCE:\nMobileDev Inc. - Mobile Developer (2023 - Present)\n- Developed and maintained iOS and Android applications using Swift and Kotlin.\n\nApp Solutions Corp. - Junior Mobile Developer (2022 - 2023)\n- Assisted in the development of mobile applications using React Native.\n\nEDUCATION:\nSan Jose State University - Bachelor's in Software Engineering (2022)",
+  "extracted_skills": [
+    "iOS",
+    "Android",
+    "Swift",
+    "Kotlin",
+    "React Native",
+    "Git"
+  ],
+  "experience_years": 2,
+  "education_level": "Bachelor's",
+  "job_history": [
+    "Mobile Developer",
+    "Junior Mobile Developer"
+  ],
+  "certifications": []
+}

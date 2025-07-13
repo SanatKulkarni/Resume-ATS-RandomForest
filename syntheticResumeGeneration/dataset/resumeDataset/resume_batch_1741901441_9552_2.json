@@ -1,0 +1,23 @@
+{
+  "resume_id": "RES002",
+  "resume_text": "NAME: Bob Johnson\nEMAIL: bob.johnson@email.com\nPHONE: (555) 987-6543\n\nSUMMARY:\nExperienced DevOps Engineer specializing in cloud infrastructure and automation. Proven ability to improve system reliability and scalability.\n\nSKILLS:\nAWS, Docker, Kubernetes, Terraform, Jenkins, Git, Python, Linux\n\nEXPERIENCE:\nTech Solutions Inc. - DevOps Engineer (2018 - Present)\n- Managed and maintained AWS infrastructure for multiple applications.\n- Implemented CI/CD pipelines using Jenkins and Docker.\nGlobal Corp. - System Administrator (2016 - 2018)\n- Maintained Linux servers and network infrastructure.\n\nEDUCATION:\nStanford University - Master's in Computer Engineering (2016)\n\nCERTIFICATIONS:\nAWS Certified Solutions Architect\n",
+  "extracted_skills": [
+    "AWS",
+    "Docker",
+    "Kubernetes",
+    "Terraform",
+    "Jenkins",
+    "Git",
+    "Python",
+    "Linux"
+  ],
+  "experience_years": 7,
+  "education_level": "Master's",
+  "job_history": [
+    "DevOps Engineer",
+    "System Administrator"
+  ],
+  "certifications": [
+    "AWS Certified Solutions Architect"
+  ]
+}

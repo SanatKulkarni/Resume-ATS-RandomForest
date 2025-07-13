@@ -1,0 +1,20 @@
+{
+  "resume_id": "RES010",
+  "resume_text": "NAME: Jack Rodriguez\nEMAIL: jack.rodriguez@email.com\nPHONE: (555) 567-8901\n\nSUMMARY:\nData Engineer experienced in building and maintaining data pipelines for large datasets.\n\nSKILLS:\nSQL, Python, Spark, Hadoop, AWS, ETL, Data Warehousing\n\nEXPERIENCE:\nData Management Solutions - Data Engineer (2017 - Present)\n- Designed and implemented ETL pipelines.\n- Managed data warehouses on AWS.\n\nPrevious Corp - Database Administrator (2015 - 2017)\n- Managed SQL databases.\n\nEDUCATION:\nUniversity of Tech - Bachelor's in Information Systems (2015)\n",
+  "extracted_skills": [
+    "SQL",
+    "Python",
+    "Spark",
+    "Hadoop",
+    "AWS",
+    "ETL",
+    "Data Warehousing"
+  ],
+  "experience_years": 8,
+  "education_level": "Bachelor's",
+  "job_history": [
+    "Data Engineer",
+    "Database Administrator"
+  ],
+  "certifications": []
+}

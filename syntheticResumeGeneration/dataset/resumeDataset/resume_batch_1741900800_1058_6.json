@@ -1,0 +1,23 @@
+{
+  "resume_id": "R006",
+  "resume_text": "NAME: Frank Jones\nEMAIL: frank.jones@email.com\nPHONE: (555) 111-2222\n\nSUMMARY:\nExperienced Cloud Architect specializing in designing and implementing scalable and secure cloud solutions. Proven ability to migrate on-premise infrastructure to the cloud.\n\nSKILLS:\nAWS, Azure, GCP, Docker, Kubernetes, Terraform, Python, CloudFormation\n\nEXPERIENCE:\nCloud Architects Ltd. - Senior Cloud Architect (2018 - Present)\n- Designed and implemented cloud solutions on AWS, Azure, and GCP.\n- Automated infrastructure provisioning using Terraform and CloudFormation.\n\nIT Solutions Corp. - Cloud Architect (2016 - 2018)\n- Migrated on-premise infrastructure to the cloud.\n- Implemented security best practices for cloud environments.\n\nEDUCATION:\nCarnegie Mellon University - Master's in Cloud Computing (2016)\n\nCERTIFICATIONS:\nAWS Certified Solutions Architect - Professional",
+  "extracted_skills": [
+    "AWS",
+    "Azure",
+    "GCP",
+    "Docker",
+    "Kubernetes",
+    "Terraform",
+    "Python",
+    "CloudFormation"
+  ],
+  "experience_years": 8,
+  "education_level": "Master's",
+  "job_history": [
+    "Senior Cloud Architect",
+    "Cloud Architect"
+  ],
+  "certifications": [
+    "AWS Certified Solutions Architect"
+  ]
+}

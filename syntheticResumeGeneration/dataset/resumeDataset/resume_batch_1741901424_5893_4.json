@@ -1,0 +1,19 @@
+{
+  "resume_id": "RES004",
+  "resume_text": "NAME: Sarah Chen\nEMAIL: sarah.chen@email.com\nPHONE: 555-321-0987\n\nSUMMARY:\nPassionate Mobile Developer with experience building native iOS and Android applications. Seeking a challenging role where I can leverage my skills to create engaging mobile experiences.\n\nSKILLS:\niOS, Android, Swift, Kotlin, React Native, Git\n\nEXPERIENCE:\nMobile Innovations Inc. - Mobile Developer (2021 - Present)\n- Developed native iOS and Android applications using Swift and Kotlin.\n- Implemented user interfaces and integrated with backend APIs.\nStartup Technologies - Junior Mobile Developer (2019 - 2021)\n- Assisted senior developers in building mobile applications using React Native.\n- Wrote unit tests and fixed bugs.\n\nEDUCATION:\nUniversity of Waterloo - Bachelor's in Software Engineering (2019)\n",
+  "extracted_skills": [
+    "iOS",
+    "Android",
+    "Swift",
+    "Kotlin",
+    "React Native",
+    "Git"
+  ],
+  "experience_years": 5,
+  "education_level": "Bachelor's",
+  "job_history": [
+    "Mobile Developer",
+    "Junior Mobile Developer"
+  ],
+  "certifications": []
+}

@@ -1,0 +1,24 @@
+{
+  "resume_id": "R003",
+  "resume_text": "NAME: Carol Davis\nEMAIL: carol.davis@email.com\nPHONE: (555) 456-7890\n\nSUMMARY:\nSenior DevOps Engineer with 10 years of experience in building and maintaining infrastructure for large-scale applications. Expertise in automation and cloud technologies.\n\nSKILLS:\nAWS, Azure, Docker, Kubernetes, Terraform, Ansible, Git, Jenkins\n\nEXPERIENCE:\nCloud Native Solutions - Principal DevOps Engineer (2020 - Present)\n- Led the design and implementation of a cloud-native infrastructure on AWS.\n- Automated deployment pipelines using Docker, Kubernetes, and Terraform.\n\nDevOps Dynamics - Senior DevOps Engineer (2017 - 2020)\n- Managed and maintained a large-scale infrastructure on Azure.\n- Implemented monitoring and alerting systems using Prometheus.\n\nEDUCATION:\nMassachusetts Institute of Technology - Bachelor's in Electrical Engineering (2014)\n\nCERTIFICATIONS:\nAWS Certified Solutions Architect - Professional\nCertified Kubernetes Administrator",
+  "extracted_skills": [
+    "AWS",
+    "Azure",
+    "Docker",
+    "Kubernetes",
+    "Terraform",
+    "Ansible",
+    "Git",
+    "Jenkins"
+  ],
+  "experience_years": 10,
+  "education_level": "Bachelor's",
+  "job_history": [
+    "Principal DevOps Engineer",
+    "Senior DevOps Engineer"
+  ],
+  "certifications": [
+    "AWS Certified Solutions Architect - Professional",
+    "Certified Kubernetes Administrator"
+  ]
+}

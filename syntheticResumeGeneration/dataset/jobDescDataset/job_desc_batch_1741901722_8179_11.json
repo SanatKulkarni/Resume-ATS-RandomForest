@@ -1,0 +1,23 @@
+{
+  "job_id": "JD011",
+  "job_title": "Technical Project Manager",
+  "company": "NextGenSystems",
+  "job_description": "Company: NextGenSystems\nPosition: Technical Project Manager\nLocation: Denver, CO (On-site)\nSalary: $120,000 - $160,000\n\nAbout Us:\nNextGenSystems is a forward-thinking technology company focused on delivering innovative solutions to our clients. We value teamwork, innovation, and excellence.\n\nJob Description:\nWe are looking for a Technical Project Manager to lead and coordinate technical projects from initiation to completion. The ideal candidate will have a strong technical background and excellent project management skills.\n\nResponsibilities:\n- Plan, execute, and monitor technical projects.\n- Define project scope, goals, and deliverables.\n- Coordinate with cross-functional teams including developers, engineers, and stakeholders.\n- Manage project budgets and timelines.\n\nRequirements:\n- 3+ years of experience in technical project management.\n- Strong understanding of software development lifecycles.\n- Excellent communication and leadership skills.\n- Experience with project management methodologies (e.g., Agile, Waterfall).\n\nPreferred Qualifications:\n- PMP or Agile certifications.\n- Experience with Jira or similar project management tools.\n- Technical background in Software Engineering.\n\nBenefits:\n- Medical, dental, and vision insurance.\n- 401(k) matching.\n- Paid time off.",
+  "required_skills": [
+    "Project Management",
+    "Agile",
+    "Scrum",
+    "Software Development Lifecycle",
+    "Communication",
+    "Leadership"
+  ],
+  "preferred_skills": [
+    "PMP",
+    "Jira"
+  ],
+  "min_experience": 3,
+  "education_requirement": "Bachelor's",
+  "job_category": "Management",
+  "location": "Denver, CO (On-site)",
+  "salary_range": "$120,000 - $160,000"
+}

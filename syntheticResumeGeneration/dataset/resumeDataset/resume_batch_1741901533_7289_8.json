@@ -1,0 +1,16 @@
+{
+  "resume_id": "RES008",
+  "resume_text": "NAME: Henry Islas\nEMAIL: henry.islas@email.com\nPHONE: 555-678-9012\n\nSUMMARY:\nJunior QA Engineer with a passion for ensuring software quality through rigorous testing and attention to detail.\n\nSKILLS:\nSQL, Python, Cypress, Selenium\n\nEXPERIENCE:\nSoftware Testing Company - QA Intern (2022-Present)\n- Performed manual and automated testing of web applications.\n- Designed and executed test plans.\n\nEDUCATION:\nCommunity College - Associates in Computer Science (2022)",
+  "extracted_skills": [
+    "SQL",
+    "Python",
+    "Cypress",
+    "Selenium"
+  ],
+  "experience_years": 1,
+  "education_level": "Associates",
+  "job_history": [
+    "QA Intern"
+  ],
+  "certifications": []
+}

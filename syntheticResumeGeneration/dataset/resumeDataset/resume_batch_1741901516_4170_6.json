@@ -1,0 +1,19 @@
+{
+  "resume_id": "R006",
+  "resume_text": "NAME: Frank Green\nEMAIL: frank.green@email.com\nPHONE: (555) 234-5678\n\nSUMMARY:\nMobile Developer with 5 years of experience building iOS and Android applications. Proficient in Swift, Kotlin, and React Native.\n\nSKILLS:\nSwift, Kotlin, React Native, iOS, Android, Git\n\nEXPERIENCE:\nMobile App Innovations - Senior Mobile Developer (2020 - Present)\n- Developed and maintained iOS and Android applications using Swift and Kotlin.\n- Implemented user interfaces and integrated with backend services.\n\nApp Development LLC - Mobile Developer (2019 - 2020)\n- Built mobile applications using React Native.\n- Collaborated with designers and product managers to deliver high-quality products.\n\nEDUCATION:\nUniversity of Michigan - Bachelor's in Computer Engineering (2019)\n\nCERTIFICATIONS:",
+  "extracted_skills": [
+    "Swift",
+    "Kotlin",
+    "React Native",
+    "iOS",
+    "Android",
+    "Git"
+  ],
+  "experience_years": 5,
+  "education_level": "Bachelor's",
+  "job_history": [
+    "Senior Mobile Developer",
+    "Mobile Developer"
+  ],
+  "certifications": []
+}

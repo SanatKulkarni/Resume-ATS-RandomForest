@@ -1,0 +1,20 @@
+{
+  "resume_id": "RES005",
+  "resume_text": "NAME: Emily Garcia\nEMAIL: emily.garcia@email.com\nPHONE: (555) 864-2086\n\nSUMMARY:\nMobile Developer with 4 years of experience in developing iOS and Android applications. Passionate about creating user-friendly and innovative mobile experiences.\n\nSKILLS:\niOS, Android, Swift, Kotlin, React Native, Java, Git\n\nEXPERIENCE:\nMobile Innovations Inc. - Mobile Developer (2021 - Present)\n- Developed and maintained iOS and Android applications using Swift, Kotlin, and React Native.\n- Collaborated with designers and product managers to create user-friendly interfaces.\n\nApp Development Co. - Junior Mobile Developer (2019 - 2021)\n- Assisted in the development of mobile applications using Java and Objective-C.\n- Participated in testing and debugging.\n\nEDUCATION:\nUniversity of Texas at Austin - Bachelor's in Computer Science (2019)\n\nCERTIFICATIONS:\nNone",
+  "extracted_skills": [
+    "iOS",
+    "Android",
+    "Swift",
+    "Kotlin",
+    "React Native",
+    "Java",
+    "Git"
+  ],
+  "experience_years": 4,
+  "education_level": "Bachelor's",
+  "job_history": [
+    "Mobile Developer",
+    "Junior Mobile Developer"
+  ],
+  "certifications": []
+}

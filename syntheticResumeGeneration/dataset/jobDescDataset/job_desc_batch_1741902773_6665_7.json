@@ -1,0 +1,25 @@
+{
+  "job_id": "JD007",
+  "job_title": "Cloud Architect",
+  "company": "CloudScale",
+  "job_description": "Company: CloudScale\nPosition: Cloud Architect\nLocation: Seattle, WA (Remote)\nSalary: $150,000 - $200,000\n\nAbout Us:\nCloudScale helps organizations migrate to and manage their cloud infrastructure. We are experts in cloud computing and provide tailored solutions to meet our clients' needs.\n\nJob Description:\nWe are looking for a Cloud Architect to design and implement cloud solutions for our customers. The ideal candidate will have extensive experience with cloud platforms (AWS, Azure, or GCP) and a deep understanding of cloud architecture principles and best practices.\n\nResponsibilities:\n- Design and implement cloud solutions based on customer requirements.\n- Develop cloud architecture blueprints and best practices.\n- Provide technical guidance and support to development teams.\n- Optimize cloud costs and performance.\n\nRequirements:\n- Bachelor's degree in Computer Science or related field.\n- 7+ years of experience in IT, with at least 5 years in cloud architecture.\n- Deep understanding of cloud platforms (AWS, Azure, or GCP).\n- Experience with cloud migration and modernization.\n\nPreferred Qualifications:\n- Cloud certifications (e.g., AWS Certified Solutions Architect, Microsoft Certified Azure Solutions Architect Expert).\n- Experience with DevOps practices and tools.\n- Knowledge of containerization and orchestration technologies (e.g., Docker, Kubernetes).\n\nBenefits:\n- Remote work opportunities.\n- Competitive salary and benefits package.\n- Professional development opportunities.",
+  "required_skills": [
+    "AWS",
+    "Azure",
+    "GCP",
+    "Cloud Architecture",
+    "Terraform",
+    "Kubernetes",
+    "Networking"
+  ],
+  "preferred_skills": [
+    "Docker",
+    "Ansible",
+    "Cloud Security"
+  ],
+  "min_experience": 7,
+  "education_requirement": "Bachelor's",
+  "job_category": "DevOps",
+  "location": "Seattle, WA (Remote)",
+  "salary_range": "$150,000 - $200,000"
+}

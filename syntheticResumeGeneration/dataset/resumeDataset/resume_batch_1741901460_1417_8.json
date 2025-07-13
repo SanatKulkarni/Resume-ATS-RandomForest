@@ -1,0 +1,18 @@
+{
+  "resume_id": "RES008",
+  "resume_text": "NAME: Hannah Gray\nEMAIL: hannah.gray@email.com\nPHONE: (555) 666-7777\n\nSUMMARY:\nEntry-level QA Engineer with a strong understanding of software testing principles and methodologies. Eager to contribute to a dynamic team and learn new technologies.\n\nSKILLS:\nSQL, Python, Java, Git, Selenium, JUnit\n\nEXPERIENCE:\nSigma Inc - QA Intern (2023 - Present)\n- Developed and executed test cases for web applications.\n- Identified and reported software defects.\n\nEDUCATION:\nArizona State University - Bachelor's in Computer Science (2023)",
+  "extracted_skills": [
+    "SQL",
+    "Python",
+    "Java",
+    "Git",
+    "Selenium",
+    "JUnit"
+  ],
+  "experience_years": 0,
+  "education_level": "Bachelor's",
+  "job_history": [
+    "QA Intern"
+  ],
+  "certifications": []
+}

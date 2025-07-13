@@ -1,0 +1,25 @@
+{
+  "job_id": "JD015",
+  "job_title": "AI Research Engineer",
+  "company": "AILabs",
+  "job_description": "Company: AILabs\nPosition: AI Research Engineer\nLocation: Boston, MA\nSalary: $190,000 - $250,000\n\nAbout Us:\nAILabs is pushing the boundaries of what's possible with Artificial Intelligence. We are at the forefront of research in Neural Networks, Computer Vision, and Reinforcement Learning.\n\nJob Description:\nWe are seeking an AI Research Engineer with expertise in Neural Architecture Search and efficient model deployment on edge devices. This role requires a deep understanding of low-precision quantization, model compression, and hardware acceleration to deploy state-of-the-art AI models in resource-constrained environments. You will be responsible for developing novel algorithms that optimize performance while minimizing energy consumption.\n\nResponsibilities:\n- Research and development of Neural Architecture Search (NAS) algorithms for edge deployment.\n- Development and implementation of model compression techniques (quantization, pruning).\n- Optimize AI models for efficient execution on edge devices (e.g., mobile phones, IoT devices).\n- Collaborate with hardware engineers to explore hardware acceleration opportunities.\n- Publish research papers and present results at leading AI conferences.\n\nRequirements:\n- PhD in Computer Science, Electrical Engineering, or related field with a focus on AI.\n- 5+ years of experience in AI research and development, with a focus on edge deployment.\n- Strong understanding of neural networks, deep learning and computer vision.\n- Proficiency in Python and machine learning frameworks like TensorFlow, PyTorch, or JAX.\n- Strong background in low-precision quantization techniques (e.g., INT8, FP16).\n\nPreferred Qualifications:\n- Experience with compiler optimization techniques (e.g., TVM, TensorFlow Lite).\n- Experience with hardware accelerators for AI (e.g., GPUs, NPUs, TPUs).\n- Publications at top-tier AI conferences (e.g., NeurIPS, ICML, ICLR).\n- Experience with Rust.\n\nBenefits:\n- Competitive salary and top-tier benefits package.\n- Opportunity to work on groundbreaking AI research projects.\n- Collaborative and intellectually stimulating work environment.\n- Access to cutting-edge hardware and software resources.",
+  "required_skills": [
+    "Python",
+    "TensorFlow",
+    "PyTorch",
+    "C++",
+    "Neural Networks",
+    "Edge Computing",
+    "Quantization"
+  ],
+  "preferred_skills": [
+    "Rust",
+    "TVM",
+    "TensorFlow Lite"
+  ],
+  "min_experience": 5,
+  "education_requirement": "PhD",
+  "job_category": "Data",
+  "location": "Boston, MA",
+  "salary_range": "$190,000 - $250,000"
+}

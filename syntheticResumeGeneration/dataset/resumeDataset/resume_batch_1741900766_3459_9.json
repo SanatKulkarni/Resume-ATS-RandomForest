@@ -1,0 +1,26 @@
+{
+  "resume_id": "R1009",
+  "resume_text": "NAME: Isaac Martinez\nEMAIL: isaac.martinez@example.com\nPHONE: 555-888-9999\n\nSUMMARY:\nMachine Learning Engineer with 10 years of experience in developing and deploying machine learning models. Expertise in deep learning and natural language processing.\n\nSKILLS:\nPython, TensorFlow, PyTorch, scikit-learn, Pandas, NumPy, SQL, R, AWS, GCP, Kubernetes\n\nEXPERIENCE:\nAI Innovations Inc. - Machine Learning Engineer (2013 - Present)\n- Developed and deployed machine learning models for natural language processing.\n- Researched and implemented new machine learning algorithms.\n\nData Science Corp - Data Scientist (2012 - 2013)\n- Analyzed large datasets to identify trends and insights.\n\nEDUCATION:\nStanford University - PhD in Computer Science (2012)\n\nCERTIFICATIONS:\nGoogle Cloud Professional",
+  "extracted_skills": [
+    "Python",
+    "TensorFlow",
+    "PyTorch",
+    "scikit-learn",
+    "Pandas",
+    "NumPy",
+    "SQL",
+    "R",
+    "AWS",
+    "GCP",
+    "Kubernetes"
+  ],
+  "experience_years": 10,
+  "education_level": "PhD",
+  "job_history": [
+    "Machine Learning Engineer",
+    "Data Scientist"
+  ],
+  "certifications": [
+    "Google Cloud Professional"
+  ]
+}

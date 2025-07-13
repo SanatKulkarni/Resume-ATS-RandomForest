@@ -1,0 +1,20 @@
+{
+  "resume_id": "RES007",
+  "resume_text": "NAME: Grace Hernandez\nEMAIL: grace.hernandez@email.com\nPHONE: 555-654-7890\n\nSUMMARY:\nSecurity Engineer with 6 years of experience protecting systems and data from cyber threats. Proficient in security tools and technologies.\n\nSKILLS:\nCompTIA Security+, Cisco CCNA, Certified Ethical Hacker, Python, AWS\n\nEXPERIENCE:\nCybersecurity Solutions - Security Engineer (2019 - Present)\n- Conducted security assessments and penetration testing.\n- Implemented security controls and incident response plans.\n\nEDUCATION:\nUniversity of Maryland - Bachelor's in Cybersecurity (2019)\n\nCERTIFICATIONS:\nCompTIA Security+, Certified Ethical Hacker\n",
+  "extracted_skills": [
+    "CompTIA Security+",
+    "Cisco CCNA",
+    "Certified Ethical Hacker",
+    "Python",
+    "AWS"
+  ],
+  "experience_years": 6,
+  "education_level": "Bachelor's",
+  "job_history": [
+    "Security Engineer"
+  ],
+  "certifications": [
+    "CompTIA Security+",
+    "Certified Ethical Hacker"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "resume_id": "RES006",
+  "resume_text": "NAME: Frank Garcia\nEMAIL: frank.garcia@email.com\nPHONE: (555) 505-4758\n\nSUMMARY:\nBackend Developer with 7 years of experience in Java and Spring Framework. Building robust and scalable APIs.\n\nSKILLS:\nJava, Spring, Spring Boot, MySQL, AWS, Docker\n\nEXPERIENCE:\nBackend Systems Ltd. - Senior Backend Developer (2017 - Present)\n- Designed and implemented REST APIs using Java and Spring Boot.\n- Deployed applications on AWS infrastructure.\n\nCoding Corp. - Software Developer (2015 - 2017)\n- Developed backend systems using Java and SQL.\n\nEDUCATION:\nCarnegie Mellon University - Master's in Software Engineering (2015)\n",
+  "extracted_skills": [
+    "Java",
+    "Spring",
+    "Spring Boot",
+    "MySQL",
+    "AWS",
+    "Docker"
+  ],
+  "experience_years": 7,
+  "education_level": "Master's",
+  "job_history": [
+    "Senior Backend Developer",
+    "Software Developer"
+  ],
+  "certifications": []
+}

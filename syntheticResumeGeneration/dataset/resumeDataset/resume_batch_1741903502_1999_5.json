@@ -1,0 +1,19 @@
+{
+  "resume_id": "RES005",
+  "resume_text": "NAME: Emily Davis\nEMAIL: emily.davis@email.com\nPHONE: (555) 234-5678\n\nSUMMARY:\nMobile Developer with 2 years of experience in developing iOS and Android applications. Proficient in Swift, Kotlin, and React Native.\n\nSKILLS:\niOS, Android, React Native, Swift, Kotlin, Git, Firebase\n\nEXPERIENCE:\nMobile Apps Ltd. - Mobile Developer (2022 - Present)\n- Developed and maintained iOS and Android applications using React Native.\n- Implemented UI/UX designs and integrated with backend APIs.\n\nMobile Development Intern (2021 - 2022)\n- Assisted in the development of a mobile game using Unity.\n- Wrote documentation and performed code reviews.\n\nEDUCATION:\nUniversity of Michigan - Bachelor's in Computer Science (2022)\n\nCERTIFICATIONS:\nNone",
+  "extracted_skills": [
+    "iOS",
+    "Android",
+    "React Native",
+    "Swift",
+    "Kotlin",
+    "Git"
+  ],
+  "experience_years": 2,
+  "education_level": "Bachelor's",
+  "job_history": [
+    "Mobile Developer",
+    "Mobile Development Intern"
+  ],
+  "certifications": []
+}

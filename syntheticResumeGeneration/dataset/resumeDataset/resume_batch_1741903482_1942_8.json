@@ -1,0 +1,23 @@
+{
+  "resume_id": "RES008",
+  "resume_text": "NAME: Henry Jackson\nEMAIL: henry.jackson@email.com\nPHONE: (555) 890-1234\n\nSUMMARY:\nCloud Architect with 8+ years of experience in designing and implementing cloud solutions. Proficient in AWS, Azure, and GCP.\n\nSKILLS:\nAWS, Azure, GCP, Docker, Kubernetes, Terraform, CloudFormation, Python\n\nEXPERIENCE:\nCloud Solutions Inc. - Cloud Architect (2017 - Present)\n- Designed and implemented cloud solutions using AWS, Azure, and GCP.\n- Automated infrastructure provisioning using Terraform and CloudFormation.\n\nIT Infrastructure Corp. - System Administrator (2015 - 2017)\n- Managed and maintained Windows and Linux servers.\n\nEDUCATION:\nGeorgia Institute of Technology - Master's in Information Systems (2015)\n\nCERTIFICATIONS:\nMicrosoft Azure Administrator",
+  "extracted_skills": [
+    "AWS",
+    "Azure",
+    "GCP",
+    "Docker",
+    "Kubernetes",
+    "Terraform",
+    "CloudFormation",
+    "Python"
+  ],
+  "experience_years": 9,
+  "education_level": "Master's",
+  "job_history": [
+    "Cloud Architect",
+    "System Administrator"
+  ],
+  "certifications": [
+    "Microsoft Azure Administrator"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "resume_id": "RES004",
+  "resume_text": "NAME: Diana Davis\nEMAIL: diana.davis@email.com\nPHONE: (555) 111-2222\n\nSUMMARY:\nDevOps Engineer with 8 years of experience in automating infrastructure and deployment processes. Proven ability to improve system reliability and performance.\n\nSKILLS:\nAWS, Docker, Kubernetes, Terraform, Ansible, Git, Jenkins, Linux\n\nEXPERIENCE:\nHeta Systems - DevOps Engineer (2017 - Present)\n- Implemented infrastructure as code using Terraform and Ansible.\n- Automated deployment processes using Jenkins and Docker.\n\nTheta Corp - System Administrator (2016 - 2017)\n- Managed Linux servers and network infrastructure.\n- Monitored system performance and resolved issues.\n\nEDUCATION:\nUniversity of Texas at Austin - Bachelor's in Computer Engineering (2016)\n\nCERTIFICATIONS:\nCertified Kubernetes Administrator",
+  "extracted_skills": [
+    "AWS",
+    "Docker",
+    "Kubernetes",
+    "Terraform",
+    "Ansible",
+    "Git",
+    "Jenkins",
+    "Linux"
+  ],
+  "experience_years": 8,
+  "education_level": "Bachelor's",
+  "job_history": [
+    "DevOps Engineer",
+    "System Administrator"
+  ],
+  "certifications": [
+    "Certified Kubernetes Administrator"
+  ]
+}

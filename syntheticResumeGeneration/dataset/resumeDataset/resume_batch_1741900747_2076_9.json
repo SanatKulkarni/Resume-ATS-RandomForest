@@ -1,0 +1,19 @@
+{
+  "resume_id": "RESUME009",
+  "resume_text": "NAME: Isabella White\nEMAIL: isabella.white@email.com\nPHONE: (555) 333-4444\n\nSUMMARY:\nQA Engineer with 2 years experience in automated and manual testing, adept at identifying and reporting defects.  Committed to delivering high-quality software.\n\nSKILLS:\nSelenium, JUnit, TestNG, Java, Python, SQL\n\nEXPERIENCE:\nQuality Assurance Corp. - QA Engineer (2021 - Present)\n- Developed and executed automated test scripts using Selenium.\n- Performed manual testing to identify defects.\n\nSoftware Testing Solutions - Junior Tester (2020 - 2021)\n- Assisted in the creation of test plans and test cases.\n- Reported defects and tracked their resolution.\n\nEDUCATION:\nPurdue University - Bachelor's in Software Engineering (2020)\n\nCERTIFICATIONS:\nNone",
+  "extracted_skills": [
+    "Selenium",
+    "JUnit",
+    "TestNG",
+    "Java",
+    "Python",
+    "SQL"
+  ],
+  "experience_years": 2,
+  "education_level": "Bachelor's",
+  "job_history": [
+    "QA Engineer",
+    "Junior Tester"
+  ],
+  "certifications": []
+}

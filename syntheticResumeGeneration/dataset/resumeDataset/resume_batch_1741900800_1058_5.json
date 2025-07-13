@@ -1,0 +1,19 @@
+{
+  "resume_id": "R005",
+  "resume_text": "NAME: Emily Rodriguez\nEMAIL: emily.rodriguez@email.com\nPHONE: (555) 777-8888\n\nSUMMARY:\nPassionate Frontend Developer with 2 years of experience in creating beautiful and responsive user interfaces. Proficient in modern frontend frameworks and tools.\n\nSKILLS:\nHTML5, CSS3, JavaScript, React, Redux, Tailwind CSS, Git\n\nEXPERIENCE:\nFrontend Designs Inc. - Frontend Developer (2022 - Present)\n- Developed user interfaces using React and JavaScript.\n- Implemented responsive designs using HTML5, CSS3, and Tailwind CSS.\n\nWeb Development Corp. - Junior Frontend Developer (2021 - 2022)\n- Assisted in the development of web applications using React and JavaScript.\n\nEDUCATION:\nUniversity of Washington - Bachelor's in Web Development (2021)",
+  "extracted_skills": [
+    "HTML5",
+    "CSS3",
+    "JavaScript",
+    "React",
+    "Tailwind CSS",
+    "Git"
+  ],
+  "experience_years": 2,
+  "education_level": "Bachelor's",
+  "job_history": [
+    "Frontend Developer",
+    "Junior Frontend Developer"
+  ],
+  "certifications": []
+}

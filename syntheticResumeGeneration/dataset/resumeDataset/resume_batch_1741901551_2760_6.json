@@ -1,0 +1,20 @@
+{
+  "resume_id": "R006",
+  "resume_text": "NAME: Fiona Fox\nEMAIL: fiona.fox@email.com\nPHONE: (555) 678-9012\n\nSUMMARY:\nDetail-oriented QA Engineer with 4 years of experience in testing software applications and ensuring quality. Proficient in various testing methodologies and tools.\n\nSKILLS:\nSelenium, JUnit, TestNG, SQL, Java, Python, Git\n\nEXPERIENCE:\nSoftware Testing Solutions - QA Engineer (2020 - Present)\n- Developed and executed test plans and test cases for web and mobile applications.\n- Identified and reported software defects using bug tracking systems.\n\nQA Services Corp - Junior QA Tester (2019 - 2020)\n- Performed manual testing of web applications.\n- Assisted senior QA engineers in automating test cases.\n\nEDUCATION:\nSan Jose State University - Bachelor's in Software Engineering (2019)",
+  "extracted_skills": [
+    "Selenium",
+    "JUnit",
+    "TestNG",
+    "SQL",
+    "Java",
+    "Python",
+    "Git"
+  ],
+  "experience_years": 4,
+  "education_level": "Bachelor's",
+  "job_history": [
+    "QA Engineer",
+    "Junior QA Tester"
+  ],
+  "certifications": []
+}

@@ -1,0 +1,20 @@
+{
+  "resume_id": "RESUME002",
+  "resume_text": "NAME: Bob Williams\nEMAIL: bob.williams@email.com\nPHONE: (555) 987-6543\n\nSUMMARY:\nExperienced Data Scientist with 7+ years in developing and deploying machine learning models. Expertise in statistical analysis and data visualization.\n\nSKILLS:\nPython, scikit-learn, TensorFlow, Pandas, NumPy, R, Tableau\n\nEXPERIENCE:\nData Insights Corp. - Data Scientist (2018 - Present)\n- Developed and deployed machine learning models for fraud detection.\n- Conducted statistical analysis to identify trends and patterns.\n\nAnalytics Solutions - Data Analyst (2016 - 2018)\n- Analyzed large datasets to provide insights for business decisions.\n- Created data visualizations using Tableau.\n\nEDUCATION:\nStanford University - Master's in Data Science (2016)\n\nCERTIFICATIONS:\nNone",
+  "extracted_skills": [
+    "Python",
+    "scikit-learn",
+    "TensorFlow",
+    "Pandas",
+    "NumPy",
+    "R",
+    "Tableau"
+  ],
+  "experience_years": 7,
+  "education_level": "Master's",
+  "job_history": [
+    "Data Scientist",
+    "Data Analyst"
+  ],
+  "certifications": []
+}

@@ -1,0 +1,23 @@
+{
+  "resume_id": "R1009",
+  "resume_text": "NAME: Isaac Green\nEMAIL: isaac.green@email.com\nPHONE: (555) 901-2345\n\nSUMMARY:\nSecurity Engineer with 9 years experience in securing networks and IT systems. \n\nSKILLS:\nPython, C++, AWS, Azure, Security Architecture, Penetration Testing, SIEM\n\nEXPERIENCE:\nSecure Solutions Inc - Security Engineer (2015 - Present)\n- Implemented network security policies.\n- Managed SIEM systems.\n- Performed vulnerability assessments and penetration testing.\n\nEDUCATION:\nTech School - Master's in Cyber Security (2015)\n",
+  "extracted_skills": [
+    "Python",
+    "C++",
+    "AWS",
+    "Azure",
+    "Security Architecture",
+    "Penetration Testing",
+    "SIEM"
+  ],
+  "experience_years": 9,
+  "education_level": "Master's",
+  "job_history": [
+    "Security Engineer"
+  ],
+  "certifications": [
+    "CompTIA Security+",
+    "Certified Ethical Hacker",
+    "Cisco CCNA"
+  ]
+}

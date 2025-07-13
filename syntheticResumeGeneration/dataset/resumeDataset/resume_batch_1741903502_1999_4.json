@@ -1,0 +1,23 @@
+{
+  "resume_id": "RES004",
+  "resume_text": "NAME: David Brown\nEMAIL: david.brown@email.com\nPHONE: (555) 789-0123\n\nSUMMARY:\nFull Stack Developer with 10 years of experience building scalable web applications. Expertise in both front-end and back-end technologies.\n\nSKILLS:\nJavaScript, React, Node.js, Express.js, MongoDB, SQL, HTML5, CSS3, Git, AWS\n\nEXPERIENCE:\nWeb Development Co. - Senior Full Stack Developer (2016 - Present)\n- Designed and developed web applications using React, Node.js, and MongoDB.\n- Led a team of developers in building a new e-commerce platform.\n\nSoftware Solutions Inc. - Full Stack Developer (2014 - 2016)\n- Developed and maintained web applications using Java and Spring.\n- Implemented front-end features using AngularJS.\n\nEDUCATION:\nCarnegie Mellon University - Bachelor's in Computer Science (2014)\n\nCERTIFICATIONS:\nNone",
+  "extracted_skills": [
+    "JavaScript",
+    "React",
+    "Node.js",
+    "Express.js",
+    "MongoDB",
+    "SQL",
+    "HTML5",
+    "CSS3",
+    "Git",
+    "AWS"
+  ],
+  "experience_years": 10,
+  "education_level": "Bachelor's",
+  "job_history": [
+    "Senior Full Stack Developer",
+    "Full Stack Developer"
+  ],
+  "certifications": []
+}

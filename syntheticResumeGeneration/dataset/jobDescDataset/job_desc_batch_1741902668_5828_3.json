@@ -1,0 +1,24 @@
+{
+  "job_id": "JD003",
+  "job_title": "DevOps Engineer",
+  "company": "DevSecOps",
+  "job_description": "Company: DevSecOps\nPosition: DevOps Engineer\nLocation: New York, NY\nSalary: $140,000 - $180,000\n\nAbout Us:\nDevSecOps is a leading provider of DevOps and security solutions. We help organizations automate their software delivery pipelines and improve their security posture. We prioritize innovation and collaboration in our daily work.\n\nJob Description:\nWe are looking for a highly motivated DevOps Engineer to join our team. You will be responsible for building and maintaining our infrastructure, automating deployments, and ensuring the reliability of our systems. The ideal candidate will have a strong understanding of cloud technologies, automation tools, and security best practices.\n\nResponsibilities:\n- Build and maintain infrastructure as code using Terraform or CloudFormation.\n- Automate software deployments using Jenkins or CircleCI.\n- Monitor system performance and identify areas for improvement.\n- Implement security best practices throughout the development lifecycle.\n\nRequirements:\n- Bachelor's degree in Computer Science or related field.\n- 3+ years of experience in DevOps.\n- Experience with cloud platforms (AWS, Azure, GCP).\n- Proficiency with automation tools (Terraform, Ansible, Jenkins).\n\nPreferred Qualifications:\n- Experience with Kubernetes.\n- Experience with security tools like SonarQube or Snyk.\n- Certifications in AWS or Azure.\n\nBenefits:\n- Comprehensive health insurance.\n- Stock options.\n- Paid time off.",
+  "required_skills": [
+    "AWS",
+    "Azure",
+    "GCP",
+    "Docker",
+    "Kubernetes",
+    "Terraform",
+    "Jenkins"
+  ],
+  "preferred_skills": [
+    "Ansible",
+    "SonarQube"
+  ],
+  "min_experience": 3,
+  "education_requirement": "Bachelor's",
+  "job_category": "DevOps",
+  "location": "New York, NY",
+  "salary_range": "$140,000 - $180,000"
+}

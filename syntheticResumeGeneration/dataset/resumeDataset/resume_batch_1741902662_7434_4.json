@@ -1,0 +1,20 @@
+{
+  "resume_id": "RESUME_004",
+  "resume_text": "NAME: David Brown\nEMAIL: david.brown@email.com\nPHONE: (555) 369-1214\n\nSUMMARY:\nResults-driven Software Engineer with 10+ years of experience in developing high-performance applications using Java and related technologies. Strong background in object-oriented design and software architecture.\n\nSKILLS:\nJava, Spring, SQL, MySQL, REST APIs, Git, Docker, Kubernetes\n\nEXPERIENCE:\nTech Innovations Corp. - Senior Software Engineer (2015 - Present)\n- Designed and developed scalable microservices using Java and Spring.\n- Led a team of engineers in building and deploying applications to Kubernetes.\n\nSoftware Solutions Inc. - Software Engineer (2013 - 2015)\n- Developed and maintained enterprise applications using Java.\n- Participated in code reviews and testing.\n\nEDUCATION:\nMassachusetts Institute of Technology (MIT) - Master's in Computer Science (2013)",
+  "extracted_skills": [
+    "Java",
+    "Spring",
+    "SQL",
+    "MySQL",
+    "Git",
+    "Docker",
+    "Kubernetes"
+  ],
+  "experience_years": 10,
+  "education_level": "Master's",
+  "job_history": [
+    "Senior Software Engineer",
+    "Software Engineer"
+  ],
+  "certifications": []
+}

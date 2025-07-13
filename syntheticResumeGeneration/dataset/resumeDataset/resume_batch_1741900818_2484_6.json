@@ -1,0 +1,20 @@
+{
+  "resume_id": "RES006",
+  "resume_text": "NAME: Frank Garcia\nEMAIL: frank.garcia@example.com\nPHONE: 555-777-8888\n\nSUMMARY:\nSecurity Engineer with a focus on vulnerability management and incident response. Dedicated to protecting systems and data from cyber threats.\n\nSKILLS:\nPython, Linux, AWS, CompTIA Security+, Cisco CCNA, Ethical Hacking, SIEM tools\n\nEXPERIENCE:\nSecure Systems Corp - Security Engineer (2021 - Present)\n- Conducted vulnerability assessments and penetration testing.\n- Responded to security incidents and implemented security controls.\n\nEDUCATION:\nArizona State University - Bachelor's in Cybersecurity (2021)\n\nCERTIFICATIONS:\nCompTIA Security+\nCertified Ethical Hacker",
+  "extracted_skills": [
+    "Python",
+    "Linux",
+    "AWS",
+    "Cisco CCNA",
+    "Ethical Hacking"
+  ],
+  "experience_years": 3,
+  "education_level": "Bachelor's",
+  "job_history": [
+    "Security Engineer"
+  ],
+  "certifications": [
+    "CompTIA Security+",
+    "Certified Ethical Hacker"
+  ]
+}

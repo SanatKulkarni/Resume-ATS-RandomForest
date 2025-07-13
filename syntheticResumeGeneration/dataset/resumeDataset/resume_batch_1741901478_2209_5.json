@@ -1,0 +1,20 @@
+{
+  "resume_id": "resume_005",
+  "resume_text": "NAME: Edward Davis\nEMAIL: edward.davis@email.com\nPHONE: (555) 234-5678\n\nSUMMARY:\nFull Stack Developer with 8 years of experience in designing and developing web applications from front to back. Expertise in Java, Spring, and React.\n\nSKILLS:\nJava, Spring, React, JavaScript, SQL, MySQL, Git\n\nEXPERIENCE:\nGlobal Tech Corp. - Full Stack Developer (2017 - Present)\n- Designed and developed web applications using Java, Spring, and React.\n- Integrated with various databases and APIs.\n\nSoftware Solutions Inc. - Backend Developer (2016 - 2017)\n- Developed RESTful APIs using Java and Spring.\n\nEDUCATION:\nCarnegie Mellon University - Bachelor's in Software Engineering (2016)",
+  "extracted_skills": [
+    "Java",
+    "Spring",
+    "React",
+    "JavaScript",
+    "SQL",
+    "MySQL",
+    "Git"
+  ],
+  "experience_years": 8,
+  "education_level": "Bachelor's",
+  "job_history": [
+    "Full Stack Developer",
+    "Backend Developer"
+  ],
+  "certifications": []
+}

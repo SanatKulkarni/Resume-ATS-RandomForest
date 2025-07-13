@@ -1,0 +1,23 @@
+{
+  "resume_id": "RESUME_006",
+  "resume_text": "NAME: Frank Garcia\nEMAIL: frank.garcia@email.com\nPHONE: (555) 505-2423\n\nSUMMARY:\nCloud Architect with 10 years of experience in designing and implementing cloud-based solutions. Expert in AWS and Azure platforms.\n\nSKILLS:\nAWS, Azure, Docker, Kubernetes, Terraform, CloudFormation, Python\n\nEXPERIENCE:\nTheta Solutions - Cloud Architect (2014 - 2018)\n- Designed and implemented cloud infrastructure on AWS.\n- Migrated on-premise applications to the cloud.\n\nIota Technologies - Cloud Architect (2018 - 2024)\n- Developed and maintained cloud infrastructure on Azure.\n- Implemented security best practices in the cloud.\n\nEDUCATION:\nUniversity of Texas at Austin - Bachelor's in Electrical Engineering (2014)\n\nCERTIFICATIONS:\nAWS Certified Solutions Architect, Microsoft Azure Administrator",
+  "extracted_skills": [
+    "AWS",
+    "Azure",
+    "Docker",
+    "Kubernetes",
+    "Terraform",
+    "CloudFormation",
+    "Python"
+  ],
+  "experience_years": 10,
+  "education_level": "Bachelor's",
+  "job_history": [
+    "Cloud Architect",
+    "Cloud Architect"
+  ],
+  "certifications": [
+    "AWS Certified Solutions Architect",
+    "Microsoft Azure Administrator"
+  ]
+}

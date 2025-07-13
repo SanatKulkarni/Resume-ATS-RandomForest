@@ -1,0 +1,25 @@
+{
+  "job_id": "JD007",
+  "job_title": "Data Engineer",
+  "company": "DataFlow",
+  "job_description": "Company: DataFlow\nPosition: Data Engineer\nLocation: Remote\nSalary: $125,000 - $165,000\n\nAbout Us:\nDataFlow is a cutting-edge data engineering company focused on building scalable and reliable data pipelines. We empower businesses with the data they need to thrive.\n\nJob Description:\nWe're seeking a Data Engineer to design, build, and maintain our data infrastructure. This role involves working with large datasets and using cutting-edge technologies to ensure data is accessible and reliable.\n\nResponsibilities:\n- Design and implement scalable data pipelines with tools like Apache Spark and Apache Kafka.\n- Manage and optimize data storage solutions (e.g., Hadoop, Cassandra).\n- Collaborate with data scientists to understand their data needs and provide them with the required data infrastructure.\n- Ensure data quality and reliability through monitoring and testing.\n\nRequirements:\n- 3+ years of experience in data engineering.\n- Strong knowledge of data warehousing concepts and ETL processes.\n- Proficiency in Python and SQL.\n- Experience with big data technologies like Hadoop, Spark, or Kafka.\n\nPreferred Qualifications:\n- Experience with cloud-based data platforms (AWS, Azure, GCP).\n- Experience with data visualization tools like Tableau or Power BI.\n- Experience with Databricks.\n\nBenefits:\n- Competitive salary and benefits.\n- Opportunity to work on challenging and rewarding projects.\n- Flexible work environment.",
+  "required_skills": [
+    "Python",
+    "SQL",
+    "Hadoop",
+    "Spark",
+    "Kafka",
+    "ETL",
+    "Data Warehousing"
+  ],
+  "preferred_skills": [
+    "AWS",
+    "Tableau",
+    "Databricks"
+  ],
+  "min_experience": 3,
+  "education_requirement": "Bachelor's",
+  "job_category": "Data",
+  "location": "Remote",
+  "salary_range": "$125,000 - $165,000"
+}

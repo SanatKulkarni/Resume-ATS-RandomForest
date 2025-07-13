@@ -1,0 +1,20 @@
+{
+  "resume_id": "R1007",
+  "resume_text": "NAME: Grace Hernandez\nEMAIL: grace.hernandez@email.com\nPHONE: (555) 890-1234\n\nSUMMARY:\nMobile Developer with 6 years of experience developing native iOS and Android applications. Passionate about creating user-friendly and engaging mobile experiences.\n\nSKILLS:\niOS, Swift, Android, Java, React Native, Git, Firebase\n\nEXPERIENCE:\nMobile Apps Corp. - Mobile Developer (2019 - Present)\n- Developed and maintained iOS and Android applications using Swift and Java.\n- Integrated third-party APIs and services.\n\nIndie Game Studio - Mobile App Developer (2018- 2019)\n- Developed mobile games using Unity and C#.\n\nEDUCATION:\nOnline Bootcamp Graduate - Mobile App Developer Certification (2018)\n\nCERTIFICATIONS:\nNone",
+  "extracted_skills": [
+    "iOS",
+    "Swift",
+    "Android",
+    "Java",
+    "React Native",
+    "Git",
+    "Firebase"
+  ],
+  "experience_years": 6,
+  "education_level": "High School",
+  "job_history": [
+    "Mobile Developer",
+    "Mobile App Developer"
+  ],
+  "certifications": []
+}

@@ -1,0 +1,16 @@
+{
+  "resume_id": "RESUME_009",
+  "resume_text": "NAME: Isabella Martinez\nEMAIL: isabella.martinez@example.com\nPHONE: (555) 098-7654\n\nSUMMARY:\nJunior Software Engineer with a year of experience, eager to learn and contribute to a dynamic development team.\n\nSKILLS:\nPython, Java, Git, SQL\n\nEXPERIENCE:\nSmall Tech Startup - Intern (2022-2023)\n- Assisted in developing new features for a Java-based application.\n- Wrote unit tests to ensure code quality.\n\nEDUCATION:\nUniversity of Washington - Bachelor's in Computer Science (2023)",
+  "extracted_skills": [
+    "Python",
+    "Java",
+    "Git",
+    "SQL"
+  ],
+  "experience_years": 1,
+  "education_level": "Bachelor's",
+  "job_history": [
+    "Intern"
+  ],
+  "certifications": []
+}

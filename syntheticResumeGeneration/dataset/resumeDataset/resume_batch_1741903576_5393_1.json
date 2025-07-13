@@ -1,0 +1,22 @@
+{
+  "resume_id": "RESUME_001",
+  "resume_text": "NAME: Alice Smith\nEMAIL: alice.smith@email.com\nPHONE: 555-123-4567\n\nSUMMARY:\nHighly motivated Software Engineer with 3 years of experience in developing scalable and maintainable web applications. Passionate about learning new technologies and contributing to team success.\n\nSKILLS:\nPython, Django, JavaScript, React, PostgreSQL, AWS, Git\n\nEXPERIENCE:\nTech Solutions Inc. - Software Engineer (2021 - Present)\n- Developed and maintainedbackend APIs using Django and PostgreSQL.\n- Implemented frontend features using React and JavaScript.\n\nWebDev Corp. - Junior Developer (2020 - 2021)\n- Assisted in developing web applications using Python and Flask.\n- Wrote unit tests and integration tests to ensure code quality.\n\nEDUCATION:\nUniversity of California, Berkeley - Bachelor's in Computer Science (2020)\n\nCERTIFICATIONS:\nAWS Certified Solutions Architect",
+  "extracted_skills": [
+    "Python",
+    "Django",
+    "JavaScript",
+    "React",
+    "PostgreSQL",
+    "AWS",
+    "Git"
+  ],
+  "experience_years": 3,
+  "education_level": "Bachelor's",
+  "job_history": [
+    "Software Engineer",
+    "Junior Developer"
+  ],
+  "certifications": [
+    "AWS Certified Solutions Architect"
+  ]
+}

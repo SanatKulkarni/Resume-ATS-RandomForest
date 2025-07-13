@@ -1,0 +1,15 @@
+{
+  "resume_id": "R009",
+  "resume_text": "NAME: Isabella Moore\nEMAIL: isabella.moore@email.com\nPHONE: (555) 666-7777\n\nSUMMARY:\nZero experience, entry-level graduate looking for a Data Engineer position to apply data management and warehousing skills.\n\nSKILLS:\nPython, SQL, AWS, Pandas, NumPy\n\nEDUCATION:\nNew York University - Bachelor's in Data Science (2024)",
+  "extracted_skills": [
+    "Python",
+    "SQL",
+    "AWS",
+    "Pandas",
+    "NumPy"
+  ],
+  "experience_years": 0,
+  "education_level": "Bachelor's",
+  "job_history": [],
+  "certifications": []
+}

@@ -1,0 +1,23 @@
+{
+  "job_id": "JD010",
+  "job_title": "QA Engineer",
+  "company": "TechCorp",
+  "job_description": "Company: TechCorp\nPosition: QA Engineer\nLocation: Sunnyvale, CA\nSalary: $90,000 - $120,000\n\nAbout Us:\nTechCorp is a global technology company that provides innovative solutions to businesses of all sizes. We are committed to excellence and customer satisfaction.\n\nJob Description:\nWe are looking for a QA Engineer to help ensure the quality of our software products. The ideal candidate will have experience with manual and automated testing.\n\nResponsibilities:\n- Develop and execute test plans and test cases.\n- Perform manual and automated testing.\n- Identify and report bugs.\n- Work with developers to resolve issues.\n\nRequirements:\n- 2+ years of experience in QA testing.\n- Experience with manual and automated testing tools.\n- Strong attention to detail.\n- Excellent communication skills.\n\nPreferred Qualifications:\n- Experience with Selenium or similar automation frameworks.\n- Knowledge of Agile development methodologies.\n- Familiarity with bug tracking systems (Jira).\n\nBenefits:\n- Competitive salary and benefits.\n- Opportunities for professional growth.\n- Collaborative and supportive work environment.",
+  "required_skills": [
+    "Manual Testing",
+    "Automated Testing",
+    "Test Cases",
+    "Bug Reporting",
+    "Jira"
+  ],
+  "preferred_skills": [
+    "Selenium",
+    "Agile",
+    "Test Plans"
+  ],
+  "min_experience": 2,
+  "education_requirement": "Bachelor's",
+  "job_category": "QA",
+  "location": "Sunnyvale, CA",
+  "salary_range": "$90,000 - $120,000"
+}

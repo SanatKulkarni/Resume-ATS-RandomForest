@@ -1,0 +1,21 @@
+{
+  "resume_id": "RES004",
+  "resume_text": "NAME: David Brown\nEMAIL: david.brown@email.com\nPHONE: (555) 369-1215\n\nSUMMARY:\nFull Stack Developer with 10 years of experience. Adept in both frontend and backend development. Strong skills in Agile methodologies.\n\nSKILLS:\nJavaScript, React, Node.js, Express.js, MongoDB, SQL, HTML5, CSS3\n\nEXPERIENCE:\nWeb Development Co. - Senior Developer (2015 - Present)\n- Led the development of several web applications from start to finish.\n- Mentored junior developers.\n\nSoftware Solutions Ltd. - Web Developer (2013 - 2015)\n- Developed and maintained web applications using JavaScript and PHP.\n\nEDUCATION:\nUniversity of Texas at Austin - Bachelor's in Computer Science (2013)\n",
+  "extracted_skills": [
+    "JavaScript",
+    "React",
+    "Node.js",
+    "Express.js",
+    "MongoDB",
+    "SQL",
+    "HTML5",
+    "CSS3"
+  ],
+  "experience_years": 10,
+  "education_level": "Bachelor's",
+  "job_history": [
+    "Senior Developer",
+    "Web Developer"
+  ],
+  "certifications": []
+}

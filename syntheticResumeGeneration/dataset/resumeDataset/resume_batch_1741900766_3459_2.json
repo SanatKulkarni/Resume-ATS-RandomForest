@@ -1,0 +1,20 @@
+{
+  "resume_id": "R1002",
+  "resume_text": "NAME: Bob Williams\nEMAIL: bob.williams@example.com\nPHONE: 555-987-6543\n\nSUMMARY:\nExperienced Frontend Developer with 5+ years of expertise in building responsive and user-friendly web interfaces. Proficient in React and related technologies.\n\nSKILLS:\nReact, JavaScript, HTML5, CSS3, Node.js, Git, Redux\n\nEXPERIENCE:\nWebDev Inc. - Frontend Developer (2018 - Present)\n- Developed and maintained complex UI components using React.\n- Implemented responsive designs using HTML5, CSS3, and JavaScript.\n\nStartup Solutions - Web Developer (2017 - 2018)\n- Created website layouts and user interfaces using HTML, CSS, and JavaScript.\n\nEDUCATION:\nStanford University - Bachelor's in Computer Science (2017)\n\nCERTIFICATIONS:\nNone",
+  "extracted_skills": [
+    "React",
+    "JavaScript",
+    "HTML5",
+    "CSS3",
+    "Node.js",
+    "Git",
+    "Redux"
+  ],
+  "experience_years": 5,
+  "education_level": "Bachelor's",
+  "job_history": [
+    "Frontend Developer",
+    "Web Developer"
+  ],
+  "certifications": []
+}

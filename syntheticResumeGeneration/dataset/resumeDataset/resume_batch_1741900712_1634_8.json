@@ -1,0 +1,20 @@
+{
+  "resume_id": "RESUME_008",
+  "resume_text": "NAME: Henry Lee\nEMAIL: henry.lee@example.com\nPHONE: (555) 123-7890\n\nSUMMARY:\nMachine Learning Engineer with expertise in developing and deploying machine learning models.\n\nSKILLS:\nPython, TensorFlow, PyTorch, scikit-learn, Pandas, NumPy, AWS\n\nEXPERIENCE:\nAI Solutions - Machine Learning Engineer (2019 - Present)\n- Developed and deployed machine learning models for various clients.\n\nData Science Startup - Data Scientist (2017 - 2019)\n- Conducted data analysis and built machine learning models.\n\nEDUCATION:\nScience Institute - PhD in Computer Science (2017)\n\nCERTIFICATIONS:\nNone",
+  "extracted_skills": [
+    "Python",
+    "TensorFlow",
+    "PyTorch",
+    "scikit-learn",
+    "Pandas",
+    "NumPy",
+    "AWS"
+  ],
+  "experience_years": 6,
+  "education_level": "PhD",
+  "job_history": [
+    "Machine Learning Engineer",
+    "Data Scientist"
+  ],
+  "certifications": []
+}

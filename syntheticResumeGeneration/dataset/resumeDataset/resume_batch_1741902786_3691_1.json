@@ -1,0 +1,18 @@
+{
+  "resume_id": "resume_001",
+  "resume_text": "NAME: Alice Johnson\nEMAIL: alice.j@email.com\nPHONE: (555) 123-4567\n\nSUMMARY:\nEntry-level Software Engineer with a passion for developing scalable and efficient applications. Eager to contribute to a dynamic team and learn new technologies.\n\nSKILLS:\nPython, Java, Git, SQL, AWS, Docker\n\nEXPERIENCE:\nAcme Corp - Software Engineer Intern (2022 - 2023)\n- Assisted in developing a new feature for the company's flagship product.\n- Wrote unit tests to ensure code quality.\n\nEDUCATION:\nUniversity of Example - Bachelor's in Computer Science (2023)\n\nCERTIFICATIONS:\nNone",
+  "extracted_skills": [
+    "Python",
+    "Java",
+    "Git",
+    "SQL",
+    "AWS",
+    "Docker"
+  ],
+  "experience_years": 1,
+  "education_level": "Bachelor's",
+  "job_history": [
+    "Software Engineer Intern"
+  ],
+  "certifications": []
+}

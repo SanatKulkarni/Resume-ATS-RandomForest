@@ -1,0 +1,22 @@
+{
+  "resume_id": "RESUME_008",
+  "resume_text": "NAME: Olivia Wilson\nEMAIL: olivia.wilson@email.com\nPHONE: 555-999-0000\n\nSUMMARY:\nSite Reliability Engineer (SRE) with a focus on ensuring the reliability and availability of critical systems. Experienced in monitoring, incident response, and automation.\n\nSKILLS:\nAWS, Kubernetes, Prometheus, Grafana, Python, Ansible, Terraform\n\nEXPERIENCE:\nReliability Solutions - Site Reliability Engineer (2020 - Present)\n- Implemented monitoring and alerting systems using Prometheus and Grafana.\n- Automated incident response processes using Python and Ansible.\n\nOperations Team - Systems Engineer (2018 - 2020)\n- Maintained and monitored Linux servers.\n- Troubleshooted system issues and implemented solutions. Experience with Networking.\n\nEDUCATION:\nGeorgia Institute of Technology - Bachelor's in Computer Engineering (2018)",
+  "extracted_skills": [
+    "AWS",
+    "Kubernetes",
+    "Prometheus",
+    "Grafana",
+    "Python",
+    "Ansible",
+    "Terraform"
+  ],
+  "experience_years": 6,
+  "education_level": "Bachelor's",
+  "job_history": [
+    "Site Reliability Engineer",
+    "Systems Engineer"
+  ],
+  "certifications": [
+    "AWS Certified Solutions Architect"
+  ]
+}

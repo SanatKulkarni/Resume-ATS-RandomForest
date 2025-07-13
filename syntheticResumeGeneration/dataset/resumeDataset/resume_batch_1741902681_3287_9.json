@@ -1,0 +1,15 @@
+{
+  "resume_id": "R1009",
+  "resume_text": "NAME: Isabella Garcia\nEMAIL: isabella.garcia@email.com\nPHONE: (555) 810-2369\n\nSUMMARY:\nEntry-level Data Engineer eager learn and apply my analytical and data skills to build robust data pipelines.\n\nSKILLS:\nPython, SQL, AWS, Pandas, NumPy\n\nEXPERIENCE:\nNone\n\nEDUCATION:\nUniversity of Southern California - Bachelor's in Data Science (2024)\n\nCERTIFICATIONS:\nNone",
+  "extracted_skills": [
+    "Python",
+    "SQL",
+    "AWS",
+    "Pandas",
+    "NumPy"
+  ],
+  "experience_years": 0,
+  "education_level": "Bachelor's",
+  "job_history": [],
+  "certifications": []
+}

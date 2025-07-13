@@ -1,0 +1,21 @@
+{
+  "resume_id": "RES004",
+  "resume_text": "NAME: Diana Davis\nEMAIL: diana.davis@email.com\nPHONE: (555) 321-0987\n\nSUMMARY:\nFull Stack Developer with 9 years of experience in building scalable web applications. Expertise in frontend and backend technologies.\n\nSKILLS:\nJavaScript, React, Node.js, Express.js, MongoDB, SQL, HTML5, CSS3\n\nEXPERIENCE:\nWeb Applications Inc. - Full Stack Developer (2016 - Present)\n- Developed and maintained web applications using React, Node.js, and MongoDB.\n- Designed and implemented RESTful APIs.\n\nSoftware Company - Frontend Developer (2014 - 2016)\n- Built user interfaces using HTML5, CSS3, and JavaScript.\n\nEDUCATION:\nUniversity of Washington - Bachelor's in Computer Science (2014)\n\nCERTIFICATIONS:\nN/A",
+  "extracted_skills": [
+    "JavaScript",
+    "React",
+    "Node.js",
+    "Express.js",
+    "MongoDB",
+    "SQL",
+    "HTML5",
+    "CSS3"
+  ],
+  "experience_years": 9,
+  "education_level": "Bachelor's",
+  "job_history": [
+    "Full Stack Developer",
+    "Frontend Developer"
+  ],
+  "certifications": []
+}

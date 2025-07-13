@@ -1,0 +1,22 @@
+{
+  "resume_id": "R1003",
+  "resume_text": "NAME: Charlie Brown\nEMAIL: charlie.brown@example.com\nPHONE: 555-555-5555\n\nSUMMARY:\nData Scientist with 7 years of experience in developing and deploying machine learning models. Strong analytical and problem-solving skills.\n\nSKILLS:\nPython, TensorFlow, PyTorch, scikit-learn, Pandas, NumPy, SQL, R, Tableau\n\nEXPERIENCE:\nData Insights Corp - Data Scientist (2016 - Present)\n- Developed and deployed machine learning models for fraud detection.\n- Performed data analysis and visualization using Python and Tableau.\n\nAnalytics Solutions - Data Analyst (2015 - 2016)\n- Analyzed large datasets to identify trends and insights.\n- Created reports and presentations to communicate findings to stakeholders.\n\nEDUCATION:\nMassachusetts Institute of Technology - Master's in Data Science (2015)\n\nCERTIFICATIONS:\nNone",
+  "extracted_skills": [
+    "Python",
+    "TensorFlow",
+    "PyTorch",
+    "scikit-learn",
+    "Pandas",
+    "NumPy",
+    "SQL",
+    "R",
+    "Tableau"
+  ],
+  "experience_years": 7,
+  "education_level": "Master's",
+  "job_history": [
+    "Data Scientist",
+    "Data Analyst"
+  ],
+  "certifications": []
+}

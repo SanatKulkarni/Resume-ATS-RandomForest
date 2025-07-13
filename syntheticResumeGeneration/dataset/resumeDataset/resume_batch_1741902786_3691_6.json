@@ -1,0 +1,19 @@
+{
+  "resume_id": "resume_006",
+  "resume_text": "NAME: Frank Jones\nEMAIL: frank.j@email.com\nPHONE: (555) 567-8901\n\nSUMMARY:\nBackend Developer proficient in Java and Spring. Experienced in building scalable and robust APIs.\n\nSKILLS:\nJava, Spring, SQL, AWS, Docker, Kubernetes\n\nEXPERIENCE:\nSoftware Solutions LLC - Backend Developer (2017 - Present)\n- Developed and maintained RESTful APIs.\n- Implemented microservices architecture.\nCode Factory - Junior Developer (2015 - 2017)\n- Assisted in developing web applications.\n\nEDUCATION:\nTech College - Bachelor's in Software Engineering (2015)\n\nCERTIFICATIONS:\nNone",
+  "extracted_skills": [
+    "Java",
+    "Spring",
+    "SQL",
+    "AWS",
+    "Docker",
+    "Kubernetes"
+  ],
+  "experience_years": 8,
+  "education_level": "Bachelor's",
+  "job_history": [
+    "Backend Developer",
+    "Junior Developer"
+  ],
+  "certifications": []
+}

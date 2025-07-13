@@ -1,0 +1,23 @@
+{
+  "resume_id": "RES006",
+  "resume_text": "NAME: Frank Brown\nEMAIL: frank.brown@email.com\nPHONE: 555-825-9631\n\nSUMMARY:\nCloud Architect with 8 years of experience designing and implementing cloud-based solutions. Expertise in AWS, Azure, and GCP.\n\nSKILLS:\nAWS, Azure, GCP, Docker, Kubernetes, Terraform, CloudFormation, Python\n\nEXPERIENCE:\nCloud Architects Inc. - Cloud Architect (2018 - Present)\n- Designed and implemented cloud-based solutions for enterprise clients.\n- Provided technical leadership and guidance to development teams.\n\nInfrastructure Solutions Co. - Senior Engineer (2016 - 2018)\n- Managed and maintained infrastructure for various clients.\n- Migrated applications to the cloud.\n\nEDUCATION:\nGeorgia Institute of Technology - Master's in Computer Science (2016)\n\nCERTIFICATIONS:\nGoogle Cloud Professional",
+  "extracted_skills": [
+    "AWS",
+    "Azure",
+    "GCP",
+    "Docker",
+    "Kubernetes",
+    "Terraform",
+    "CloudFormation",
+    "Python"
+  ],
+  "experience_years": 8,
+  "education_level": "Master's",
+  "job_history": [
+    "Cloud Architect",
+    "Senior Engineer"
+  ],
+  "certifications": [
+    "Google Cloud Professional"
+  ]
+}

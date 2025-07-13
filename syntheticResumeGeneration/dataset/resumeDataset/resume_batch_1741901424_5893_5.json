@@ -1,0 +1,24 @@
+{
+  "resume_id": "RES005",
+  "resume_text": "NAME: Michael Brown\nEMAIL: michael.brown@email.com\nPHONE: 555-789-0123\n\nSUMMARY:\nExperienced Cloud Architect with a proven track record of designing and implementing scalable and secure cloud solutions. Seeking a leadership role where I can drive cloud adoption and transformation.\n\nSKILLS:\nAWS, Azure, GCP, Docker, Kubernetes, Terraform, CloudFormation, Python\n\nEXPERIENCE:\nGlobal Cloud Services - Cloud Architect (2017 - Present)\n- Designed and implemented cloud solutions for enterprise clients.\n- Led cloud migration projects and provided technical guidance.\nSoftware Consulting Group - Senior Software Engineer (2015 - 2017)\n- Developed and maintained web applications using Java and Spring.\n- Implemented RESTful APIs and integrated with databases.\n\nEDUCATION:\nCarnegie Mellon University - Master's in Computer Science (2015)\n\nCERTIFICATIONS:\nAWS Certified Solutions Architect, Google Cloud Professional\n",
+  "extracted_skills": [
+    "AWS",
+    "Azure",
+    "GCP",
+    "Docker",
+    "Kubernetes",
+    "Terraform",
+    "CloudFormation",
+    "Python"
+  ],
+  "experience_years": 9,
+  "education_level": "Master's",
+  "job_history": [
+    "Cloud Architect",
+    "Senior Software Engineer"
+  ],
+  "certifications": [
+    "AWS Certified Solutions Architect",
+    "Google Cloud Professional"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "resume_id": "RES003",
+  "resume_text": "NAME: Charlie Brown\nEMAIL: charlie.brown@email.com\nPHONE: (555) 555-5555\n\nSUMMARY:\nData Scientist with a background in machine learning and data analysis. Expertise in developing and deploying models for predictive analytics and data-driven decision making.\n\nSKILLS:\nPython, scikit-learn, TensorFlow, Pandas, NumPy, R, Tableau, SQL\n\nEXPERIENCE:\nEpsilon Analytics - Data Scientist (2020 - Present)\n- Developed machine learning models for fraud detection.\n- Performed data analysis and visualization using Python and Tableau.\n\nZeta Corp - Data Analyst (2019 - 2020)\n- Collected and analyzed data from various sources.\n- Created reports and dashboards to track key performance indicators.\n\nEDUCATION:\nMassachusetts Institute of Technology (MIT) - Master's in Data Science (2019)",
+  "extracted_skills": [
+    "Python",
+    "scikit-learn",
+    "TensorFlow",
+    "Pandas",
+    "NumPy",
+    "R",
+    "Tableau",
+    "SQL"
+  ],
+  "experience_years": 4,
+  "education_level": "Master's",
+  "job_history": [
+    "Data Scientist",
+    "Data Analyst"
+  ],
+  "certifications": []
+}

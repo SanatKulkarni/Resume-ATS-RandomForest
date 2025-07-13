@@ -1,0 +1,23 @@
+{
+  "job_id": "JD010",
+  "job_title": "Technical Project Manager",
+  "company": "TechCorp",
+  "job_description": "Company: TechCorp\nPosition: Technical Project Manager\nLocation: San Jose, CA\nSalary: $140,000 - $180,000\n\nAbout Us:\nTechCorp is a global technology leader, delivering innovative solutions across various industries.  We foster a culture of innovation, collaboration, and continuous learning. We are committed to making a positive impact on the world.\n\nJob Description:\nWe are seeking an experienced Technical Project Manager to lead complex software development projects. You will be responsible for planning, executing, and delivering projects on time and within budget. The ideal candidate will have strong communication, leadership, and problem-solving skills.\n\nResponsibilities:\n- Define project scope, goals, and deliverables.\n- Develop and manage project plans, timelines, and budgets.\n- Communicate project status to stakeholders.\n- Identify and mitigate project risks.\n\nRequirements:\n- Bachelor's degree in Computer Science or related field.\n- 5+ years of experience in project management.\n- Strong understanding of software development methodologies (Agile, Scrum, Waterfall).\n- Excellent communication and leadership skills.\n\nPreferred Qualifications:\n- Project Management Professional (PMP) certification.\n- Experience with Jira, Confluence or similar project management tools.\n- Experience managing cross-functional teams.\n\nBenefits:\n- Comprehensive benefits package.\n- Stock options.\n- Opportunities for professional growth.",
+  "required_skills": [
+    "Agile",
+    "Scrum",
+    "Project Management",
+    "Communication",
+    "Leadership",
+    "Risk Management"
+  ],
+  "preferred_skills": [
+    "PMP",
+    "Jira"
+  ],
+  "min_experience": 5,
+  "education_requirement": "Bachelor's",
+  "job_category": "Management",
+  "location": "San Jose, CA",
+  "salary_range": "$140,000 - $180,000"
+}

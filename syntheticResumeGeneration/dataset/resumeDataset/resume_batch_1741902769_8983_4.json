@@ -1,0 +1,21 @@
+{
+  "resume_id": "RESUME_004",
+  "resume_text": "NAME: David Wilson\nEMAIL: david.wilson@example.com\nPHONE: (555) 789-1234\n\nSUMMARY:\nFull Stack Developer with 10 years of experience in building scalable web applications from conception to deployment. Proficient in both frontend and backend technologies.\n\nSKILLS:\nJava, JavaScript, React, Node.js, Spring, MySQL, AWS, Docker\n\nEXPERIENCE:\nWebSolutions Corp - Senior Software Engineer (2015 - Present)\n- Led development teams in building complex web applications using Java and React.\n- Implemented scalable backend solutions using Spring and AWS.\nTechStart Inc - Software Engineer (2013 - 2015)\n- Developed frontend features using JavaScript and HTML/CSS.\n\nEDUCATION:\nUniversity of Texas at Austin - Bachelor's in Computer Science (2013)",
+  "extracted_skills": [
+    "Java",
+    "JavaScript",
+    "React",
+    "Node.js",
+    "Spring",
+    "MySQL",
+    "AWS",
+    "Docker"
+  ],
+  "experience_years": 10,
+  "education_level": "Bachelor's",
+  "job_history": [
+    "Senior Software Engineer",
+    "Software Engineer"
+  ],
+  "certifications": []
+}

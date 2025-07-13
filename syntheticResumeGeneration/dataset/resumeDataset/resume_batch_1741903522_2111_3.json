@@ -1,0 +1,22 @@
+{
+  "resume_id": "R003",
+  "resume_text": "NAME: Carol Davis\nEMAIL: carol.davis@example.com\nPHONE: (555) 456-7890\n\nSUMMARY:\nDedicated Frontend Developer with 5 years of experience building responsive and user-friendly web applications. Proficient in modern JavaScript frameworks and UI/UX design principles.\n\nSKILLS:\nJavaScript, React, Angular, HTML5, CSS3, SASS, jQuery, Bootstrap, Git\n\nEXPERIENCE:\nWeb Design Agency - Frontend Developer (2020 - Present)\n- Developed and maintained web applications using React and Angular.\n- Collaborated with designers to create visually appealing and user-friendly interfaces.\n\nStartup Inc - Junior Frontend Developer (2019 - 2020)\n- Assisted in the development of web applications using HTML5, CSS3, and JavaScript.\n- Implemented responsive design principles to ensure cross-browser compatibility.\n\nEDUCATION:\nUniversity of Washington - Bachelor's in Computer Science (2019)\n\nCERTIFICATIONS:\nNone",
+  "extracted_skills": [
+    "JavaScript",
+    "React",
+    "Angular",
+    "HTML5",
+    "CSS3",
+    "SASS",
+    "jQuery",
+    "Bootstrap",
+    "Git"
+  ],
+  "experience_years": 5,
+  "education_level": "Bachelor's",
+  "job_history": [
+    "Frontend Developer",
+    "Junior Frontend Developer"
+  ],
+  "certifications": []
+}

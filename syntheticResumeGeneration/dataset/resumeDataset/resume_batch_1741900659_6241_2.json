@@ -1,0 +1,21 @@
+{
+  "resume_id": "R1002",
+  "resume_text": "NAME: Bob Williams\nEMAIL: bob.williams@email.com\nPHONE: (555) 234-5678\n\nSUMMARY:\nExperienced Data Scientist with 7 years in developing machine learning models and performing data analysis. Proficient in Python, R, and various machine learning libraries.\n\nSKILLS:\nPython, R, TensorFlow, scikit-learn, Pandas, NumPy, SQL, Tableau\n\nEXPERIENCE:\nData Insights Co - Data Scientist (2019 - Present)\n- Developed and deployed machine learning models for predictive analysis.\n- Performed data cleaning, transformation, and visualization.\nAnalytics Ltd - Data Analyst (2017 - 2019)\n- Analyzed large datasets to identify trends and patterns.\n- Created reports and dashboards for stakeholders.\n\nEDUCATION:\nState University - Master's in Data Science (2017)\n",
+  "extracted_skills": [
+    "Python",
+    "R",
+    "TensorFlow",
+    "scikit-learn",
+    "Pandas",
+    "NumPy",
+    "SQL",
+    "Tableau"
+  ],
+  "experience_years": 7,
+  "education_level": "Master's",
+  "job_history": [
+    "Data Scientist",
+    "Data Analyst"
+  ],
+  "certifications": []
+}

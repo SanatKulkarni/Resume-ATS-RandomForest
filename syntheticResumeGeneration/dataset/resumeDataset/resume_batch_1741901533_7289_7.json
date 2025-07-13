@@ -1,0 +1,17 @@
+{
+  "resume_id": "RES007",
+  "resume_text": "NAME: Grace Hernandez\nEMAIL: grace.hernandez@email.com\nPHONE: 555-432-8901\n\nSUMMARY:\nBackend Developer specializing in Java and Spring, focused on creating scalable and robust server-side applications.\n\nSKILLS:\nJava, Spring, SQL, MySQL, AWS\n\nEXPERIENCE:\nTech Solutions - Backend Developer (2019 - Present)\n- Developed and maintained backend APIs using Java and Spring Framework.\n- Optimized database performance and ensured data integrity.\n\nEDUCATION:\nTexas A&M - Bachelor's in Computer Science (2019)",
+  "extracted_skills": [
+    "Java",
+    "Spring",
+    "SQL",
+    "MySQL",
+    "AWS"
+  ],
+  "experience_years": 6,
+  "education_level": "Bachelor's",
+  "job_history": [
+    "Backend Developer"
+  ],
+  "certifications": []
+}

@@ -1,0 +1,16 @@
+{
+  "resume_id": "RES005",
+  "resume_text": "NAME: Ethan Garcia\nEMAIL: ethan.garcia@email.com\nPHONE: (555) 234-5678\n\nSUMMARY:\nMobile Developer with expertise in building iOS applications using Swift. Experienced in the entire mobile development lifecycle.\n\nSKILLS:\nSwift, iOS, React Native, Git\n\nEXPERIENCE:\nMobile Apps Ltd. - Mobile Developer (2019 - Present)\n- Developed and maintained multiple iOS applications using Swift.\n- Implemented new features and fixed bugs.\n\nInternship at Tech Company (2018 - 2019)\n- Assisted senior developers in building mobile applications.\n\nEDUCATION:\nSan Jose State University - Bachelor's in Software Engineering (2019)\n",
+  "extracted_skills": [
+    "Swift",
+    "iOS",
+    "React Native",
+    "Git"
+  ],
+  "experience_years": 4,
+  "education_level": "Bachelor's",
+  "job_history": [
+    "Mobile Developer"
+  ],
+  "certifications": []
+}

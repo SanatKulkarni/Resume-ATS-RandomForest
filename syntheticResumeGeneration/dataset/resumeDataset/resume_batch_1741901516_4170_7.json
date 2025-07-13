@@ -1,0 +1,21 @@
+{
+  "resume_id": "R007",
+  "resume_text": "NAME: Grace White\nEMAIL: grace.white@email.com\nPHONE: (555) 876-5432\n\nSUMMARY:\nFrontend Developer specializing in creating responsive and user-friendly web applications. Expertise in React and related technologies.\n\nSKILLS:\nReact, JavaScript, HTML5, CSS3, SASS, Redux, TypeScript, Git\n\nEXPERIENCE:\nFrontend Focus - Lead Frontend Developer (2021 - Present)\n- Led the development of the user interface for a large-scale web application using React.\n- Implemented state management using Redux and TypeScript.\n\nWeb Solutions Inc. - Frontend Developer (2019 - 2021)\n- Developed and maintained web applications using HTML5, CSS3, and JavaScript.\n- Collaborated with designers to create visually appealing and user-friendly interfaces.\n\nEDUCATION:\nUniversity of Washington - Bachelor's in Web Development (2019)\n\nCERTIFICATIONS:",
+  "extracted_skills": [
+    "React",
+    "JavaScript",
+    "HTML5",
+    "CSS3",
+    "SASS",
+    "Redux",
+    "TypeScript",
+    "Git"
+  ],
+  "experience_years": 5,
+  "education_level": "Bachelor's",
+  "job_history": [
+    "Lead Frontend Developer",
+    "Frontend Developer"
+  ],
+  "certifications": []
+}

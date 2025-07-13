@@ -1,0 +1,20 @@
+{
+  "resume_id": "RES001",
+  "resume_text": "NAME: Alice Smith\nEMAIL: alice.smith@email.com\nPHONE: (555) 123-4567\n\nSUMMARY:\nPassionate Software Engineer with 3 years of experience in developing and maintaining web applications. Seeking to leverage expertise in frontend and backend technologies to contribute to a dynamic team.\n\nSKILLS:\nJavaScript, React, Node.js, SQL, HTML5, CSS3, Git\n\nEXPERIENCE:\nTech Solutions Inc. - Frontend Developer (2021 - Present)\n- Developed and maintained user interfaces for web applications using React.\n- Collaborated with backend developers to integrate APIs and ensure data consistency.\n\nWebDev Co. - Junior Web Developer (2020 - 2021)\n- Assisted in the development of websites using HTML5, CSS3, and JavaScript.\n- Contributed to the testing and debugging of web applications.\n\nEDUCATION:\nUniversity of California, Berkeley - Bachelor's in Computer Science (2020)\n\nCERTIFICATIONS:\nNone",
+  "extracted_skills": [
+    "JavaScript",
+    "React",
+    "Node.js",
+    "SQL",
+    "HTML5",
+    "CSS3",
+    "Git"
+  ],
+  "experience_years": 3,
+  "education_level": "Bachelor's",
+  "job_history": [
+    "Frontend Developer",
+    "Junior Web Developer"
+  ],
+  "certifications": []
+}

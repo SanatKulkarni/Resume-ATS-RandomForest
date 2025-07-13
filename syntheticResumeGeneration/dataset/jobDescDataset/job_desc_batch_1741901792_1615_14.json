@@ -1,0 +1,23 @@
+{
+  "job_id": "JD-014",
+  "job_title": "UI/UX Developer",
+  "company": "WebFront",
+  "job_description": "Company: WebFront\nPosition: UI/UX Developer\nLocation: Denver, CO (Remote)\nSalary: $100,000 - $130,000\n\nAbout Us:\nWebFront is a leading provider of user-friendly web applications and progressive web apps. We focus on creating the best user experiences through innovation and exceptional UI design. We value creativity, collaboration, and continuous learning.\n\nJob Description:\nWe are looking for a UI/UX Developer to join our team. You will be responsible for designing and developing user interfaces for our web applications. The ideal candidate will have a strong design sense and experience with HTML, CSS, and JavaScript.\n\nResponsibilities:\n- Design and develop user interfaces for web applications\n- Conduct user research and usability testing\n- Create wireframes, mockups, and prototypes\n- Collaborate with developers and product managers\n\nRequirements:\n- Bachelor's degree in Design, Computer Science, or related field\n- 2+ years of experience in UI/UX development\n- Proficient in HTML, CSS, and JavaScript\n- Experience with design tools (e.g., Figma, Adobe XD)\n\nPreferred Qualifications:\n- Experience with React or Angular\n- Experience with user research methodologies\n\nBenefits:\n- Competitive salary and benefits package\n- Opportunity to work on cutting-edge technologies\n- Collaborative and supportive work environment",
+  "required_skills": [
+    "HTML5",
+    "CSS3",
+    "JavaScript",
+    "UI Design",
+    "UX Design",
+    "Figma"
+  ],
+  "preferred_skills": [
+    "React",
+    "Angular"
+  ],
+  "min_experience": 2,
+  "education_requirement": "Bachelor's",
+  "job_category": "Frontend",
+  "location": "Denver, CO (Remote)",
+  "salary_range": "$100,000 - $130,000"
+}

@@ -1,0 +1,24 @@
+{
+  "job_id": "JD002",
+  "job_title": "Data Scientist",
+  "company": "AnalyticsHub",
+  "job_description": "Company: AnalyticsHub\nPosition: Data Scientist\nLocation: Remote\nSalary: $130,000 - $170,000\n\nAbout Us:\nAnalyticsHub is a data-driven company focused on providing insights and solutions to businesses across various industries. We are committed to leveraging the power of data to drive informed decision-making. Our team is composed of talented data scientists, engineers, and analysts.\n\nJob Description:\nWe are seeking a passionate and experienced Data Scientist to join our growing team. You will be responsible for developing and implementing machine learning models to solve complex business problems. The ideal candidate will have a strong background in statistical modeling, machine learning, and data visualization.\n\nResponsibilities:\n- Develop and implement machine learning models using Python and relevant libraries.\n- Conduct exploratory data analysis to identify trends and insights.\n- Communicate findings to stakeholders through clear and concise visualizations.\n- Collaborate with data engineers to build and maintain data pipelines.\n\nRequirements:\n- Master's degree in Statistics, Mathematics, Computer Science, or related field.\n- 3+ years of experience in data science.\n- Strong proficiency in Python and machine learning libraries (scikit-learn, TensorFlow, PyTorch).\n- Experience with data visualization tools (Tableau, Power BI).\n\nPreferred Qualifications:\n- Experience with cloud platforms (AWS, Azure, GCP).\n- Experience with deep learning.\n- Experience with natural language processing.\n\nBenefits:\n- Flexible work environment.\n- Generous benefits package.\n- Opportunities for professional development.",
+  "required_skills": [
+    "Python",
+    "scikit-learn",
+    "TensorFlow",
+    "Pandas",
+    "NumPy",
+    "SQL"
+  ],
+  "preferred_skills": [
+    "Tableau",
+    "Power BI",
+    "AWS"
+  ],
+  "min_experience": 3,
+  "education_requirement": "Master's",
+  "job_category": "Data",
+  "location": "Remote",
+  "salary_range": "$130,000 - $170,000"
+}

@@ -1,0 +1,23 @@
+{
+  "job_id": "JD006",
+  "job_title": "Security Engineer",
+  "company": "SecurityFirst",
+  "job_description": "Company: SecurityFirst\nPosition: Security Engineer\nLocation: Chicago, IL\nSalary: $130,000 - $170,000\n\nAbout Us:\nSecurityFirst is dedicated to providing top-notch cybersecurity solutions and services. We help organizations protect their assets and data from cyber threats. We value innovation, integrity, and a proactive approach to security.\n\nJob Description:\nWe are looking for a proactive Security Engineer to join our team. You will be responsible for identifying and mitigating security vulnerabilities in our systems and applications. The ideal candidate will have a strong understanding of security principles, network protocols, and penetration testing techniques.\n\nResponsibilities:\n- Conduct vulnerability assessments and penetration testing.\n- Implement security controls and monitor system logs.\n- Develop and maintain security policies and procedures.\n- Respond to security incidents and provide remediation guidance.\n\nRequirements:\n- Bachelor's degree in Computer Science or related field.\n- 3+ years of experience in security engineering.\n- Strong understanding of security principles and best practices.\n- Experience with security tools like Nessus, Burp Suite, or Metasploit.\n\nPreferred Qualifications:\n- Security certifications (CISSP, CEH, OSCP).\n- Experience with cloud security (AWS, Azure, GCP).\n- Experience with incident response.\n\nBenefits:\n- Competitive salary and benefits package.\n- Opportunities for professional development and certifications.\n- Collaborative and supportive work environment.",
+  "required_skills": [
+    "Python",
+    "Linux",
+    "Network Security",
+    "Penetration Testing",
+    "Vulnerability Assessment",
+    "Security Auditing"
+  ],
+  "preferred_skills": [
+    "AWS",
+    "CISSP"
+  ],
+  "min_experience": 3,
+  "education_requirement": "Bachelor's",
+  "job_category": "Security",
+  "location": "Chicago, IL",
+  "salary_range": "$130,000 - $170,000"
+}

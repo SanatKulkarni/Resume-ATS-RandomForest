@@ -1,0 +1,23 @@
+{
+  "job_id": "JD007",
+  "job_title": "Data Engineer",
+  "company": "DataFlow",
+  "job_description": "Company: DataFlow\nPosition: Data Engineer\nLocation: Seattle, WA\nSalary: $135,000 - $175,000\n\nAbout Us:\nDataFlow provides innovative data solutions to help businesses make better decisions. We are passionate about data and dedicated to providing our clients with the best possible service.\n\nJob Description:\nWe are looking for a Data Engineer to help build and maintain our data pipelines and infrastructure. The ideal candidate will have experience with data warehousing, ETL processes, and cloud computing.\n\nResponsibilities:\n- Design, develop, and maintain data pipelines.\n- Build and manage data warehouses.\n- Implement ETL processes.\n- Monitor data quality and performance.\n\nRequirements:\n- 3+ years of experience in data engineering.\n- Proficiency in SQL and Python.\n- Experience with data warehousing technologies (Snowflake, Redshift).\n- Familiarity with cloud computing platforms (AWS, Azure, GCP).\n\nPreferred Qualifications:\n- Experience with big data technologies (Spark, Hadoop).\n- Knowledge of data governance principles.\n- Familiarity with DevOps practices.\n\nBenefits:\n- Competitive salary and benefits.\n- Opportunity to work on challenging projects.\n- Collaborative and supportive work environment.",
+  "required_skills": [
+    "SQL",
+    "Python",
+    "AWS",
+    "ETL",
+    "Data Warehousing"
+  ],
+  "preferred_skills": [
+    "Spark",
+    "Hadoop",
+    "Data Governance"
+  ],
+  "min_experience": 3,
+  "education_requirement": "Bachelor's",
+  "job_category": "Data",
+  "location": "Seattle, WA",
+  "salary_range": "$135,000 - $175,000"
+}

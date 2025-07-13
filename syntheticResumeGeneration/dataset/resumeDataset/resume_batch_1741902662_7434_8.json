@@ -1,0 +1,20 @@
+{
+  "resume_id": "RESUME_008",
+  "resume_text": "NAME: Henry Moore\nEMAIL: henry.moore@email.com\nPHONE: (555) 741-5678\n\nSUMMARY:\nQA Engineer with 6 years of experience in software testing and quality assurance. Strong background in developing and executing test plans and test cases.\n\nSKILLS:\nSelenium, JUnit, TestNG, SQL, Python, Git, Jenkins\n\nEXPERIENCE:\nQuality Assurance Corp. - QA Engineer (2018 - Present)\n- Developed and executed test plans and test cases for web applications.\n- Automated testing using Selenium and JUnit.\n\nSoftware Testing Inc. - Junior QA Engineer (2017 - 2018)\n- Performed manual testing of software applications.\n- Reported bugs and tracked issues.\n\nEDUCATION:\nOhio State University - Bachelor's in Software Engineering (2017)",
+  "extracted_skills": [
+    "Selenium",
+    "JUnit",
+    "TestNG",
+    "SQL",
+    "Python",
+    "Git",
+    "Jenkins"
+  ],
+  "experience_years": 6,
+  "education_level": "Bachelor's",
+  "job_history": [
+    "QA Engineer",
+    "Junior QA Engineer"
+  ],
+  "certifications": []
+}

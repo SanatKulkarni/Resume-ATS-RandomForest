@@ -1,0 +1,19 @@
+{
+  "resume_id": "RES008",
+  "resume_text": "NAME: Henry Martinez\nEMAIL: henry.martinez@email.com\nPHONE: (555) 876-5432\n\nSUMMARY:\nMobile Developer with 2 years of experience in building iOS and Android applications. Proficient in Swift and Kotlin.\n\nSKILLS:\niOS, Android, Swift, Kotlin, React Native, Git\n\nEXPERIENCE:\nMobile Apps Inc - Mobile Developer (2022 - Present)\n- Developed and maintained iOS and Android applications.\n- Implemented user interfaces using Swift and Kotlin.\n\nApp Development Co - Mobile Developer Intern (2021-2022)\n- Assisted in the development of mobile applications using React Native.\n\nEDUCATION:\nUniversity of Michigan - Bachelor's in Computer Science (2022)",
+  "extracted_skills": [
+    "iOS",
+    "Android",
+    "Swift",
+    "Kotlin",
+    "React Native",
+    "Git"
+  ],
+  "experience_years": 2,
+  "education_level": "Bachelor's",
+  "job_history": [
+    "Mobile Developer",
+    "Mobile Developer Intern"
+  ],
+  "certifications": []
+}

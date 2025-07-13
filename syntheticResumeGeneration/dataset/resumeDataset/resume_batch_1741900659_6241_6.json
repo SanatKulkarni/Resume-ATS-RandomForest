@@ -1,0 +1,23 @@
+{
+  "resume_id": "R1006",
+  "resume_text": "NAME: Fiona Smith\nEMAIL: fiona.smith@email.com\nPHONE: (555) 678-9012\n\nSUMMARY:\nExperienced Cloud Architect with 12 years of experience designing and implementing cloud solutions. Strong knowledge of AWS, Azure, and GCP.\n\nSKILLS:\nAWS, Azure, GCP, Docker, Kubernetes, Terraform, Python\n\nEXPERIENCE:\nCloud Architects Ltd - Cloud Architect (2012 - Present)\n- Designed and implemented cloud infrastructure solutions.\n- Provided technical leadership and guidance.\n\nEDUCATION:\nNational University - Master's in Computer Engineering (2012)\n",
+  "extracted_skills": [
+    "AWS",
+    "Azure",
+    "GCP",
+    "Docker",
+    "Kubernetes",
+    "Terraform",
+    "Python"
+  ],
+  "experience_years": 12,
+  "education_level": "Master's",
+  "job_history": [
+    "Cloud Architect"
+  ],
+  "certifications": [
+    "AWS Certified Solutions Architect",
+    "Google Cloud Professional",
+    "Microsoft Azure Administrator"
+  ]
+}

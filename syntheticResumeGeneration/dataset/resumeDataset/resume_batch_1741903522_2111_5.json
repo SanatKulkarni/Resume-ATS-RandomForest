@@ -1,0 +1,18 @@
+{
+  "resume_id": "R005",
+  "resume_text": "NAME: Emily Rodriguez\nEMAIL: emily.rodriguez@example.com\nPHONE: (555) 789-0123\n\nSUMMARY:\nEnthusiastic Mobile Developer with 2 years of experience building native iOS and Android applications. Passionate about creating innovative and user-friendly mobile experiences.\n\nSKILLS:\niOS, Android, Swift, Kotlin, React Native, Git\n\nEXPERIENCE:\nMobile Apps Inc - Mobile Developer (2022 - Present)\n- Developed and maintained native iOS applications using Swift.\n- Developed and maintained native Android applications using Kotlin.\n\nEDUCATION:\nUniversity of Texas at Austin - Bachelor's in Computer Science (2022)\n\nCERTIFICATIONS:\nNone",
+  "extracted_skills": [
+    "iOS",
+    "Android",
+    "Swift",
+    "Kotlin",
+    "React Native",
+    "Git"
+  ],
+  "experience_years": 2,
+  "education_level": "Bachelor's",
+  "job_history": [
+    "Mobile Developer"
+  ],
+  "certifications": []
+}

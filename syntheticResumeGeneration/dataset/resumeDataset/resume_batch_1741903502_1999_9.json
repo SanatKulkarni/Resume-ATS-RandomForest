@@ -1,0 +1,20 @@
+{
+  "resume_id": "RES009",
+  "resume_text": "NAME: Isabella Martinez\nEMAIL: isabella.martinez@email.com\nPHONE: (555) 678-9012\n\nSUMMARY:\nQA Engineer with 6 years of experience in testing software applications. Expertise in test automation, performance testing, and security testing.\n\nSKILLS:\nSelenium, JUnit, TestNG, Git, Jenkins, SQL, Python\n\nEXPERIENCE:\nQuality Assurance Ltd. - Senior QA Engineer (2018 - Present)\n- Developed and maintained test automation frameworks using Selenium and JUnit.\n- Performed performance testing and security testing on web applications.\n\nSoftware Testing Intern (2017 - 2018)\n- Assisted in the development of test cases and test plans.\n- Performed manual testing and reported defects.\n\nEDUCATION:\nUniversity of Southern California - Bachelor's in Computer Engineering (2018)\n\nCERTIFICATIONS:\nNone",
+  "extracted_skills": [
+    "Selenium",
+    "JUnit",
+    "TestNG",
+    "Git",
+    "Jenkins",
+    "SQL",
+    "Python"
+  ],
+  "experience_years": 6,
+  "education_level": "Bachelor's",
+  "job_history": [
+    "Senior QA Engineer",
+    "Software Testing Intern"
+  ],
+  "certifications": []
+}

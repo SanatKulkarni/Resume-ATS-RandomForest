@@ -1,0 +1,19 @@
+{
+  "resume_id": "RESUME_007",
+  "resume_text": "NAME: Grace Lee\nEMAIL: grace.lee@example.com\nPHONE: (555) 876-5432\n\nSUMMARY:\nBackend Developer with 4 years of experience building robust and scalable APIs. Expertise in Node.js and database technologies.\n\nSKILLS:\nNode.js, Express.js, MongoDB, SQL, AWS, Docker, JavaScript\n\nEXPERIENCE:\nAPI Solutions - Backend Developer (2020 - Present)\n- Developed and maintained backend APIs using Node.js and Express.js.\n- Optimized database performance and ensured scalability.\n\nEDUCATION:\nCarnegie Mellon University - Bachelor's in Software Engineering (2020)",
+  "extracted_skills": [
+    "Node.js",
+    "Express.js",
+    "MongoDB",
+    "SQL",
+    "AWS",
+    "Docker",
+    "JavaScript"
+  ],
+  "experience_years": 4,
+  "education_level": "Bachelor's",
+  "job_history": [
+    "Backend Developer"
+  ],
+  "certifications": []
+}

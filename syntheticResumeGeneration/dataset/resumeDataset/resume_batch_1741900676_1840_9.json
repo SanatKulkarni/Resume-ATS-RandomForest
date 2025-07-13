@@ -1,0 +1,19 @@
+{
+  "resume_id": "RES009",
+  "resume_text": "NAME: Isabella Garcia\nEMAIL: isabella.garcia@email.com\nPHONE: (555) 234-5678\n\nSUMMARY:\nQA Engineer focused on ensuring software quality through testing and automation.\n\nSKILLS:\nSelenium, JUnit, TestNG, Git, Agile, Python, API Testing\n\nEXPERIENCE:\nQuality Assurance Corp - QA Engineer (2019 - Present)\n- Developed and executed test cases.\n- Automated testing using Selenium.\n\nEDUCATION:\nCommunity College - Associates in Computer Science (2019)\n",
+  "extracted_skills": [
+    "Selenium",
+    "JUnit",
+    "TestNG",
+    "Git",
+    "Agile",
+    "Python",
+    "API Testing"
+  ],
+  "experience_years": 4,
+  "education_level": "Associates",
+  "job_history": [
+    "QA Engineer"
+  ],
+  "certifications": []
+}

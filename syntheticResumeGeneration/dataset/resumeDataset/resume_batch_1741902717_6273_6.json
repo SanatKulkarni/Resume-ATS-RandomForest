@@ -1,0 +1,21 @@
+{
+  "resume_id": "RES006",
+  "resume_text": "NAME: Fiona Green\nEMAIL: fiona.green@email.com\nPHONE: (555) 234-5678\n\nSUMMARY:\nExperienced Security Engineer with 6 years of experience in protecting systems and data. Expertise in vulnerability assessment, penetration testing, and incident response.\n\nSKILLS:\nPython, C++, Linux, AWS, Azure, CompTIA Security+, Certified Ethical Hacker\n\nEXPERIENCE:\nSecurity Solutions Inc. - Security Engineer (2019 - Present)\n- Conducted vulnerability assessments and penetration testing.\n- Implemented security measures to protect systems and data.\n\nDefense Company - Security Analyst (2018 - 2019)\n- Monitored security logs and responded to security incidents.\n\nEDUCATION:\nGeorgia Tech - Master's in Cybersecurity (2018)\n\nCERTIFICATIONS:\nCompTIA Security+, Certified Ethical Hacker",
+  "extracted_skills": [
+    "Python",
+    "C++",
+    "Linux",
+    "AWS",
+    "Azure"
+  ],
+  "experience_years": 6,
+  "education_level": "Master's",
+  "job_history": [
+    "Security Engineer",
+    "Security Analyst"
+  ],
+  "certifications": [
+    "CompTIA Security+",
+    "Certified Ethical Hacker"
+  ]
+}

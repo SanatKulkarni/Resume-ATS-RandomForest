@@ -1,0 +1,21 @@
+{
+  "resume_id": "R007",
+  "resume_text": "NAME: George Green\nEMAIL: george.green@email.com\nPHONE: (555) 789-0123\n\nSUMMARY:\nFull Stack Developer with 6 years experience building and maintaining web applications. Proficient in both frontend and backend technologies.\n\nSKILLS:\nJavaScript, React, Node.js, Express.js, MongoDB, HTML5, CSS3, Git\n\nEXPERIENCE:\nTech Startup - Full Stack Developer (2018 - Present)\n- Built complete web applications from scratch using React, Node.js, and MongoDB.\n- Deployed and maintained applications on cloud platforms.\n\nWeb Development Agency - Junior Developer (2017 - 2018)\n-  Assisted in the development of web applications using various technologies.\n\nEDUCATION:\nTexas A&M University - Bachelor's in Computer Science (2017)",
+  "extracted_skills": [
+    "JavaScript",
+    "React",
+    "Node.js",
+    "Express.js",
+    "MongoDB",
+    "HTML5",
+    "CSS3",
+    "Git"
+  ],
+  "experience_years": 6,
+  "education_level": "Bachelor's",
+  "job_history": [
+    "Full Stack Developer",
+    "Junior Developer"
+  ],
+  "certifications": []
+}

@@ -1,0 +1,23 @@
+{
+  "resume_id": "R1007",
+  "resume_text": "NAME: George Lee\nEMAIL: george.lee@example.com\nPHONE: 555-666-7777\n\nSUMMARY:\nBackend Developer with 9 years of experience in designing and developing scalable backend systems. Proficient in Java, Spring, and database technologies.\n\nSKILLS:\nJava, Spring, SQL, MySQL, PostgreSQL, Redis, Git, AWS\n\nEXPERIENCE:\nBackend Systems LLC - Backend Developer (2014 - Present)\n- Designed and developed backend systems using Java and Spring.\n- Optimized database performance using SQL, MySQL, and PostgreSQL.\n\nSoftware Solutions - Senior Developer (2013 - 2014)\n- Led a team of developers in building web applications using Java.\n\nEDUCATION:\nCarnegie Mellon University - Master's in Software Engineering (2013)\n\nCERTIFICATIONS:\nOracle Certified Professional",
+  "extracted_skills": [
+    "Java",
+    "Spring",
+    "SQL",
+    "MySQL",
+    "PostgreSQL",
+    "Redis",
+    "Git",
+    "AWS"
+  ],
+  "experience_years": 9,
+  "education_level": "Master's",
+  "job_history": [
+    "Backend Developer",
+    "Senior Developer"
+  ],
+  "certifications": [
+    "Oracle Certified Professional"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "job_id": "JD004",
+  "job_title": "Mobile Developer",
+  "company": "MobilePro",
+  "job_description": "Company: MobilePro\nPosition: Mobile Developer\nLocation: Los Angeles, CA (Remote)\nSalary: $100,000 - $130,000\n\nAbout Us:\nMobilePro is a leading mobile app development company. We create innovative and engaging mobile experiences for our clients.\n\nJob Description:\nWe are seeking a skilled Mobile Developer to join our team. You will be responsible for developing and maintaining mobile applications for iOS and Android platforms.\n\nResponsibilities:\n- Develop and maintain iOS and Android applications using React Native.\n- Collaborate with designers and product managers to implement new features.\n- Write clean, well-documented, and testable code.\n- Participate in code reviews and contribute to improving our development processes.\n\nRequirements:\n- 2+ years of experience in mobile development.\n- Strong proficiency in React Native, JavaScript, and TypeScript.\n- Experience with native mobile development (iOS or Android).\n- Familiarity with mobile app testing and deployment.\n\nPreferred Qualifications:\n- Experience with Swift or Kotlin.\n- Experience with other cross-platform frameworks like Flutter or Xamarin.\n- Experience with mobile UI/UX design principles.\n\nBenefits:\n- Flexible work hours.\n- Unlimited vacation policy.\n- Employee assistance program.",
+  "required_skills": [
+    "React Native",
+    "JavaScript",
+    "TypeScript",
+    "iOS",
+    "Android",
+    "Git",
+    "RESTful APIs"
+  ],
+  "preferred_skills": [
+    "Swift",
+    "Kotlin",
+    "Flutter"
+  ],
+  "min_experience": 2,
+  "education_requirement": "Bachelor's",
+  "job_category": "Mobile",
+  "location": "Los Angeles, CA (Remote)",
+  "salary_range": "$100,000 - $130,000"
+}

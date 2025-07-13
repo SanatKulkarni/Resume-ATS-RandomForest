@@ -1,0 +1,20 @@
+{
+  "resume_id": "R007",
+  "resume_text": "NAME: Gina Garcia\nEMAIL: gina.garcia@email.com\nPHONE: 555-432-1098\n\nSUMMARY:\nBackend Developer with 6 years of experience building scalable and efficient server-side applications. Strong knowledge of Java and related technologies.\n\nSKILLS:\nJava, Spring, PostgreSQL, RESTful APIs, Docker, Kubernetes, Git\n\nEXPERIENCE:\nBackend Systems Inc. - Senior Developer (2019 - Present)\n- Designed and implemented RESTful APIs using Spring.\n- Optimized database performance.\n\nData Analytics Corp. - Software Engineer (2018 - 2019)\n- Developed and maintained backend systems.\n- Wrote unit tests and performed code reviews.\n\nEDUCATION:\nUniversity of Michigan - Bachelor's in Computer Science (2018)\n\nCERTIFICATIONS:\nNone",
+  "extracted_skills": [
+    "Java",
+    "Spring",
+    "PostgreSQL",
+    "RESTful APIs",
+    "Docker",
+    "Kubernetes",
+    "Git"
+  ],
+  "experience_years": 6,
+  "education_level": "Bachelor's",
+  "job_history": [
+    "Senior Developer",
+    "Software Engineer"
+  ],
+  "certifications": []
+}

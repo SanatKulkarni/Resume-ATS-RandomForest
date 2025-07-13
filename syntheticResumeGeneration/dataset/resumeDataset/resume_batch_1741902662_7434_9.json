@@ -1,0 +1,24 @@
+{
+  "resume_id": "RESUME_009",
+  "resume_text": "NAME: Isabella Taylor\nEMAIL: isabella.taylor@email.com\nPHONE: (555) 864-6789\n\nSUMMARY:\nCloud Architect with 12 years of experience designing and implementing cloud solutions. Expertise in AWS, Azure, and GCP.\n\nSKILLS:\nAWS, Azure, GCP, Terraform, Kubernetes, Docker, Python, CloudFormation, AWS Certified Solutions Architect\n\nEXPERIENCE:\nCloud Solutions Ltd. - Principal Cloud Architect (2015 - Present)\n- Designed and implemented cloud solutions for enterprise customers.\n- Led a team of cloud architects and engineers.\n\nIT Services Inc. - Senior Cloud Engineer (2012 - 2015)\n- Migrated applications to the cloud and optimized cloud infrastructure.\n\nTech Innovations Corp. - Systems Administrator (2010 - 2012)\n\nEDUCATION:\nCarnegie Mellon University - Master's in Information Technology (2010)\n\nCERTIFICATIONS:\nAWS Certified Solutions Architect - Professional",
+  "extracted_skills": [
+    "AWS",
+    "Azure",
+    "GCP",
+    "Terraform",
+    "Kubernetes",
+    "Docker",
+    "Python",
+    "CloudFormation"
+  ],
+  "experience_years": 12,
+  "education_level": "Master's",
+  "job_history": [
+    "Principal Cloud Architect",
+    "Senior Cloud Engineer",
+    "Systems Administrator"
+  ],
+  "certifications": [
+    "AWS Certified Solutions Architect - Professional"
+  ]
+}

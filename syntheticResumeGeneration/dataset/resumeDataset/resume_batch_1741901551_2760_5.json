@@ -1,0 +1,21 @@
+{
+  "resume_id": "R005",
+  "resume_text": "NAME: Edward Evans\nEMAIL: edward.evans@email.com\nPHONE: (555) 567-8901\n\nSUMMARY:\nExperienced Backend Developer with 10+ years of experience in designing and building scalable and robust backend systems. Expert in Java and Spring Framework.\n\nSKILLS:\nJava, Spring, SQL, MySQL, REST APIs, Docker\n\nEXPERIENCE:\nEnterprise Software Corp - Lead Backend Developer (2013 - Present)\n- Designed and developedbackend systems for high-traffic web applications using Java and Spring Framework.\n- Led a team of backend developers in building microservices architecture.\n\nSoftware Solutions Inc - Senior Software Engineer (2010 - 2013)\n- Developed and maintained backend systems using Java and SQL.\n- Contributed to the design and development of new features.\n\nEDUCATION:\nMassachusetts Institute of Technology (MIT) - Master's in Computer Science (2010)\n\nCERTIFICATIONS:\nOracle Certified Professional",
+  "extracted_skills": [
+    "Java",
+    "Spring",
+    "SQL",
+    "MySQL",
+    "REST APIs",
+    "Docker"
+  ],
+  "experience_years": 13,
+  "education_level": "Master's",
+  "job_history": [
+    "Lead Backend Developer",
+    "Senior Software Engineer"
+  ],
+  "certifications": [
+    "Oracle Certified Professional"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "resume_id": "RES007",
+  "resume_text": "NAME: Robert Garcia\nEMAIL: robert.garcia@email.com\nPHONE: 555-876-5432\n\nSUMMARY:\nInnovative Security Engineer with expertise in protecting systems and data from cyber threats. Seeking a challenging role where I can implement and maintain security measures.\n\nSKILLS:\nCybersecurity, Network Security, Penetration Testing, Ethical Hacking, Python, Linux\n\nEXPERIENCE:\nCybersecurity Solutions - Security Engineer (2018 - Present)\n- Conducted penetration testing and vulnerability assessments.\n- Implemented and maintained security measures to protect systems and data.\nIT Security Services - Security Analyst (2016 - 2018)\n- Monitored security systems and responded to security incidents.\n- Developed and implemented security policies and procedures.\n\nEDUCATION:\nUniversity of Texas at Austin - Bachelor's in Computer Science (2016)\n\nCERTIFICATIONS:\nCertified Ethical Hacker, CompTIA Security+\n",
+  "extracted_skills": [
+    "Cybersecurity",
+    "Network Security",
+    "Penetration Testing",
+    "Ethical Hacking",
+    "Python",
+    "Linux"
+  ],
+  "experience_years": 6,
+  "education_level": "Bachelor's",
+  "job_history": [
+    "Security Engineer",
+    "Security Analyst"
+  ],
+  "certifications": [
+    "Certified Ethical Hacker",
+    "CompTIA Security+"
+  ]
+}

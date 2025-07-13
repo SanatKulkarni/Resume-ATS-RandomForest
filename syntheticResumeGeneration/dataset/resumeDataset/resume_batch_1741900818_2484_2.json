@@ -1,0 +1,23 @@
+{
+  "resume_id": "RES002",
+  "resume_text": "NAME: Bob Johnson\nEMAIL: bob.johnson@example.com\nPHONE: 555-987-6543\n\nSUMMARY:\nResults-oriented Data Scientist with a strong background in statistical modeling and machine learning. Seeking a role where I can apply my expertise to solve complex business problems.\n\nSKILLS:\nPython, TensorFlow, scikit-learn, Pandas, NumPy, R, SQL, Tableau\n\nEXPERIENCE:\nData Insights Inc. - Data Scientist (2019 - Present)\n- Developed and deployed machine learning models for customer churn prediction, resulting in a 15% reduction in churn rate.\n- Conducted data analysis and generated insights to support business decision-making.\n\nAnalytics Corp - Data Analyst (2017 - 2019)\n- Performed data cleaning, transformation, and analysis using SQL and Python.\n- Created visualizations and dashboards using Tableau to communicate findings to stakeholders.\n\nEDUCATION:\nStanford University - Master's in Statistics (2017)\n\nCERTIFICATIONS:\nGoogle Cloud Professional Data Scientist",
+  "extracted_skills": [
+    "Python",
+    "TensorFlow",
+    "scikit-learn",
+    "Pandas",
+    "NumPy",
+    "R",
+    "SQL",
+    "Tableau"
+  ],
+  "experience_years": 5,
+  "education_level": "Master's",
+  "job_history": [
+    "Data Scientist",
+    "Data Analyst"
+  ],
+  "certifications": [
+    "Google Cloud Professional"
+  ]
+}

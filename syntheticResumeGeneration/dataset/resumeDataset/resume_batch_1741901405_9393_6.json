@@ -1,0 +1,21 @@
+{
+  "resume_id": "RES006",
+  "resume_text": "NAME: Frank Garcia\nEMAIL: frank.garcia@email.com\nPHONE: (555) 789-0123\n\nSUMMARY:\nVersatile Full Stack Developer with experience in both frontend and backend technologies. Passionate about building efficient and user-friendly applications.\n\nSKILLS:\nJavaScript, React, Node.js, Express.js, MongoDB, HTML5, CSS3, Git\n\nEXPERIENCE:\nFull Stack Apps Co - Full Stack Developer (2018 - Present)\n- Developed and maintained full stack web applications using React, Node.js, and MongoDB.\n- Implemented RESTful APIs.\n\nWeb Development Inc - Frontend Developer (2016 - 2018)\n- Developed user interfaces using HTML, CSS, and JavaScript.\n\nEDUCATION:\nUniversity of Washington -  Bachelor's in Computer Science (2016)",
+  "extracted_skills": [
+    "JavaScript",
+    "React",
+    "Node.js",
+    "Express.js",
+    "MongoDB",
+    "HTML5",
+    "CSS3",
+    "Git"
+  ],
+  "experience_years": 8,
+  "education_level": "Bachelor's",
+  "job_history": [
+    "Full Stack Developer",
+    "Frontend Developer"
+  ],
+  "certifications": []
+}

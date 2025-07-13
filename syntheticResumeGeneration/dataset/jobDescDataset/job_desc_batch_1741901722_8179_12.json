@@ -1,0 +1,25 @@
+{
+  "job_id": "JD012",
+  "job_title": "Site Reliability Engineer",
+  "company": "CloudNative",
+  "job_description": "Company: CloudNative\nPosition: Site Reliability Engineer\nLocation: Seattle, WA (Remote)\nSalary: $135,000 - $175,000\n\nAbout Us:\nCloudNative provides cloud native solutions. We help organizations ensure the reliability and scalability of their applications.\n\nJob Description:\nWe are seeking a Site Reliability Engineer to ensure the availability and performance of our systems. You will be responsible for monitoring, troubleshooting, and automating infrastructure.\n\nResponsibilities:\n- Monitor system performance and availability.\n- Troubleshoot and resolve incidents.\n- Automate infrastructure provisioning and configuration.\n- Participate in on-call rotations.\n\nRequirements:\n- 2+ years of experience in Site Reliability Engineering or a related role.\n- Experience with cloud platforms like AWS or Azure.\n- Experience with containerization technologies like Docker and Kubernetes.\n- Strong scripting skills in Python or Go.\n\nPreferred Qualifications:\n- Experience with monitoring tools like Prometheus or Grafana.\n- Experience with configuration management tools like Ansible or Chef.\n- Experience with distributed systems.\n\nBenefits:\n- Remote work opportunities.\n- Competitive compensation and benefits.\n- Continuous learning and development.",
+  "required_skills": [
+    "AWS",
+    "Docker",
+    "Kubernetes",
+    "Prometheus",
+    "Grafana",
+    "Python",
+    "Linux"
+  ],
+  "preferred_skills": [
+    "Ansible",
+    "Chef",
+    "Go"
+  ],
+  "min_experience": 2,
+  "education_requirement": "Bachelor's",
+  "job_category": "DevOps",
+  "location": "Seattle, WA (Remote)",
+  "salary_range": "$135,000 - $175,000"
+}

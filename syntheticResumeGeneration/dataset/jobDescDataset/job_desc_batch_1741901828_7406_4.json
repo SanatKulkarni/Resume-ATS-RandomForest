@@ -1,0 +1,24 @@
+{
+  "job_id": "JD004",
+  "job_title": "Data Scientist",
+  "company": "AnalyticsHub",
+  "job_description": "Company: AnalyticsHub\nPosition: Data Scientist\nLocation: Chicago, IL (Hybrid)\nSalary: $140,000 - $170,000\n\nAbout Us:\nAnalyticsHub is a leading provider of data science solutions. We help our clients extract insights from their data and make better business decisions. Join our team and help us build the future of data science.\n\nJob Description:\nWe are looking for a Data Scientist to join our team. The ideal candidate will have experience with machine learning, statistical modeling, and data visualization.\n\nResponsibilities:\n- Develop and deploy machine learning models.\n- Perform statistical analysis and data visualization.\n- Communicate findings to stakeholders.\n- Collaborate with other data scientists and engineers.\n\nRequirements:\n- Master's degree in Statistics, Mathematics, or Computer Science.\n- 3+ years of experience in data science.\n- Proficiency in Python and scikit-learn.\n- Experience with SQL and data warehousing.\n\nPreferred Qualifications:\n- Experience with deep learning frameworks (e.g., TensorFlow, PyTorch).\n- Experience with cloud technologies (e.g., AWS, Azure).\n- Knowledge of experimental design.\n\nBenefits:\n- Competitive salary and benefits package.\n- Opportunity to work on challenging and rewarding projects.\n- Professional development opportunities.",
+  "required_skills": [
+    "Python",
+    "scikit-learn",
+    "SQL",
+    "Pandas",
+    "NumPy",
+    "Data Visualization"
+  ],
+  "preferred_skills": [
+    "TensorFlow",
+    "PyTorch",
+    "AWS"
+  ],
+  "min_experience": 3,
+  "education_requirement": "Master's",
+  "job_category": "Data",
+  "location": "Chicago, IL (Hybrid)",
+  "salary_range": "$140,000 - $170,000"
+}

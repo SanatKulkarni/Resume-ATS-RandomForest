@@ -1,0 +1,21 @@
+{
+  "resume_id": "R007",
+  "resume_text": "NAME: Grace Moore\nEMAIL: grace.moore@example.com\nPHONE: (555) 876-5432\n\nSUMMARY:\nDatabase Administrator with 10 years of experience managing and maintaining relational databases. Expert in SQL, database design, and performance tuning.\n\nSKILLS:\nSQL, MySQL, PostgreSQL, Oracle, Database Design, Performance Tuning, AWS\n\nEXPERIENCE:\nData Management Corp - Senior Database Administrator (2014 - Present)\n- Managed and maintained large-scale relational databases using MySQL and PostgreSQL.\n- Designed and implemented database schemas and data models.\n- Optimized database performance through query optimization and indexing.\n\nDatabase Solutions Inc - Database Administrator (2012 - 2014)\n- Provided database support and troubleshooting for various applications.\n\nEDUCATION:\nUniversity of Illinois at Urbana-Champaign - Master's in Computer Science (2012)\n\nCERTIFICATIONS:\nOracle Certified Professional",
+  "extracted_skills": [
+    "SQL",
+    "MySQL",
+    "PostgreSQL",
+    "Database Design",
+    "Performance Tuning",
+    "AWS"
+  ],
+  "experience_years": 10,
+  "education_level": "Master's",
+  "job_history": [
+    "Senior Database Administrator",
+    "Database Administrator"
+  ],
+  "certifications": [
+    "Oracle Certified Professional"
+  ]
+}

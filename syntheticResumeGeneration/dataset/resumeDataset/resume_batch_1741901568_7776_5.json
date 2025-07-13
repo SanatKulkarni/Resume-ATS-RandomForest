@@ -1,0 +1,20 @@
+{
+  "resume_id": "R5",
+  "resume_text": "NAME: Emily Davis\nEMAIL: emily.davis@email.com\nPHONE: (555) 432-1098\n\nSUMMARY:\nPassionate Frontend Developer with 2 years of experience in building user-friendly and responsive web interfaces. Eager to contribute to a dynamic team.\n\nSKILLS:\nJavaScript, React, HTML5, CSS3, SASS, jQuery, Bootstrap\n\nEXPERIENCE:\nDigital Design Co. - Frontend Developer (2022 - Present)\n- Developed and maintained user interfaces using React and JavaScript.\n- Collaborated with designers to implement visually appealing designs.\n\nInternship at Tech Solutions - Web Development Intern (2021 - 2022)\n- Assisted in building websites using HTML, CSS, and JavaScript.\n\nEDUCATION:\nSan Jose State University - Bachelor's in Software Engineering (2022)\n\nCERTIFICATIONS:\nNone",
+  "extracted_skills": [
+    "JavaScript",
+    "React",
+    "HTML5",
+    "CSS3",
+    "SASS",
+    "jQuery",
+    "Bootstrap"
+  ],
+  "experience_years": 2,
+  "education_level": "Bachelor's",
+  "job_history": [
+    "Frontend Developer",
+    "Web Development Intern"
+  ],
+  "certifications": []
+}

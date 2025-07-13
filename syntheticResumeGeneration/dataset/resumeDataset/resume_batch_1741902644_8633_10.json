@@ -1,0 +1,23 @@
+{
+  "resume_id": "RES010",
+  "resume_text": "NAME: Jack Wilson\nEMAIL: jack.wilson@email.com\nPHONE: 555-369-7854\n\nSUMMARY:\nSecurity Engineer with 9 years of experience in protecting computer systems and networks. Expertise in threat analysis, vulnerability assessment, and incident response.\n\nSKILLS:\nSecurity, Python, AWS, Linux, Networking, Firewalls, Intrusion Detection Systems\n\nEXPERIENCE:\nCybersecurity Corp. - Security Engineer (2017 - Present)\n- Conducted threat analysis and vulnerability assessments.\n- Implemented security measures to protect computer systems and networks.\n\nIT Security Ltd. - Security Analyst (2015 - 2017)\n- Monitored network traffic and identified security incidents.\n- Responded to security breaches and implemented remediation strategies.\n\nEDUCATION:\nUniversity of Michigan - Master's in Cybersecurity (2015)\n\nCERTIFICATIONS:\nCertified Ethical Hacker, CompTIA Security+",
+  "extracted_skills": [
+    "Security",
+    "Python",
+    "AWS",
+    "Linux",
+    "Networking",
+    "Firewalls",
+    "Intrusion Detection Systems"
+  ],
+  "experience_years": 9,
+  "education_level": "Master's",
+  "job_history": [
+    "Security Engineer",
+    "Security Analyst"
+  ],
+  "certifications": [
+    "Certified Ethical Hacker",
+    "CompTIA Security+"
+  ]
+}

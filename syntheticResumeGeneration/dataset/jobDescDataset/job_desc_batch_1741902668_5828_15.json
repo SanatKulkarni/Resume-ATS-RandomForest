@@ -1,0 +1,24 @@
+{
+  "job_id": "JD015",
+  "job_title": "UI/UX Developer",
+  "company": "TechStart",
+  "job_description": "Company: TechStart\nPosition: UI/UX Developer\nLocation: Los Angeles, CA\nSalary: $110,000 - $140,000\n\nAbout Us:\nTechStart is a dynamic startup focused on creating innovative and user-friendly interfaces for web and mobile applications. We are passionate about creating exceptional user experiences.  We provide a fast-paced and collaborative environment where you can make a real impact. \n\nJob Description:\nWe are seeking a creative and skilled UI/UX Developer to design and develop intuitive and engaging user interfaces. You will be responsible for creating wireframes, prototypes, and visual designs. The ideal candidate will have a strong understanding of UI/UX principles, design tools, and frontend development technologies.\n\nResponsibilities:\n- Create wireframes, prototypes, and visual designs.\n- Conduct user research and usability testing.\n- Collaborate with developers to implement designs.\n- Stay up-to-date on the latest UI/UX trends and technologies.\n\nRequirements:\n- Bachelor's degree in Design, Computer Science, or related field.\n- 2+ years of experience in UI/UX design and development.\n- Proficiency in design tools (Figma, Adobe XD, Sketch).\n- Strong understanding of UI/UX principles and best practices.\n\nPreferred Qualifications:\n- Experience with HTML, CSS, and JavaScript.\n- Experience with user research methodologies.\n- Portfolio showcasing UI/UX design projects.\n\nBenefits:\n- Stock options.\n- Flexible work hours.\n- Opportunity to work on innovative projects.",
+  "required_skills": [
+    "HTML5",
+    "CSS3",
+    "JavaScript",
+    "UI Design",
+    "UX Design",
+    "Figma",
+    "Adobe XD"
+  ],
+  "preferred_skills": [
+    "React",
+    "User Research"
+  ],
+  "min_experience": 2,
+  "education_requirement": "Bachelor's",
+  "job_category": "Frontend",
+  "location": "Los Angeles, CA",
+  "salary_range": "$110,000 - $140,000"
+}

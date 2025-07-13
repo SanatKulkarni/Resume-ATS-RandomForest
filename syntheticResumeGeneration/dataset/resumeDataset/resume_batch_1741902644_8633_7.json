@@ -1,0 +1,20 @@
+{
+  "resume_id": "RES007",
+  "resume_text": "NAME: Grace Chen\nEMAIL: grace.chen@email.com\nPHONE: 555-478-9632\n\nSUMMARY:\nBackend Developer with 4 years of experience building and maintaining scalable backend systems. Proficient in Java, Spring, and microservices architecture.\n\nSKILLS:\nJava, Spring, REST APIs, MySQL, Docker, Kubernetes, AWS\n\nEXPERIENCE:\nBackend Systems Inc. - Backend Developer (2020 - Present)\n- Developed and maintained backend services using Java and Spring.\n- Implemented RESTful APIs and database interactions.\n\nSystem Integration Co. - Junior Developer (2019 - 2020)\n- Assisted in building backend components.\n- Participated in code reviews and testing.\n\nEDUCATION:\nCarnegie Mellon University - Bachelor's in Information Systems (2019)",
+  "extracted_skills": [
+    "Java",
+    "Spring",
+    "REST APIs",
+    "MySQL",
+    "Docker",
+    "Kubernetes",
+    "AWS"
+  ],
+  "experience_years": 4,
+  "education_level": "Bachelor's",
+  "job_history": [
+    "Backend Developer",
+    "Junior Developer"
+  ],
+  "certifications": []
+}

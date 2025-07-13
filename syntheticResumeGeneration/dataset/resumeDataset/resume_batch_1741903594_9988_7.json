@@ -1,0 +1,21 @@
+{
+  "resume_id": "R007",
+  "resume_text": "NAME: Grace Hernandez\nEMAIL: grace.hernandez@example.com\nPHONE: 555-777-8888\n\nSUMMARY:\nSecurity Engineer with 6 years of experience in protecting systems and networks from cyber threats. Proficient in security tools and techniques.\n\nSKILLS:\nPython, C++, Linux, Networking, Security Audits, Penetration Testing\n\nEXPERIENCE:\nCyber Security Corp. - Security Engineer (2018 - Present)\n- Conducted security audits and penetration testing.\n- Implemented security measures to protect systems and networks.\nIT Security Ltd. - Junior Security Analyst (2017 - 2018)\n- Assisted in the monitoring of security systems.\n\nEDUCATION:\nTechnical University - Bachelor's in Information Security (2017)\n\nCERTIFICATIONS:\nCompTIA Security+",
+  "extracted_skills": [
+    "Python",
+    "C++",
+    "Linux",
+    "Networking",
+    "Security Audits",
+    "Penetration Testing"
+  ],
+  "experience_years": 6,
+  "education_level": "Bachelor's",
+  "job_history": [
+    "Security Engineer",
+    "Junior Security Analyst"
+  ],
+  "certifications": [
+    "CompTIA Security+"
+  ]
+}

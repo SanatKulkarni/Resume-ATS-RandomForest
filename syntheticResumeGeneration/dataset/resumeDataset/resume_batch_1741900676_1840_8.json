@@ -1,0 +1,21 @@
+{
+  "resume_id": "RES008",
+  "resume_text": "NAME: Henry Taylor\nEMAIL: henry.taylor@email.com\nPHONE: (555) 901-2345\n\nSUMMARY:\nSecurity Engineer with experience in identifying and mitigating security vulnerabilities.\n\nSKILLS:\nPython, Security Tools, Network Security, Information Security, Linux, AWS\n\nEXPERIENCE:\nCyberSecure Inc - Security Engineer (2018 - Present)\n- Conducted penetration testing and vulnerability assessments.\n- Implemented security measures to protect systems.\n\nEDUCATION:\nUniversity of Tech - Master's in Cybersecurity (2018)\n\nCERTIFICATIONS:\nCompTIA Security+, Certified Ethical Hacker\n",
+  "extracted_skills": [
+    "Python",
+    "Security Tools",
+    "Network Security",
+    "Information Security",
+    "Linux",
+    "AWS"
+  ],
+  "experience_years": 5,
+  "education_level": "Master's",
+  "job_history": [
+    "Security Engineer"
+  ],
+  "certifications": [
+    "CompTIA Security+",
+    "Certified Ethical Hacker"
+  ]
+}
